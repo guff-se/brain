@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "last_ingest": "2026-05-13",
+  "version": 2,
+  "last_ingest": "2026-05-19",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -14,6 +14,50 @@
         "../obsidian migration/Pocket Data Export/"
       ],
       "produced_count": 1347
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "scope": "mcp thought ingest",
+      "sources": [
+        "inbox/thoughts/2026-05-19-002531-671e2513.md"
+      ],
+      "produced_count": 1
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "scope": "mcp thought ingest",
+      "sources": [
+        "inbox/thoughts/2026-05-19-002937-4e9da6f5.md"
+      ],
+      "produced_count": 1
+    }
+  ],
+  "entries": [
+    {
+      "source_path": "inbox/thoughts/2026-05-19-002531-671e2513.md",
+      "source_hash": "4e4a19b38680253c9faa4de28944b1fa6ed9b35ee339d74a1724f1bff5eff228",
+      "kind": "thought",
+      "scope": "mcp thought ingest",
+      "title": "MCP thought pipeline smoke",
+      "ingest_date": "2026-05-19",
+      "produced": [
+        "sources/mine/thinking/mcp-thought-pipeline-smoke.md"
+      ],
+      "session_label": "http-inbox-post-process",
+      "session_log": "_ai/sessions/2026-05-19-002531.md"
+    },
+    {
+      "source_path": "inbox/thoughts/2026-05-19-002937-4e9da6f5.md",
+      "source_hash": "094fca9626d6f57587a011291eb5d37420a3b0ef4f072d9e713154a4383eee65",
+      "kind": "thought",
+      "scope": "mcp thought ingest",
+      "title": "Internal mechanic smoke 2",
+      "ingest_date": "2026-05-19",
+      "produced": [
+        "sources/mine/thinking/internal-mechanic-smoke-2.md"
+      ],
+      "session_label": "http-inbox-post-process",
+      "session_log": "_ai/sessions/2026-05-19-002937.md"
     }
   ]
 }
