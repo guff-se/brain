@@ -7,7 +7,7 @@
       "scope": "phase-6 migration routing",
       "sources": [
         "../obsidian migration/My Notes.enex",
-        "../obsidian migration/Entreprenörsjakten.enex",
+        "../obsidian migration/Entrepren\u00f6rsjakten.enex",
         "../obsidian migration/Privat.enex",
         "../obsidian migration/export 260513/Notes/",
         "../obsidian migration/export 260513/iCloud/",
@@ -28,6 +28,30 @@
       "scope": "mcp thought ingest",
       "sources": [
         "inbox/thoughts/2026-05-19-002937-4e9da6f5.md"
+      ],
+      "produced_count": 1
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "scope": "cron article ingest",
+      "sources": [
+        "inbox/articles/2026-05-18-220738-6b8f5d6f.md"
+      ],
+      "produced_count": 1
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "scope": "cron article ingest",
+      "sources": [
+        "inbox/articles/2026-05-18-220512-871b0699.md"
+      ],
+      "produced_count": 1
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "scope": "cron article ingest",
+      "sources": [
+        "inbox/articles/2026-05-18-220016-6d5a32cb.md"
       ],
       "produced_count": 1
     }
@@ -58,6 +82,45 @@
       ],
       "session_label": "http-inbox-post-process",
       "session_log": "_ai/sessions/2026-05-19-002937.md"
+    },
+    {
+      "source_path": "inbox/articles/2026-05-18-220738-6b8f5d6f.md",
+      "source_hash": "d33bc3b4379c2bdc6f69b249636f5a0b33052d68d30900ba163d30d18c61cd22",
+      "kind": "article",
+      "scope": "cron article ingest",
+      "title": "test drop plain curl",
+      "ingest_date": "2026-05-19",
+      "produced": [
+        "sources/consumed/articles/test-drop-plain-curl.md"
+      ],
+      "session_label": "cron-inbox-sync",
+      "session_log": "_ai/sessions/2026-05-19-003524-articles.md"
+    },
+    {
+      "source_path": "inbox/articles/2026-05-18-220512-871b0699.md",
+      "source_hash": "8f19221e197eaa1a684782940d6b1371d211d709733d26e4037cd23bb86e0ffa",
+      "kind": "article",
+      "scope": "cron article ingest",
+      "title": "test drop via tunnel",
+      "ingest_date": "2026-05-19",
+      "produced": [
+        "sources/consumed/articles/test-drop-via-tunnel.md"
+      ],
+      "session_label": "cron-inbox-sync",
+      "session_log": "_ai/sessions/2026-05-19-003524-articles.md"
+    },
+    {
+      "source_path": "inbox/articles/2026-05-18-220016-6d5a32cb.md",
+      "source_hash": "816845ee151079a9bf924ebadebe588a7141ee4bdeb5354a1a18eb159236a437",
+      "kind": "article",
+      "scope": "cron article ingest",
+      "title": "test drop",
+      "ingest_date": "2026-05-19",
+      "produced": [
+        "sources/consumed/articles/test-drop.md"
+      ],
+      "session_label": "cron-inbox-sync",
+      "session_log": "_ai/sessions/2026-05-19-003524-articles.md"
     }
   ]
 }
