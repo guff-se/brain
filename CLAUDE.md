@@ -15,7 +15,7 @@ This vault is Gustaf's external brain. You (Claude Code) are its continuous cura
 ## 2. Where files live (vault map)
 
 ```
-inbox/                       ← I drop raw captures here. You never edit these.
+inbox/                       ← I drop raw captures here. You never edit content — but after ingest you move the file out.
   articles/ podcasts/ books/ conversations/ thoughts/
 sources/
   mine/                      ← MY material. party: first.
@@ -116,7 +116,7 @@ Apple Notes and Evernote contain a mix of all four registers. A pasted article i
 
 ## 5. What you must NEVER do
 
-- Edit content inside `inbox/` (it's mine, untouched until ingest).
+- Edit content inside `inbox/` (it's mine, untouched until ingest). After ingest: move (delete original) so inbox stays empty.
 - Delete anything from `_ai/excluded/` (I review and decide).
 - Move or rewrite `_originals/`.
 - Create tags outside `_meta/taxonomy.md` without writing them to `_tag_candidates.md` first.
@@ -132,7 +132,7 @@ Apple Notes and Evernote contain a mix of all four registers. A pasted article i
 
 When invoked in this vault, these are the canonical actions:
 
-- `/ingest` — promote `inbox/<kind>/` items into `sources/<kind>/` with frontmatter, provenance, longform split. Updates `.manifest.json`.
+- `/ingest` — promote `inbox/<kind>/` items into `sources/<kind>/` with frontmatter, provenance, longform split. Updates `.manifest.json`. **After successfully writing the destination file, delete the original from `inbox/` so the subfolder is left empty.**
 - `/compile` — scan `sources/` for recurring themes; promote to `wiki/concepts/` when 2-source rule fires; otherwise log to `wiki/_candidates.md`.
 - `/lint` — orphans, broken `[[wikilinks]]`, missing frontmatter, tags outside taxonomy, contradictions. Output to `_ai/reports/lint-YYYY-MM-DD.md`.
 - `/enrich` — fetch missing article bodies (Wayback fallback); fetch book/podcast metadata.
