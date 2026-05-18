@@ -1,0 +1,24 @@
+---
+title: "https://www.penguinrandomhouse.com/books/675690/virtual-society-by-herman-narula/"
+kind: article
+party: third
+source: pocket
+source_id: "pocket:0316"
+provenance: extracted
+url: "https://www.penguinrandomhouse.com/books/675690/virtual-society-by-herman-narula/"
+ingested: 2026-05-13
+created: 2022-09-09
+tags: [metaverse]
+status: reference
+pocket_status: unread
+enrichment: original
+---
+
+About Virtual Society
+“A fascinating, provocative case that the metaverse will not merely transform our virtual experience—it may actually enrich the quality of our lives” (Adam Grant)—from the visionary co-founder of one of today’s most innovative technology companies
+“This important book offers a highly persuasive argument that the metaverse, a new kind of virtual world, marks a profound next stage in this long human quest for fulfillment through creation.”—Chris Anderson, head of TED
+The concept of “the metaverse” has exploded in the public consciousness, but its contours remain elusive. Is it merely an immersive virtual reality playground, one that Facebook and other platforms will angle to control? Is it simply the next generation of massive multiplayer online games? Or is it something more revolutionary?
+As pioneering technologist Herman Narula shows, the metaverse is the latest manifestation of an ancient human tendency: the act of worldbuilding. From the Egyptians, whose conception of death inspired them to build the pyramids, to modern-day sports fans, whose passion for a game inspires extreme behavior, humans have long sought to supplement their day-to-day lives with a rich diversity of alternative experiences.
+Rooting his vision in history and psychology, Narula argues that humans’ intrinsic need for autonomy, accomplishment, and connection can best be met in virtual “worlds of ideas,” where users have the chance to create and exchange meaning and value. The metaverse is both the growing set of fulfilling digital experiences—ranging from advanced gaming to concerts and other entertainment events and even to virtual employment—and the empowering framework that allows these spaces to become “networks of useful meaning.”
+Bloomberg Intelligence recently predicted that the metaverse will become an $800 billon industry by 2024. But its implications, argues Narula, will lead to far more awe-inspiring possibilities than a spigot of cash. The arrival of the metaverse marks the beginning of a new age of exploration—not outward, but inward—with the potential to reshape society and open the door to a new understanding of the human species and its capabilities.
+Rigorously researched and passionately argued, Virtual Society is a provocative and essential guide for anyone who wants to go beyond superficial headlines to understand the true contours and potential of our virtual future.

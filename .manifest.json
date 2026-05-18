@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "last_ingest": "2026-05-13",
+  "ingestions": [
+    {
+      "ingest_date": "2026-05-13",
+      "scope": "phase-6 migration routing",
+      "sources": [
+        "../obsidian migration/My Notes.enex",
+        "../obsidian migration/Entreprenörsjakten.enex",
+        "../obsidian migration/Privat.enex",
+        "../obsidian migration/export 260513/Notes/",
+        "../obsidian migration/export 260513/iCloud/",
+        "../obsidian migration/Pocket Data Export/"
+      ],
+      "produced_count": 1347
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+---
+title: "https://grandy.substack.com/p/the-new-normal-the-coming-tsunami"
+kind: article
+party: third
+source: pocket
+source_id: "pocket:0323"
+provenance: extracted
+url: "https://grandy.substack.com/p/the-new-normal-the-coming-tsunami"
+ingested: 2026-05-13
+created: 2022-08-25
+tags: []
+status: reference
+pocket_status: unread
+enrichment: original
+---
+
+Bullshit jobs and automation
+The word robot derives from the Slavonic word robota, roughly translating to servitude, forced labor, or drudgery. It came into vogue during the Central European system of serfdom, whereby a tenant’s rent was paid for in forced labor. The etymology is a fitting reminder that the rise of technology and computing have reduced, in many cases, dull and repetitive tasks into a mere click.
+Unbridled capitalism, the invisible hand of the market, imperial war, and energy at scale presaged the breakthrough of mechanised muscles and digital minds, hoisting up living standards but leaving in its wake a mountain of extinct jobs.
+Both the humble multiplication table and horse share common cause of their own unemployment: technological advance. Hell, the scribe was a profession before the printing press was invented.
+Wikipedia maintains a list of many such obsolete professions, having become irrelevant (court dwarves), physically automated (punkha wallah), or become infinitely scalable at zero marginal cost thanks to computing (switchboard operator).
+That technological change can force localised unemployment is unsurprising. But similarly prescient is that those same forces that made so many jobless are snapping at something more fundamental: our ability to create content.
+Content hierarchies
+But, just what do we mean by content? Well, it’s a loose term. In the context of this post, it’s best thought of as created media like text, image, audio, and video.
+Our collective history is a mostly shared narrative built around recorded text created by humans. In web-speak, we’d call it a form of ‘user generated content’. And since internet cometh, the overwhelming majority of content consumed has indeed been user (human) generated.
+It’s worth noting, that throughout recorded history (≥4th century BCE), the medium of choice has been the written word (text). It wasn’t until the daguerreotype for images, the phonoautograph for audio, and the Nipkow disk for video, that more complex and information-heavy forms of content began to emerge and become mainstream. And all this within the past 180 years.
+As we mark 30-ish years of online history, the dominant forms of content have pretty much gravitated monotonically up the ladder of information load and immersion. Very roughly,
+text < audio < images < videos < 3D < VR
+In the early days of the internet, text was the dominant form of shared content (think old school forums). Next, came audio and images (MySpace, Facebook, Instagram). And finally, video (YouTube, TikTok). According to a 2013(!) study, videos generate 1200% more shares than images and text combined.
+Maybe it’s that we’re all dopamine junkies at heart and ascending the information chain keeps it pumping more intensely [citation needed]. Or maybe it’s because it’s more what we experience all day. Either way, it goes some way to explaining Meta’s $10bn+ bet that VR will be the medium of the next dominant platform.
+Dead Internet Theory
+A theory — The Dead Internet Theory — that went viral some years back, posited that the internet is a no man’s land of bots and fakery. It was of course, a ridiculous overstatement. But then again, maybe not that ridiculous? Maybe it was actually correct, just too early on the scene.
+If you search the phrase i hate texting on Twitter and scroll down, you will start to notice a pattern. An account with the handle @pixyIuvr and a glowing heart as a profile picture tweets, “i hate texting i just want to hold ur hand,” receiving 16,000 likes. An account with the handle @f41rygf and a pink orb as a profile picture tweets, “i hate texting just come live with me,” receiving nearly 33,000 likes. An account with the handle @itspureluv and a pink orb as a profile picture tweets, “i hate texting i just wanna kiss u,” receiving more than 48,000 likes.
+Here are some case studies (treat the numbers with healthy skepticism, these figures are impossible to determine reliably):
+The thing is, once an account is setup, it’s trivial to computationally post new content and interact with platform participants. And that can artificially distort the discussion.
+Remember Cambridge Analytica? The affair proved that it’s possible to manipulate people on a mass scale by the content they consume (in this specific case, as political advertisements).
+But that content was all created by humans. And humans are slow to create.
+A tidal wave of content
+The eras of the content on web are starting to look something like this.
+human, real content < human, fake content < AI, fake content
+real content generated by real people dominated. fake content generated by real people to deceive (think fake reviews, Cambridge Analytica, etc.). Finally, the era of fake content created by AI.
+As generative models become increasingly sophisticated (á la GPT-3 , DALL·E 2 , Imagen, Copilot ), the Dead Internet Theory will be brought into sharper focus.
+They’re not there just yet, but as Károly Zsolnai-Fehér of Two Minute Papers fame always asks, “what will this technology look like two papers down the line?”. Given just how far generative text, audio, and image models have advanced in just two years, this proposition should be alarming.
+As it stands, the most compelling versions of these models are largely behind corporate walls with exclusive access granted via waiting lists to researchers and specific professions.
+But as the algorithms improve and shrink, they will become increasingly democratised and available to every Tom, Dick, and Harry with access to the internet and a mouse.
+What tools are available — right now — to anyone? midjourney have a great Discord bot that allows you to do just that. Eleuther have a GPT-J demo available. There’s swathes of Google Colab notebooks available (example) to play around with for all of these. Stability.ai just made their stable diffusion image generation model available on huggingface and their own website, creator.nightcafe.studio.
+And guess what, we’re starting to see the effect.
+This GPT-3 generated post garnered 26 thousand views and 60 subscribers in just a short time span. A comment suggesting it was fake was swiftly downvoted and falsely rebuked.
+The irony
+August 23, 2022: it was reported that “a set of hackers managed to impersonate Binance chief communications officer (CCO) Patrick Hillmann in a series of video calls with several representatives of cryptocurrency projects.”
+August 23, 2022: an article on the front page of Hacker News suggested that there could be a shady set of artists on Spotify creating AI generated tracks.
+[ nsfw ] There’s a cottage industry of “deep nude” (e.g.) tools where users can upload clothed photos of women and receive an image back with clothes removed. There was a recent Show HN showing off a GAN for fake nudes.
+Two Stanford researchers have found widespread use of fake LinkedIn accounts created using AI. “These profiles target real users in an attempt to increase interest in certain companies before passing the successful leads to a real salesperson”
+Old man yelling at cloud
+Q. But surely, we can innovate our way out of this problem? New companies and technologies will come along to fight back. You’re just falling into the trap that countless other humans fell into as new technologies came along. You’re basically like that movement rallying against legislation telling people to wear seatbelts.
+A. If convincing enough, then content manufacturing is an unsolvable problem. People believe fake news and discard truisms, even when the evidence is right there in-front of their face. If people don’t spend the time to critique the source, they will blindly embrace the message. Because of fake news there’s a much higher signal to noise ratio than what we’re used to. We’re on the cusp of breakneck velocity content generation that promises unclear but undoubtedly pernicious consequences.
+A simple experiment
+To test out a theory: could I create a mildly “successful” social media account whose content is pure fakery, without any marketing and simply posting content? The answer: probably. I figure AI art is popular, but not yet explosively so. There’s probably enough people in Instagram who lack the skepticism to assume it’s fake.
+Using a pre-trained Latent Diffusion model (by @multimodalart), I generated several hundred pieces of AI Art. I created an Instagram account and scheduled the better ones to upload once a day.
+This is actually a random midjourney image, much more impressive than the colab notebook
+The account is attracting small scale growth of about 40 followers and a couple of hundred likes a day. It’s also generating some plaudits. I’ve had an offer from a gallery owner about showing the art. I’ve had folks commending and enquiring about how long each piece takes, what apps I use to create the pieces (it’s marked as digital art, not physical), etc.
+(By the way, I’m not discounting the possibility that even these comments, messages, and views are fake. But judging from style of engagement, I don’t think so.)
+This is a drop in the ocean. But if a throwaway, low effort account can garner a small but strangely loyal following in not much time, then what are the limits on what a highly motivated, deep-pocketed, and malicious body might do? The recommendation algorithms employed by social media aggregators are not setup to tackle this.
+Content means eyeballs. Compelling content means engagement. Engagement means capturing attention. And people’s attention can be relatively easily weaponised and manipulated.
+It’s not a stretch to suggest that in the future many influencers will be totally fake. Generated photos, generated videos... Generated existence.
+Another midjourney image. Mindblowing.
+Meta / TikTok / Twitter should be doing more to invest in ways to weed out bots and fake generated content from their platforms.
+To be fair, they’re likely well aware of this and investing time, money, and effort in the problem. But they can’t police the content generation step. As generative models mature, discriminative models will struggle to tell apart model generated content and human generated content. Even if they made reasonably good models to discriminate between HGC (human generated content) and BGC (bot generated content), what’s worse?:
+Under thresholding the model, leading to generative bots taking over the platform, or Over thresholding the model, leading to large number of False Positives and mistakenly banning genuine human creators.
+Both outcomes are deleterious.
+Where do we go from here?
+Fast forward to today, and the definition of robot has shifted from its original meaning. One source defines it as a machine capable of carrying out a complex series of actions automatically, especially one programmable by a computer. This new definition does away with the explicit reference to automating tedium, in favour of automating away literally anything.
+My prediction is that the coming tidal wave of content will have mostly deleterious consequences. Technological advancement will force out some old professions (e.g. digital artist), bring in some new ones (e.g. prompt engineers), and breathe life into existing ones (literary editors).
+Anecdotally, I don’t think people are prepared for what’s to come. Quite frankly most won’t care enough to give it thought. Bored teenagers will still troll social media. Hostile marketing firms will still launch manipulation campaigns for new products. Nation states will still viciously compete against each-other in the online battleground to try and attempt to manipulate us with competing agendas.
+These malicious actors won’t change, but the tools at their disposal will cause a biblical flood of information beset against a population already struggling with fake news and shorter attention spans. Democratising high velocity content generation provides the keys to a Pandora’s Box we’re not ready for.
+What of the benefits? Well, imho they amount to a fool’s paradise. Playful new Snapchat filters, rapid prototyping for game designers, giving folks the ability to illustrate their own children’s books (probably written by text generation models…) are great, but on balance the ramifications for the future of the internet are bleak.
+Once a knowingly kooky conspiracy, the Dead Internet Theory will fast become our default expectation.
+What is clear is that we will need to adapt to the new normal: that the majority of online content will be machine generated, sometimes for fun, and sometimes warped to an agenda. We need to ensure our consumption gravitates towards trusted domains and authors. We should learn to be skeptical of content.
+We also need to innovate tools that provide proof of authorship, and whether it was created by a human. It might never actually be possible, but knowing the source is an ideal we should strive towards.
