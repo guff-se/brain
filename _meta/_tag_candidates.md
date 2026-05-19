@@ -128,3 +128,6 @@ Tags proposed by classification that need ≥3 uses to graduate to `taxonomy.md`
 - `shipping` × 1 — used in: `_ai/excluded/uncategorized/UPS Shipping.md`
 
 <!-- 2026-05-19: promoted to taxonomy.md — pajobbetpodden (48), starke-ledaren (12), skuggsidor (12, ep 123–134), manniskor-maskiner-makt (12, ep 135–146) -->
+
+<!-- 2026-05-19: added during /compile pass -->
+- `self-leadership` × 4+ — used in: `sources/mine/voice/keynote-gustaf-tadaa-digital-self-leadership.md`, `sources/mine/podcasts/pajobbetpodden-104-lena-lid-falkman-sjalvledarskap-i-isolation.md`, `sources/mine/thinking/transformationssamhället.md`, `sources/consumed/articles/0055-...distributed-leadership.md`. Meets threshold — propose for promotion to taxonomy.md.
