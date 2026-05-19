@@ -31,8 +31,9 @@ function safeRun(command) {
     repoRoot,
     branch: null,
     pull: null,
-    processedThoughts: [],
-    unsupportedInboxItems: [],
+    inboxCount: 0,
+    inboxItems: [],
+    claude: null,
     commit: null,
     push: null,
   };
@@ -44,19 +45,27 @@ function safeRun(command) {
   }
 
   const inboxItems = await host.listInboxItems({ processed: false, limit: 1000 });
-  for (const item of inboxItems) {
-    if (item.path.startsWith('inbox/thoughts/')) {
-      const result = await host.processThoughtInboxNote(item.path, { sessionLabel: 'cron-inbox-sync' });
-      summary.processedThoughts.push({ path: item.path, result });
-    } else {
-      summary.unsupportedInboxItems.push(item.path);
+  summary.inboxCount = inboxItems.length;
+  summary.inboxItems = inboxItems.map((item) => item.path);
+
+  if (summary.inboxCount > 0) {
+    const claudePrompt = [
+      'Ingest inbox for this Obsidian vault.',
+      'Follow the repository AGENTS.md exactly.',
+      'Process every current item in inbox/ and complete the normal ingest workflow.',
+      'When finished, stop without asking follow-up questions.',
+    ].join(' ');
+
+    summary.claude = safeRun(`claude --permission-mode bypassPermissions --print ${JSON.stringify(claudePrompt)}`);
+    if (!summary.claude.ok) {
+      throw new Error(`claude ingest failed: ${summary.claude.error || summary.claude.output}`);
     }
   }
 
   const status = run('git status --porcelain');
   if (status) {
     run('git add .');
-    const commitMessage = `brain: process inbox ${new Date().toISOString()}`;
+    const commitMessage = `brain: ingest inbox ${new Date().toISOString()}`;
     summary.commit = safeRun(`git commit -m ${JSON.stringify(commitMessage)}`);
     if (!summary.commit.ok) {
       throw new Error(`git commit failed: ${summary.commit.error || summary.commit.output}`);
