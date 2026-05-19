@@ -11,7 +11,7 @@ episode_number: 114
 host_role: host
 guest: "Torbjörn Eriksson"
 provenance: extracted
-tags: [pajobbetpodden, strong-leader, teal]
+tags: [pajobbetpodden, starke-ledaren, teal]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-114-torbjorn-eriksson-kan-man-skapa-varde-at-alla-samtidigt-transcript]]"

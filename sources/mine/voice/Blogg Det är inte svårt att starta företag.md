@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [blogg, entreprenorsjakten, politics]
+tags: [blog, entreprenorsjakten, politics]
 reclassified: 2026-05-18
 classify_reason: "polished blog post about entrepreneurship rhetoric"
 classify_confidence: high

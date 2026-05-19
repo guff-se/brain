@@ -11,7 +11,7 @@ episode_number: 118
 host_role: host
 guest: "Morten Werner"
 provenance: extracted
-tags: [pajobbetpodden, strong-leader, management]
+tags: [pajobbetpodden, starke-ledaren, management]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-118-morten-werner-datida-och-nutida-ledarskapsstilar-transcript]]"

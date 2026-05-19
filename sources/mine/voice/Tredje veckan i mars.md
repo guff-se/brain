@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [blogg, corona, lecture]
+tags: [blog, corona, lecture]
 reclassified: 2026-05-18
 classify_reason: "polished essay about pandemic pivot"
 classify_confidence: high

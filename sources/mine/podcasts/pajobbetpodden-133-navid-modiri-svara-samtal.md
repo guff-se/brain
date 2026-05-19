@@ -11,7 +11,7 @@ episode_number: 133
 host_role: host
 guest: "Navid Modiri"
 provenance: extracted
-tags: [pajobbetpodden, shadow-sides, communication]
+tags: [pajobbetpodden, skuggsidor, communication]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-133-navid-modiri-svara-samtal-transcript]]"

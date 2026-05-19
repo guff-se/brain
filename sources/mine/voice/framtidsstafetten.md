@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [lecture, future, blogg]
+tags: [lecture, future, blog]
 reclassified: 2026-05-18
 classify_reason: "polished essay about future"
 classify_confidence: high

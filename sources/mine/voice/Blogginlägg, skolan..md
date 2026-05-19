@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [blogg, education]
+tags: [blog, education]
 reclassified: 2026-05-18
 classify_reason: "polished blog post about school"
 classify_confidence: high

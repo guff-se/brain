@@ -11,7 +11,7 @@ episode_number: 140
 host_role: host
 guest: "Björn Kvamme"
 provenance: extracted
-tags: [pajobbetpodden, people-machines-power, organizing]
+tags: [pajobbetpodden, manniskor-maskiner-makt, organizing]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-140-bjorn-kvamme-nar-it-tar-over-agila-arbetssatt-bygger-relationer-transcript]]"

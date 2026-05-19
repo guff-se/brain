@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [blogg, creativity]
+tags: [blog, creativity]
 reclassified: 2026-05-18
 classify_reason: "polished blog post about being a creator"
 classify_confidence: high

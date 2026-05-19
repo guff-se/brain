@@ -11,7 +11,7 @@ episode_number: 111
 host_role: host
 guest: "Anna Gullstrand"
 provenance: extracted
-tags: [pajobbetpodden, strong-leader, facilitation]
+tags: [pajobbetpodden, starke-ledaren, facilitation]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-111-anna-gullstrand-faciliterande-ledarskap-transcript]]"

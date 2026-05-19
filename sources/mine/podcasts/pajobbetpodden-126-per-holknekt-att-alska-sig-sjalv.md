@@ -11,7 +11,7 @@ episode_number: 126
 host_role: host
 guest: "Per Holknekt"
 provenance: extracted
-tags: [pajobbetpodden, psychology, shadow-sides]
+tags: [pajobbetpodden, psychology, skuggsidor]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-126-per-holknekt-att-alska-sig-sjalv-transcript]]"

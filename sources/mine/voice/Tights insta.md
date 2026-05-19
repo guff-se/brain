@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [self-leadership, blogg]
+tags: [self-leadership, blog]
 reclassified: 2026-05-18
 classify_reason: "short polished reflection"
 classify_confidence: medium

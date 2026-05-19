@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [blogg, web3, metaverse]
+tags: [blog, web3, metaverse]
 reclassified: 2026-05-18
 classify_reason: "blog post ideas about web3/DAO/metaverse"
 classify_confidence: high

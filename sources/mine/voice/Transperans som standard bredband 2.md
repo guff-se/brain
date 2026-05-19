@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [blogg, organizing, transparency]
+tags: [blog, organizing, transparency]
 reclassified: 2026-05-18
 classify_reason: "polished Bredband2 blog series post"
 classify_confidence: high

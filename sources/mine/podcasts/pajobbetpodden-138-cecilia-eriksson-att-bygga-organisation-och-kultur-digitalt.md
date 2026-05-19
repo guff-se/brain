@@ -11,7 +11,7 @@ episode_number: 138
 host_role: host
 guest: "Cecilia Eriksson"
 provenance: extracted
-tags: [pajobbetpodden, people-machines-power, culture]
+tags: [pajobbetpodden, manniskor-maskiner-makt, culture]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-138-cecilia-eriksson-att-bygga-organisation-och-kultur-digitalt-transcript]]"

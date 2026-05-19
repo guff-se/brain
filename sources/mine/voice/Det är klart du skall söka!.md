@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [entreprenorsjakten, blogg, application]
+tags: [entreprenorsjakten, blog, application]
 reclassified: 2026-05-18
 classify_reason: "polished blog post about applying"
 classify_confidence: high

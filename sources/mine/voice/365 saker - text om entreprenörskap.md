@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [entreprenorsjakten, blogg]
+tags: [entreprenorsjakten, blog]
 reclassified: 2026-05-18
 classify_reason: "polished 365 entrepreneurship article"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [blogg, entreprenorsjakten, new-company]
+tags: [blog, entreprenorsjakten, new-company]
 reclassified: 2026-05-18
 classify_reason: "polished blog post signed Gustaf Josefsson"
 classify_confidence: high

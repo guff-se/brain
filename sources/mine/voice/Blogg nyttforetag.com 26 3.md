@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [blogg, new-company]
+tags: [blog, new-company]
 reclassified: 2026-05-18
 classify_reason: "polished blog essay"
 classify_confidence: high

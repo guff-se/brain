@@ -11,7 +11,7 @@ episode_number: 135
 host_role: host
 guest: null
 provenance: extracted
-tags: [pajobbetpodden, people-machines-power, power]
+tags: [pajobbetpodden, manniskor-maskiner-makt, power]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-135-manniskor-maskiner-och-makt-transcript]]"

@@ -8,7 +8,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [the-borderland, blogg, politics]
+tags: [the-borderland, blog, politics]
 reclassified: 2026-05-18
 classify_reason: "polished personal blog post about media incident"
 classify_confidence: high

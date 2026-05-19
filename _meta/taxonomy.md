@@ -4,12 +4,12 @@ Controlled vocabulary. **Prefer existing tags over creating new ones.** New tags
 
 ## Rules
 - Lowercase, kebab-case. Diacritics stripped (e.g. `precisionshalsa`, not `precisionshälsa`).
-- Tags must be in English. Preserve source language in note bodies/titles, but normalize tags to English equivalents.
+- Tags must be in English unless the tag is a brand, show title, or established proper-name headline. Preserve source language in note bodies/titles, and keep branded/title tags in their canonical form.
 - 2–3 tags maximum per note.
 - Specific subtopics over broad buckets.
 - New tag → propose in `_tag_candidates.md` first.
 
-## Active tags (243 unique)
+## Active tags (246 unique)
 
 Sorted by frequency. Counts include only the migration seed; will grow as new content is ingested.
 
@@ -19,20 +19,20 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `entreprenorsjakten` | 36 |
 | `future` | 31 |
 | `ai` | 27 |
-| `forelasning` | 26 |
+| `lecture` | 28 |
 | `starke-ledaren` | 12 |
 | `skuggsidor` | 12 |
 | `manniskor-maskiner-makt` | 12 |
-| `blogg` | 15 |
+| `blog` | 15 |
 | `leadership` | 13 |
-| `politics` | 10 |
-| `ansokan` | 9 |
+| `politics` | 13 |
+| `application` | 9 |
 | `yeos` | 9 |
 | `psychology` | 9 |
 | `art` | 9 |
 | `consciousness` | 8 |
 | `burning-man` | 7 |
-| `philosophy` | 7 |
+| `philosophy` | 10 |
 | `economy` | 7 |
 | `facts` | 6 |
 | `trends` | 6 |
@@ -44,11 +44,11 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `tech` | 5 |
 | `organizing` | 5 |
 | `corona` | 5 |
-| `stipendie` | 4 |
+| `grant` | 4 |
 | `san-francisco` | 4 |
 | `facebook` | 4 |
 | `script` | 4 |
-| `riksdagsrosten` | 4 |
+| `parliamentary-vote` | 4 |
 | `love` | 4 |
 | `alter-ego` | 4 |
 | `relationships` | 4 |
@@ -56,19 +56,16 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `automation` | 4 |
 | `finance` | 4 |
 | `clarion` | 3 |
-| `nyttforetag` | 3 |
-| `konsultprojekt` | 3 |
+| `new-company` | 3 |
+| `consulting-project` | 3 |
 | `olle` | 3 |
 | `workshop` | 3 |
-| `dagordning` | 3 |
-| `biografi` | 3 |
+| `agenda` | 3 |
+| `biography` | 3 |
 | `pr` | 3 |
-| `ideer` | 3 |
-| `gubbmaraton` | 3 |
-| `politik` | 3 |
+| `mens-marathon` | 3 |
 | `notes` | 3 |
-| `filosofi` | 3 |
-| `tankar` | 3 |
+| `thoughts` | 3 |
 | `good-news` | 3 |
 | `jobs` | 3 |
 | `culture` | 3 |
@@ -76,11 +73,11 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `google` | 3 |
 | `capitalism` | 3 |
 | `global` | 3 |
-| `co-creation` | 3 |
+| `co-creation` | 4 |
 | `social` | 3 |
 | `brain` | 3 |
 | `machine-learning` | 3 |
-| `network` | 3 |
+| `network` | 4 |
 | `trump` | 3 |
 | `blockchain` | 3 |
 | `internet` | 3 |
@@ -92,13 +89,12 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `writing` | 2 |
 | `initiativet` | 2 |
 | `cv` | 2 |
-| `kontakter` | 2 |
-| `forelas` | 2 |
-| `dikter` | 2 |
+| `contacts` | 2 |
+| `poetry` | 2 |
 | `guff` | 2 |
 | `entreprenorsjakten-stockholm` | 2 |
 | `vaxjo` | 2 |
-| `musik` | 2 |
+| `music` | 2 |
 | `history` | 2 |
 | `telia` | 2 |
 | `syntheism` | 2 |
@@ -108,7 +104,7 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `statistics` | 2 |
 | `hive` | 2 |
 | `change` | 2 |
-| `ideas` | 2 |
+| `ideas` | 4 |
 | `individual` | 2 |
 | `sharing` | 2 |
 | `transparency` | 2 |
@@ -126,43 +122,38 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `cities` | 2 |
 | `digital` | 2 |
 | `physics` | 2 |
-| `metamoderna` | 2 |
+| `metamodernism` | 2 |
 | `trust` | 2 |
-| `cocreation` | 1 |
 | `365` | 1 |
 | `ej-tv` | 1 |
 | `sharpen-the-saw` | 1 |
-| `the-borderland` | 1 |
+| `the-borderland` | 2 |
 | `core` | 1 |
 | `da-matteo` | 1 |
 | `foretagarna` | 1 |
-| `kreativitet` | 1 |
-| `strategi` | 1 |
-| `forelasning-script` | 1 |
+| `lecture-script` | 1 |
 | `goteborg-co` | 1 |
 | `code` | 1 |
 | `federley` | 1 |
-| `affarsutveckling` | 1 |
-| `natverk` | 1 |
+| `business-development` | 1 |
 | `tawakoni` | 1 |
 | `end-of-work` | 1 |
 | `nxtg` | 1 |
 | `himc` | 1 |
 | `telefonplan` | 1 |
-| `salj` | 1 |
+| `sales` | 1 |
 | `tinder` | 1 |
 | `abu-dhabi` | 1 |
 | `pressrelease` | 1 |
 | `in-english` | 1 |
 | `24hbc` | 1 |
-| `reflektioner` | 1 |
+| `reflections` | 1 |
 | `fundedbyme` | 1 |
 | `sidney` | 1 |
 | `honesty` | 1 |
 | `entreprenorsjakten-live` | 1 |
 | `almedalen` | 1 |
 | `choice` | 1 |
-| `granslandeet` | 1 |
 | `cotu` | 1 |
 | `s` | 1 |
 | `ti` | 1 |
@@ -179,7 +170,7 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `terrorism` | 1 |
 | `meditation` | 1 |
 | `community` | 1 |
-| `heirarchy` | 1 |
+| `hierarchy` | 1 |
 | `participation` | 1 |
 | `sex` | 1 |
 | `hackathon` | 1 |
@@ -196,7 +187,7 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `law` | 1 |
 | `happiness` | 1 |
 | `electric-car` | 1 |
-| `alturism` | 1 |
+| `altruism` | 1 |
 | `incentive` | 1 |
 | `authoritarianism` | 1 |
 | `ethics` | 1 |
@@ -223,15 +214,15 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `battery` | 1 |
 | `electricity` | 1 |
 | `energy` | 1 |
-| `strategy` | 1 |
+| `strategy` | 2 |
 | `science` | 1 |
 | `spiritual` | 1 |
 | `bank` | 1 |
 | `sweden` | 1 |
 | `values` | 1 |
-| `kurtzweil` | 1 |
-| `creativity` | 1 |
-| `synchronisity` | 1 |
+| `kurzweil` | 1 |
+| `creativity` | 2 |
+| `synchronicity` | 1 |
 | `collective` | 1 |
 | `decentralization` | 1 |
 | `mobile` | 1 |
@@ -268,7 +259,7 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `family` | 1 |
 | `transformation` | 1 |
 | `advice-process` | 1 |
-| `fastighet` | 1 |
+| `real-estate` | 1 |
 | `safety` | 1 |
 | `systems` | 1 |
 | `website` | 1 |

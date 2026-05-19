@@ -11,7 +11,7 @@ episode_number: 145
 host_role: host
 guest: "Anders Ekholm"
 provenance: extracted
-tags: [pajobbetpodden, people-machines-power, future]
+tags: [pajobbetpodden, manniskor-maskiner-makt, future]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-145-anders-ekholm-komplexa-framtidsproblem-transcript]]"
