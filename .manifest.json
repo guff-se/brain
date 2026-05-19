@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-05-18",
+  "last_ingest": "2026-05-19",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -16,5 +16,521 @@
       "produced_count": 1347
     }
   ],
-  "entries": []
+  "entries": [
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "keynote",
+      "source": "yt_20_Gustaf_Josefsson_Tadaa_futurist_och_entreprenor.txt",
+      "produced": [
+        "sources/mine/voice/keynote-gustaf-josefsson-tadaa-futurist-och-entreprenor.md",
+        "sources/_longform/keynote-gustaf-josefsson-tadaa-futurist-och-entreprenor-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "keynote",
+      "source": "yt_21_Gustaf_Tadaa_-_Digital_Self-Leadership.txt",
+      "produced": [
+        "sources/mine/voice/keynote-gustaf-tadaa-digital-self-leadership.md",
+        "sources/_longform/keynote-gustaf-tadaa-digital-self-leadership-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "keynote",
+      "source": "yt_22_Framtidens_Internet_som_hot_och_mojlighet_-_Gustaf_Josefsson.txt",
+      "produced": [
+        "sources/mine/voice/keynote-framtidens-internet-som-hot-och-mojlighet-gustaf-josefsson.md",
+        "sources/_longform/keynote-framtidens-internet-som-hot-och-mojlighet-gustaf-josefsson-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "keynote",
+      "source": "yt_23_Digisamdagen_2019_-_forelasning_med_Gustaf_Josefsson_Tadaa.txt",
+      "produced": [
+        "sources/mine/voice/keynote-digisamdagen-2019-forelasning-med-gustaf-josefsson-tadaa.md",
+        "sources/_longform/keynote-digisamdagen-2019-forelasning-med-gustaf-josefsson-tadaa-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "keynote",
+      "source": "yt_24_Skapar_framtidens_teknik_en_ny_mansklighet_-_Gustaf_Josefsson.txt",
+      "produced": [
+        "_ai/excluded/duplicates/keynote-skapar-framtidens-teknik-en-ny-mansklighet-gustaf-josefsson.md",
+        "_ai/excluded/duplicates/keynote-skapar-framtidens-teknik-en-ny-mansklighet-gustaf-josefsson-transcript.md"
+      ],
+      "quarantined": "2026-05-19",
+      "quarantine_reason": "duplicate of yt_22 (shorter cut)"
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode-guest",
+      "source": "100procent_podden_96.txt",
+      "produced": [
+        "sources/mine/podcasts/100procentpodden-96-gustaf-tadaa.md",
+        "sources/_longform/100procentpodden-96-gustaf-tadaa-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode-guest",
+      "source": "Battre_tillsammans_9_Futuristen.txt",
+      "produced": [
+        "sources/mine/podcasts/battre-tillsammans-9-futuristen.md",
+        "sources/_longform/battre-tillsammans-9-futuristen-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode-guest",
+      "source": "Hur_kan_vi_15_Gustaf.txt",
+      "produced": [
+        "sources/mine/podcasts/hur-kan-vi-15-gustaf.md",
+        "sources/_longform/hur-kan-vi-15-gustaf-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode-guest",
+      "source": "Sa_kan_det_ga_23_Framtidens_relationer.txt",
+      "produced": [
+        "sources/mine/podcasts/sa-kan-det-ga-23-framtidens-relationer.md",
+        "sources/_longform/sa-kan-det-ga-23-framtidens-relationer-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/100. Jubileumsavsnitt med Gustaf Tadaa.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-100-jubileumsavsnitt-med-gustaf-tadaa.md",
+        "sources/_longform/pajobbetpodden-100-jubileumsavsnitt-med-gustaf-tadaa-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/101. Seher Yilmaz - Omorganisation för inkludering.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-101-seher-yilmaz-omorganisation-for-inkludering.md",
+        "sources/_longform/pajobbetpodden-101-seher-yilmaz-omorganisation-for-inkludering-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/102. Johnny Warström - Varför ska vi mäta allt_.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-102-johnny-warstrom-varfor-ska-vi-mata-allt.md",
+        "sources/_longform/pajobbetpodden-102-johnny-warstrom-varfor-ska-vi-mata-allt-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/103. Michel Westher - Bli effektivare på den virtuella scenen.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-103-michel-westher-bli-effektivare-pa-den-virtuella-scenen.md",
+        "sources/_longform/pajobbetpodden-103-michel-westher-bli-effektivare-pa-den-virtuella-scenen-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/104. Lena Lid Falkman - Självledarskap i isolation.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-104-lena-lid-falkman-sjalvledarskap-i-isolation.md",
+        "sources/_longform/pajobbetpodden-104-lena-lid-falkman-sjalvledarskap-i-isolation-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/105. Elin Sundin - Vem har makten_.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-105-elin-sundin-vem-har-makten.md",
+        "sources/_longform/pajobbetpodden-105-elin-sundin-vem-har-makten-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/106. Våra upplevelser under coronapandemin.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-106-vara-upplevelser-under-coronapandemin.md",
+        "sources/_longform/pajobbetpodden-106-vara-upplevelser-under-coronapandemin-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/107. Navid Modiri - Samtalsaktivisten.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-107-navid-modiri-samtalsaktivisten.md",
+        "sources/_longform/pajobbetpodden-107-navid-modiri-samtalsaktivisten-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/108. Hugi Asgeirsson - Att jobba mot ett mål utan en plan.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-108-hugi-asgeirsson-att-jobba-mot-ett-mal-utan-en-plan.md",
+        "sources/_longform/pajobbetpodden-108-hugi-asgeirsson-att-jobba-mot-ett-mal-utan-en-plan-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/109. Vem är den Starke Ledaren_.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-109-vem-ar-den-starke-ledaren.md",
+        "sources/_longform/pajobbetpodden-109-vem-ar-den-starke-ledaren-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/110. Åsa Lundquist Coey - Framtidens ledarskap.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-110-asa-lundquist-coey-framtidens-ledarskap.md",
+        "sources/_longform/pajobbetpodden-110-asa-lundquist-coey-framtidens-ledarskap-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/111. Anna Gullstrand - Faciliterande ledarskap.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-111-anna-gullstrand-faciliterande-ledarskap.md",
+        "sources/_longform/pajobbetpodden-111-anna-gullstrand-faciliterande-ledarskap-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/112. Lena Ahlström - Styrka är sårbarhet.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-112-lena-ahlstrom-styrka-ar-sarbarhet.md",
+        "sources/_longform/pajobbetpodden-112-lena-ahlstrom-styrka-ar-sarbarhet-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/113. Lasse Lychnell - Inre och yttre utveckling.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-113-lasse-lychnell-inre-och-yttre-utveckling.md",
+        "sources/_longform/pajobbetpodden-113-lasse-lychnell-inre-och-yttre-utveckling-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/114. Torbjörn Eriksson - Kan man skapa värde åt alla samtidigt_.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-114-torbjorn-eriksson-kan-man-skapa-varde-at-alla-samtidigt.md",
+        "sources/_longform/pajobbetpodden-114-torbjorn-eriksson-kan-man-skapa-varde-at-alla-samtidigt-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/115. Mats Alvesson - Starka värdegrunder.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-115-mats-alvesson-starka-vardegrunder.md",
+        "sources/_longform/pajobbetpodden-115-mats-alvesson-starka-vardegrunder-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/116. Andreas Miller - Ledaren är en samhällsbärare.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-116-andreas-miller-ledaren-ar-en-samhallsbarare.md",
+        "sources/_longform/pajobbetpodden-116-andreas-miller-ledaren-ar-en-samhallsbarare-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/117. Hugi Asgeirsson - Finansieringen och ägandets roll i verksamheten.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-117-hugi-asgeirsson-finansieringen-och-agandets-roll-i-verksamheten.md",
+        "sources/_longform/pajobbetpodden-117-hugi-asgeirsson-finansieringen-och-agandets-roll-i-verksamheten-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/118. Morten Werner - Dåtida och nutida ledarskapsstilar.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-118-morten-werner-datida-och-nutida-ledarskapsstilar.md",
+        "sources/_longform/pajobbetpodden-118-morten-werner-datida-och-nutida-ledarskapsstilar-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/119. Ishtar Touailat - När värderingar visar vägen.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-119-ishtar-touailat-nar-varderingar-visar-vagen.md",
+        "sources/_longform/pajobbetpodden-119-ishtar-touailat-nar-varderingar-visar-vagen-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/120. Det här är den starke ledaren - Säsongsavslutning.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-120-det-har-ar-den-starke-ledaren-sasongsavslutning.md",
+        "sources/_longform/pajobbetpodden-120-det-har-ar-den-starke-ledaren-sasongsavslutning-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/121. Hejdå Kristina.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-121-hejda-kristina.md",
+        "sources/_longform/pajobbetpodden-121-hejda-kristina-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/122. Maria Göthe - Livet är en skapandeprocess.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-122-maria-gothe-livet-ar-en-skapandeprocess.md",
+        "sources/_longform/pajobbetpodden-122-maria-gothe-livet-ar-en-skapandeprocess-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/123. Skuggsidor.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-123-skuggsidor.md",
+        "sources/_longform/pajobbetpodden-123-skuggsidor-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "124. Åsa Nilsonne - Smärtans kraft.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-124-asa-nilsonne-smartans-kraft.md",
+        "sources/_longform/pajobbetpodden-124-asa-nilsonne-smartans-kraft-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "125. Catarina Baldo Zagadou - Skuggsidor enligt Carl Jung.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-125-catarina-baldo-zagadou-skuggsidor-enligt-carl-jung.md",
+        "sources/_longform/pajobbetpodden-125-catarina-baldo-zagadou-skuggsidor-enligt-carl-jung-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "126. Per Holknekt - Att älska sig själv.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-126-per-holknekt-att-alska-sig-sjalv.md",
+        "sources/_longform/pajobbetpodden-126-per-holknekt-att-alska-sig-sjalv-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "127. Henrik Fexeus - Vi manipulerar varandra hela tiden.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-127-henrik-fexeus-vi-manipulerar-varandra-hela-tiden.md",
+        "sources/_longform/pajobbetpodden-127-henrik-fexeus-vi-manipulerar-varandra-hela-tiden-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "128. Ingrid Höög - Hur vi bygger relationer.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-128-ingrid-hoog-hur-vi-bygger-relationer.md",
+        "sources/_longform/pajobbetpodden-128-ingrid-hoog-hur-vi-bygger-relationer-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "129. Sofi Franzén - Att aldrig vara nöjd.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-129-sofi-franzen-att-aldrig-vara-nojd.md",
+        "sources/_longform/pajobbetpodden-129-sofi-franzen-att-aldrig-vara-nojd-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "130. Micael Dahlen - Ondskan inom oss.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-130-micael-dahlen-ondskan-inom-oss.md",
+        "sources/_longform/pajobbetpodden-130-micael-dahlen-ondskan-inom-oss-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "131. Julia Norinder - Prestationsbaserad självkänsla.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-131-julia-norinder-prestationsbaserad-sjalvkansla.md",
+        "sources/_longform/pajobbetpodden-131-julia-norinder-prestationsbaserad-sjalvkansla-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "132. Maria Fors Brandebo - Destruktivt ledarskap.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-132-maria-fors-brandebo-destruktivt-ledarskap.md",
+        "sources/_longform/pajobbetpodden-132-maria-fors-brandebo-destruktivt-ledarskap-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "133. Navid Modiri - Svåra samtal.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-133-navid-modiri-svara-samtal.md",
+        "sources/_longform/pajobbetpodden-133-navid-modiri-svara-samtal-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "134. Vad vi vet om skuggsidor - Säsongsavslutning.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-134-vad-vi-vet-om-skuggsidor-sasongsavslutning.md",
+        "sources/_longform/pajobbetpodden-134-vad-vi-vet-om-skuggsidor-sasongsavslutning-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "135. Människor, maskiner och makt.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-135-manniskor-maskiner-och-makt.md",
+        "sources/_longform/pajobbetpodden-135-manniskor-maskiner-och-makt-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "136.Oskar Henrikson - Psykologisk träning och maskinernas makt.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-136-oskar-henrikson-psykologisk-traning-och-maskinernas-makt.md",
+        "sources/_longform/pajobbetpodden-136-oskar-henrikson-psykologisk-traning-och-maskinernas-makt-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "137. Ebba Waltré - Att aldrig sluta lära sig.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-137-ebba-waltre-att-aldrig-sluta-lara-sig.md",
+        "sources/_longform/pajobbetpodden-137-ebba-waltre-att-aldrig-sluta-lara-sig-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "138. Cecilia Eriksson - Att bygga organisation och kultur digitalt.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-138-cecilia-eriksson-att-bygga-organisation-och-kultur-digitalt.md",
+        "sources/_longform/pajobbetpodden-138-cecilia-eriksson-att-bygga-organisation-och-kultur-digitalt-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "139. Nina Sandström - Det digitala tvingar oss att vara analoga.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-139-nina-sandstrom-det-digitala-tvingar-oss-att-vara-analoga.md",
+        "sources/_longform/pajobbetpodden-139-nina-sandstrom-det-digitala-tvingar-oss-att-vara-analoga-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "140. Björn Kvamme - När IT tar över - agila arbetssätt bygger relationer.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-140-bjorn-kvamme-nar-it-tar-over-agila-arbetssatt-bygger-relationer.md",
+        "sources/_longform/pajobbetpodden-140-bjorn-kvamme-nar-it-tar-over-agila-arbetssatt-bygger-relationer-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "141. Elle Miller - Do we serve tech or does tech serve us_.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-141-elle-miller-do-we-serve-tech-or-does-tech-serve-us.md",
+        "sources/_longform/pajobbetpodden-141-elle-miller-do-we-serve-tech-or-does-tech-serve-us-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "142. Jean Hedayat - Att få vara sig själv.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-142-jean-hedayat-att-fa-vara-sig-sjalv.md",
+        "sources/_longform/pajobbetpodden-142-jean-hedayat-att-fa-vara-sig-sjalv-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "143. Christian Landgren - Maktstrukturer mot open source.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-143-christian-landgren-maktstrukturer-mot-open-source.md",
+        "sources/_longform/pajobbetpodden-143-christian-landgren-maktstrukturer-mot-open-source-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "144. Johanna Bolin Tingvall - Ansvar för det egna lärandet.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-144-johanna-bolin-tingvall-ansvar-for-det-egna-larandet.md",
+        "sources/_longform/pajobbetpodden-144-johanna-bolin-tingvall-ansvar-for-det-egna-larandet-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "145. Anders Ekholm - Komplexa framtidsproblem.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-145-anders-ekholm-komplexa-framtidsproblem.md",
+        "sources/_longform/pajobbetpodden-145-anders-ekholm-komplexa-framtidsproblem-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "146. Vad vi vet om människor, maskiner och makt - Säsongsavslutning.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-146-vad-vi-vet-om-manniskor-maskiner-och-makt-sasongsavslutning.md",
+        "sources/_longform/pajobbetpodden-146-vad-vi-vet-om-manniskor-maskiner-och-makt-sasongsavslutning-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-19",
+      "kind": "podcast-episode",
+      "source": "147. Hejdå Gustaf.txt",
+      "produced": [
+        "sources/mine/podcasts/pajobbetpodden-147-hejda-gustaf.md",
+        "sources/_longform/pajobbetpodden-147-hejda-gustaf-transcript.md"
+      ]
+    }
+  ]
 }

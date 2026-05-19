@@ -8,16 +8,20 @@ Controlled vocabulary. **Prefer existing tags over creating new ones.** New tags
 - Specific subtopics over broad buckets.
 - New tag → propose in `_tag_candidates.md` first.
 
-## Active tags (239 unique, seeded from Pocket export)
+## Active tags (243 unique)
 
 Sorted by frequency. Counts include only the migration seed; will grow as new content is ingested.
 
 | tag | count |
 |---|---:|
+| `pajobbetpodden` | 48 |
 | `entreprenorsjakten` | 36 |
 | `future` | 31 |
 | `ai` | 27 |
 | `forelasning` | 26 |
+| `starke-ledaren` | 12 |
+| `skuggsidor` | 12 |
+| `manniskor-maskiner-makt` | 12 |
 | `blogg` | 15 |
 | `leadership` | 13 |
 | `politics` | 10 |

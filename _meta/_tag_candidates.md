@@ -126,3 +126,5 @@ Tags proposed by classification that need ≥3 uses to graduate to `taxonomy.md`
 - `app-ideas` × 1 — used in: `sources/mine/thinking/Kaffeappidéer.md`
 - `teckensprak` × 1 — used in: `sources/mine/thinking/teckenspråk.md`
 - `shipping` × 1 — used in: `_ai/excluded/uncategorized/UPS Shipping.md`
+
+<!-- 2026-05-19: promoted to taxonomy.md — pajobbetpodden (48), starke-ledaren (12), skuggsidor (12, ep 123–134), manniskor-maskiner-makt (12, ep 135–146) -->
