@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [goals, biografi]
+tags: [goals, biography]
 reclassified: 2026-05-18
 classify_reason: "personal beliefs and goals bullet list"
 classify_confidence: medium

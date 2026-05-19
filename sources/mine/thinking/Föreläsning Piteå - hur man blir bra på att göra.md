@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, co-creation]
+tags: [lecture, co-creation]
 reclassified: 2026-05-18
 classify_reason: "talk note fragment"
 classify_confidence: low

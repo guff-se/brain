@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, kreativitet, entreprenorsjakten]
+tags: [lecture, creativity, entreprenorsjakten]
 reclassified: 2026-05-18
 classify_reason: "workshop notes on prototyping"
 classify_confidence: high

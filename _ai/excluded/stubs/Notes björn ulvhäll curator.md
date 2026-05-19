@@ -8,7 +8,7 @@ status: reference
 register: stub
 kind: note
 party: first
-tags: [kontakter, art]
+tags: [contacts, art]
 reclassified: 2026-05-18
 classify_reason: "contact names for curator"
 classify_confidence: high

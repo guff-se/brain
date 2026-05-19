@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2016-01-27
 updated: 2016-02-24
 status: reference
-tags: [telia, forelasning]
+tags: [telia, lecture]
 classify_confidence: medium
 register: facts
 kind: note

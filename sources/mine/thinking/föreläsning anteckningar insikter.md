@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2016-01-28
 updated: 2017-03-06
 status: reference
-tags: [forelasning, tankar, future]
+tags: [lecture, thoughts, future]
 classify_confidence: high
 register: thinking
 kind: note

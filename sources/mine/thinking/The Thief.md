@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [tankar, tech]
+tags: [thoughts, tech]
 reclassified: 2026-05-18
 classify_reason: "short notes about hotel light system"
 classify_confidence: low

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [himc, forelasning]
+tags: [himc, lecture]
 reclassified: 2026-05-18
 classify_reason: "talk prep notes"
 classify_confidence: high

@@ -11,7 +11,7 @@ episode_number: 146
 host_role: host
 guest: null
 provenance: extracted
-tags: [pajobbetpodden, tech, power, manniskor-maskiner-makt]
+tags: [pajobbetpodden, people-machines-power, learning]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-146-vad-vi-vet-om-manniskor-maskiner-och-makt-sasongsavslutning-transcript]]"

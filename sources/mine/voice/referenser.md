@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, pr, biografi]
+tags: [lecture, pr, biography]
 reclassified: 2026-05-18
 classify_reason: "polished testimonials/references"
 classify_confidence: high

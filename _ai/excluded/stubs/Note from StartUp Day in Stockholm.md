@@ -11,7 +11,7 @@ status: reference
 register: stub
 kind: note
 party: first
-tags: [kontakter, filosofi]
+tags: [contacts, philosophy]
 reclassified: 2026-05-18
 classify_reason: "list of philosophy contacts"
 classify_confidence: high

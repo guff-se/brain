@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, iot]
+tags: [lecture, iot]
 reclassified: 2026-05-18
 classify_reason: "client talk briefing notes"
 classify_confidence: high

@@ -8,7 +8,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [elvanse, dagbok]
+tags: [elvanse, journal]
 reclassified: 2026-05-18
 classify_reason: "medication diary entries"
 classify_confidence: high

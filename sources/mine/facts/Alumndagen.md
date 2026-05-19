@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2013-09-11
 updated: 2013-09-11
 status: reference
-tags: [dagordning, alumni]
+tags: [agenda, alumni]
 classify_confidence: high
 register: facts
 kind: note

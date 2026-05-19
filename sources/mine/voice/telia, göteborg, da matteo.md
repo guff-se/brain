@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, telia, da-matteo]
+tags: [lecture, telia, da-matteo]
 reclassified: 2026-05-18
 classify_reason: "polished talk script on digitalization"
 classify_confidence: high

@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [musik, creative-writing]
+tags: [music, creative-writing]
 reclassified: 2026-05-18
 classify_reason: "list of song concepts"
 classify_confidence: high

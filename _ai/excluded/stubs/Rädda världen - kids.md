@@ -11,7 +11,7 @@ status: reference
 register: stub
 kind: note
 party: first
-tags: [kontakter]
+tags: [contacts]
 reclassified: 2026-05-18
 classify_reason: "single name and phone"
 classify_confidence: high

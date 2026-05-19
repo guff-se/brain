@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [dagordning, yeos]
+tags: [agenda, yeos]
 reclassified: 2026-05-18
 classify_reason: "dated YEOS board agenda"
 classify_confidence: high

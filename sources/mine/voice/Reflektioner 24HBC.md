@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [24hbc, reflektioner]
+tags: [24hbc, reflections]
 reclassified: 2026-05-18
 classify_reason: "polished reflection text"
 classify_confidence: high

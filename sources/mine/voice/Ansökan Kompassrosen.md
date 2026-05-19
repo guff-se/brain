@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [ansokan, stipendie, cv]
+tags: [application, grant, leadership]
 reclassified: 2026-05-18
 classify_reason: "polished scholarship application"
 classify_confidence: high

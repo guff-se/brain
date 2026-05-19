@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, kreativitet, tankar]
+tags: [lecture, creativity, thoughts]
 reclassified: 2026-05-18
 classify_reason: "lecture idea fragments Vibes"
 classify_confidence: medium

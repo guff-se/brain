@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [workshop, forelasning]
+tags: [workshop, lecture]
 reclassified: 2026-05-18
 classify_reason: "workshop planning notes for client"
 classify_confidence: high

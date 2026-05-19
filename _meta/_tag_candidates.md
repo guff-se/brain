@@ -131,3 +131,13 @@ Tags proposed by classification that need ≥3 uses to graduate to `taxonomy.md`
 
 <!-- 2026-05-19: added during /compile pass -->
 - `self-leadership` × 4+ — used in: `sources/mine/voice/keynote-gustaf-tadaa-digital-self-leadership.md`, `sources/mine/podcasts/pajobbetpodden-104-lena-lid-falkman-sjalvledarskap-i-isolation.md`, `sources/mine/thinking/transformationssamhället.md`, `sources/consumed/articles/0055-...distributed-leadership.md`. Meets threshold — propose for promotion to taxonomy.md.
+
+<!-- 2026-05-19: added during deep tagging pass (voice/) -->
+- `democracy` × 1 — used in: `sources/mine/voice/Alternativet 6 debattdogmer.md`
+- `self-leadership` also added to: `sources/mine/voice/Helsinki To Do Nov 5.md`, `sources/mine/voice/nbs tävling.md` (now ×6+ total — promote to taxonomy.md)
+
+<!-- 2026-05-19: added during deep tagging pass (podcasts ep 121–134) -->
+- `identity` used in: `sources/mine/podcasts/pajobbetpodden-122-maria-gothe-livet-ar-en-skapandeprocess.md` (already in taxonomy at count 2, now +1 — at 3, meets promotion threshold)
+
+<!-- 2026-05-19: added during deep tagging pass (podcasts ep 135–147 + guest episodes) -->
+- `learning` × 2 new uses — used in: `sources/mine/podcasts/pajobbetpodden-144-johanna-bolin-tingvall-ansvar-for-det-egna-larandet.md`, `sources/mine/podcasts/pajobbetpodden-146-vad-vi-vet-om-manniskor-maskiner-och-makt-sasongsavslutning.md`. Already in taxonomy at count 1 — now ≥3, meets promotion threshold.

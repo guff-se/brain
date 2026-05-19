@@ -11,7 +11,7 @@ status: reference
 register: stub
 kind: note
 party: first
-tags: [musik]
+tags: [music]
 reclassified: 2026-05-18
 classify_reason: "list of music tracks, no prose"
 classify_confidence: high

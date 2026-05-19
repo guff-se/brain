@@ -5,7 +5,7 @@ source_id: "iCloud/tomra - kite.md"
 provenance: extracted
 ingested: 2026-05-13
 status: reference
-tags: [forelasning, meetings]
+tags: [lecture, meetings]
 classify_confidence: high
 register: facts
 kind: note

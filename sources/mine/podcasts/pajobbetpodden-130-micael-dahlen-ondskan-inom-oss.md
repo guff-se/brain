@@ -11,7 +11,7 @@ episode_number: 130
 host_role: host
 guest: "Micael Dahlen"
 provenance: extracted
-tags: [pajobbetpodden, psychology, skuggsidor]
+tags: [pajobbetpodden, psychology, shadow-sides]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-130-micael-dahlen-ondskan-inom-oss-transcript]]"

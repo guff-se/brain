@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [konsultprojekt, youth]
+tags: [consulting-project, youth]
 reclassified: 2026-05-18
 classify_reason: "short note on youth influence question"
 classify_confidence: low

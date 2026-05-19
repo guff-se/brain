@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, script]
+tags: [lecture, script]
 reclassified: 2026-05-18
 classify_reason: "Ricoh talk script bullets"
 classify_confidence: high

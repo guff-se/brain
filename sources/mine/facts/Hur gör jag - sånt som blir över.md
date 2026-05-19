@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, facilitation]
+tags: [lecture, facilitation]
 reclassified: 2026-05-18
 classify_reason: "facilitation tips fragmentary"
 classify_confidence: medium

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, stora-skondal]
+tags: [lecture, stora-skondal]
 reclassified: 2026-05-18
 classify_reason: "talk preparation bullets"
 classify_confidence: medium

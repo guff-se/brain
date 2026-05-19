@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [philosophy, tankar]
+tags: [philosophy, thoughts]
 reclassified: 2026-05-18
 classify_reason: "single aphorism"
 classify_confidence: low

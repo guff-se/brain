@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, ikea]
+tags: [lecture, ikea]
 reclassified: 2026-05-18
 classify_reason: "bullet reflections on Ikea workshop"
 classify_confidence: medium

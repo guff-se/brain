@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [biografi, riksdagsrosten, cv]
+tags: [biography, parliamentary-vote, cv]
 reclassified: 2026-05-18
 classify_reason: "polished biographical text"
 classify_confidence: high

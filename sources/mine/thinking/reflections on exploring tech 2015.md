@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [exploring-tech, reflektioner]
+tags: [exploring-tech, reflections]
 reclassified: 2026-05-18
 classify_reason: "bullet reflections on workshop"
 classify_confidence: high

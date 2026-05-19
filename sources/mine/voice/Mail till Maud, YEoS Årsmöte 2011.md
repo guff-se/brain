@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [yeos, politik]
+tags: [yeos, politics]
 reclassified: 2026-05-18
 classify_reason: "polished formal invitation letter"
 classify_confidence: high

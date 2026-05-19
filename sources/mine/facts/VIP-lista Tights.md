@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2018-04-18
 updated: 2018-05-29
 status: reference
-tags: [tights, kontakter]
+tags: [tights, contacts]
 classify_confidence: high
 register: facts
 kind: note

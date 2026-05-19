@@ -11,7 +11,7 @@ episode_number: 116
 host_role: host
 guest: "Andreas Miller"
 provenance: extracted
-tags: [pajobbetpodden, leadership, organizing, power, starke-ledaren]
+tags: [pajobbetpodden, strong-leader, management]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-116-andreas-miller-ledaren-ar-en-samhallsbarare-transcript]]"

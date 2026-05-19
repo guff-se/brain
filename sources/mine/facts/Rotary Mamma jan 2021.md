@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, rotary]
+tags: [lecture, rotary]
 reclassified: 2026-05-18
 classify_reason: "Rotary talk timing outline"
 classify_confidence: high

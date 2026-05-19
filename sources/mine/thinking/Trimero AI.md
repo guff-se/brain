@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [ai, forelasning]
+tags: [ai, lecture]
 reclassified: 2026-05-18
 classify_reason: "AI tools and lecture flow notes"
 classify_confidence: medium

@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [stipendie, goteborg-co]
+tags: [grant, goteborg-co]
 reclassified: 2026-05-18
 classify_reason: "meeting notes with budget for stipend project"
 classify_confidence: high

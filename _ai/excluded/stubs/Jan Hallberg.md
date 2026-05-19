@@ -11,7 +11,7 @@ status: reference
 register: stub
 kind: note
 party: first
-tags: [kontakter, entreprenorsjakten]
+tags: [contacts, entreprenorsjakten]
 reclassified: 2026-05-18
 classify_reason: "just contact names list"
 classify_confidence: high

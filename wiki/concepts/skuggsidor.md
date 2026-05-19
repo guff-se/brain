@@ -6,7 +6,7 @@ party: first
 register: consumed
 source: agent
 provenance: inferred
-tags: [psychology, skuggsidor, consciousness]
+tags: [psychology, shadow-sides, consciousness]
 status: reference
 ingested: 2026-05-19
 created: 2026-05-19

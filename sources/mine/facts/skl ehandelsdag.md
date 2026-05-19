@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, skl]
+tags: [lecture, skl]
 reclassified: 2026-05-18
 classify_reason: "event briefing notes"
 classify_confidence: high

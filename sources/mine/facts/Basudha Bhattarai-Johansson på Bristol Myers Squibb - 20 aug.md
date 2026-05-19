@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning]
+tags: [lecture]
 reclassified: 2026-05-18
 classify_reason: "dated client gig logistics"
 classify_confidence: high

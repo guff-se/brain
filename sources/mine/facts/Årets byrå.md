@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, arets-byra]
+tags: [lecture, agency-of-the-year]
 reclassified: 2026-05-18
 classify_reason: "talk briefing notes"
 classify_confidence: high

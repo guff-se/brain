@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [initiativet, organizing, politik]
+tags: [initiativet, organizing, politics]
 reclassified: 2026-05-18
 classify_reason: "meeting notes with date, action points"
 classify_confidence: high

@@ -8,7 +8,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, military]
+tags: [lecture, military]
 reclassified: 2026-05-18
 classify_reason: "talk prep checklist KTH defense"
 classify_confidence: high

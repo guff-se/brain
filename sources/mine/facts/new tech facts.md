@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2015-08-26
 updated: 2015-09-05
 status: reference
-tags: [forelasning, tech, trends]
+tags: [lecture, tech, trends]
 classify_confidence: medium
 register: facts
 kind: note

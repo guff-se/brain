@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2016-11-24
 updated: 2016-11-30
 status: reference
-tags: [forelasning, education]
+tags: [lecture, education]
 classify_confidence: high
 register: facts
 kind: note

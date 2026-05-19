@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [the-borderland, biografi]
+tags: [the-borderland, identity, masculinity]
 reclassified: 2026-05-18
 classify_reason: "polished personal essay about Borderland sacrifice"
 classify_confidence: high

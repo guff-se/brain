@@ -8,7 +8,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [the-borderland, safety]
+tags: [the-borderland, community, safety]
 reclassified: 2026-05-18
 classify_reason: "polished community accountability letter"
 classify_confidence: high

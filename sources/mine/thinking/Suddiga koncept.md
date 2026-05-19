@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [filosofi, religion]
+tags: [philosophy, religion]
 reclassified: 2026-05-18
 classify_reason: "musings on fuzzy concept of God"
 classify_confidence: high

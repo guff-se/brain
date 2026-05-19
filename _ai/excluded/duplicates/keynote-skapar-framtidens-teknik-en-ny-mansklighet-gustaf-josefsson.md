@@ -7,7 +7,7 @@ register: voice
 source: own-recording
 source_id: "youtube:yt_24"
 provenance: extracted
-tags: [forelasning, future, philosophy]
+tags: [lecture, future, philosophy]
 status: archive
 ingested: 2026-05-19
 quarantined: 2026-05-19

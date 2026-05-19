@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, evolution, tankar]
+tags: [lecture, evolution, thoughts]
 reclassified: 2026-05-18
 classify_reason: "short topical fragment on biology/morality"
 classify_confidence: medium

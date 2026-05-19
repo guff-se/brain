@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [responsive, reflektioner]
+tags: [responsive, reflections]
 reclassified: 2026-05-18
 classify_reason: "feedback prompt questions for retreat"
 classify_confidence: medium

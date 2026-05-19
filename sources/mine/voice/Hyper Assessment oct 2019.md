@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [hyper-island, assessment]
+tags: [hyper-island, education, feedback]
 reclassified: 2026-05-18
 classify_reason: "polished assessment letters to students"
 classify_confidence: high

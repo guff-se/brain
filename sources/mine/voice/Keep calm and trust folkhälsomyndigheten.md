@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [corona, trust]
+tags: [corona, trust, politics]
 reclassified: 2026-05-18
 classify_reason: "polished essay on trust in pandemic"
 classify_confidence: high

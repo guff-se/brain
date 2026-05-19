@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, economy, politik]
+tags: [lecture, economy, politics]
 reclassified: 2026-05-18
 classify_reason: "polished opinion essay on year-end budget spending"
 classify_confidence: high

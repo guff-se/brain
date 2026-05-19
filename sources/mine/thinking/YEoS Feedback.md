@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [yeos, forelasning]
+tags: [yeos, lecture]
 reclassified: 2026-05-18
 classify_reason: "feedback notes on YEoS presentation"
 classify_confidence: high

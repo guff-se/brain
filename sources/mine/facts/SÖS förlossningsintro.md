@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forlossning, packlista]
+tags: [childbirth, packlista]
 reclassified: 2026-05-18
 classify_reason: "birth prep packing list with info"
 classify_confidence: high

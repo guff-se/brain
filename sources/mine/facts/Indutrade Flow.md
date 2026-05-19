@@ -5,7 +5,7 @@ source_id: "iCloud/Indutrade Flow.md"
 provenance: extracted
 ingested: 2026-05-13
 status: reference
-tags: [forelasning, indutrade]
+tags: [lecture, indutrade]
 classify_confidence: high
 register: facts
 kind: note

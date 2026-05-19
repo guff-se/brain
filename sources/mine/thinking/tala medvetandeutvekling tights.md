@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, consciousness, tankar]
+tags: [lecture, consciousness, thoughts]
 reclassified: 2026-05-18
 classify_reason: "sparse lecture fragments"
 classify_confidence: medium

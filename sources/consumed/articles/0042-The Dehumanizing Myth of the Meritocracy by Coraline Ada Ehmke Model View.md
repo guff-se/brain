@@ -8,7 +8,7 @@ provenance: extracted
 url: "https://modelviewculture.com/pieces/the-dehumanizing-myth-of-the-meritocracy"
 ingested: 2026-05-13
 created: 2016-02-18
-tags: [heirarchy, leadership, power]
+tags: [hierarchy, leadership, power]
 status: reference
 pocket_status: unread
 enrichment: original

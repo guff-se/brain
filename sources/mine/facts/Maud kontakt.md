@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [yeos, kontakter]
+tags: [yeos, contacts]
 reclassified: 2026-05-18
 classify_reason: "contact info fragment"
 classify_confidence: high

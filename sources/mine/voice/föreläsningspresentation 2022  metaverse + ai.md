@@ -8,7 +8,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [metaverse, forelasning]
+tags: [metaverse, ai, lecture]
 reclassified: 2026-05-18
 classify_reason: "polished talk description metaverse+ai"
 classify_confidence: high

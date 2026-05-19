@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [the-borderland, dikter]
+tags: [the-borderland, poetry]
 reclassified: 2026-05-18
 classify_reason: "rap lyrics fragments about Borderland"
 classify_confidence: medium

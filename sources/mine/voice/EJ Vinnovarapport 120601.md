@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [entreprenorsjakten, ansokan]
+tags: [entreprenorsjakten, application]
 reclassified: 2026-05-18
 classify_reason: "polished Vinnova report prose"
 classify_confidence: high

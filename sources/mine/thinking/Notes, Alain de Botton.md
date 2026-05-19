@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [filosofi, tankar, religion]
+tags: [philosophy, thoughts, religion]
 reclassified: 2026-05-18
 classify_reason: "philosophy reading notes"
 classify_confidence: high

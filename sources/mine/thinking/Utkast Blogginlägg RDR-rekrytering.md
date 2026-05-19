@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [blogg, riksdagsrosten]
+tags: [blogg, parliamentary-vote]
 reclassified: 2026-05-18
 classify_reason: "draft blog post recruiting programmers"
 classify_confidence: high

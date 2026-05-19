@@ -11,7 +11,7 @@ episode_number: 113
 host_role: host
 guest: "Lasse Lychnell"
 provenance: extracted
-tags: [pajobbetpodden, leadership, consciousness, philosophy, starke-ledaren]
+tags: [pajobbetpodden, strong-leader, consciousness]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-113-lasse-lychnell-inre-och-yttre-utveckling-transcript]]"

@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [meetings, reflektioner]
+tags: [meetings, reflections]
 reclassified: 2026-05-18
 classify_reason: "meeting reflection notes BTCX"
 classify_confidence: high

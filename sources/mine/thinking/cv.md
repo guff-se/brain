@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [cv, ansokan]
+tags: [cv, application]
 reclassified: 2026-05-18
 classify_reason: "questions framework for CV writing"
 classify_confidence: medium

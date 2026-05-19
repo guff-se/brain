@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2013-04-23
 updated: 2013-04-23
 status: reference
-tags: [forelas, guff]
+tags: [lecture, guff]
 classify_confidence: medium
 register: voice
 kind: note

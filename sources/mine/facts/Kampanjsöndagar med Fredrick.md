@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2014-01-15
 updated: 2014-03-11
 status: reference
-tags: [politik, federley]
+tags: [politics, federley]
 classify_confidence: high
 register: facts
 kind: note

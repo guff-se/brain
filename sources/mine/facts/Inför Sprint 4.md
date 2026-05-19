@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [entreprenorsjakten, dagordning]
+tags: [entreprenorsjakten, agenda]
 reclassified: 2026-05-18
 classify_reason: "sprint planning notes"
 classify_confidence: high

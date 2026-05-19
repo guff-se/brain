@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [co-creation, forelas]
+tags: [co-creation, lecture]
 reclassified: 2026-05-18
 classify_reason: "talk concept fragment"
 classify_confidence: medium

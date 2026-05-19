@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [dikter, musik]
+tags: [poetry, music]
 reclassified: 2026-05-18
 classify_reason: "song lyric rewrite of Hallelujah"
 classify_confidence: medium

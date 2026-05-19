@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2014-01-30
 updated: 2014-01-30
 status: reference
-tags: [dikter, love, honesty]
+tags: [poetry, love, honesty]
 classify_confidence: high
 register: voice
 kind: note

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, future, tankar]
+tags: [lecture, future, thoughts]
 reclassified: 2026-05-18
 classify_reason: "lecture concept draft for Tights"
 classify_confidence: high

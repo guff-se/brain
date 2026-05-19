@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [nxtg, dagordning]
+tags: [nxtg, agenda]
 reclassified: 2026-05-18
 classify_reason: "dated NXTGBG meeting agenda"
 classify_confidence: high

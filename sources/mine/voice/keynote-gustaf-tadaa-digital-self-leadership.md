@@ -7,7 +7,7 @@ register: voice
 source: own-recording
 source_id: "youtube:yt_21"
 provenance: extracted
-tags: [forelasning, leadership, tech]
+tags: [lecture, self-leadership, future]
 status: reference
 ingested: 2026-05-19
 transcript: "[[keynote-gustaf-tadaa-digital-self-leadership-transcript]]"

@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2021-01-19
 updated: 2021-02-01
 status: reference
-tags: [forelasning, clavister]
+tags: [lecture, clavister]
 classify_confidence: medium
 register: facts
 kind: note

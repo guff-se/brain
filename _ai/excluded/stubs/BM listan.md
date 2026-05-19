@@ -11,7 +11,7 @@ status: reference
 register: stub
 kind: note
 party: first
-tags: [burning-man, kontakter]
+tags: [burning-man, contacts]
 reclassified: 2026-05-18
 classify_reason: "list of names BM"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [leadership, co-creation]
+tags: [co-creation, leadership, the-borderland]
 reclassified: 2026-05-18
 classify_reason: "mixed reflections and budget for CoLead"
 classify_confidence: medium

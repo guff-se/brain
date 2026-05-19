@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [indien]
+tags: [india]
 reclassified: 2026-05-18
 classify_reason: "todo list before India trip"
 classify_confidence: high

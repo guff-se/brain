@@ -4,6 +4,7 @@ Controlled vocabulary. **Prefer existing tags over creating new ones.** New tags
 
 ## Rules
 - Lowercase, kebab-case. Diacritics stripped (e.g. `precisionshalsa`, not `precisionshälsa`).
+- Tags must be in English. Preserve source language in note bodies/titles, but normalize tags to English equivalents.
 - 2–3 tags maximum per note.
 - Specific subtopics over broad buckets.
 - New tag → propose in `_tag_candidates.md` first.

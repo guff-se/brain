@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, workshop]
+tags: [lecture, workshop]
 reclassified: 2026-05-18
 classify_reason: "client meeting notes"
 classify_confidence: high

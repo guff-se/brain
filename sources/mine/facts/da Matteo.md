@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [konsultprojekt, da-matteo]
+tags: [consulting-project, da-matteo]
 reclassified: 2026-05-18
 classify_reason: "da Matteo project planning structure"
 classify_confidence: high

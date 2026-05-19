@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, olle]
+tags: [lecture, olle]
 reclassified: 2026-05-18
 classify_reason: "lecture outline notes"
 classify_confidence: high

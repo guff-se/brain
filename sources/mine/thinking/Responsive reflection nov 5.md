@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [reflektioner, workshop]
+tags: [reflections, workshop]
 reclassified: 2026-05-18
 classify_reason: "short reflection bullet"
 classify_confidence: medium

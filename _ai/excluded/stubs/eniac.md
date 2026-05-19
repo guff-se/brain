@@ -11,7 +11,7 @@ status: reference
 register: stub
 kind: note
 party: first
-tags: [forelasning, kontakter]
+tags: [lecture, contacts]
 reclassified: 2026-05-18
 classify_reason: "event briefing fragment"
 classify_confidence: high

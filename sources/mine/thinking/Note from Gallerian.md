@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [education, tankar]
+tags: [education, thoughts]
 reclassified: 2026-05-18
 classify_reason: "short reflection on education"
 classify_confidence: medium

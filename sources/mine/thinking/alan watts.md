@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2012-11-06
 updated: 2015-02-19
 status: reference
-tags: [filosofi, tankar]
+tags: [philosophy, thoughts]
 classify_confidence: high
 register: thinking
 kind: note

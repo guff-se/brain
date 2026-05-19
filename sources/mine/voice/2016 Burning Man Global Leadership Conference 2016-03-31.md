@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [burning-man, biografi]
+tags: [burning-man, biography]
 reclassified: 2026-05-18
 classify_reason: "polished narrative prose for BM leadership conference"
 classify_confidence: high

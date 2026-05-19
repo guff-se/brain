@@ -11,7 +11,7 @@ status: reference
 register: stub
 kind: note
 party: first
-tags: [entreprenorsjakten, natverk]
+tags: [entreprenorsjakten, network]
 reclassified: 2026-05-18
 classify_reason: "name-only contact list"
 classify_confidence: high

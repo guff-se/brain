@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [konsultprojekt, ideer]
+tags: [consulting-project, ideas]
 reclassified: 2026-05-18
 classify_reason: "Kite project brainstorm fragments"
 classify_confidence: medium

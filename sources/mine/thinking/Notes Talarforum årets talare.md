@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, ideer]
+tags: [lecture, ideas]
 reclassified: 2026-05-18
 classify_reason: "scattered talk idea seeds"
 classify_confidence: medium

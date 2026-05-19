@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [almedalen, meetings, kontakter]
+tags: [almedalen, meetings, contacts]
 reclassified: 2026-05-18
 classify_reason: "contact list for Almedalen"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, automation, work]
+tags: [lecture, automation, work]
 reclassified: 2026-05-18
 classify_reason: "draft content for Telenor lecture, mixed prose/bullets"
 classify_confidence: high

@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [tankar, trends]
+tags: [thoughts, trends]
 reclassified: 2026-05-18
 classify_reason: "short associative idea bullets"
 classify_confidence: low

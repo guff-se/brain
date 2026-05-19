@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [blogg, nyttforetag]
+tags: [blogg, new-company]
 reclassified: 2026-05-18
 classify_reason: "polished blog post test-don't-think"
 classify_confidence: high

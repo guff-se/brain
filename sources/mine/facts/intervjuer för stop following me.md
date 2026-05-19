@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, script]
+tags: [lecture, script]
 reclassified: 2026-05-18
 classify_reason: "interview questions list for video project"
 classify_confidence: high

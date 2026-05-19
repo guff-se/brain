@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, psychology, future]
+tags: [lecture, self-leadership, future]
 reclassified: 2026-05-18
 classify_reason: "polished long talk script"
 classify_confidence: high

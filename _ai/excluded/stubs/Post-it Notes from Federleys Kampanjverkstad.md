@@ -11,7 +11,7 @@ status: reference
 register: stub
 kind: note
 party: first
-tags: [federley, politik]
+tags: [federley, politics]
 reclassified: 2026-05-18
 classify_reason: "only attachment placeholders"
 classify_confidence: high

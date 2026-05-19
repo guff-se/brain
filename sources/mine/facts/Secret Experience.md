@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [kontakter, secret-experience]
+tags: [contacts, secret-experience]
 reclassified: 2026-05-18
 classify_reason: "contact list for event"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [meetings, affarsutveckling]
+tags: [meetings, business-development]
 reclassified: 2026-05-18
 classify_reason: "meeting notes with dated title and named contact"
 classify_confidence: high

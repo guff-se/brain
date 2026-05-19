@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, entreprenorsjakten, script]
+tags: [lecture, entrepreneurship, philosophy]
 reclassified: 2026-05-18
 classify_reason: "lecture script with full prose passages"
 classify_confidence: high

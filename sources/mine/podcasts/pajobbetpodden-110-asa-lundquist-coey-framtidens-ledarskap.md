@@ -11,7 +11,7 @@ episode_number: 110
 host_role: host
 guest: "Åsa Lundquist Coey"
 provenance: extracted
-tags: [pajobbetpodden, leadership, future, philosophy, starke-ledaren]
+tags: [pajobbetpodden, strong-leader, philosophy]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-110-asa-lundquist-coey-framtidens-ledarskap-transcript]]"

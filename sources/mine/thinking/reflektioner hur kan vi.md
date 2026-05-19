@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [tankar, ideer]
+tags: [thoughts, ideas]
 reclassified: 2026-05-18
 classify_reason: "scattered topic ideas"
 classify_confidence: low

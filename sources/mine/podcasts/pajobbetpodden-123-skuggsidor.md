@@ -11,7 +11,7 @@ episode_number: 123
 host_role: host
 guest: null
 provenance: extracted
-tags: [pajobbetpodden, psychology, leadership, consciousness, skuggsidor]
+tags: [pajobbetpodden, shadow-sides, psychology]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-123-skuggsidor-transcript]]"

@@ -8,7 +8,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, scandiform]
+tags: [lecture, scandiform]
 reclassified: 2026-05-18
 classify_reason: "client talk briefing"
 classify_confidence: high

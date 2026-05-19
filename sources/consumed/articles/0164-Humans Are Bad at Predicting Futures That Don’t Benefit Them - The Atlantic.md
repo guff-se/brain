@@ -8,7 +8,7 @@ provenance: extracted
 url: "https://www.theatlantic.com/science/archive/2017/11/humans-are-bad-at-predicting-futures-that-dont-benefit-them/544709/"
 ingested: 2026-05-13
 created: 2020-12-03
-tags: [future, kurtzweil, prediction]
+tags: [future, kurzweil, prediction]
 status: reference
 pocket_status: unread
 enrichment: original

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [workshop, forelasning]
+tags: [workshop, lecture]
 reclassified: 2026-05-18
 classify_reason: "notes preparing zoom workshop course"
 classify_confidence: high

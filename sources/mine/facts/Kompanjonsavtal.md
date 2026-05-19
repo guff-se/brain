@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [kompanjonsavtal, signr]
+tags: [partnership-agreement, signr]
 reclassified: 2026-05-18
 classify_reason: "partnership contract details"
 classify_confidence: high

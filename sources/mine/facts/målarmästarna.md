@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, meetings, affarsutveckling]
+tags: [lecture, meetings, business-development]
 reclassified: 2026-05-18
 classify_reason: "Malarmastarna client prep questions"
 classify_confidence: high

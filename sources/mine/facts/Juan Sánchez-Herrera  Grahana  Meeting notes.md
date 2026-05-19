@@ -8,7 +8,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [meetings, kontakter]
+tags: [meetings, contacts]
 reclassified: 2026-05-18
 classify_reason: "meeting notes with named contact"
 classify_confidence: high

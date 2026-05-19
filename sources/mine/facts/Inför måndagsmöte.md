@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [dagordning, entreprenorsjakten]
+tags: [agenda, entreprenorsjakten]
 reclassified: 2026-05-18
 classify_reason: "Monday meeting structure agenda"
 classify_confidence: high

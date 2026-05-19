@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, clarion]
+tags: [lecture, clarion]
 reclassified: 2026-05-18
 classify_reason: "event notes Visby"
 classify_confidence: high

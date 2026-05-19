@@ -11,7 +11,7 @@ episode_number: 103
 host_role: host
 guest: "Michel Westher"
 provenance: extracted
-tags: [pajobbetpodden, leadership, corona]
+tags: [pajobbetpodden, corona, learning]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-103-michel-westher-bli-effektivare-pa-den-virtuella-scenen-transcript]]"

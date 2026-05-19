@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [andetag, reflektioner]
+tags: [andetag, reflections]
 reclassified: 2026-05-18
 classify_reason: "personal reflection on Tadaa conference"
 classify_confidence: high

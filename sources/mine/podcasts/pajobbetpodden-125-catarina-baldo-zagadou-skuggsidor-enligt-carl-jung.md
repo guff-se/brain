@@ -11,7 +11,7 @@ episode_number: 125
 host_role: host
 guest: "Catarina Baldo Zagadou"
 provenance: extracted
-tags: [pajobbetpodden, psychology, skuggsidor]
+tags: [pajobbetpodden, psychology, shadow-sides]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-125-catarina-baldo-zagadou-skuggsidor-enligt-carl-jung-transcript]]"

@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, ai]
+tags: [lecture, ai]
 reclassified: 2026-05-18
 classify_reason: "client briefing"
 classify_confidence: high

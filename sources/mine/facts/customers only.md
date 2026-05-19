@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, pr]
+tags: [lecture, pr]
 reclassified: 2026-05-18
 classify_reason: "talk billing description fragment"
 classify_confidence: medium

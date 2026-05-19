@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, script, filosofi]
+tags: [lecture, script, philosophy]
 reclassified: 2026-05-18
 classify_reason: "polished lecture script Vad ar verkligt"
 classify_confidence: high

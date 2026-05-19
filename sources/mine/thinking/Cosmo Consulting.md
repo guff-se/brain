@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, ai]
+tags: [lecture, ai]
 reclassified: 2026-05-18
 classify_reason: "talk prep notes"
 classify_confidence: medium

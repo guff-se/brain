@@ -11,7 +11,7 @@ episode_number: 9
 host_role: guest
 host: null
 provenance: extracted
-tags: [forelasning, future, leadership]
+tags: [lecture, future, self-leadership]
 status: reference
 ingested: 2026-05-19
 transcript: "[[battre-tillsammans-9-futuristen-transcript]]"

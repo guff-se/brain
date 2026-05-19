@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, end-of-work]
+tags: [lecture, end-of-work]
 reclassified: 2026-05-18
 classify_reason: "talk prep notes Trygghetsstiftelsen"
 classify_confidence: high

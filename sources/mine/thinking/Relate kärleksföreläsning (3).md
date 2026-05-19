@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [love, forelasning, relationships]
+tags: [love, lecture, relationships]
 reclassified: 2026-05-18
 classify_reason: "lecture outline on love, mixed prose/fragments"
 classify_confidence: high

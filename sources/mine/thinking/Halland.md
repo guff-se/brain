@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [workshop, ideer]
+tags: [workshop, ideas]
 reclassified: 2026-05-18
 classify_reason: "innovation system workshop prep questions"
 classify_confidence: medium

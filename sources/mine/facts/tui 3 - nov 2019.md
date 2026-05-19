@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, tui]
+tags: [lecture, tui]
 reclassified: 2026-05-18
 classify_reason: "workshop run notes for TUI"
 classify_confidence: medium

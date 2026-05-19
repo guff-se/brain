@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [entreprenorsjakten, forelasning]
+tags: [entreprenorsjakten, lecture]
 reclassified: 2026-05-18
 classify_reason: "list of young inventors for talks"
 classify_confidence: medium

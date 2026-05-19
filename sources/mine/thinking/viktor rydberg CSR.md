@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [csr, forelasning]
+tags: [csr, lecture]
 reclassified: 2026-05-18
 classify_reason: "CSR lecture topic outline"
 classify_confidence: high

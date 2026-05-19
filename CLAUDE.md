@@ -92,6 +92,7 @@ Apple Notes and Evernote contain a mix of all four registers. A pasted article i
 
 ### Tags
 - Lowercase, kebab-case. Diacritics stripped.
+- **Tags must be in English.** Preserve Swedish/other languages in note bodies and titles, but normalize tags to English equivalents.
 - 2–3 tags max per note. Use specific over broad.
 - New tag → write into `_meta/_tag_candidates.md` first. Promote to `taxonomy.md` only after ≥3 notes justify it.
 

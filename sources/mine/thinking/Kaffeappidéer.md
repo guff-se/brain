@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [ideer, app-ideas]
+tags: [ideas, app-ideas]
 reclassified: 2026-05-18
 classify_reason: "app idea bullets for coffee app"
 classify_confidence: medium

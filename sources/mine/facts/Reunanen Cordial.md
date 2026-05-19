@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [konsultprojekt, meetings]
+tags: [consulting-project, meetings]
 reclassified: 2026-05-18
 classify_reason: "workshop reflection notes Cordial"
 classify_confidence: high

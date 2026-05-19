@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [meetings, forelasning]
+tags: [meetings, lecture]
 reclassified: 2026-05-18
 classify_reason: "HSB meeting jot"
 classify_confidence: medium

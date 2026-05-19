@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, biografi, pr]
+tags: [lecture, biography, pr]
 reclassified: 2026-05-18
 classify_reason: "polished interview/PR text"
 classify_confidence: high

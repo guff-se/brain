@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2022-09-07
 updated: 2022-09-28
 status: reference
-tags: [metaverse, forelasning, web3]
+tags: [metaverse, lecture, web3]
 classify_confidence: high
 register: thinking
 kind: note

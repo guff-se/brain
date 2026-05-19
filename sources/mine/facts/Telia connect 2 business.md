@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [telia, forelasning]
+tags: [telia, lecture]
 reclassified: 2026-05-18
 classify_reason: "Telia keynote planning notes with date"
 classify_confidence: high

@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2020-06-06
 updated: 2020-06-06
 status: reference
-tags: [dikter, art]
+tags: [poetry, art]
 classify_confidence: high
 register: consumed
 kind: article

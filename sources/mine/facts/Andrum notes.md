@@ -5,7 +5,7 @@ source_id: "iCloud/Andrum notes.md"
 provenance: extracted
 ingested: 2026-05-13
 status: reference
-tags: [andrum, kontakter]
+tags: [breathing-space, contacts]
 classify_confidence: medium
 register: facts
 kind: note

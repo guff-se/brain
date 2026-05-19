@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, trends]
+tags: [lecture, trends]
 reclassified: 2026-05-18
 classify_reason: "speaker bio draft notes"
 classify_confidence: medium

@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [entreprenorsjakten, salj]
+tags: [entreprenorsjakten, sales]
 reclassified: 2026-05-18
 classify_reason: "dated sales meeting notes"
 classify_confidence: high

@@ -8,7 +8,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, entreprenorsjakten]
+tags: [lecture, entreprenorsjakten]
 reclassified: 2026-05-18
 classify_reason: "Emax lecture outline bullets"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [mens-work, manscirkel]
+tags: [mens-work, mens-circle]
 reclassified: 2026-05-18
 classify_reason: "bullet notes on men's work strategy"
 classify_confidence: high

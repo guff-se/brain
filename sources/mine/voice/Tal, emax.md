@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, script, entreprenorsjakten]
+tags: [lecture, script, entreprenorsjakten]
 reclassified: 2026-05-18
 classify_reason: "polished emax speech full prose"
 classify_confidence: high

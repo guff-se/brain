@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, cities]
+tags: [lecture, cities]
 reclassified: 2026-05-18
 classify_reason: "talk prep bullets for aktivbo"
 classify_confidence: medium

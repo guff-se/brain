@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [workshop, affarsutveckling]
+tags: [workshop, business-development]
 reclassified: 2026-05-18
 classify_reason: "short workshop pitch description"
 classify_confidence: medium

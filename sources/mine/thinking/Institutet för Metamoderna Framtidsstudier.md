@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [metamoderna, leadership]
+tags: [metamodernism, leadership]
 reclassified: 2026-05-18
 classify_reason: "draft text for research institute"
 classify_confidence: high

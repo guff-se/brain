@@ -7,7 +7,7 @@ register: voice
 source: own-recording
 source_id: "youtube:yt_22"
 provenance: extracted
-tags: [forelasning, future, philosophy]
+tags: [lecture, future, philosophy]
 status: reference
 ingested: 2026-05-19
 transcript: "[[keynote-framtidens-internet-som-hot-och-mojlighet-gustaf-josefsson-transcript]]"

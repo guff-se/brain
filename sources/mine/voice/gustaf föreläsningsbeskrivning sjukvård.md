@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, ai]
+tags: [lecture, ai]
 reclassified: 2026-05-18
 classify_reason: "polished talk description healthcare"
 classify_confidence: high

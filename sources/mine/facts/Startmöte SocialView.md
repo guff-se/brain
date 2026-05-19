@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [meetings, konsultprojekt]
+tags: [meetings, consulting-project]
 reclassified: 2026-05-18
 classify_reason: "startup meeting notes SocialView"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, meaning]
+tags: [lecture, meaning]
 reclassified: 2026-05-18
 classify_reason: "talk series topic seeds"
 classify_confidence: medium

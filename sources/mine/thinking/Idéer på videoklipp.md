@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [ideer, pr]
+tags: [ideas, pr]
 reclassified: 2026-05-18
 classify_reason: "video clip topic ideas"
 classify_confidence: medium

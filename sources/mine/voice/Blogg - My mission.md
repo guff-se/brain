@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [blogg, entreprenorsjakten, ideer]
+tags: [blogg, entreprenorsjakten, ideas]
 reclassified: 2026-05-18
 classify_reason: "polished blog post about youth entrepreneurship"
 classify_confidence: high

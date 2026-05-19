@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, guff]
+tags: [lecture, guff]
 reclassified: 2026-05-18
 classify_reason: "feedback notes for own talks"
 classify_confidence: medium

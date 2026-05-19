@@ -8,7 +8,7 @@ provenance: extracted
 url: "http://metamoderna.org/the-listening-society-possible-and-necessary?lang=en"
 ingested: 2026-05-13
 created: 2017-09-07
-tags: [alter-ego, metamoderna]
+tags: [alter-ego, metamodernism]
 status: reference
 pocket_status: unread
 enrichment: original

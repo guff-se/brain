@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [thinking, forelasning]
+tags: [thinking, lecture]
 reclassified: 2026-05-18
 classify_reason: "event pitch text fragment"
 classify_confidence: medium

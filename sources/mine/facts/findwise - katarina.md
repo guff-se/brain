@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2018-03-06
 updated: 2018-03-06
 status: reference
-tags: [forelasning, meetings]
+tags: [lecture, meetings]
 classify_confidence: high
 register: facts
 kind: note

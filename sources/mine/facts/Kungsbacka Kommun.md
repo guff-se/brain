@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, leadership]
+tags: [lecture, leadership]
 reclassified: 2026-05-18
 classify_reason: "Kungsbacka talk briefing"
 classify_confidence: high

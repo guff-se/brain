@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, digital, workshop]
+tags: [lecture, digital, workshop]
 reclassified: 2026-05-18
 classify_reason: "Berghs lecture outline bullets"
 classify_confidence: high

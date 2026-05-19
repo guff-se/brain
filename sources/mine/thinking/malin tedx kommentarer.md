@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, tankar]
+tags: [lecture, thoughts]
 reclassified: 2026-05-18
 classify_reason: "feedback notes on Malin TEDx"
 classify_confidence: high

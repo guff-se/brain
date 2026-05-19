@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2012-05-19
 updated: 2012-05-19
 status: reference
-tags: [nxtg, salj]
+tags: [nxtg, sales]
 classify_confidence: high
 register: voice
 kind: note

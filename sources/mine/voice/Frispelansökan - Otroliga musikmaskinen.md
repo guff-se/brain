@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [ansokan, art, musik]
+tags: [application, art, co-creation]
 reclassified: 2026-05-18
 classify_reason: "polished Frispel application"
 classify_confidence: high

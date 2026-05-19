@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelas, biografi, cv]
+tags: [lecture, biography, cv]
 reclassified: 2026-05-18
 classify_reason: "polished speaker bio in Swedish"
 classify_confidence: high

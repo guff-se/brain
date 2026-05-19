@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2019-09-20
 updated: 2019-10-01
 status: reference
-tags: [forelasning, marketing]
+tags: [lecture, marketing]
 classify_confidence: medium
 register: thinking
 kind: note

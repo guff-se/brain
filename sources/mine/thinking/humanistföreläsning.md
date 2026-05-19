@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, syntheism, filosofi]
+tags: [lecture, syntheism, philosophy]
 reclassified: 2026-05-18
 classify_reason: "philosophy lecture notes"
 classify_confidence: high

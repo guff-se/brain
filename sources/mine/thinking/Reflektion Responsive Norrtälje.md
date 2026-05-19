@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelas, reflektioner, mens-work]
+tags: [lecture, reflections, mens-work]
 reclassified: 2026-05-18
 classify_reason: "personal retreat reflections fragmentary"
 classify_confidence: high

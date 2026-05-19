@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, vuca]
+tags: [lecture, vuca]
 reclassified: 2026-05-18
 classify_reason: "dated event prep notes"
 classify_confidence: high

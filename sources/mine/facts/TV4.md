@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2016-05-21
 updated: 2016-05-23
 status: reference
-tags: [forelasning, ai]
+tags: [lecture, ai]
 classify_confidence: medium
 register: facts
 kind: note

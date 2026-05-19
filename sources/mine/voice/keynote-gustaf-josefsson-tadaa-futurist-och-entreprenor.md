@@ -7,7 +7,7 @@ register: voice
 source: own-recording
 source_id: "youtube:yt_20"
 provenance: extracted
-tags: [forelasning, future, leadership]
+tags: [lecture, future, leadership]
 status: reference
 ingested: 2026-05-19
 transcript: "[[keynote-gustaf-josefsson-tadaa-futurist-och-entreprenor-transcript]]"

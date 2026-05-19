@@ -11,7 +11,7 @@ episode_number: 134
 host_role: host
 guest: null
 provenance: extracted
-tags: [pajobbetpodden, skuggsidor, psychology]
+tags: [pajobbetpodden, shadow-sides, psychology]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-134-vad-vi-vet-om-skuggsidor-sasongsavslutning-transcript]]"

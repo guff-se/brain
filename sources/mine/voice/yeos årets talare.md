@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, yeos, pr]
+tags: [lecture, yeos, pr]
 reclassified: 2026-05-18
 classify_reason: "polished YEoS interview-style article"
 classify_confidence: high

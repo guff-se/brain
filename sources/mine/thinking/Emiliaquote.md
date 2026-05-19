@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [kreativitet, biografi]
+tags: [creativity, biography]
 reclassified: 2026-05-18
 classify_reason: "transcribed child's imaginative monologue, used in talks"
 classify_confidence: medium

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [psychology, forelasning]
+tags: [shadow-sides, psychology, lecture]
 reclassified: 2026-05-18
 classify_reason: "shadow work talk preparation"
 classify_confidence: high

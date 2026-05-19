@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2019-05-20
 updated: 2019-05-21
 status: reference
-tags: [musik]
+tags: [music]
 classify_confidence: high
 register: consumed
 kind: clipping

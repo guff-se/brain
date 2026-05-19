@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [entreprenorsjakten, ansokan, pr]
+tags: [entreprenorsjakten, application, pr]
 reclassified: 2026-05-18
 classify_reason: "polished application copy for EJ"
 classify_confidence: high

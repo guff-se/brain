@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, psychology]
+tags: [lecture, psychology]
 reclassified: 2026-05-18
 classify_reason: "bullet-form talk preparation on adulthood/development"
 classify_confidence: medium

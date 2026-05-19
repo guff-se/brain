@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, workshop]
+tags: [lecture, workshop]
 reclassified: 2026-05-18
 classify_reason: "speaker prep notes for summit"
 classify_confidence: medium

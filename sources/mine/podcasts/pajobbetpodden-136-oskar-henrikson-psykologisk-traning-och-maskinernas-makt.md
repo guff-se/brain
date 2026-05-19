@@ -11,7 +11,7 @@ episode_number: 136
 host_role: host
 guest: "Oskar Henrikson"
 provenance: extracted
-tags: [pajobbetpodden, psychology, tech, manniskor-maskiner-makt]
+tags: [pajobbetpodden, people-machines-power, psychology]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-136-oskar-henrikson-psykologisk-traning-och-maskinernas-makt-transcript]]"

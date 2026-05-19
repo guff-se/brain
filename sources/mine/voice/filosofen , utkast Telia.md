@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, script, telia]
+tags: [lecture, script, telia]
 reclassified: 2026-05-18
 classify_reason: "polished talk script draft"
 classify_confidence: high

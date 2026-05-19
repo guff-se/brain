@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, internet]
+tags: [lecture, internet]
 reclassified: 2026-05-18
 classify_reason: "talk topic seeds for Internet World"
 classify_confidence: medium

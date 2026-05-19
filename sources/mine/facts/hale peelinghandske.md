@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [signr, salj]
+tags: [signr, sales]
 reclassified: 2026-05-18
 classify_reason: "sales todo bullets"
 classify_confidence: low

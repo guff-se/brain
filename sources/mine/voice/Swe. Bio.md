@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [biografi, forelasning, pr]
+tags: [biography, lecture, pr]
 reclassified: 2026-05-18
 classify_reason: "polished short bio"
 classify_confidence: high

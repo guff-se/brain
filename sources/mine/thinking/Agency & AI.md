@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [ai, tankar, culture]
+tags: [ai, thoughts, culture]
 reclassified: 2026-05-18
 classify_reason: "short opinion fragment on AI agency"
 classify_confidence: medium

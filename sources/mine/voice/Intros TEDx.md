@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, script, tech]
+tags: [lecture, script, tech]
 reclassified: 2026-05-18
 classify_reason: "polished TEDx intro speeches"
 classify_confidence: high

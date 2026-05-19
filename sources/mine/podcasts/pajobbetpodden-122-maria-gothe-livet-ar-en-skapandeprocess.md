@@ -11,7 +11,7 @@ episode_number: 122
 host_role: host
 guest: "Maria Göthe"
 provenance: extracted
-tags: [pajobbetpodden, leadership, consciousness, philosophy]
+tags: [pajobbetpodden, leadership, identity]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-122-maria-gothe-livet-ar-en-skapandeprocess-transcript]]"

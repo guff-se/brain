@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2014-04-13
 updated: 2014-04-13
 status: reference
-tags: [federley, dagordning]
+tags: [federley, agenda]
 classify_confidence: high
 register: facts
 kind: note

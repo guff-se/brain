@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [ideer, economy]
+tags: [ideas, economy]
 reclassified: 2026-05-18
 classify_reason: "short concept idea Moloch"
 classify_confidence: low

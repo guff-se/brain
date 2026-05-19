@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, ikea, meetings]
+tags: [lecture, ikea, meetings]
 reclassified: 2026-05-18
 classify_reason: "prep notes IKEA Almhult lecture, dated title"
 classify_confidence: high

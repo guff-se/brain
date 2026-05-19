@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelas, leadership]
+tags: [lecture, leadership]
 reclassified: 2026-05-18
 classify_reason: "talk note keywords"
 classify_confidence: low

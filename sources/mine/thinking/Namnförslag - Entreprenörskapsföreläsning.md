@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, entrepreneurship]
+tags: [lecture, entrepreneurship]
 reclassified: 2026-05-18
 classify_reason: "lecture title brainstorm"
 classify_confidence: medium

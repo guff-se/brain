@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [dikter]
+tags: [poetry]
 reclassified: 2026-05-18
 classify_reason: "complete poem about flying"
 classify_confidence: high

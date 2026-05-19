@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, ideer]
+tags: [lecture, ideas]
 reclassified: 2026-05-18
 classify_reason: "keyword jot for Lundsberg talk"
 classify_confidence: low

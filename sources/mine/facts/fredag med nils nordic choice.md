@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [meetings, ideer]
+tags: [meetings, ideas]
 reclassified: 2026-05-18
 classify_reason: "meeting bullet jot"
 classify_confidence: medium

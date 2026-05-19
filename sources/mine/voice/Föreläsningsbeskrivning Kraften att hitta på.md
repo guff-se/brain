@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, pr]
+tags: [lecture, pr]
 reclassified: 2026-05-18
 classify_reason: "polished lecture description with quotes"
 classify_confidence: high

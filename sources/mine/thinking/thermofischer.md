@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, thermofischer]
+tags: [lecture, thermofischer]
 reclassified: 2026-05-18
 classify_reason: "client talk prep bullets"
 classify_confidence: high

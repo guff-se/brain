@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [psychology, kontakter]
+tags: [psychology, contacts]
 reclassified: 2026-05-18
 classify_reason: "post-conversation notes with references"
 classify_confidence: medium

@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, yeos, syntheism]
+tags: [lecture, yeos, syntheism]
 reclassified: 2026-05-18
 classify_reason: "lecture script polished"
 classify_confidence: high

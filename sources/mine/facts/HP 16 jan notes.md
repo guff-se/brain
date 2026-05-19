@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, hp]
+tags: [lecture, hp]
 reclassified: 2026-05-18
 classify_reason: "talk briefing notes"
 classify_confidence: high

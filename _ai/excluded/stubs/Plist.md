@@ -8,7 +8,7 @@ status: reference
 register: stub
 kind: note
 party: first
-tags: [kontakter]
+tags: [contacts]
 reclassified: 2026-05-18
 classify_reason: "list of names only"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [politik, federley]
+tags: [politics, federley]
 reclassified: 2026-05-18
 classify_reason: "TTIP political opinion draft"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning-script, self-leadership]
+tags: [lecture-script, self-leadership]
 reclassified: 2026-05-18
 classify_reason: "talk script bullet outline"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, transformation]
+tags: [lecture, transformation]
 reclassified: 2026-05-18
 classify_reason: "polished essay on transformation experiences"
 classify_confidence: high

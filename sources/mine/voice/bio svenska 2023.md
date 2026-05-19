@@ -5,7 +5,7 @@ source_id: "iCloud/bio svenska 2023.md"
 provenance: extracted
 ingested: 2026-05-13
 status: reference
-tags: [biografi, forelasning]
+tags: [biography, lecture]
 classify_confidence: high
 register: voice
 kind: note

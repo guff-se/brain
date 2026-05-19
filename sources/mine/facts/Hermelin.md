@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [entreprenorsjakten-stockholm, kontakter]
+tags: [entreprenorsjakten-stockholm, contacts]
 reclassified: 2026-05-18
 classify_reason: "contact info"
 classify_confidence: high

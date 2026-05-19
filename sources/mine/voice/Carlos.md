@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [politik, metamoderna]
+tags: [politics, metamodernism]
 reclassified: 2026-05-18
 classify_reason: "first-person prose response"
 classify_confidence: high

@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, future]
+tags: [lecture, future]
 reclassified: 2026-05-18
 classify_reason: "talk prep brief notes"
 classify_confidence: medium

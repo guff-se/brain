@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [workshop, strategi, konsultprojekt]
+tags: [workshop, strategy, consulting-project]
 reclassified: 2026-05-18
 classify_reason: "Strawbees consulting proposal notes"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, framtidsgalan]
+tags: [lecture, framtidsgalan]
 reclassified: 2026-05-18
 classify_reason: "event prep notes"
 classify_confidence: high

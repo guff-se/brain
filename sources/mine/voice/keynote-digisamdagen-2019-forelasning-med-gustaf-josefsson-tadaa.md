@@ -7,7 +7,7 @@ register: voice
 source: own-recording
 source_id: "youtube:yt_23"
 provenance: extracted
-tags: [forelasning, ai, culture]
+tags: [lecture, ai, culture]
 status: reference
 ingested: 2026-05-19
 transcript: "[[keynote-digisamdagen-2019-forelasning-med-gustaf-josefsson-tadaa-transcript]]"

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, rhetoric]
+tags: [lecture, rhetoric]
 reclassified: 2026-05-18
 classify_reason: "speaking tips notes from Navid"
 classify_confidence: high

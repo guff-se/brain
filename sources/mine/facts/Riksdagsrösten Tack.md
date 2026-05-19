@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [riksdagsrosten, fundedbyme, pr]
+tags: [parliamentary-vote, fundedbyme, pr]
 reclassified: 2026-05-18
 classify_reason: "templated thank-you/marketing emails for campaign"
 classify_confidence: high

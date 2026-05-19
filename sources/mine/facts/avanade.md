@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, meetings, ai]
+tags: [lecture, meetings, ai]
 reclassified: 2026-05-18
 classify_reason: "Avanade lecture prep fragments"
 classify_confidence: high

@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2018-11-09
 updated: 2019-11-14
 status: reference
-tags: [forelas, leadership]
+tags: [lecture, leadership]
 classify_confidence: high
 register: thinking
 kind: note

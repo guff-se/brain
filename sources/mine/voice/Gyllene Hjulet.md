@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, participation, script]
+tags: [lecture, co-creation, trust]
 reclassified: 2026-05-18
 classify_reason: "polished personal letter and talk plan"
 classify_confidence: high

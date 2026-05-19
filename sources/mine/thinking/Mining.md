@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, economy, blockchain]
+tags: [lecture, economy, blockchain]
 reclassified: 2026-05-18
 classify_reason: "lecture research fragments on mining/economy"
 classify_confidence: high

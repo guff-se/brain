@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, leadership]
+tags: [lecture, leadership]
 reclassified: 2026-05-18
 classify_reason: "talk outline on leading without leading"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, trust, vuca]
+tags: [lecture, trust, vuca]
 reclassified: 2026-05-18
 classify_reason: "talk prep notes about trust"
 classify_confidence: medium

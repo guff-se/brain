@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, education, tankar]
+tags: [lecture, education, thoughts]
 reclassified: 2026-05-18
 classify_reason: "short bullet fragments on schooling/tech"
 classify_confidence: medium

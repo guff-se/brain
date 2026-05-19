@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, capitalism, tech]
+tags: [lecture, capitalism, tech]
 reclassified: 2026-05-18
 classify_reason: "lecture prep linking digitalization to centralization"
 classify_confidence: high

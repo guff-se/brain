@@ -11,7 +11,7 @@ status: reference
 register: stub
 kind: note
 party: first
-tags: [forelasning]
+tags: [lecture]
 reclassified: 2026-05-18
 classify_reason: "minimal gig logistics"
 classify_confidence: high

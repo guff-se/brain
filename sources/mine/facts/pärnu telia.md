@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, telia, meetings]
+tags: [lecture, telia, meetings]
 reclassified: 2026-05-18
 classify_reason: "prep notes for Telia Parnu lecture"
 classify_confidence: high

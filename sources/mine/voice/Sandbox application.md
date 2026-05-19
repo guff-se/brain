@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [ansokan, biografi]
+tags: [application, entrepreneurship, burning-man]
 reclassified: 2026-05-18
 classify_reason: "long Sandbox application essay first person"
 classify_confidence: high

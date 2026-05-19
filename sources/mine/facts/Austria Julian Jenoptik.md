@@ -8,7 +8,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, meetings]
+tags: [lecture, meetings]
 reclassified: 2026-05-18
 classify_reason: "dated talk prep for Jenoptik"
 classify_confidence: high

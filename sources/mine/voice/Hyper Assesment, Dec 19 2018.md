@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [hyper-island, forelas]
+tags: [hyper-island, education, feedback]
 reclassified: 2026-05-18
 classify_reason: "long assessment writeup Hyper Island"
 classify_confidence: medium

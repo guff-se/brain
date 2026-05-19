@@ -8,7 +8,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, metaverse]
+tags: [lecture, metaverse]
 reclassified: 2026-05-18
 classify_reason: "dated client team-day prep"
 classify_confidence: high

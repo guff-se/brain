@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, script, workshop]
+tags: [lecture, script, workshop]
 reclassified: 2026-05-18
 classify_reason: "Ubisoft workshop script outline"
 classify_confidence: high

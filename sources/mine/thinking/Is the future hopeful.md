@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [future, tankar]
+tags: [future, thoughts]
 reclassified: 2026-05-18
 classify_reason: "one-line aphorism"
 classify_confidence: medium

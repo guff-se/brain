@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, kreativitet, entreprenorsjakten]
+tags: [lecture, creativity, entreprenorsjakten]
 reclassified: 2026-05-18
 classify_reason: "lecture prep notes on innovation and lean"
 classify_confidence: high

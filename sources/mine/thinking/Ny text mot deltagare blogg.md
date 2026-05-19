@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [blogg, entreprenorsjakten, ansokan]
+tags: [blogg, entreprenorsjakten, application]
 reclassified: 2026-05-18
 classify_reason: "short promotional draft"
 classify_confidence: high

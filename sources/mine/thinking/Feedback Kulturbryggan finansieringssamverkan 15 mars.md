@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [kulturbryggan, bedomning]
+tags: [kulturbryggan, assessment]
 reclassified: 2026-05-18
 classify_reason: "feedback on funding applications"
 classify_confidence: medium

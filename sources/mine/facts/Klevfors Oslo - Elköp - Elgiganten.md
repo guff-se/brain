@@ -5,7 +5,7 @@ source_id: "iCloud/Klevfors Oslo - Elköp - Elgiganten.md"
 provenance: extracted
 ingested: 2026-05-13
 status: reference
-tags: [forelasning, elkop]
+tags: [lecture, elkop]
 classify_confidence: high
 register: facts
 kind: note

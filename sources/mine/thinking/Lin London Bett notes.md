@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, tech, singularity]
+tags: [lecture, tech, singularity]
 reclassified: 2026-05-18
 classify_reason: "lecture outline with tech examples"
 classify_confidence: medium

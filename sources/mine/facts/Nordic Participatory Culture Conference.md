@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [kontakter, co-creation]
+tags: [contacts, co-creation]
 reclassified: 2026-05-18
 classify_reason: "conference contacts list"
 classify_confidence: medium

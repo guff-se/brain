@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, boehringer]
+tags: [lecture, boehringer]
 reclassified: 2026-05-18
 classify_reason: "client briefing notes"
 classify_confidence: high

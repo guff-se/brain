@@ -8,7 +8,7 @@ provenance: extracted
 url: "https://www.wired.com/story/meltdown-spectre-bug-collision-intel-chip-flaw-discovery/"
 ingested: 2026-05-13
 created: 2018-01-08
-tags: [evolution, synchronisity, tech]
+tags: [evolution, synchronicity, tech]
 status: reference
 pocket_status: unread
 enrichment: original

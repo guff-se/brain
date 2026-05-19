@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [ideer, teckensprak]
+tags: [ideas, sign-language]
 reclassified: 2026-05-18
 classify_reason: "business idea bullets for sign language"
 classify_confidence: medium

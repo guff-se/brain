@@ -8,7 +8,7 @@ provenance: extracted
 url: "https://qualiacomputing.com/2017/09/12/burning-man/"
 ingested: 2026-05-13
 created: 2017-09-13
-tags: [burning-man, metamoderna, philosophy]
+tags: [burning-man, metamodernism, philosophy]
 status: reference
 pocket_status: unread
 enrichment: original

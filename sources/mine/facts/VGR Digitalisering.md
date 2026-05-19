@@ -8,7 +8,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, vgr]
+tags: [lecture, vgr]
 reclassified: 2026-05-18
 classify_reason: "event briefing"
 classify_confidence: high

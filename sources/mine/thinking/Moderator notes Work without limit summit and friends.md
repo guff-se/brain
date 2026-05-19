@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, end-of-work, leadership]
+tags: [work, end-of-work, lecture]
 reclassified: 2026-05-18
 classify_reason: "detailed moderator script and notes"
 classify_confidence: high

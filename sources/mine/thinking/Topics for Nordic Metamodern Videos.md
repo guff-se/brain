@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [metamoderna, ideer]
+tags: [metamodernism, ideas]
 reclassified: 2026-05-18
 classify_reason: "list of video topic ideas"
 classify_confidence: high

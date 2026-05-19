@@ -11,7 +11,7 @@ episode_number: 112
 host_role: host
 guest: "Lena Ahlström"
 provenance: extracted
-tags: [pajobbetpodden, leadership, psychology, consciousness, starke-ledaren]
+tags: [pajobbetpodden, strong-leader, psychology]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-112-lena-ahlstrom-styrka-ar-sarbarhet-transcript]]"

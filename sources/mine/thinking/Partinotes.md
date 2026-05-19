@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2012-04-09
 updated: 2012-05-10
 status: reference
-tags: [politik, riksdagsrosten]
+tags: [politics, parliamentary-vote]
 classify_confidence: medium
 register: thinking
 kind: note

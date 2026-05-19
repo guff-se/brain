@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [filosofi, syntheism, philosophy]
+tags: [philosophy, syntheism]
 reclassified: 2026-05-18
 classify_reason: "polished essay on order and chaos"
 classify_confidence: high

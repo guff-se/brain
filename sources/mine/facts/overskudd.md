@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, ai, automation]
+tags: [lecture, ai, automation]
 reclassified: 2026-05-18
 classify_reason: "talk prep notes Overskudd"
 classify_confidence: high

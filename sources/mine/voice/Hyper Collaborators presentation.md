@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [co-creation, teal, biografi]
+tags: [co-creation, teal, biography]
 reclassified: 2026-05-18
 classify_reason: "polished self-introduction for collaborators group"
 classify_confidence: high

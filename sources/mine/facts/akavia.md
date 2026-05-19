@@ -5,7 +5,7 @@ source_id: "iCloud/akavia.md"
 provenance: extracted
 ingested: 2026-05-13
 status: reference
-tags: [forelasning, ai]
+tags: [lecture, ai]
 classify_confidence: high
 register: facts
 kind: note

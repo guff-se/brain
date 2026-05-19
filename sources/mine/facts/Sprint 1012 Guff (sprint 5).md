@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [entreprenorsjakten, konsultprojekt]
+tags: [entreprenorsjakten, consulting-project]
 reclassified: 2026-05-18
 classify_reason: "sprint planning Guff"
 classify_confidence: medium

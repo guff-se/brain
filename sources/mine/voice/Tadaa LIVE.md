@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [pr, tankar]
+tags: [pr, thoughts]
 reclassified: 2026-05-18
 classify_reason: "short polished announcement of TV show"
 classify_confidence: medium

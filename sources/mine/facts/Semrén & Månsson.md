@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, future]
+tags: [lecture, future]
 reclassified: 2026-05-18
 classify_reason: "S&M architects talk logistics"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, 3dprinting]
+tags: [lecture, 3dprinting]
 reclassified: 2026-05-18
 classify_reason: "talk prep bullets Trollhattan"
 classify_confidence: medium

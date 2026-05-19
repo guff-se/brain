@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [the-borderland, musik]
+tags: [the-borderland, music]
 reclassified: 2026-05-18
 classify_reason: "polished party invite text"
 classify_confidence: high

@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2010-02-02
 updated: 2010-02-02
 status: reference
-tags: [entreprenorsjakten, ansokan]
+tags: [entreprenorsjakten, application]
 classify_confidence: high
 register: voice
 kind: note

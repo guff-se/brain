@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2010-02-08
 updated: 2010-05-11
 status: reference
-tags: [entreprenorsjakten, salj, kontakter]
+tags: [entreprenorsjakten, sales, contacts]
 classify_confidence: high
 register: facts
 kind: note

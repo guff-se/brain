@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, trends]
+tags: [lecture, trends]
 reclassified: 2026-05-18
 classify_reason: "lecture material stats listing"
 classify_confidence: medium

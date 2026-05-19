@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [burning-man, kontakter]
+tags: [burning-man, contacts]
 reclassified: 2026-05-18
 classify_reason: "ticket name list"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [the-borderland, forelasning]
+tags: [the-borderland, lecture]
 reclassified: 2026-05-18
 classify_reason: "intro talk outline"
 classify_confidence: medium

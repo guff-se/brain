@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, cities]
+tags: [lecture, cities]
 reclassified: 2026-05-18
 classify_reason: "talk note stats from Nordstrom"
 classify_confidence: medium

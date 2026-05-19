@@ -11,7 +11,7 @@ status: reference
 register: stub
 kind: note
 party: first
-tags: [kontakter, natverk]
+tags: [contacts, network]
 reclassified: 2026-05-18
 classify_reason: "name-only networking list"
 classify_confidence: high

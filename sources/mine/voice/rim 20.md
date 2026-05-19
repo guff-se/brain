@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [dikter, rim]
+tags: [poetry, rim]
 reclassified: 2026-05-18
 classify_reason: "personal rhymed poems"
 classify_confidence: high

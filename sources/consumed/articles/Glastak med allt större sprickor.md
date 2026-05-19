@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2017-11-23
 updated: 2017-11-23
 status: reference
-tags: [jamstalldhet]
+tags: [gender-equality]
 classify_confidence: high
 register: consumed
 kind: article

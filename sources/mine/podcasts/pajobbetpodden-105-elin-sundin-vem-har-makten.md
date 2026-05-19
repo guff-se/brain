@@ -11,7 +11,7 @@ episode_number: 105
 host_role: host
 guest: "Elin Sundin"
 provenance: extracted
-tags: [pajobbetpodden, power, leadership, organizing]
+tags: [pajobbetpodden, power, organizing]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-105-elin-sundin-vem-har-makten-transcript]]"

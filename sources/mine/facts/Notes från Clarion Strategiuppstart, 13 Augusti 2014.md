@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [clarion, konsultprojekt]
+tags: [clarion, consulting-project]
 reclassified: 2026-05-18
 classify_reason: "dated meeting notes Clarion strategy"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: stub
 kind: note
 party: first
-tags: [musik, burning-man]
+tags: [music, burning-man]
 reclassified: 2026-05-18
 classify_reason: "music and contacts list"
 classify_confidence: high

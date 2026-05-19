@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, syntheism, meaning]
+tags: [lecture, syntheism, meaning]
 reclassified: 2026-05-18
 classify_reason: "lecture prep fragmentary topical reasoning"
 classify_confidence: high

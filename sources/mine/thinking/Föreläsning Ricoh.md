@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, change, tankar]
+tags: [lecture, change, thoughts]
 reclassified: 2026-05-18
 classify_reason: "lecture prep notes Ricoh, mixed bullets/prose"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [granslandeet, meetings]
+tags: [the-borderland, meetings]
 reclassified: 2026-05-18
 classify_reason: "dated meeting prep with action items"
 classify_confidence: high

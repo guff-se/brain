@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [blogg, politik]
+tags: [blogg, politics]
 reclassified: 2026-05-18
 classify_reason: "polished open letter"
 classify_confidence: high

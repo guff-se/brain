@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [politik, initiativet]
+tags: [politics, communication, democracy]
 reclassified: 2026-05-18
 classify_reason: "manifesto-style debate dogmas text"
 classify_confidence: medium

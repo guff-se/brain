@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [workshop, reflektioner]
+tags: [workshop, reflections]
 reclassified: 2026-05-18
 classify_reason: "notes from online learning session"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [syntheism, filosofi]
+tags: [syntheism, philosophy]
 reclassified: 2026-05-18
 classify_reason: "syntheism talking points"
 classify_confidence: high

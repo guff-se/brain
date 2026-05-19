@@ -8,7 +8,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [ai, forelasning]
+tags: [ai, lecture]
 reclassified: 2026-05-18
 classify_reason: "polished talk script on AI"
 classify_confidence: high

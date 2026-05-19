@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, communication]
+tags: [lecture, communication]
 reclassified: 2026-05-18
 classify_reason: "school talk planning fragments"
 classify_confidence: medium

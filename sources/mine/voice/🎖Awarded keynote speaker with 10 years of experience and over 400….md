@@ -5,7 +5,7 @@ source_id: "iCloud/🎖Awarded keynote speaker with 10 years of experience and o
 provenance: extracted
 ingested: 2026-05-13
 status: reference
-tags: [biografi, pr, forelasning]
+tags: [biography, pr, lecture]
 classify_confidence: high
 register: voice
 kind: note

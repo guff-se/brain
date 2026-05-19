@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [entreprenorsjakten, ideer]
+tags: [entreprenorsjakten, ideas]
 reclassified: 2026-05-18
 classify_reason: "question list for Svenskt Naringsliv collaboration"
 classify_confidence: high

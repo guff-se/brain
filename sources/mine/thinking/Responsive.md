@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [co-creation, tankar, participation]
+tags: [co-creation, thoughts, participation]
 reclassified: 2026-05-18
 classify_reason: "short responsive quote/principle"
 classify_confidence: medium

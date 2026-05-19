@@ -5,7 +5,7 @@ source_id: "iCloud/skola beksrivning föreläsning.md"
 provenance: extracted
 ingested: 2026-05-13
 status: reference
-tags: [forelasning, ai, education]
+tags: [lecture, ai, education]
 classify_confidence: high
 register: voice
 kind: note

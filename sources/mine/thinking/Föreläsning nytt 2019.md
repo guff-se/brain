@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, future]
+tags: [lecture, future]
 reclassified: 2026-05-18
 classify_reason: "lecture fragments on jobs/future"
 classify_confidence: medium

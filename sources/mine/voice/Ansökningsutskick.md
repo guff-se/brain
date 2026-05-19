@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [ansokan, entreprenorsjakten]
+tags: [application, entreprenorsjakten]
 reclassified: 2026-05-18
 classify_reason: "polished outreach text"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [the-borderland, kontakter]
+tags: [the-borderland, contacts]
 reclassified: 2026-05-18
 classify_reason: "location scouting contacts"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [ansokan, filosofi, forelasning]
+tags: [application, philosophy, lecture]
 reclassified: 2026-05-18
 classify_reason: "polished TED application essay"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, bank, blockchain]
+tags: [lecture, bank, blockchain]
 reclassified: 2026-05-18
 classify_reason: "polished lecture description on banking future"
 classify_confidence: high

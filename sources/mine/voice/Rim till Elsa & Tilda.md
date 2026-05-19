@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2015-12-26
 updated: 2015-12-26
 status: reference
-tags: [dikter]
+tags: [poetry]
 classify_confidence: high
 register: voice
 kind: note

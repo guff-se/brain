@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, microsoft]
+tags: [lecture, microsoft]
 reclassified: 2026-05-18
 classify_reason: "fragmentary talk prep"
 classify_confidence: medium

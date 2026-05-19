@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [musik, forelasning]
+tags: [music, lecture]
 reclassified: 2026-05-18
 classify_reason: "intro notes for show"
 classify_confidence: medium

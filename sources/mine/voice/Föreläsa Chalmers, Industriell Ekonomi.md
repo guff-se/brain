@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelas, forelasning-script, filosofi]
+tags: [lecture, philosophy, meaning]
 reclassified: 2026-05-18
 classify_reason: "prepared Chalmers lecture script"
 classify_confidence: high

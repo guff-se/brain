@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [ideer, affarsutveckling]
+tags: [ideas, business-development]
 reclassified: 2026-05-18
 classify_reason: "five metrics for prioritizing ideas"
 classify_confidence: high

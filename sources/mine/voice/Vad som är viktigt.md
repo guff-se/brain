@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [self, goals, biografi]
+tags: [self, identity, goals]
 reclassified: 2026-05-18
 classify_reason: "polished personal dialogue on values and goals"
 classify_confidence: high

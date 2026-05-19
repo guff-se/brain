@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, housing]
+tags: [lecture, housing]
 reclassified: 2026-05-18
 classify_reason: "radio show planning notes"
 classify_confidence: medium

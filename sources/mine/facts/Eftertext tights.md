@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [script, forelasning]
+tags: [script, lecture]
 reclassified: 2026-05-18
 classify_reason: "credits roll for Tights video"
 classify_confidence: high

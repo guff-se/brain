@@ -11,7 +11,7 @@ episode_number: 23
 host_role: guest
 host: "Elin Ribér"
 provenance: extracted
-tags: [forelasning, relationships, future]
+tags: [lecture, relationships, future]
 status: reference
 ingested: 2026-05-19
 transcript: "[[sa-kan-det-ga-23-framtidens-relationer-transcript]]"

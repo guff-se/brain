@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, tankar, ideer]
+tags: [lecture, thoughts, ideas]
 reclassified: 2026-05-18
 classify_reason: "lecture idea fragments"
 classify_confidence: high

@@ -8,7 +8,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, community, precisionshalsa]
+tags: [lecture, community, precision-health]
 reclassified: 2026-05-18
 classify_reason: "polished lecture material on health and community"
 classify_confidence: high

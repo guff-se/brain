@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2021-03-18
 updated: 2021-03-18
 status: reference
-tags: [forelasning, rhetoric]
+tags: [lecture, rhetoric]
 classify_confidence: medium
 register: thinking
 kind: note

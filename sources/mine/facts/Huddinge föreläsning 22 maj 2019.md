@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, kontakter]
+tags: [lecture, contacts]
 reclassified: 2026-05-18
 classify_reason: "dated talk logistics with contacts"
 classify_confidence: high

@@ -8,7 +8,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [dikter, nordic-mens-work]
+tags: [poetry, nordic-mens-work]
 reclassified: 2026-05-18
 classify_reason: "completed poem about men's circle shadows"
 classify_confidence: medium

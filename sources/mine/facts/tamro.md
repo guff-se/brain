@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, meetings]
+tags: [lecture, meetings]
 reclassified: 2026-05-18
 classify_reason: "Tamro lecture prep fragments"
 classify_confidence: high

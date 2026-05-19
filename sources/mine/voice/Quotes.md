@@ -8,7 +8,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [dikter, philosophy]
+tags: [philosophy, future, organizing]
 reclassified: 2026-05-18
 classify_reason: "curated quotes collection, polished"
 classify_confidence: medium

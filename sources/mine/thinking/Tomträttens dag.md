@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, tomtratt, urban-planning]
+tags: [lecture, land-lease, urban-planning]
 reclassified: 2026-05-18
 classify_reason: "talk prep notes about land tenure"
 classify_confidence: high

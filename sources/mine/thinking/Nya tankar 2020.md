@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [tankar, learning]
+tags: [thoughts, learning]
 reclassified: 2026-05-18
 classify_reason: "short thoughts on learning"
 classify_confidence: medium

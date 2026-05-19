@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, education]
+tags: [lecture, education]
 reclassified: 2026-05-18
 classify_reason: "school talk prep with Google STEM bullets"
 classify_confidence: medium

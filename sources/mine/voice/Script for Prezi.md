@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2010-08-08
 updated: 2010-10-04
 status: reference
-tags: [biografi, forelasning]
+tags: [biography, lecture]
 classify_confidence: high
 register: voice
 kind: note

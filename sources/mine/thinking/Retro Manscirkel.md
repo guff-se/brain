@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [mens-work, reflektioner]
+tags: [mens-work, reflections]
 reclassified: 2026-05-18
 classify_reason: "mens circle retro notes"
 classify_confidence: high

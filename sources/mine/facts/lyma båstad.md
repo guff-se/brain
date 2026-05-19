@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, salj]
+tags: [lecture, sales]
 reclassified: 2026-05-18
 classify_reason: "event briefing Lyma Bastad"
 classify_confidence: high

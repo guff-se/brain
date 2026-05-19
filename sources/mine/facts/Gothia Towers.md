@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [workshop, forelasning]
+tags: [workshop, lecture]
 reclassified: 2026-05-18
 classify_reason: "dated workshop schedule Gothia Towers"
 classify_confidence: high

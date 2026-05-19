@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [entreprenorsjakten, affarsutveckling, konsultprojekt]
+tags: [entreprenorsjakten, business-development, consulting-project]
 reclassified: 2026-05-18
 classify_reason: "strategy notes for consulting pivot"
 classify_confidence: high

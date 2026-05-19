@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelas, tal]
+tags: [lecture, speech]
 reclassified: 2026-05-18
 classify_reason: "prepared graduation speech for Josefin"
 classify_confidence: high

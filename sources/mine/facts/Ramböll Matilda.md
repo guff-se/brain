@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2018-05-03
 updated: 2018-09-10
 status: reference
-tags: [forelasning, workshop]
+tags: [lecture, workshop]
 classify_confidence: medium
 register: facts
 kind: note

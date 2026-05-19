@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [ansokan, stipendie, entreprenorsjakten]
+tags: [application, grant, entreprenorsjakten]
 reclassified: 2026-05-18
 classify_reason: "polished scholarship application prose"
 classify_confidence: high

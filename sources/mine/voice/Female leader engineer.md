@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [jamstalldhet, leadership]
+tags: [gender-equality, leadership]
 reclassified: 2026-05-18
 classify_reason: "first-person interview answers on gender equality"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [script, art, forelasning]
+tags: [script, art, lecture]
 reclassified: 2026-05-18
 classify_reason: "video script fragments for art/exhibition narration"
 classify_confidence: medium

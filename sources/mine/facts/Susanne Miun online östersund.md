@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning]
+tags: [lecture]
 reclassified: 2026-05-18
 classify_reason: "contact details for upcoming gig"
 classify_confidence: high

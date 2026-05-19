@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2021-03-22
 updated: 2021-03-22
 status: reference
-tags: [dikter]
+tags: [poetry]
 classify_confidence: medium
 register: voice
 kind: note

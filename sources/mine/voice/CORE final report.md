@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [burning-man, core]
+tags: [burning-man, community, co-creation]
 reclassified: 2026-05-18
 classify_reason: "polished CORE final report prose"
 classify_confidence: high

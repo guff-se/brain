@@ -11,7 +11,7 @@ episode_number: 137
 host_role: host
 guest: "Ebba Waltré"
 provenance: extracted
-tags: [pajobbetpodden, leadership, tech, manniskor-maskiner-makt]
+tags: [pajobbetpodden, people-machines-power, leadership]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-137-ebba-waltre-att-aldrig-sluta-lara-sig-transcript]]"

@@ -11,7 +11,7 @@ episode_number: 131
 host_role: host
 guest: "Julia Norinder"
 provenance: extracted
-tags: [pajobbetpodden, leadership, skuggsidor]
+tags: [pajobbetpodden, leadership, shadow-sides]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-131-julia-norinder-prestationsbaserad-sjalvkansla-transcript]]"

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [workshop, teal, reflektioner]
+tags: [workshop, teal, reflections]
 reclassified: 2026-05-18
 classify_reason: "workshop reflection notes for Strawbees"
 classify_confidence: high

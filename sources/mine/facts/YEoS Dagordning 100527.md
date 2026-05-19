@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2010-05-26
 updated: 2010-05-27
 status: reference
-tags: [yeos, dagordning]
+tags: [yeos, agenda]
 classify_confidence: high
 register: facts
 kind: note

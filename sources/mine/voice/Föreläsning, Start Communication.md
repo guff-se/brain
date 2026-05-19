@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, script]
+tags: [lecture, script]
 reclassified: 2026-05-18
 classify_reason: "talk script notes"
 classify_confidence: medium

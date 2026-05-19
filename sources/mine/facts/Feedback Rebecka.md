@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, feedback]
+tags: [lecture, feedback]
 reclassified: 2026-05-18
 classify_reason: "feedback notes for Rebecka's talk"
 classify_confidence: medium

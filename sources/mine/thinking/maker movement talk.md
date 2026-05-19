@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, makerspace]
+tags: [lecture, makerspace]
 reclassified: 2026-05-18
 classify_reason: "talk outline bullets"
 classify_confidence: medium

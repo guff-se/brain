@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [burning-man, forelasning, change]
+tags: [burning-man, lecture, change]
 reclassified: 2026-05-18
 classify_reason: "polished talk draft on transformation"
 classify_confidence: high

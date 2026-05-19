@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, ti, ideer]
+tags: [lecture, ti, ideas]
 reclassified: 2026-05-18
 classify_reason: "brainstorm bullets for visual brief"
 classify_confidence: medium

@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, entrepreneurship]
+tags: [lecture, entrepreneurship]
 reclassified: 2026-05-18
 classify_reason: "lecture summary notes"
 classify_confidence: high

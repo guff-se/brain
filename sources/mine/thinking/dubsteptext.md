@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [musik, text]
+tags: [music, text]
 reclassified: 2026-05-18
 classify_reason: "draft dubstep monologue text"
 classify_confidence: high

@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2013-09-23
 updated: 2013-09-23
 status: reference
-tags: [workshop, konsultprojekt]
+tags: [workshop, consulting-project]
 classify_confidence: high
 register: voice
 kind: note

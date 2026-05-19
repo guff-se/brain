@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [burning-man, forelasning]
+tags: [burning-man, lecture]
 reclassified: 2026-05-18
 classify_reason: "polished BMW Stockholm event report"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [nordic-mens-work, kontakter]
+tags: [nordic-mens-work, contacts]
 reclassified: 2026-05-18
 classify_reason: "mentoring meeting jot"
 classify_confidence: medium

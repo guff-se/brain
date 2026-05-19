@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [meetings, fastighet]
+tags: [meetings, real-estate]
 reclassified: 2026-05-18
 classify_reason: "dated planning meeting notes"
 classify_confidence: high

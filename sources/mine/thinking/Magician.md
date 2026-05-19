@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [mkp, biografi]
+tags: [mkp, biography]
 reclassified: 2026-05-18
 classify_reason: "fragmentary self-reflections book ideas"
 classify_confidence: medium

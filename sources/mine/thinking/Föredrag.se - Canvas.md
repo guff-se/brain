@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelas, affarsutveckling]
+tags: [lecture, business-development]
 reclassified: 2026-05-18
 classify_reason: "BMC lecture outline"
 classify_confidence: medium

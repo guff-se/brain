@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [tankar, reflektioner]
+tags: [thoughts, reflections]
 reclassified: 2026-05-18
 classify_reason: "short personal insight jot"
 classify_confidence: medium

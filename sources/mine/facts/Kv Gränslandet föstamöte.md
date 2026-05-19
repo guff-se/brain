@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [granslandet, meetings, housing]
+tags: [the-borderland, meetings, housing]
 reclassified: 2026-05-18
 classify_reason: "first meeting notes with agenda"
 classify_confidence: high

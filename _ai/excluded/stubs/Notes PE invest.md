@@ -8,7 +8,7 @@ status: reference
 register: stub
 kind: note
 party: first
-tags: [tankar]
+tags: [thoughts]
 reclassified: 2026-05-18
 classify_reason: "three-word fragment"
 classify_confidence: high

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, diversity, co-creation]
+tags: [lecture, diversity, co-creation]
 reclassified: 2026-05-18
 classify_reason: "talk ideas on inclusion"
 classify_confidence: high

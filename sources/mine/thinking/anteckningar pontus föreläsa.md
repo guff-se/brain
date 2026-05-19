@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2017-11-23
 updated: 2017-11-24
 status: reference
-tags: [forelas, reflektioner]
+tags: [lecture, reflections]
 classify_confidence: high
 register: thinking
 kind: note

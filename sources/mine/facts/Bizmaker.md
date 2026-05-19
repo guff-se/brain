@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, bizmaker]
+tags: [lecture, bizmaker]
 reclassified: 2026-05-18
 classify_reason: "event briefing Bizmaker"
 classify_confidence: high

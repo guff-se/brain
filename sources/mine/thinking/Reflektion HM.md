@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, reflektioner, workshop]
+tags: [lecture, reflections, workshop]
 reclassified: 2026-05-18
 classify_reason: "reflection on HM workshop delivery"
 classify_confidence: high

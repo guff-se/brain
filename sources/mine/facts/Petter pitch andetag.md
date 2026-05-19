@@ -8,7 +8,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [andetag, salj]
+tags: [andetag, sales]
 reclassified: 2026-05-18
 classify_reason: "pitch coaching notes bullets"
 classify_confidence: medium

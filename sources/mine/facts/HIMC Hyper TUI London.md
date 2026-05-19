@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, leadership, himc]
+tags: [lecture, leadership, himc]
 reclassified: 2026-05-18
 classify_reason: "prep notes for HIMC TUI leadership session"
 classify_confidence: high

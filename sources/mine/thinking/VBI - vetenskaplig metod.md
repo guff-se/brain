@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, science]
+tags: [lecture, science]
 reclassified: 2026-05-18
 classify_reason: "short talk fragment"
 classify_confidence: medium

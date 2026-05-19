@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, self-leadership]
+tags: [lecture, self-leadership]
 reclassified: 2026-05-18
 classify_reason: "lecture notes on mindset"
 classify_confidence: medium

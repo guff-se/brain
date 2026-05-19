@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [ideer, hive, singularity]
+tags: [ideas, hive, singularity]
 reclassified: 2026-05-18
 classify_reason: "short story concept"
 classify_confidence: medium

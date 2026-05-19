@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [riksdagsrosten, meetings]
+tags: [parliamentary-vote, meetings]
 reclassified: 2026-05-18
 classify_reason: "named meeting notes"
 classify_confidence: high

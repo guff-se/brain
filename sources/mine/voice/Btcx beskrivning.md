@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2017-04-18
 updated: 2017-04-18
 status: reference
-tags: [blockchain, biografi]
+tags: [blockchain, biography]
 classify_confidence: medium
 register: voice
 kind: note

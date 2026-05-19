@@ -8,7 +8,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, ai]
+tags: [lecture, ai]
 reclassified: 2026-05-18
 classify_reason: "talk planning notes for Riksdagen"
 classify_confidence: high

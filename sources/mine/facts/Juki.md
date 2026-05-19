@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [kontakter, nordic-startup]
+tags: [contacts, nordic-startup]
 reclassified: 2026-05-18
 classify_reason: "contact notes"
 classify_confidence: high

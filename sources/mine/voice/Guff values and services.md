@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [guff, strategi]
+tags: [guff, strategy]
 reclassified: 2026-05-18
 classify_reason: "polished company values and services text"
 classify_confidence: high

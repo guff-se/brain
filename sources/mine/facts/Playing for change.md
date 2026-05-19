@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2010-02-09
 updated: 2010-02-13
 status: reference
-tags: [ansokan, stipendie]
+tags: [application, grant]
 classify_confidence: high
 register: facts
 kind: note

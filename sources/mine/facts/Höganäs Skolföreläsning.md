@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [forelasning, corona]
+tags: [lecture, corona]
 reclassified: 2026-05-18
 classify_reason: "school talk planning notes"
 classify_confidence: high

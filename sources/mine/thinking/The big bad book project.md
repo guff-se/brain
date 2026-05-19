@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [philosophy, biografi]
+tags: [philosophy, biography]
 reclassified: 2026-05-18
 classify_reason: "book project reading list ideas"
 classify_confidence: medium

@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, filosofi, meaning]
+tags: [lecture, philosophy, meaning]
 reclassified: 2026-05-18
 classify_reason: "lecture series outline on meaning"
 classify_confidence: high

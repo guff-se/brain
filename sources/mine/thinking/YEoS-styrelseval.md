@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [yeos, reflektioner]
+tags: [yeos, reflections]
 reclassified: 2026-05-18
 classify_reason: "reflection on board election failure"
 classify_confidence: medium

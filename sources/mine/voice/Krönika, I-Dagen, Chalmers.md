@@ -11,7 +11,7 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [forelasning, future]
+tags: [lecture, future]
 reclassified: 2026-05-18
 classify_reason: "polished chronicle Chalmers I-Dagen"
 classify_confidence: high

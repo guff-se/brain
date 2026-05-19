@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, biografi]
+tags: [lecture, biography]
 reclassified: 2026-05-18
 classify_reason: "talk topics and bio bullets"
 classify_confidence: high

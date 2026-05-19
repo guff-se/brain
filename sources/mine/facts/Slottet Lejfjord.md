@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2017-12-18
 updated: 2018-01-30
 status: reference
-tags: [meetings, konsultprojekt, organizing]
+tags: [meetings, consulting-project, organizing]
 classify_confidence: high
 register: facts
 kind: note

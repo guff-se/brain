@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [forelasning, reflektioner]
+tags: [lecture, reflections]
 reclassified: 2026-05-18
 classify_reason: "self-reflection notes after TDC lecture, mostly fragments"
 classify_confidence: high

@@ -8,7 +8,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [salj, art, reflektioner]
+tags: [sales, art, reflections]
 reclassified: 2026-05-18
 classify_reason: "sales feedback notes fragmentary"
 classify_confidence: high

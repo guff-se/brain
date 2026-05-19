@@ -8,7 +8,7 @@ ingested: 2026-05-13
 created: 2019-03-05
 updated: 2019-03-05
 status: reference
-tags: [verksamhetsberattelse, guff]
+tags: [operations-report, guff]
 classify_confidence: medium
 register: voice
 kind: note
