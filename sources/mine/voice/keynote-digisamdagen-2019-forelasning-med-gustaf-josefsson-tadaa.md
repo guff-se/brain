@@ -1,5 +1,6 @@
 ---
 title: "Digisamdagen 2019 — föreläsning med Gustaf Josefsson Tadaa"
+aliases: ["Digisamdagen 2019 — föreläsning med Gustaf Josefsson Tadaa"]
 summary: "Keynote om digitalisering av kulturarv: varför vi måste digitalisera brett trots att vi inte vet vad som är viktigt, och hur den AI vi tränar i dag formas av historielös data."
 kind: note
 party: first

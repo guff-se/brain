@@ -1,5 +1,6 @@
 ---
 title: "Gustaf Josefsson Tadaa — futurist och entreprenör"
+aliases: ["Gustaf Josefsson Tadaa — futurist och entreprenör"]
 summary: "Keynote om hur den exponentiella tekniska utvecklingen tvingar fram mer mänskliga organisationer: experimenterande, självledarskap och sårbar öppenhet. Internet som mänsklighetens centrala nervsystem."
 kind: note
 party: first

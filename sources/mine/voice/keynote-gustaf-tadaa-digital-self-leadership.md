@@ -1,5 +1,6 @@
 ---
 title: "Digital Self-Leadership"
+aliases: ["Digital Self-Leadership"]
 summary: "Short English keynote arguing that organizational survival in the digital age requires personal development of every employee — and that personal development can no longer be separated from digital development."
 kind: note
 party: first

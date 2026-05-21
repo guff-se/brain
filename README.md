@@ -13,7 +13,7 @@ An AI-managed Obsidian vault — long-lived storage for thoughts, research, and 
 - **_ai/** — agent session logs, lint reports, excluded items.
 - **_originals/** — raw export files, read-only.
 
-Full design + rationale: see `../obsidian migration/VAULT_DESIGN.md`.
+Full design + rationale: see [`_ai/migration/VAULT_DESIGN.md`](_ai/migration/VAULT_DESIGN.md).
 
 ## How to use day-to-day
 - Drop an article URL into `inbox/articles/<slug>.url`, run agent's `ingest` skill.

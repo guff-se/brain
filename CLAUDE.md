@@ -2,7 +2,7 @@
 
 This vault is Gustaf's external brain. You (Claude Code) are its continuous curator. Read this file at the start of every session.
 
-**Status: live, ongoing project.** The vault was seeded by a one-time migration completed 2026-05-18 (1,141 classified notes from Evernote, Apple Notes, and Pocket). That work is done — see `../obsidian migration/` for the historical record. Your job now is the continuous operation described below: ingest new captures, compile concepts, audit, synthesize. The migration is the seed; this is the garden.
+**Status: live, ongoing project.** The vault was seeded by a one-time migration completed 2026-05-18 (1,141 classified notes from Evernote, Apple Notes, and Pocket). That work is done — see `_ai/migration/` for the historical record (design rationale in `VAULT_DESIGN.md`, decision log in `LOG.md`, phase plan, source inventory). Your job now is the continuous operation described below: ingest new captures, compile concepts, audit, synthesize. The migration is the seed; this is the garden.
 
 ---
 
@@ -44,7 +44,8 @@ _ai/
   sessions/                  ← YYYY-MM-DD-HHMM.md, one per agent run
   reports/                   ← lint, dedupe, untagged reports
   excluded/                  ← duplicates/, stubs/ — quarantined, NEVER delete
-_originals/                  ← read-only export archives
+  migration/                 ← archived 2026-05 setup: PLAN, LOG, VAULT_DESIGN, INVENTORY, README
+_originals/                  ← placeholder; raw exports not retained (see README)
 .manifest.json               ← ingest ledger: source → produced pages
 ```
 
@@ -148,7 +149,7 @@ The vault was bootstrapped over 2026-05-13 to 2026-05-18 from:
 
 After Phase 8 register-classification + LLM tagging: **1,141 classified notes** across `mine/{voice,thinking,facts}` and `consumed/{articles,clippings}`. 269 stubs and 166 duplicates quarantined to `_ai/excluded/` (never deleted, traceable).
 
-Full migration process: `../obsidian migration/` (historical record, archived).
+Full migration process and design rationale: `_ai/migration/` (archived inside the vault — start with `README.md`, then `VAULT_DESIGN.md` for the *why* behind the four-register model, 2-source rule, layered curation; `LOG.md` for chronological decisions; `PLAN.md` for the 8-phase build; `INVENTORY.md` for source counts). The raw export files and conversion scripts are not retained — the vault is the artifact.
 
 ## 8. Ongoing operation — what to do next
 
