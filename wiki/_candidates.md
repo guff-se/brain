@@ -45,4 +45,4 @@ Themes surfaced during `/compile` passes that don't yet meet the 2-source rule, 
 
 **Prestationsbaserad självkänsla** — hinted in [[Påjobbetpodden 100]] ("effektivitetslitteratur fick honom att må sämre") and [[transformationssamhället]] (thinking). No consumed source yet.
 
-**Advice process** — appears in [[Borderland principles]], [[10 steps to Self-Organization]], [[The Borderland teal reflection]]. Would need a consumed source (Laloux / Reinventing Organizations) to crystallise as stand-alone concept.
+**Advice process** — appears in [[Borderland principles]], [[10 steps to Self-Organization]], [[The Borderland teal reflection]]. **2-source rule now met**: [[reinventing-organizations]] (consumed, 2026-05-22) is the canonical consumed source. Ready to compile → `wiki/concepts/advice-process.md`. Also check for concept on **Teal organizations** now that the book is ingested — `0140-Resolving the awkward paradox...` and `0068-Where Is All This Teal Stuff Going...` already in vault.

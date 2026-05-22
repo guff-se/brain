@@ -110,6 +110,7 @@ Apple Notes and Evernote contain a mix of all four registers. A pasted article i
 **During work:**
 - Update `.manifest.json` when you ingest a new file.
 - Log significant decisions inline in `_ai/sessions/<this-session>.md`.
+- If `inbox/` contains unsupported or unexpected file types, do not stop at detection. First try to figure out the correct import path on your own by checking `_meta/pipelines.md`, `_meta/content-kinds.md`, existing note patterns, and available tools. Convert or normalize the file into the vault's expected ingest shape when you can do so safely and traceably. Only surface a blocker when the format truly requires a human decision, external credentials, or a lossy/risky conversion.
 
 **At end:**
 1. Write a session log to `_ai/sessions/YYYY-MM-DD-HHMM.md` with: what came in, what was produced, open candidates surfaced.
@@ -134,7 +135,7 @@ Apple Notes and Evernote contain a mix of all four registers. A pasted article i
 
 When invoked in this vault, these are the canonical actions:
 
-- `/ingest` — promote `inbox/<kind>/` items into `sources/<kind>/` with frontmatter, provenance, longform split. Updates `.manifest.json`. **After successfully writing the destination file, delete the original from `inbox/` so the subfolder is left empty.**
+- `/ingest` — promote `inbox/<kind>/` items into `sources/<kind>/` with frontmatter, provenance, longform split. Updates `.manifest.json`. **After successfully writing the destination file, delete the original from `inbox/` so the subfolder is left empty.** If an inbox item arrives in an unsupported format, treat format handling as part of ingest: inspect the relevant pipeline docs and existing patterns, derive the safest sensible conversion path, and attempt that conversion yourself before declaring the item blocked.
 - `/compile` — scan `sources/` for recurring themes; promote to `wiki/concepts/` when 2-source rule fires; otherwise log to `wiki/_candidates.md`.
 - `/lint` — orphans, broken `[[wikilinks]]`, missing frontmatter, tags outside taxonomy, contradictions. Output to `_ai/reports/lint-YYYY-MM-DD.md`.
 - `/enrich` — fetch missing article bodies (Wayback fallback); fetch book/podcast metadata.

@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 const { execSync } = require('node:child_process');
+const fs = require('node:fs');
 const path = require('node:path');
 
 const repoRoot = path.resolve(__dirname, '..');
@@ -26,6 +27,28 @@ function safeRun(command) {
   }
 }
 
+function collectUnsupportedInboxFiles() {
+  const inboxRoot = path.join(repoRoot, 'inbox');
+  const unsupported = [];
+
+  function walk(dir) {
+    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+      if (entry.name.startsWith('.')) continue;
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) {
+        walk(full);
+        continue;
+      }
+      if (!entry.isFile()) continue;
+      if (entry.name.endsWith('.md')) continue;
+      unsupported.push(path.relative(repoRoot, full));
+    }
+  }
+
+  if (fs.existsSync(inboxRoot)) walk(inboxRoot);
+  return unsupported.sort();
+}
+
 (async () => {
   const summary = {
     repoRoot,
@@ -33,6 +56,7 @@ function safeRun(command) {
     pull: null,
     inboxCount: 0,
     inboxItems: [],
+    unsupportedInboxFiles: [],
     claude: null,
     commit: null,
     push: null,
@@ -47,6 +71,14 @@ function safeRun(command) {
   const inboxItems = await host.listInboxItems({ processed: false, limit: 1000 });
   summary.inboxCount = inboxItems.length;
   summary.inboxItems = inboxItems.map((item) => item.path);
+  summary.unsupportedInboxFiles = collectUnsupportedInboxFiles();
+
+  if (summary.unsupportedInboxFiles.length > 0) {
+    throw new Error(
+      `unsupported inbox files present: ${summary.unsupportedInboxFiles.join(', ')}. ` +
+      'Convert them into the expected markdown capture format before cron ingest can proceed.'
+    );
+  }
 
   if (summary.inboxCount > 0) {
     const claudePrompt = [
