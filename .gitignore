@@ -7,6 +7,9 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/cache/
+# graph.json scale drifts per-device (zoom state); other settings worth syncing.
+# Uncomment below if scale conflicts become a recurring problem:
+# .obsidian/graph.json
 
 # Smart Connections — local embedding index (rebuilt by plugin)
 .smart-env/

@@ -6,13 +6,14 @@
       "ingest_date": "2026-05-13",
       "scope": "phase-6 migration routing",
       "sources": [
-        "../obsidian migration/My Notes.enex",
-        "../obsidian migration/Entreprenörsjakten.enex",
-        "../obsidian migration/Privat.enex",
-        "../obsidian migration/export 260513/Notes/",
-        "../obsidian migration/export 260513/iCloud/",
-        "../obsidian migration/Pocket Data Export/"
+        "My Notes.enex (Evernote, partial export, 2023)",
+        "Entreprenörsjakten.enex (Evernote, 2026-05-13)",
+        "Privat.enex (Evernote, 2026-05-13)",
+        "Apple Notes export 260513 — On My Mac",
+        "Apple Notes export 260513 — iCloud",
+        "Pocket Data Export"
       ],
+      "sources_note": "Raw export files are not retained. See _ai/migration/INVENTORY.md for source counts and _ai/migration/LOG.md for the decision log.",
       "produced_count": 1347
     }
   ],
