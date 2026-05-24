@@ -19,6 +19,7 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `entreprenorsjakten` | 36 |
 | `future` | 31 |
 | `ai` | 27 |
+| `ai-psychosis` | 3 |
 | `lecture` | 28 |
 | `starke-ledaren` | 12 |
 | `skuggsidor` | 12 |

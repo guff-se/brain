@@ -2,7 +2,6 @@
 
 Tags proposed by classification that need ≥3 uses to graduate to `taxonomy.md`.
 
-- `ai-psychosis` × 2 — used in: `sources/consumed/articles/ai-washing-firms-are-scrambling-to-rebrand-themselves-as-tech-focused.md`, `sources/mine/thinking/ai-washing-ai-psychosis-talk-seed.md`
 
 
 <!-- from llm-classification 2026-05-18 -->

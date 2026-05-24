@@ -557,6 +557,30 @@
         "sources/consumed/articles/ai-washing-firms-are-scrambling-to-rebrand-themselves-as-tech-focused.md",
         "sources/mine/thinking/ai-washing-ai-psychosis-talk-seed.md"
       ]
+    },
+    {
+      "ingest_date": "2026-05-24",
+      "kind": "clipping",
+      "source": "https://xcancel.com/mitchellh/status/2055380239711457578",
+      "produced": [
+        "sources/consumed/clippings/ai-psychosis-mitchell-hashimoto-x-post.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-24",
+      "kind": "article",
+      "source": "https://lucumr.pocoo.org/2026/1/18/agent-psychosis/",
+      "produced": [
+        "sources/consumed/articles/agent-psychosis-are-we-going-insane.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-24",
+      "kind": "article",
+      "source": "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis",
+      "produced": [
+        "sources/consumed/articles/your-ceo-is-suffering-from-ai-psychosis.md"
+      ]
     }
   ]
 }
