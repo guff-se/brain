@@ -548,6 +548,15 @@
       "produced": [
         "sources/consumed/clippings/i-rorelse-karin-boye.md"
       ]
+    },
+    {
+      "ingest_date": "2026-05-24",
+      "kind": "article",
+      "source": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+      "produced": [
+        "sources/consumed/articles/ai-washing-firms-are-scrambling-to-rebrand-themselves-as-tech-focused.md",
+        "sources/mine/thinking/ai-washing-ai-psychosis-talk-seed.md"
+      ]
     }
   ]
 }
