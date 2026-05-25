@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Minimal directive with no context: just time-allocation recommendation, no indication of topic, title, or why it matters to Gustaf.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "0fcb441703b8922d582b",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound political commentary identifying a contradiction in Lars Ohly's stated positions, without developing the underlying principle about tax-incentive consistency or policy logic.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "8896ca78a58cbbc89748",
+  "error": ""
+}
