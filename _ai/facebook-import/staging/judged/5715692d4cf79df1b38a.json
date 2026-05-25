@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Brief sarcastic reaction to a political figure's remark—no articulated principle, mechanism, or insight worth retaining.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5715692d4cf79df1b38a",
+  "error": ""
+}

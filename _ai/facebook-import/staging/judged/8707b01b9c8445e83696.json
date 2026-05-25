@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "rule-of-law",
+    "presumption-of-innocence",
+    "constitutional-law"
+  ],
+  "reason": "Crisp challenge to punishing failure to prove innocence and whether constitutional protections apply—not mere event chatter.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8707b01b9c8445e83696",
+  "error": ""
+}

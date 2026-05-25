@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Sarcastic one-liner on a dated news story about a revolving-door hire, with no articulated principle or analysis worth keeping.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "22175d5b036f501ac9e8",
+  "error": ""
+}

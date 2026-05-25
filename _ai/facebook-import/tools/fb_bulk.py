@@ -529,7 +529,7 @@ def main():
     ap.add_argument('--status', action='store_true')
     ap.add_argument('--dry-run', action='store_true', help='Fetch+judge but skip vault writes')
     ap.add_argument('--cache-only', action='store_true',
-                    help='Only apply existing judged/ cache (no Claude calls). Skips uncached rows.')
+                    help='Only apply existing judged/ cache (no agent calls). Skips uncached rows.')
     ap.add_argument('--year', type=int, help='Only process this year')
     ap.add_argument('--workers', type=int, default=2)
     ap.add_argument('--limit', type=int, help='Cap total rows (for testing)')
@@ -601,7 +601,7 @@ def main():
                     token_limit_hit = True
                     limit_detail = str(e)
                     _stop.set()
-                    print('\n⚠️  Claude usage/session limit reached. Stopping gracefully.')
+                    print('\n⚠️  Cursor agent usage/session limit reached. Stopping gracefully.')
                     print('   Re-run `python tools/fb_bulk.py` to resume — judged items are cached.')
                     if limit_detail:
                         print(f'   ({limit_detail[:200]})')
@@ -615,7 +615,7 @@ def main():
                         token_limit_hit = True
                         limit_detail = str(e)
                         _stop.set()
-                        print('\n⚠️  Claude usage/session limit reached. Stopping gracefully.')
+                        print('\n⚠️  Cursor agent usage/session limit reached. Stopping gracefully.')
                         print('   Re-run `python tools/fb_bulk.py` to resume — judged items are cached.')
                     res = {'status': 'token-limit-stop',
                            'ts': row.get('ts'), 'date': row.get('date'),
@@ -648,7 +648,7 @@ def main():
                     token_limit_hit = True
                     limit_detail = res.get('error', '')
                     _stop.set()
-                    print('\n⚠️  Claude usage/session limit reached. Stopping gracefully.')
+                    print('\n⚠️  Cursor agent usage/session limit reached. Stopping gracefully.')
                     print('   Re-run `python tools/fb_bulk.py` to resume — judged items are cached.')
                 continue
 
@@ -685,7 +685,7 @@ def main():
             print(f'   Cancelled {cancelled} queued tasks.')
 
     if token_limit_hit:
-        print(f'\nStopped early after {processed} completed tasks — Claude limit. Re-run to resume.')
+        print(f'\nStopped early after {processed} completed tasks — agent limit. Re-run to resume.')
         sys.exit(2)  # distinguish from success; safe to re-run
     else:
         print('\nDone.')

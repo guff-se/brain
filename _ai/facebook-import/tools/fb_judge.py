@@ -7,20 +7,20 @@ Output: {verdict: save|skip, confidence, register_hint, kind_hint, tags_hint, re
 Cached by content hash. Re-runs are free.
 """
 from __future__ import annotations
-import hashlib, json, os, subprocess, time
+import hashlib, json, os, shutil, subprocess, time
 from dataclasses import dataclass, asdict
 from typing import Optional
 
 
 class TokenLimitError(Exception):
-    """Raised when the claude subprocess signals a usage/token/session limit."""
+    """Raised when the Cursor agent subprocess signals a usage/token/session limit."""
     pass
 
 
-# Substrings in claude stdout/stderr that mean "stop the bulk run", not "retry".
+# Substrings in agent stdout/stderr that mean "stop the bulk run", not "retry".
 _TOKEN_LIMIT_SIGNALS = (
     'usage limit',
-    'session limit',       # claude CLI OAuth session cap
+    'session limit',       # CLI OAuth / session cap
     'hit your session',    # "You've hit your session limit …"
     'hit your usage',
     'rate limit',
@@ -50,14 +50,14 @@ _TOKEN_LIMIT_SIGNALS = (
 
 
 def is_token_limit_message(text: str) -> bool:
-    """True if *text* looks like a Claude usage/session/rate/credit limit (not a generic bug)."""
+    """True if *text* looks like an agent usage/session/rate/credit limit (not a generic bug)."""
     if not text:
         return False
     low = text.lower()
     if any(sig in low for sig in _TOKEN_LIMIT_SIGNALS):
         return True
     # Bulk run logged thousands of these when the CLI exited 1 with empty capture.
-    if 'claude exited 1' in low:
+    if 'agent exited 1' in low or 'claude exited 1' in low:
         return True
     return False
 
@@ -65,8 +65,8 @@ def is_token_limit_message(text: str) -> bool:
 def is_retriable_judge_error(error: str) -> bool:
     """True if a prior judge-error should be retried on the next bulk run.
 
-    Almost all logged failures are empty ``claude exited 1`` from session/credit limits
-    (before TokenLimitError stopped the run). Those must retry after the limit resets.
+    Almost all logged failures are empty ``agent exited 1`` (or legacy ``claude exited 1``)
+    from session/credit limits (before TokenLimitError stopped the run). Retry after reset.
 
     Non-retriable: model returned prose instead of JSON (missing content in prompt) — rare.
     """
@@ -75,7 +75,7 @@ def is_retriable_judge_error(error: str) -> bool:
     if is_token_limit_message(error):
         return True
     low = error.lower()
-    if 'claude exited 1' in low:
+    if 'agent exited 1' in low or 'claude exited 1' in low:
         return True
     if 'timed out' in low or 'timeout' in low:
         return True
@@ -92,28 +92,30 @@ STAGING = os.path.join(PROJECT, 'staging')
 CACHE = os.path.join(STAGING, 'judged')
 os.makedirs(CACHE, exist_ok=True)
 
-MODEL = os.environ.get('FB_JUDGE_MODEL', 'claude-haiku-4-5')
-CLAUDE_BIN = os.environ.get('CLAUDE_BIN', '/Users/dante/.local/bin/claude')
+MODEL = os.environ.get('FB_JUDGE_MODEL', 'composer-2-fast')
+AGENT_BIN = os.environ.get(
+    'AGENT_BIN',
+    shutil.which('agent') or '/Users/gustaf/.local/bin/agent',
+)
 
 
-def _call_claude(system: str, user: str, timeout: int = 90) -> str:
-    """Invoke `claude -p` non-interactively. Uses OAuth from keychain."""
+def _call_agent(system: str, user: str, timeout: int = 90) -> str:
+    """Invoke `agent -p` non-interactively (--mode ask, JSON-only rubric)."""
+    # Cursor agent does not read stdin when a prompt argv is set; pass one combined prompt.
+    prompt = f'{system}\n\n---\n\n{user}'
     cmd = [
-        CLAUDE_BIN, '-p',
+        AGENT_BIN, '-p',
+        '--mode', 'ask',
         '--model', MODEL,
-        '--append-system-prompt', system,
-        # keep it minimal: no MCP, no plugins, no skills
-        '--disable-slash-commands',
-        '--strict-mcp-config', '--mcp-config', '{"mcpServers":{}}',
-        # belt + braces: disallow all tools so the subprocess just answers
-        '--disallowedTools', 'Bash,Edit,Write,Read,Glob,Grep,Agent,Task,WebFetch,WebSearch',
+        '--trust',
+        '--output-format', 'text',
+        '--workspace', PROJECT,
+        prompt,
     ]
     try:
-        proc = subprocess.run(
-            cmd, input=user, capture_output=True, text=True, timeout=timeout
-        )
-    except subprocess.TimeoutExpired as e:
-        raise RuntimeError(f'claude timed out after {timeout}s')
+        proc = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
+    except subprocess.TimeoutExpired:
+        raise RuntimeError(f'agent timed out after {timeout}s')
 
     stdout = proc.stdout or ''
     stderr = proc.stderr or ''
@@ -127,19 +129,17 @@ def _call_claude(system: str, user: str, timeout: int = 90) -> str:
         if (is_token_limit_message(combined)
                 or is_token_limit_message(stdout)
                 or is_token_limit_message(stderr)):
-            raise TokenLimitError(f'Claude limit (exit {proc.returncode}): {detail}')
+            raise TokenLimitError(f'Agent limit (exit {proc.returncode}): {detail}')
         # CLI often returns exit 1 with no piped output when session/credits are exhausted.
         if proc.returncode == 1 and not combined_stripped:
             raise TokenLimitError(
-                f'Claude limit (exit 1, no output — likely usage/session/credits): {detail}'
+                f'Agent limit (exit 1, no output — likely usage/session/credits): {detail}'
             )
-        raise RuntimeError(f'claude exited {proc.returncode}: {detail}')
+        raise RuntimeError(f'agent exited {proc.returncode}: {detail}')
     # Only check for limit signals on exit 0 if stdout doesn't look like a valid response.
-    # The CLI sometimes writes usage info (e.g. "context resets at…") to stderr even on
-    # success, causing false positives when checking the combined stdout+stderr.
     stdout_has_verdict = '"verdict"' in stdout
     if not stdout_has_verdict and is_token_limit_message(stderr):
-        raise TokenLimitError(f'Claude limit (exit 0, stderr): {err_stripped[:500]}')
+        raise TokenLimitError(f'Agent limit (exit 0, stderr): {err_stripped[:500]}')
     return stdout
 
 
@@ -277,7 +277,7 @@ def judge(item_type: str, payload: dict, *, retries: int = 2) -> Judgement:
     last_err = ''
     for attempt in range(retries + 1):
         try:
-            raw = _call_claude(RUBRIC, user_msg)
+            raw = _call_agent(RUBRIC, user_msg)
             data = _parse_json(raw)
             j = Judgement(
                 verdict=data.get('verdict', 'skip'),

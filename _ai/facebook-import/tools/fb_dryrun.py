@@ -175,13 +175,13 @@ def main(n=100):
                 results.append(fut.result())
             except TokenLimitError as e:
                 limit_hit = True
-                print(f'\n⚠️  Claude limit reached after {len(results)} items: {e}')
+                print(f'\n⚠️  Agent limit reached after {len(results)} items: {e}')
                 print('Re-run later; judged items are cached.')
             except Exception as e:
                 b, r = futs[fut]
                 if is_token_limit_message(str(e)):
                     limit_hit = True
-                    print(f'\n⚠️  Claude limit reached after {len(results)} items: {e}')
+                    print(f'\n⚠️  Agent limit reached after {len(results)} items: {e}')
                 else:
                     results.append({'bucket': b, 'row': r, 'error': str(e)})
             if i % 5 == 0:

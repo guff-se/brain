@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "racism",
+    "cognitive-bias",
+    "self-reflection"
+  ],
+  "reason": "Reframes racism as universal overgeneralization and shifts focus to personal responsibility—durable mechanism and value, not event or banter.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "fa4970022e969e569210",
+  "error": ""
+}
