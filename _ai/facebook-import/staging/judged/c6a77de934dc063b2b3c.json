@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A sarcastic one-liner on a 2012 Oscar moment—ephemeral social media commentary without elaborated insight or durable principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "c6a77de934dc063b2b3c",
+  "error": ""
+}

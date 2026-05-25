@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A witty one-liner reaction to a paywalled article, too thin to sustain as a note—hints at Gustaf's political views but offers no substantive principle or analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "1275e51da3d5ccce05a2",
+  "error": ""
+}

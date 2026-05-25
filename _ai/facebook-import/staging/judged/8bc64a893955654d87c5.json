@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound job posting from 2012 with no durable insight—Gustaf's commentary is just a share, not analysis of the underlying principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "8bc64a893955654d87c5",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Bare link with one-line descriptor and no evidence of Gustaf's engagement or perspective; does not reveal principle, insight, or analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "5803e49ea55d13d59410",
+  "error": ""
+}

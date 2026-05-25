@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Minimal commentary ('Control your mind!') paired with a TED talk link is too thin to register as an asserted principle; reads as engagement/enthusiasm rather than durable insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "8feb0350ffb3317748fd",
+  "error": ""
+}

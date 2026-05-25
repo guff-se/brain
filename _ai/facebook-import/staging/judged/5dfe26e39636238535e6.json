@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.87,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "authoritarianism",
+    "civil-liberties",
+    "security-state"
+  ],
+  "reason": "Analytical framework exploring how discretionary governmental power erodes constitutional freedoms—mechanism of democratic drift toward authoritarianism, durable principle regardless of 2012 peg.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "5dfe26e39636238535e6",
+  "error": ""
+}
