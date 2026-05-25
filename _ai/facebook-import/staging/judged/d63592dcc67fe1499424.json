@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "burning-man",
+    "leadership",
+    "decentralization"
+  ],
+  "reason": "Crisp principle about leading in chaotic environments — you need focal clarity, not control.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "d63592dcc67fe1499424",
+  "error": ""
+}

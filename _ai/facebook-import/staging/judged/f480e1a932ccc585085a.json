@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "relationships",
+    "authenticity",
+    "projection"
+  ],
+  "reason": "A pointed relational question that asserts a principle about the gap between loving a real person versus an idealized fantasy—core to how Gustaf thinks about presence and authenticity in relationships.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "f480e1a932ccc585085a",
+  "error": ""
+}

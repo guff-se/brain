@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "rule-breaking",
+    "power-structures"
+  ],
+  "reason": "Crisp assertion of a principle about systems and transgression — brief but genuine, reads as worldview not social venting.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "be30bdf8c9322be0c400",
+  "error": ""
+}

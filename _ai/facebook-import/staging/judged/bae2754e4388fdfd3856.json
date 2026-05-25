@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "reciprocity",
+    "street-performance",
+    "attention"
+  ],
+  "reason": "Clear principle about attention, obligation, and the social contract around performance and compensation.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "bae2754e4388fdfd3856",
+  "error": ""
+}

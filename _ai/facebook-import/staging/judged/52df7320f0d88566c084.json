@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound trip announcement with no insight, principle, or durable knowledge — pure social/logistical content.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "52df7320f0d88566c084",
+  "error": ""
+}

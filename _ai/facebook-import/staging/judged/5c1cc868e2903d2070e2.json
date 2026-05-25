@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical note about venue testing with no embedded knowledge or principle — time-bound event report.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "5c1cc868e2903d2070e2",
+  "error": ""
+}

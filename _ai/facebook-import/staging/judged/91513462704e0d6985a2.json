@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.38,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "growth",
+    "values",
+    "nurturing"
+  ],
+  "reason": "Poetic fragment hinting at a principle (warmth over adversity) but too cryptic and underdeveloped to anchor durable knowledge without context.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "91513462704e0d6985a2",
+  "error": ""
+}

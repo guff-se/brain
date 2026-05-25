@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A reactive jab at low-level budget debates; asserts a principle (prioritize structural questions) but without elaboration, context, or knowledge to build on.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "094e2ae11266c2a5b672",
+  "error": ""
+}

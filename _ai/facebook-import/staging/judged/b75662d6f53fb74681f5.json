@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A time-bound political reaction to a 2014 debate, too brief to capture the systems-thinking principle it implies.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "b75662d6f53fb74681f5",
+  "error": ""
+}
