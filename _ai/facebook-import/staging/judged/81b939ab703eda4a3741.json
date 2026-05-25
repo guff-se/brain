@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Two fragmentary status lines—supplier logistics and a moment of reflection—with no stated insight, principle, or analysis worth preserving.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "81b939ab703eda4a3741",
+  "error": ""
+}
