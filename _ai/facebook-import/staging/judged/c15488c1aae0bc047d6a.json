@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Bare linguistic assertion without elaboration; while the distinction between 'hitta' and 'hitta på' hints at agency vs. discovery, the note doesn't develop the insight or explain why the distinction matters.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "c15488c1aae0bc047d6a",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone quote repost without Gustaf's own context or analysis; social sharing rather than embedded thinking.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "51f4c9c89722f1f3f3c2",
+  "error": ""
+}

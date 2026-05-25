@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Snapshot opinion without principle, mechanism, or durable substance — reads as social-media venting rather than knowledge worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "d0618ad68c6acdc8e295",
+  "error": ""
+}

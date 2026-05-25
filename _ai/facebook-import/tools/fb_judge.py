@@ -134,8 +134,12 @@ def _call_claude(system: str, user: str, timeout: int = 90) -> str:
                 f'Claude limit (exit 1, no output — likely usage/session/credits): {detail}'
             )
         raise RuntimeError(f'claude exited {proc.returncode}: {detail}')
-    if is_token_limit_message(combined):
-        raise TokenLimitError(f'Claude limit (exit 0): {combined_stripped[:500]}')
+    # Only check for limit signals on exit 0 if stdout doesn't look like a valid response.
+    # The CLI sometimes writes usage info (e.g. "context resets at…") to stderr even on
+    # success, causing false positives when checking the combined stdout+stderr.
+    stdout_has_verdict = '"verdict"' in stdout
+    if not stdout_has_verdict and is_token_limit_message(stderr):
+        raise TokenLimitError(f'Claude limit (exit 0, stderr): {err_stripped[:500]}')
     return stdout
 
 
