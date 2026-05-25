@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Relational recommendation to involve a person, with no embedded knowledge or reasoning — too thin to preserve.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "b60b341e26fba6c85b21",
+  "error": ""
+}

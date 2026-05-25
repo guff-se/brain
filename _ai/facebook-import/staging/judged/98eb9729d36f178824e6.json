@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news report (2010 policy proposal) with a brief dismissive comment; no durable principle articulated or mechanism explored.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "98eb9729d36f178824e6",
+  "error": ""
+}

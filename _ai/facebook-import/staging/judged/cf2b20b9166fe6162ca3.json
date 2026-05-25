@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A question with no perspective or analysis—just discovery-phase social sharing with no embedded knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "cf2b20b9166fe6162ca3",
+  "error": ""
+}

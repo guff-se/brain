@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social reference and passing comment ('maybe I should play more') without original insight or asserted principle; the article's claims about gaming and leadership are the valuable content, not Gustaf's brief commentary.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "57baf1ce90e403b74e7b",
+  "error": ""
+}
