@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.55,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Asserts a principle about representation eligibility, but it's too terse, specific to a 2014 Swedish political moment, and unlikely to compound with other material in the vault.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "9f8a1365cabda1e4ba71",
+  "error": ""
+}

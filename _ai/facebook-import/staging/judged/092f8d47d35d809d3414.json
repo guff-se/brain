@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social media snapshot of a moment (arriving in Amsterdam) with no embedded knowledge, principle, or insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "092f8d47d35d809d3414",
+  "error": ""
+}

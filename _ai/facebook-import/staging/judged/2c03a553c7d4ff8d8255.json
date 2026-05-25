@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Event-specific observation of football fans shouting; no causal analysis or developed position on how to address hooligan behavior.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "2c03a553c7d4ff8d8255",
+  "error": ""
+}

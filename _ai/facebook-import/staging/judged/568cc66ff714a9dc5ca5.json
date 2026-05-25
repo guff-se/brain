@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional logistics request from 2014 — asks for help finding a storage location, contains no durable knowledge or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "568cc66ff714a9dc5ca5",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound social invitation with no durable knowledge, insight, or embedded perspective — pure event logistics.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "6ab08507e5bd26b50e2a",
+  "error": ""
+}

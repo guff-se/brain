@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound political quip; lacks articulated principle despite showing skepticism toward vague future-oriented claims",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "00fb5e78d76f56ca3d9a",
+  "error": ""
+}

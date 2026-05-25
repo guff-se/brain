@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.87,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event report (bad internet day) with no embedded knowledge, pattern, or principle—social posting, not durable insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "ec4fcceb0380acd6c772",
+  "error": ""
+}

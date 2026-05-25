@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event announcement with no embedded knowledge; purely logistical notification of a book launch.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "40e89c8e714ef700cb32",
+  "error": ""
+}

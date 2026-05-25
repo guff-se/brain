@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fragment cuts off mid-thought with no completion; insufficient substance to judge whether it develops a durable idea or is a passing observation.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "d522be0c413055d4972d",
+  "error": ""
+}

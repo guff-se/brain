@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [
+    "journalism",
+    "media-bias"
+  ],
+  "reason": "Social commentary with an implied principle about journalism and framing, but no development of mechanism or causality — too thin to ground future thinking.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "79e7512987c2b0abf261",
+  "error": ""
+}

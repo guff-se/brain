@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional networking request with no embedded knowledge or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "a642d2f83100b07ff12c",
+  "error": ""
+}
