@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.55,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Event report from 2011 with an implicit but not clearly asserted principle about hands-on learning; the story illustrates pedagogy rather than defending why it matters.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "812c91746bbaddcbedfa",
+  "error": ""
+}

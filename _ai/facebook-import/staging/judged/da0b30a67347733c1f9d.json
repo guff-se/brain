@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "News-driven reaction to a breaking story; Gustaf's commentary is observational but contains no durable principle, mechanism, or framework—just that 'truth hurts' and the conflict is hard to solve.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "da0b30a67347733c1f9d",
+  "error": ""
+}

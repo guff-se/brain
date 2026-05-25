@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Minimal commentary ('great article') with no substantive claim; time-bound WikiLeaks coverage from 2010 lacking durable insight or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a64c1ae366409ffa9fd3",
+  "error": ""
+}

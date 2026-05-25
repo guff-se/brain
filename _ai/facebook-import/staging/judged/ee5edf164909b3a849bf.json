@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-criticism",
+    "swedish-culture",
+    "advertising"
+  ],
+  "reason": "Primarily a 2010 news profile of Studio Total's hoaxes; while it raises interesting questions about trust and authenticity, these are implicit rather than developed into durable frameworks Gustaf would return to.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "ee5edf164909b3a849bf",
+  "error": ""
+}

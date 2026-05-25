@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound social commentary on a single 2010 news event; notes the irony but doesn't develop a principle or enduring insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "8241f084f8dcd45097d2",
+  "error": ""
+}

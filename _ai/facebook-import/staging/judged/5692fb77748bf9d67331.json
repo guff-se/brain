@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright-economics",
+    "cultural-policy",
+    "niche-culture"
+  ],
+  "reason": "Substantive analysis of copyright law's hidden economic assumptions and Swedish cultural policy gaps — durable framework for understanding media distribution, not time-bound news.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "5692fb77748bf9d67331",
+  "error": ""
+}
