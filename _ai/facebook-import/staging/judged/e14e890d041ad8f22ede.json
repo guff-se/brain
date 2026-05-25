@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "A witty observation about a specific municipality's demographics, but lacks depth, generalizability, or clear principle beyond the quip itself.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "e14e890d041ad8f22ede",
+  "error": ""
+}

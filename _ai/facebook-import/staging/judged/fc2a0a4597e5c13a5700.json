@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event caption with no visible insight, analysis, or embedded knowledge — appears to be a photo post title documenting a makerspace activity rather than durable content.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "fc2a0a4597e5c13a5700",
+  "error": ""
+}

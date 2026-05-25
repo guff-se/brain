@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Casual commentary on a time-bound 2014 policy event with no embedded analysis or principle — social observation, not durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "632146a9be867d158582",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Social capture from meeting someone — the quote contains an implicit principle (mortality anxiety linked to temporal foresight) but lacks Gustaf's own reflection, making it relational notation rather than knowledge-bearing.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "7fa1bbfccc3dd4b40b57",
+  "error": ""
+}
