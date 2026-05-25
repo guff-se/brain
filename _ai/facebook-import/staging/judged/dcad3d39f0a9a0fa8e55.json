@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "critical-thinking",
+    "environmentalism",
+    "gmo"
+  ],
+  "reason": "Expert analysis of how environmental claims require evidence-based evaluation over marketing narratives—Gustaf's question signals this principle matters to him.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "dcad3d39f0a9a0fa8e55",
+  "error": ""
+}

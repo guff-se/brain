@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Sarcastic reaction to a news event; implies critique of copyright enforcement but lacks articulation of principle or durable insight worth revisiting.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "b4c4de74aae34e2c6ecf",
+  "error": ""
+}

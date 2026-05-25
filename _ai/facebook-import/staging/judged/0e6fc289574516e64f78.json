@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Social recommendation from 2010 with no substantive context—we don't know what the video is or why it matters, just that Gustaf thought it worth seeing when relaying it to someone.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "0e6fc289574516e64f78",
+  "error": ""
+}

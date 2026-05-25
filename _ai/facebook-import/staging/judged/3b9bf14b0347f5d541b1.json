@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Bare Vimeo link from 2010 with no meaningful commentary — Gustaf's only text is another link (a Facebook group) that doesn't explain why the video matters.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "3b9bf14b0347f5d541b1",
+  "error": ""
+}

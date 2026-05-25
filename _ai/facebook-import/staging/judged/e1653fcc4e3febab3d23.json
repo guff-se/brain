@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional sharing of a video link with no embedded knowledge—Gustaf announces he's posted the shortened version and points to the full one, but offers no interpretation or articulated principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e1653fcc4e3febab3d23",
+  "error": ""
+}
