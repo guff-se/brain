@@ -61,6 +61,31 @@ def is_token_limit_message(text: str) -> bool:
         return True
     return False
 
+
+def is_retriable_judge_error(error: str) -> bool:
+    """True if a prior judge-error should be retried on the next bulk run.
+
+    Almost all logged failures are empty ``claude exited 1`` from session/credit limits
+    (before TokenLimitError stopped the run). Those must retry after the limit resets.
+
+    Non-retriable: model returned prose instead of JSON (missing content in prompt) — rare.
+    """
+    if not error or not error.strip():
+        return True
+    if is_token_limit_message(error):
+        return True
+    low = error.lower()
+    if 'claude exited 1' in low:
+        return True
+    if 'timed out' in low or 'timeout' in low:
+        return True
+    if 'no json' in low:
+        return False
+    if 'valueerror' in low and 'no json' in low:
+        return False
+    # Unknown — retry once more rather than leave stuck
+    return True
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 PROJECT = os.path.dirname(HERE)
 STAGING = os.path.join(PROJECT, 'staging')

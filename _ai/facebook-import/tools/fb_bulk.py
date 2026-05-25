@@ -30,7 +30,10 @@ RUN_LOG = os.path.join(STAGING, 'run_log.jsonl')
 
 sys.path.insert(0, HERE)
 from fb_fetch import fetch, classify_domain, domain_of  # noqa
-from fb_judge import judge, TokenLimitError, is_token_limit_message, load_cached_judgement, judgement_cache_path  # noqa
+from fb_judge import (  # noqa
+    judge, TokenLimitError, is_token_limit_message, is_retriable_judge_error,
+    load_cached_judgement, judgement_cache_path,
+)
 
 # Global stop flag — set when a token limit is detected. Workers check this
 # before starting new items so we drain cleanly without killing mid-write.
@@ -57,6 +60,69 @@ YEAR_BUNDLE_PATHS = {
 }
 
 _log_lock = threading.Lock()
+
+# Terminal run_log statuses — safe to skip fetch/judge on re-run (see load_run_resume).
+TERMINAL_RESUME = frozenset({
+    'written', 'already-written', 'skipped', 'skipped-empty',
+    'skipped-domain', 'skipped-own-domain', 'bundle-facts', 'dry-run-save',
+})
+_last_run_status: dict[tuple, str] = {}
+_last_run_error: dict[tuple, str] = {}
+_retry_errors = False
+
+
+def load_run_resume() -> tuple[dict[tuple, str], dict[tuple, str]]:
+    """Last status + error per (ts, src) from append-only run_log."""
+    last: dict[tuple, str] = {}
+    err: dict[tuple, str] = {}
+    if not os.path.exists(RUN_LOG):
+        return last, err
+    with open(RUN_LOG, encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                e = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            key = (e.get('ts'), e.get('row_src') or e.get('src'))
+            st = e.get('status')
+            if key[0] is not None and st:
+                last[key] = st
+                err[key] = e.get('error') or ''
+    return last, err
+
+
+def _should_resume_skip(ts, src: str) -> bool:
+    """Skip fetch/judge on re-run when prior outcome does not need another attempt."""
+    prior = _last_run_status.get((ts, src))
+    if prior in TERMINAL_RESUME:
+        return True
+    if prior == 'judge-error':
+        if is_retriable_judge_error(_last_run_error.get((ts, src), '')):
+            return False  # limit/CLI failures — retry after reset
+        return not _retry_errors  # e.g. no-json — skip unless forced
+    if prior in ('fetch-error', 'error'):
+        return False  # network / transient — always retry
+    return False
+
+
+def _row_work_priority(row: dict) -> int:
+    """Lower = earlier in queue. pending-judge first, then retries, stuck errors last."""
+    key = (row.get('ts'), row.get('src'))
+    st = _last_run_status.get(key)
+    if _should_resume_skip(key[0], key[1]):
+        return 0
+    if st == 'pending-judge':
+        return 1
+    if st == 'judge-error':
+        return 2  # retriable limit errors
+    return 2
+
+
+def _sort_rows_for_work(rows: list[dict]) -> list[dict]:
+    return sorted(rows, key=lambda r: (_row_work_priority(r), r.get('ts', 0)))
 
 # ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -258,6 +324,15 @@ def process_item(row: dict, dry_run: bool = False, cache_only: bool = False) -> 
     text = row.get('text', '')
     src = row.get('src')
 
+    # Re-run fast path: prior finished outcome, or non-retriable judge-error (no fetch/judge).
+    if _should_resume_skip(ts, src):
+        prior = _last_run_status.get((ts, src))
+        return {
+            'ts': ts, 'date': date, 'src': src,
+            'status': prior, 'verdict': None, 'path': None, 'error': None,
+            'resumed': True,
+        }
+
     # Drain cleanly when a token limit has been signalled
     if _stop.is_set():
         return {'ts': ts, 'date': date, 'src': src, 'status': 'stopped',
@@ -413,6 +488,18 @@ def show_status():
     print(f'Judged (cached):  {judged}')
     print(f'Fetched (cached): {fetched}')
 
+    last_st, last_err = load_run_resume()
+    if last_st:
+        from collections import Counter
+        st = Counter(last_st.values())
+        finished = sum(st.get(s, 0) for s in TERMINAL_RESUME)
+        pending = st.get('pending-judge', 0)
+        je = [(k, last_err.get(k, '')) for k, v in last_st.items() if v == 'judge-error']
+        retry_je = sum(1 for _, e in je if is_retriable_judge_error(e))
+        skip_je = len(je) - retry_je
+        print(f'Run log (deduped): finished={finished} pending-judge={pending} '
+              f'judge-error retry={retry_je} skip={skip_je}')
+
     written = 0
     for reg in ('mine/voice', 'mine/thinking', 'mine/facts',
                 'consumed/articles', 'consumed/videos',
@@ -446,6 +533,9 @@ def main():
     ap.add_argument('--year', type=int, help='Only process this year')
     ap.add_argument('--workers', type=int, default=2)
     ap.add_argument('--limit', type=int, help='Cap total rows (for testing)')
+    ap.add_argument('--retry-errors', action='store_true',
+                    help='Also re-attempt non-retriable judge-errors (e.g. no-json). '
+                         'Limit/CLI judge-errors retry automatically.')
     args = ap.parse_args()
 
     if args.status:
@@ -465,14 +555,31 @@ def main():
         rows = rows[:args.limit]
         print(f'Capped to {args.limit} rows')
 
+    global _last_run_status, _last_run_error, _retry_errors
+    _retry_errors = args.retry_errors
+    _last_run_status, _last_run_error = load_run_resume()
+    resume_n = sum(1 for r in rows if _should_resume_skip(r.get('ts'), r.get('src')))
+    retry_err_n = sum(
+        1 for r in rows
+        if _last_run_status.get((r.get('ts'), r.get('src'))) == 'judge-error'
+        and not _should_resume_skip(r.get('ts'), r.get('src'))
+    )
+    rows = _sort_rows_for_work(rows)
+    todo_n = len(rows) - resume_n
+
     print(f'Processing {len(rows)} rows with {args.workers} workers'
           + (' [DRY RUN]' if args.dry_run else '')
-          + (' [CACHE ONLY]' if args.cache_only else '') + '...')
+          + (' [CACHE ONLY]' if args.cache_only else '')
+          + (' [RETRY ALL ERRORS]' if _retry_errors else '') + '...')
+    if resume_n:
+        print(f'  Resume: {resume_n} instant skip, ~{todo_n} need work'
+              + (f' (incl. {retry_err_n} retriable judge-errors)' if retry_err_n else ''))
 
     _stop.clear()
 
     counts = {'written': 0, 'skipped': 0, 'already-written': 0,
-              'error': 0, 'bundle': 0, 'dry-run-save': 0, 'pending-judge': 0}
+              'error': 0, 'bundle': 0, 'dry-run-save': 0, 'pending-judge': 0,
+              'resumed': 0, 'deferred': 0}
 
     token_limit_hit = False
     limit_detail = ''
@@ -520,6 +627,13 @@ def main():
 
             status = res.get('status', 'unknown')
 
+            if res.get('resumed'):
+                counts['resumed'] += 1
+                prior = _last_run_status.get((row.get('ts'), row.get('src')))
+                if prior == 'judge-error' and _should_resume_skip(row.get('ts'), row.get('src')):
+                    counts['deferred'] += 1
+                continue  # do not append_log again
+
             # After limit: skip per-item drain noise; log the triggering row once
             if status == 'stopped':
                 continue
@@ -557,7 +671,8 @@ def main():
             append_log({**res, 'row_src': row.get('src')})
 
             if processed % 100 == 0 or processed == len(rows):
-                print(f'  {processed}/{len(rows)} — written:{counts["written"]} '
+                print(f'  {processed}/{len(rows)} — resumed:{counts["resumed"]} '
+                      f'deferred:{counts["deferred"]} written:{counts["written"]} '
                       f'skipped:{counts["skipped"]} errors:{counts["error"]}'
                       + (' [STOPPING]' if _stop.is_set() else ''))
     finally:
@@ -574,6 +689,10 @@ def main():
         sys.exit(2)  # distinguish from success; safe to re-run
     else:
         print('\nDone.')
+    if counts.get('resumed'):
+        print(f'  Resumed (skip): {counts["resumed"]}')
+    if counts.get('deferred'):
+        print(f'  Stuck errors skipped: {counts["deferred"]} (non-retriable; use --retry-errors)')
     print(f'  Written:       {counts["written"]}')
     print(f'  Skipped:       {counts["skipped"]}')
     print(f'  Already done:  {counts["already-written"]}')
