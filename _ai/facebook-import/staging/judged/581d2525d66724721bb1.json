@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Government policy response to a debate, time-bound to 2011 Egypt events, with Gustaf's minimal social commentary ('Bildt responded') rather than substantive analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "581d2525d66724721bb1",
+  "error": ""
+}

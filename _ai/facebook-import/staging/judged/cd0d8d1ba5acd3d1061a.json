@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social volunteering without durable insight — Gustaf expresses willingness to help but doesn't articulate a principle, analysis, or perspective about why combining TED and Burning Man matters.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "cd0d8d1ba5acd3d1061a",
+  "error": ""
+}

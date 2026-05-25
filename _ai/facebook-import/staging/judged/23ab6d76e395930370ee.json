@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound 2011 event report (2010 competition winners); no durable knowledge, principle, or Gustaf commentary explaining significance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "23ab6d76e395930370ee",
+  "error": ""
+}

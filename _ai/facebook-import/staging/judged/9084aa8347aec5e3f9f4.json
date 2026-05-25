@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Bare YouTube link with no commentary or context — transactional share, no embedded knowledge or Gustaf's perspective.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "9084aa8347aec5e3f9f4",
+  "error": ""
+}

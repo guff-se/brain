@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "corporate-accountability",
+    "incentives",
+    "acquisitions"
+  ],
+  "reason": "Article analyzes durable mechanisms (CEO incentive structures, M&A failure patterns, goodwill accounting) and Gustaf's satire reveals his interest in corporate accountability gaps.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "9a8a15616bb860513021",
+  "error": ""
+}

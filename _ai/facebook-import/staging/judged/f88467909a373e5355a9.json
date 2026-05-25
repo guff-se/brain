@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "corporate-hypocrisy",
+    "lgbtq-rights",
+    "content-moderation"
+  ],
+  "reason": "Crisp assertion of a principle—selective corporate moral enforcement is performative hypocrisy—that reveals Gustaf's stance on platform accountability and LGBTQ+ rights.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "f88467909a373e5355a9",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-liner social commentary on a 2011 news event; hints at a principle (corporate self-censorship) but doesn't assert or develop it.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "323491745b9e450dadad",
+  "error": ""
+}
