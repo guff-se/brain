@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A brief observation about consumer behavior without explaining causality, principle, or why it matters — lacks durable substance without the video context.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "332990a32345b6944d5f",
+  "error": ""
+}

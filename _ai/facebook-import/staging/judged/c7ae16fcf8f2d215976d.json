@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure social tagging with no context or Gustaf's perspective — just pinging someone to watch a video.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "c7ae16fcf8f2d215976d",
+  "error": ""
+}

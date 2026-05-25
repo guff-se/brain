@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Event announcement (2011) with no embedded knowledge—transactional invitation to a one-off course, not a durable framework or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d2b2a817a16514d2c84f",
+  "error": ""
+}

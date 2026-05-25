@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Excellent article, but Gustaf's contribution is just a question — no perspective, analysis, or thinking articulated.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "daffa4f16b37b03c7d79",
+  "error": ""
+}

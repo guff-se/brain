@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-line social caption with no elaborated reasoning; the substance (if any) lives in the video, not in Gustaf's brief value judgment.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "17b8b45c893e3ba7d1f2",
+  "error": ""
+}

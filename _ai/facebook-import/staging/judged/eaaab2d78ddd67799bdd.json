@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter reacting to a news event; the principle (countries should follow international law) is asserted without elaboration or exploration.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "eaaab2d78ddd67799bdd",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "dance",
+    "human-nature",
+    "embodiment"
+  ],
+  "reason": "Crisp assertion about dance's place in human experience; reveals what Gustaf finds important.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "b47673887725becff6ee",
+  "error": ""
+}
