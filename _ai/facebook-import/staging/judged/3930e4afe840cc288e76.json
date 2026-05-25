@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Time-bound event note (Christmas gathering) with no embedded knowledge, insight, or principle — fleeting relational memory, not durable learning.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "3930e4afe840cc288e76",
+  "error": ""
+}

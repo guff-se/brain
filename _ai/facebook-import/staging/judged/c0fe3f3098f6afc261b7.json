@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.99,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social invitation with no embedded knowledge, insight, or lasting value — time-bound logistical query from 2013.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "c0fe3f3098f6afc261b7",
+  "error": ""
+}

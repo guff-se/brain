@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure event notation with no embedded insight, framework, or principle — just social banter about attending Melodifestival with a friend.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "4ead3c96e371f271eb26",
+  "error": ""
+}

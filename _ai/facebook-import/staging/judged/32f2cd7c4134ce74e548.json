@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Real-time event status update with no embedded knowledge or principle — pure social-media logistics.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "32f2cd7c4134ce74e548",
+  "error": ""
+}

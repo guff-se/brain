@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fragment with no context or content — a bare emotional resonance ('I feel this') without object, knowledge, or principle to preserve.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "ab97c8cb2afbbb7e3014",
+  "error": ""
+}

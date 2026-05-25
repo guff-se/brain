@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare exclamation with no context, explanation, or embedded insight — reads as momentary emotion, not durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "5d559e2eb75c3470d655",
+  "error": ""
+}
