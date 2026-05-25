@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Political sentiment without analysis or principle — expresses a preference but doesn't explain why or what it means.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "d0af5813cd4fc2b50ebe",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.42,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Brief reaction to a 2014 EU political alliance, expresses discomfort but offers no reasoning or principle worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "210eba75c4cd197d27b6",
+  "error": ""
+}

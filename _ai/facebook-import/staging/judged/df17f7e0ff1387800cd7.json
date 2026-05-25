@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional social request with no durable knowledge, insight, or principle—pure logistics asking if anyone has folding tables to lend.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "df17f7e0ff1387800cd7",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A snapshot reaction to a specific political event; too event-bound and thin to compound as durable thinking.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "abde5517c355dd4d05dd",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Asserts a clear principle about responsibility and fairness: those who create obligations should bear their cost, not future generations—durable enough for the vault.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "1f38bbc8ab0ca59ad4df",
+  "error": ""
+}

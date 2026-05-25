@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Brief emotional response to an unspecified Göteborg event; the listening principle is asserted but so thinly and context-dependent that it wouldn't stand alone in the vault.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "e757d51fe4b51e7604b4",
+  "error": ""
+}

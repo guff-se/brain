@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Bare quote with no attached analysis or Gustaf's perspective — no signal of why he captured it or what it means to his thinking.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "a2c9f20a2cb93d31d796",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "swedish-politics",
+    "economics",
+    "efficiency"
+  ],
+  "reason": "Crisp assertion of a political principle—job reduction under leftist policy isn't inherently negative—revealing Gustaf's pragmatism on employment vs. efficiency metrics.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "ada38971cd719000bb5f",
+  "error": ""
+}

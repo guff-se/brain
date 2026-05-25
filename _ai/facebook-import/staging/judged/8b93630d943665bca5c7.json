@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Joking one-liner lacks elaboration; the buried principle (automation will make work-line ideology obsolete) is substantive but too brief and under-developed to stand as a note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "8b93630d943665bca5c7",
+  "error": ""
+}

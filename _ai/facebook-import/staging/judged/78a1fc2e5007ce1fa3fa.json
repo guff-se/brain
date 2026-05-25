@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Three-word post with no context, explanation, or substantive content; likely social banter or throwaway comment.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "78a1fc2e5007ce1fa3fa",
+  "error": ""
+}
