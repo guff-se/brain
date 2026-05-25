@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "swedish-politics",
+    "arms-sales",
+    "realpolitik"
+  ],
+  "reason": "Dated 2012 news item with Gustaf's brief dismissal; lacks reasoning depth to qualify as thinking, and no durable principle emerges beyond the jab.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "caf47de7b0cb85a8a7ab",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "too-big-to-fail",
+    "bank-regulation",
+    "wall-street"
+  ],
+  "reason": "Gustaf asserts a clear position on financial architecture: large banks should be broken up, revealing his stance on systemic risk and concentration.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "521d74e2d380457b8ae2",
+  "error": ""
+}

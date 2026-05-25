@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social sharing of a found clip with no embedded analysis — the quote is interesting but lacks Gustaf's own reflection or assertion of why it matters to him.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d7584cc2a4eaa56fd648",
+  "error": ""
+}

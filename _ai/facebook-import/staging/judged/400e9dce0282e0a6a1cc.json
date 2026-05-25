@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "corporate-power",
+    "global-justice",
+    "surveillance"
+  ],
+  "reason": "Time-bound campaign promotion with brief value statement; too thin and promotional to ground durable knowledge, despite real underlying principles.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "400e9dce0282e0a6a1cc",
+  "error": ""
+}

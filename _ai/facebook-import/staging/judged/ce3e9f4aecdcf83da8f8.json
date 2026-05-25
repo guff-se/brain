@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social media wrapper (thank-you + headline) around a video link, with no elaboration of the argument itself — just \"Pensions are a scam\" without substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "ce3e9f4aecdcf83da8f8",
+  "error": ""
+}
