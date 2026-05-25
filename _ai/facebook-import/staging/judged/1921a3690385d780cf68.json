@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.96,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Social announcement promoting a video trailer with no embedded knowledge or analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "1921a3690385d780cf68",
+  "error": ""
+}

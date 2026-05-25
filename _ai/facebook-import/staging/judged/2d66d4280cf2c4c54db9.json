@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Two-word label with no explanation; even if the video is substantive, Gustaf's commentary doesn't surface why or what principle it illustrates—this is bookmarking metadata, not knowledge capture.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "2d66d4280cf2c4c54db9",
+  "error": ""
+}

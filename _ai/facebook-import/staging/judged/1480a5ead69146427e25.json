@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Generic etiquette how-to shared without Gustaf's substantive commentary — a bare nudge ('know your etiquette') signals social sharing, not a principle or insight worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "1480a5ead69146427e25",
+  "error": ""
+}
