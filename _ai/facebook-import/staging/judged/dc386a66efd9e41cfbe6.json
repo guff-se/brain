@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Bare URL with no commentary, context, or insight — just a link drop with no substance",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "dc386a66efd9e41cfbe6",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Gustaf's commentary is just a question mark without elaboration; the TED talk is durable but his own thinking isn't captured sufficiently to warrant a note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "ff1b00c9612a35a2f242",
+  "error": ""
+}
