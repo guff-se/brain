@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Purely descriptive label for a video link with no insight, principle, or durable knowledge attached — a 15-year-old bookmark, not a curated idea.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a5d11fc66966036b70e5",
+  "error": ""
+}

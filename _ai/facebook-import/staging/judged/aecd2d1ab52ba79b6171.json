@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional campaign announcement with no durable insight; time-bound event (2011) with no relevance beyond the deadline.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "aecd2d1ab52ba79b6171",
+  "error": ""
+}

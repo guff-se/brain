@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Minimal reaction comment with no accessible substance—the idea being endorsed is hidden in the video and the post itself contains no argument, principle, or insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "3db3b474261a89382c50",
+  "error": ""
+}

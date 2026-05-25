@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "labor-market",
+    "hiring",
+    "systems-thinking"
+  ],
+  "reason": "Gustaf identifies a non-obvious structural gap — employers lack training in hiring young people — implying where responsibility for systemic change should lie.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "582519b2978cad5c8e25",
+  "error": ""
+}

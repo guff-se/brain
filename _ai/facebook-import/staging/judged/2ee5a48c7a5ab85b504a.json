@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "News reaction without underlying content access; the commentary is factual reporting (\"Dropbox can read your data\") rather than articulating a principle or insight worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "2ee5a48c7a5ab85b504a",
+  "error": ""
+}

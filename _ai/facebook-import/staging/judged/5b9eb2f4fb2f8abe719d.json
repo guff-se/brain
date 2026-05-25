@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "News report of a specific 2009 incident; Gustaf's comment flags a principle about power asymmetry but doesn't develop it beyond a rhetorical question.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "5b9eb2f4fb2f8abe719d",
+  "error": ""
+}

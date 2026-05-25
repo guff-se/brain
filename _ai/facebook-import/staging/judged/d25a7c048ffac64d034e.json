@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Social banter with no embedded knowledge—recommends a campaign speech without explaining what principle or insight Gustaf extracts from it.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d25a7c048ffac64d034e",
+  "error": ""
+}
