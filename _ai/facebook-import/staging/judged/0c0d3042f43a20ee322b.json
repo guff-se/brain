@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social appreciation of a product moment, not durable knowledge or principle — no insight into why maker-hacks matter or how AR/interfaces work.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "0c0d3042f43a20ee322b",
+  "error": ""
+}

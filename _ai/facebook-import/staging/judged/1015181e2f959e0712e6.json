@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare Indiegogo URL with no project title, description, or Gustaf commentary—transactional/promotional with no durable substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "1015181e2f959e0712e6",
+  "error": ""
+}

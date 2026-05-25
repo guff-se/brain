@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.35,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Point-in-time rebuttal to a specific 2015 NYT piece; relies on context of the article being criticized; argues unfairness rather than exploring durable principles.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "f3fa8660963e809d337c",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Promotional product demo with minimal commentary (just a heart); no durable insight or principle, purely social/transactional.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "df40a0d370c06c975911",
+  "error": ""
+}

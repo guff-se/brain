@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.96,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional status fragment with no embedded knowledge, analysis, or principle—pure social announcement.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "77c6bf26a61bd11986e8",
+  "error": ""
+}

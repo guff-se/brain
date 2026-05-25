@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare Airbnb homepage with no content, no commentary, no durable knowledge — transactional/promotional link only.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "652143a4277318d3a8b7",
+  "error": ""
+}

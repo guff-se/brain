@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Fragment with no elaboration or context—too thin to stand alone as reflection, despite touching on values like peace and home",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "f07d33540811215bd447",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "book",
+  "tags_hint": [
+    "financial-systems",
+    "economics"
+  ],
+  "reason": "Bare book endorsement with no articulated principle, analysis, or durable insight — promotional rather than knowledge-bearing",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "6ed6e9842aa0c14c2565",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "media-bias",
+    "journalism"
+  ],
+  "reason": "Media criticism asserting that proportional journalism shouldn't frame counter-protesters as more alarming than extremists being protested.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "167c9343b4d68c445fdc",
+  "error": ""
+}

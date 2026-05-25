@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.65,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "integration",
+    "employment",
+    "policy"
+  ],
+  "reason": "Policy framework asserting specific integration principles (rapid employment, language training, competence validation, municipal compensation); durable despite 2015 date",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "581b6b2749e11b24d0dc",
+  "error": ""
+}

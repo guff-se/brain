@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "drug-policy",
+    "media",
+    "harm-reduction"
+  ],
+  "reason": "Social observation (article was removed; I wonder why) without resolved insight or asserted principle—curiosity, not durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e681e413448582aaf970",
+  "error": ""
+}

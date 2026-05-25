@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Journalistic profile of a politician's stated views; reports what Kronlid thinks without exploring the underlying principles (evolution in schools, secular governance, religious heritage) deeply enough to be durable",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "9bf91a9b8ba52a816b5c",
+  "error": ""
+}

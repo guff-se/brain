@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event announcement with no durable knowledge — casual status update about participating in a birthday activity and sharing updates that day.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "577e747baf4dfd0486a0",
+  "error": ""
+}

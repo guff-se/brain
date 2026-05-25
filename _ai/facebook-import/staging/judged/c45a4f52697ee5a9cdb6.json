@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Brief social endorsement with no embedded analysis, principle, or perspective — just 'good article'",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "c45a4f52697ee5a9cdb6",
+  "error": ""
+}

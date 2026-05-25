@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "gaming",
+    "entrepreneurship",
+    "social-impact"
+  ],
+  "reason": "Gustaf connects McGonigal's gaming-for-good framework to his Entreprenörsjakten project—captures a seed hypothesis worth keeping.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "629c342927b93448d382",
+  "error": ""
+}

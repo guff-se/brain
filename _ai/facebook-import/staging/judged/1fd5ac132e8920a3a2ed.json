@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "sverige",
+    "sakerhet",
+    "statistik"
+  ],
+  "reason": "Time-bound news analysis (2020 crime stats) with a brief emotional reaction; lacks durable insight or analysis beyond 'I appreciate living safely here'",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "1fd5ac132e8920a3a2ed",
+  "error": ""
+}

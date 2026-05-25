@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Too thin and ambiguous — bare assertion about punctuation without elaboration, context, or substance. Could be banter, fragment, or quip rather than a principle worth saving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "e232bc292744fe9de3de",
+  "error": ""
+}

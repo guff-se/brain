@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sd-sverige",
+    "populism",
+    "financial-crisis"
+  ],
+  "reason": "Researchers' causal analysis of SD's rise via specific policy (arbetslinjen) + 2008 crisis; durable political economy, not event reporting.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "0da2e995a08deb2130b4",
+  "error": ""
+}

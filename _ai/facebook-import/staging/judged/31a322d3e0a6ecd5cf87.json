@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event report with no embedded insight, principle, or analysis — purely a Facebook status update",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "31a322d3e0a6ecd5cf87",
+  "error": ""
+}

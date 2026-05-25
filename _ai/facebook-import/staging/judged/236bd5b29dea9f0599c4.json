@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-line social reaction celebrating external news—the principle is implied (censorship matters) but not stated, and there's no substantive content to build on.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "236bd5b29dea9f0599c4",
+  "error": ""
+}

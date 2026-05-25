@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "pharma-ethics",
+    "corporate-malfeasance",
+    "opioid-crisis"
+  ],
+  "reason": "Excellent investigative reporting, but primarily event documentation (how the Sacklers made $14B from OxyContin, legal penalties) rather than concept or principle — describes what happened without exploring causality or durable insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "749f672e1b9c4e2201c7",
+  "error": ""
+}

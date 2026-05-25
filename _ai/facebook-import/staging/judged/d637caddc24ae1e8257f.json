@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "riksdagsrosten",
+    "transparency",
+    "civic-tech"
+  ],
+  "reason": "Captures a crisp principle (disclose every crown openly) that Gustaf committed to publicly at Riksdagsrösten's founding, plus his political observation on Parliament—durable enough to ground future thinking on governance transparency.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d637caddc24ae1e8257f",
+  "error": ""
+}

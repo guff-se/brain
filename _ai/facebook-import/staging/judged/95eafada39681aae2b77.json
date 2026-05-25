@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound event report (2011 Facebook moderation incident) with a reactive one-liner commentary; lacks durable principle or mechanism beyond the quip—would need a second source on corporate gatekeeping/censorship to become a concept candidate.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "95eafada39681aae2b77",
+  "error": ""
+}

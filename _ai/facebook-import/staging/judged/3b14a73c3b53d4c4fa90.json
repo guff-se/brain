@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Reactive news commentary on a specific 2012 event; principles about free speech and state power are implicit but underdeveloped and context-dependent on the original article.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "3b14a73c3b53d4c4fa90",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical coordination note with no durable knowledge — just explaining that an event needs to be created within the Entreprenörsjakten group context to send invites there.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "0b228adb00aa3841d27b",
+  "error": ""
+}

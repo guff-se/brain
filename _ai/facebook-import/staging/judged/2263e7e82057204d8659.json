@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "wikileaks",
+    "corporate-surveillance",
+    "transparency"
+  ],
+  "reason": "News announcement with no analytical layer — describes that WikiLeaks released something, but Gustaf's commentary doesn't explain why it matters or what principle he draws from it.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "2263e7e82057204d8659",
+  "error": ""
+}

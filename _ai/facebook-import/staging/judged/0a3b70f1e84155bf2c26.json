@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Promotional event announcement with a light social callout; no durable knowledge or substantive commentary about why the show matters.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "0a3b70f1e84155bf2c26",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social/transactional: placeholder phrase with no articulated perspective, analysis, or principle — just fulfilling a promise to share a link.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "811238fd02de7a3bce5a",
+  "error": ""
+}

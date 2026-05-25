@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "External article with one-word affirmation; the principle (open cultural digitization via CC0) is asserted by the authors, not by Gustaf, so 'JA!' is a vote, not a statement of his thinking.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a41d223dc4ada58a671c",
+  "error": ""
+}

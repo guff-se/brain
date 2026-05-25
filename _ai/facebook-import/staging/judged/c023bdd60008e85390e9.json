@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter with zero embedded knowledge — Gustaf shares a trailer link with a smiley, no analysis or perspective.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "c023bdd60008e85390e9",
+  "error": ""
+}

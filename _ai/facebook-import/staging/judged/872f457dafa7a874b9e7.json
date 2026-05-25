@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news report of a 2015 parliamentary vote; reports what happened and politician positions, but contains no durable knowledge, analysis, or principles worth building on.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "872f457dafa7a874b9e7",
+  "error": ""
+}

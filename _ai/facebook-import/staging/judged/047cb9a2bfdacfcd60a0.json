@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Social sharing of a dated news event with no embedded perspective or durable insight — just 'check out this channel's coverage.'",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "047cb9a2bfdacfcd60a0",
+  "error": ""
+}

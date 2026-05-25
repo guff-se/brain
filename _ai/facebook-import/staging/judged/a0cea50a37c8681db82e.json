@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Lightweight social observation noting a new party's existence; no embedded knowledge, principle, or analysis about basic income or political engagement",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a0cea50a37c8681db82e",
+  "error": ""
+}

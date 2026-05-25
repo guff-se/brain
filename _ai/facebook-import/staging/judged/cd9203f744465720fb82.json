@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.96,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fleeting complaint about early waking — social banter with no embedded knowledge or principle",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "cd9203f744465720fb82",
+  "error": ""
+}

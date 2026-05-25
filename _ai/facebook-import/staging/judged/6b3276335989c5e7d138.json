@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Paywalled article with no title (shows generic domain name) and no Gustaf commentary to anchor it — insufficient signal to determine substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "6b3276335989c5e7d138",
+  "error": ""
+}

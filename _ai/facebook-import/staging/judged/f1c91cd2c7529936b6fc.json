@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event report without embedded knowledge or articulated principle — social observation, not durable insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "f1c91cd2c7529936b6fc",
+  "error": ""
+}

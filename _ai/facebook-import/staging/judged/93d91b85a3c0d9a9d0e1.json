@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.65,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "surveillance",
+    "democracy",
+    "privacy"
+  ],
+  "reason": "Press release wraps a substantive political manifesto asserting clear principles about surveillance, fear-based governance, and democratic society — durable ideas that transcend the 2009 event frame.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "93d91b85a3c0d9a9d0e1",
+  "error": ""
+}

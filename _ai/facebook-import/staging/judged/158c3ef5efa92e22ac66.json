@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter about a time-bound feature rollout; no embedded knowledge or principle",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "158c3ef5efa92e22ac66",
+  "error": ""
+}

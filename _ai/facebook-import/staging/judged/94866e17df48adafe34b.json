@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound social reaction to entertainment ('just now on SVT'), no embedded knowledge or principle",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "94866e17df48adafe34b",
+  "error": ""
+}

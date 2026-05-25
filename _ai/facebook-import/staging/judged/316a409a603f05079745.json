@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "institutional-power"
+  ],
+  "reason": "Third-party opinion piece with durable argument: music publishers using litigation as business model rather than for actual damages recovery. Asserts principles about institutional autonomy, dialogue vs threats, and proportionality—Gustaf's share signals interest in IP enforcement patterns.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "316a409a603f05079745",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Time-bound reaction to 2012 Eurovision news; though it asserts a principle about Swedish language/culture, the comment is too brief and context-dependent to stand alone as durable knowledge",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "6270cd29b6463801c747",
+  "error": ""
+}

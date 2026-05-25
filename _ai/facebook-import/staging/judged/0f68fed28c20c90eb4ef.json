@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Cinematic love letter to Burning Man with aesthetic/inspirational value, but no durable analysis, principles, or insights beyond visual experience and linked references to existing material (10 principles, Alan Watts separately available).",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "0f68fed28c20c90eb4ef",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.62,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "transhumanism",
+    "human-enhancement",
+    "futures"
+  ],
+  "reason": "Promotional endorsement without analysis — the durable subject (human enhancement ethics) lives in the video, not Gustaf's comment.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "238201fddf75ed74b93b",
+  "error": ""
+}

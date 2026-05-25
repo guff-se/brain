@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social media banter celebrating a press mention; no knowledge or insight embedded, just a time-bound event reaction.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "45a68e758d134797d1f7",
+  "error": ""
+}

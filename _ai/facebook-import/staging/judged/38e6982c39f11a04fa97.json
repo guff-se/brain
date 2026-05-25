@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "social-media",
+    "attention",
+    "tools"
+  ],
+  "reason": "Articulates a crisp principle about intentional tool use: engage with platforms but don't let them define your reality.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "38e6982c39f11a04fa97",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "capitalism-critique",
+    "wealth-inequality",
+    "political-economy"
+  ],
+  "reason": "Systematic argument connecting disparate social/environmental crises to capitalism's core mechanisms; asserts a clear principle about prioritizing life over profit",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "7de4f929ef5143889d61",
+  "error": ""
+}

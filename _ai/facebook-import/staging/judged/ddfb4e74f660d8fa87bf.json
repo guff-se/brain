@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Product marketing + company story; the phase-change mechanism is mentioned but not explored as durable knowledge or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "ddfb4e74f660d8fa87bf",
+  "error": ""
+}

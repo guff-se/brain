@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "meditation",
+    "psychology",
+    "ego"
+  ],
+  "reason": "Research finding on a psychological mechanism — meditation's paradoxical ego-inflating effect — asserts a principle about unintended consequences in wellness practices worth building into the vault.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "38ecd6156bab8a766b3d",
+  "error": ""
+}

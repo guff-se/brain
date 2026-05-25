@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social query seeking product recommendations; transactional with no embedded knowledge or analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "0c7a644a6055b3199956",
+  "error": ""
+}

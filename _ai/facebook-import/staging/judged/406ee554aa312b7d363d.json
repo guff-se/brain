@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sublime",
+    "burning-man",
+    "documentation"
+  ],
+  "reason": "Gustaf's commentary links the article's insight about authentic wonder (the Double Rainbow phenomenon) to his lived experience at Burning Man—a durable reflection on why witnessing and sharing the sublime matters",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "406ee554aa312b7d363d",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.87,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "housing-policy",
+    "economic-redistribution",
+    "political-economy"
+  ],
+  "reason": "Identifies housing crisis as wealth transfer mechanism from renters to homeowners; proposes three specific policy fixes; acknowledges political barriers—reveals durable principle about redistribution and class interests.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "720a6d9c0d64a8b688f7",
+  "error": ""
+}

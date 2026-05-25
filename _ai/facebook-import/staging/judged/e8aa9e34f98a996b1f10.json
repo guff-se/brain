@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound legal discovery with no durable insight — Gustaf reports finding a rule, not interpreting it or establishing principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e8aa9e34f98a996b1f10",
+  "error": ""
+}

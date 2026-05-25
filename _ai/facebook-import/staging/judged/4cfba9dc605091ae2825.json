@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social query seeking data points about crowd equity exits — no embedded insight, analysis, or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "4cfba9dc605091ae2825",
+  "error": ""
+}

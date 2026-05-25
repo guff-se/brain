@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.35,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "External analysis of social-business models from 2012; Gustaf's commentary is minimal social sharing ('Chech this out :)') with no signal of why it matters to his thinking, making it hard to assess whether this is durable knowledge vs. a timely find.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "12de03ab1c51405a8614",
+  "error": ""
+}

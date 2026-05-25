@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter and relational courtesy with no embedded knowledge — the substance lives in the linked article, not in this thank-you note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "fc2d1dc55e06c02d13b8",
+  "error": ""
+}

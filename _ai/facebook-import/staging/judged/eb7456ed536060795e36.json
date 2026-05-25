@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare link to a puzzle game blog with user score comments — no embedded analysis, insight, or principle; purely time-bound social/entertainment content",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "eb7456ed536060795e36",
+  "error": ""
+}

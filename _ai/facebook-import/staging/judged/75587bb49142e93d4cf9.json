@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Interesting artifact flagged as emblematic, but Gustaf's commentary is minimal—no developed thinking or principle asserted beyond tagging it as a 'time document.' The substance is in the article and artists' stated positions on labor, not in Gustaf's addition.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "75587bb49142e93d4cf9",
+  "error": ""
+}

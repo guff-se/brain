@@ -1,0 +1,12 @@
+{
+  "verdict": "save",
+  "confidence": 0.58,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "States a clear principle about information access: refusal to engage with paywalled content because inability to share undermines its value — reveals Gustaf's stance on knowledge accessibility and what makes content worth his time.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "f774c81f1fc079dca3db",
+  "error": ""
+}

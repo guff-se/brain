@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news item (2010 policy debate) with a one-liner dismissal; the underlying pattern (copyright lag + device fees) is durable but not developed here.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "2948248df42ce169e6e3",
+  "error": ""
+}

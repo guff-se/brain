@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "News event report with minimal commentary; Gustaf signals interest but doesn't explain why or what principle matters.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "342f8a6b1a6801e29bd9",
+  "error": ""
+}

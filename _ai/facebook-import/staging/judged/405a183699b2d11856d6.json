@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Well-crafted crisis explainer with good mechanistic detail (eurozone design flaws, austerity trap), but fundamentally time-bound to the 2015 Greek referendum moment rather than synthesizing durable principles.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "405a183699b2d11856d6",
+  "error": ""
+}

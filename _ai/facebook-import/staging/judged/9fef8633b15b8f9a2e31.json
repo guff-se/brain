@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-line reaction to an unspecified referent with no elaboration or principle—temporal social comment with no durable substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "9fef8633b15b8f9a2e31",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "leadership",
+    "gender",
+    "selection-bias"
+  ],
+  "reason": "Named expert (Chamorro-Premuzic) proposing a distinct mechanism for why women are underrepresented in leadership — not women's deficits but the traits we reward in male leaders — a durable principle about organizational behavior and bias",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "ab07623c81688da43c73",
+  "error": ""
+}

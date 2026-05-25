@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional recruitment post for a dated event (April 2011) with no embedded knowledge or insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "385833e47ebcd97aca12",
+  "error": ""
+}

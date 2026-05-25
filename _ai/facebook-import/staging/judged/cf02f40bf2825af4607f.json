@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "environmental-pragmatism",
+    "energy-systems",
+    "nuclear-power"
+  ],
+  "reason": "Moore articulates enduring principles—science-based environmentalism vs. ideology, pragmatic energy solutions, development rights—with mechanistic reasoning, not just reporting what happened.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "cf02f40bf2825af4607f",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "News announcement of a 2017 event; documents a trend but doesn't explore the mechanism or principle (cost dynamics driving transitions) deeply enough for standalone preservation.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "3febaacd1d5613365c42",
+  "error": ""
+}

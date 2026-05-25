@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound opinion piece about a specific 2020 pandemic-era policy debate (exam cancellation); lacks durable frameworks or principles worth extracting.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "bfe2a1f13ee875bf6706",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "science-policy",
+    "governance"
+  ],
+  "reason": "Crisp assertion of a principle—research should inform policy, not gut feeling—that reveals Gustaf's values around evidence-based governance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "738f5bcc5348d80d55b8",
+  "error": ""
+}

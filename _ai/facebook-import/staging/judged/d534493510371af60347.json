@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Novelty gadget article; purely descriptive report of an art project with no embedded durable knowledge or Gustaf's commentary to anchor significance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d534493510371af60347",
+  "error": ""
+}

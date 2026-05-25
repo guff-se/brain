@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.7,
+  "register_hint": "thinking",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "integration",
+    "refugees",
+    "sverige"
+  ],
+  "reason": "Gustaf's label asserts a principle about immigration's value; backed by substantive integration analysis (employment, cohesion, policy mechanisms).",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "36be8f0637034968066e",
+  "error": ""
+}

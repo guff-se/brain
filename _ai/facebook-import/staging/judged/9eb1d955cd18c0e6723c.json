@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social logistics post announcing travel plans and asking friends to hang out—no durable knowledge or insight embedded.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "9eb1d955cd18c0e6723c",
+  "error": ""
+}

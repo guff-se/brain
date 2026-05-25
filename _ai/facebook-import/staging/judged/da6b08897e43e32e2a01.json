@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "energy-transition",
+    "technology-adoption",
+    "market-dynamics"
+  ],
+  "reason": "Gustaf asserts a durable principle about systemic change — that technology adoption drives transitions, not politics — a non-trivial causal claim worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "da6b08897e43e32e2a01",
+  "error": ""
+}

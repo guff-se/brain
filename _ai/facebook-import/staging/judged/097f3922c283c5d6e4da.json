@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Single-line political reaction comparing Swedish election authority to Putin's Russia, but lacks context, mechanism, or substantive reasoning—reads as social-media commentary rather than durable thinking.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "097f3922c283c5d6e4da",
+  "error": ""
+}

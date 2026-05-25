@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional request with no embedded knowledge—a casual ask to borrow a cabin for a specific weekend, no insight or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "63dd3a981751d96fd8fc",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news report about a specific 2012 school incident; purely event reporting with no analysis, mechanism, or principle — Gustaf's comment ('Kids nowadays...') doesn't add interpretive depth.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "42d100e91e365ae38b41",
+  "error": ""
+}

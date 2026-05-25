@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Political quip expressing a value (freedom vs. authoritarianism) but too thin and time-bound (2017 Swedish politics) to compound; reads as social banter rather than reusable principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "f1184e8e228f35651e05",
+  "error": ""
+}

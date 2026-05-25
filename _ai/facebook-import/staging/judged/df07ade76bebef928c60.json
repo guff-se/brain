@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Brief aesthetic reaction with no durable insight, principle, or analysis — social sharing, not knowledge worth compiling.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "df07ade76bebef928c60",
+  "error": ""
+}

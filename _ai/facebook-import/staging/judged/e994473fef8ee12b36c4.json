@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "thomas-quick",
+    "justice",
+    "swedish-crime"
+  ],
+  "reason": "Article analyzes mechanisms of false confession and institutional failure, but remains reporting on a specific historical case; Gustaf's minimal commentary (\"interesting, hope for vindication\") doesn't anchor it as foundational knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e994473fef8ee12b36c4",
+  "error": ""
+}

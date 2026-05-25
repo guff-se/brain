@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "One-line caption framing an article, not substantive commentary — the durable content is Naffah's reporting, not Gustaf's reframe.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "fe0c566c1fcb9b3bba59",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Rhetorical question expressing frustration with institutional framing, but without reasoning or articulation — the principle is implicit, not explored.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "782eb2ad546183007b95",
+  "error": ""
+}

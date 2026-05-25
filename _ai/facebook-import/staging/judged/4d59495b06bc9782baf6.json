@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "propaganda",
+    "media-narrative",
+    "syria"
+  ],
+  "reason": "Investigative analysis of how media attention/propaganda shape conflict narratives — explains mechanisms of information asymmetry (IS dominates coverage despite Assad killing more civilians), not just reporting events.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "4d59495b06bc9782baf6",
+  "error": ""
+}

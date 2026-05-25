@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "epistemic-responsibility",
+    "institutional-trust"
+  ],
+  "reason": "The title 'We must take our own responsibility for truth' + Gustaf's endorsement signal a durable principle about epistemic self-reliance vs. institutional deference, even though the article is paywalled and his commentary is brief.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e15d80889ba3469df7f2",
+  "error": ""
+}

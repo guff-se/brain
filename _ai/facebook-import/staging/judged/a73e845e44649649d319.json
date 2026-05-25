@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "entrepreneurship",
+    "entreprenorsjakten",
+    "team"
+  ],
+  "reason": "Time-bound event report with implicit rather than explicit insights; valuable as memoir but lacks durable principles or reusable frameworks.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a73e845e44649649d319",
+  "error": ""
+}

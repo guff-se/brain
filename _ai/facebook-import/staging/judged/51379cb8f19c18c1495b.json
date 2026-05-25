@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Emotional response to video content; no articulated principle or insight beyond passion/intensity, which remains implicit rather than clearly asserted.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "51379cb8f19c18c1495b",
+  "error": ""
+}

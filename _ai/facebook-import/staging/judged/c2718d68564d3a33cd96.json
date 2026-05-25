@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare descriptive pointer to a service; no embedded principle, analysis, or insight beyond noting the business model exists.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "c2718d68564d3a33cd96",
+  "error": ""
+}

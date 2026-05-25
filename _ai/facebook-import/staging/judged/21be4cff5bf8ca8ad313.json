@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Social reaction to an interesting article, but Gustaf's commentary is humor with no conceptual substance or intent to build on the material.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "21be4cff5bf8ca8ad313",
+  "error": ""
+}

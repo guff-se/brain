@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Just two hashtags with no text or substance—ephemeral social media capture with no embedded knowledge or insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "f0cd397e679503ac6553",
+  "error": ""
+}

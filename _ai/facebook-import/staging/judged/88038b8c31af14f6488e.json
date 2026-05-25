@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Sharp opinion journalism on a specific event (2015 Qatar World Cup labor crisis) with good satire, but lacks durable analytical framework or principle Gustaf would build on later.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "88038b8c31af14f6488e",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.87,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news commentary on a specific Supreme Court dissent; observational humor about tone without durable substance or principle",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "7769492ff190367a8ede",
+  "error": ""
+}

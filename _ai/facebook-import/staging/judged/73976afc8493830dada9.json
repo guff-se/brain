@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-liner venting about a news story; expresses moral outrage but no developed principle, analysis, or insight worth retaining.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "73976afc8493830dada9",
+  "error": ""
+}

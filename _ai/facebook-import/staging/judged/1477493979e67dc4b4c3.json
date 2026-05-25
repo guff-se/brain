@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.7,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "geopolitics",
+    "power-asymmetry",
+    "sovereignty"
+  ],
+  "reason": "Brief rhetorical commentary that asserts a non-trivial principle about geopolitical double standards—that powerful nations shouldn't impose rules on others they wouldn't tolerate in reverse. Reveals Gustaf's thinking on international power dynamics.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "1477493979e67dc4b4c3",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "thinking",
+  "kind_hint": "article",
+  "tags_hint": [
+    "work",
+    "labor-ideology"
+  ],
+  "reason": "Explores the ideological mechanisms enforcing work despite automation and declining satisfaction — durable framework, not time-bound reporting.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "62791e07d201f3d8d7c0",
+  "error": ""
+}

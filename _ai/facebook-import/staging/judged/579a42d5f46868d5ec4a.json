@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Entertainment meme with no embedded knowledge, framework, or insight — novelty remix of a song",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "579a42d5f46868d5ec4a",
+  "error": ""
+}

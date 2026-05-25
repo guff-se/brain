@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Meta-announcement that a blog post exists, with no substantive content included — the actual post (if saved) would be the artifact worth keeping, not this teaser.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "b0472b0fffbfbdcf36bb",
+  "error": ""
+}

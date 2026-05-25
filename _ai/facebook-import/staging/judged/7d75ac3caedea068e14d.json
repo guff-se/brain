@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Transactional request for design feedback; concept too briefly described to hold durable insight without Gustaf's reasoning.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "7d75ac3caedea068e14d",
+  "error": ""
+}

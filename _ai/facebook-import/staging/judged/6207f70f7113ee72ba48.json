@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure social media reaction (one phrase with no context or embedded knowledge)",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "6207f70f7113ee72ba48",
+  "error": ""
+}

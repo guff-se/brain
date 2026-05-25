@@ -1,0 +1,12 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Article makes a durable argument about moral panic impeding drug research and proposes science-based policy; Gustaf's bare mention is thin but the piece warrants preservation.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "98c9e29a9a47dc696181",
+  "error": ""
+}

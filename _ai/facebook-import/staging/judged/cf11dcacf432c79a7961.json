@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social commentary on an article — Gustaf expresses approval of clever left-wing thought, but the reaction itself contains no durable knowledge, principle, or developed insight worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "cf11dcacf432c79a7961",
+  "error": ""
+}

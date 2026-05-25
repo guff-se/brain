@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "One-sentence endorsement without elaboration. The Robinson video itself merits ingesting as consumed/video; Gustaf's commentary belongs in that note's frontmatter, not as its own note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "38f0c0b7448989a82b52",
+  "error": ""
+}

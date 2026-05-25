@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.87,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Social reaction to a comic with no substantive commentary — doesn't reveal a principle or position, just amusement.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "120a3fefecd5ea7dc435",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional material for a Bitcoin exchange service with no durable insight, analysis, or principle — just company credentials and feature listing.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "68af2e58a416936b84d9",
+  "error": ""
+}

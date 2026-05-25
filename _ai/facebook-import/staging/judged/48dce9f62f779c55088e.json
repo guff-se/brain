@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Time-bound pointer to a 2012 radio segment with minimal elaboration; the legal principle (assault sentencing) is factual but underdeveloped and fragments into banter rather than substantive take.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "48dce9f62f779c55088e",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "gatekeeping",
+    "cultural-change"
+  ],
+  "reason": "Asserts a clear principle about how gatekeeping and decline narratives become self-fulfilling in communities, with direct relevance to Gustaf's Burning Man practice and broader thinking on belonging and cultural change.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "882a0978d04759d81097",
+  "error": ""
+}

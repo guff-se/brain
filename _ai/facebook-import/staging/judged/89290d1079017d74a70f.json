@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "thinking",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "silicon-valley",
+    "innovation-blindspots",
+    "mortality"
+  ],
+  "reason": "Gustaf identifies a mechanism (fear-driven blindness) behind Silicon Valley's misaligned resource allocation — a durable principle about how existential anxiety shapes culture and priorities, not just a 2017 news moment",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "89290d1079017d74a70f",
+  "error": ""
+}

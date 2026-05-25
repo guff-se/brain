@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news announcement with minimal commentary ('Celebration time!' signals emotion but not insight, principle, or analysis) — not durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "13b65f3939a8fc89f4b5",
+  "error": ""
+}

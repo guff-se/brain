@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Third-party opinion on a dated 2013 infrastructure debate; Gustaf's minimal, agreeing commentary doesn't synthesize or extend the principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "dc94daa3bcd02b348f0b",
+  "error": ""
+}

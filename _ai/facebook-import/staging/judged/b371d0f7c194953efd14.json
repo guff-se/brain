@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news report on 2010 oil spills; Gustaf's comment is social banter, not a stated principle or synthesis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "b371d0f7c194953efd14",
+  "error": ""
+}

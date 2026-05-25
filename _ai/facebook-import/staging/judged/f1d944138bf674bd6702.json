@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound corporate campaign response (2010); Gustaf's commentary is a bare rhetorical question without articulated perspective or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "f1d944138bf674bd6702",
+  "error": ""
+}

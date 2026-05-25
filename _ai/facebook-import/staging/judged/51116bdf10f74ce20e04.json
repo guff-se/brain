@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "News report on a single survey's findings; announces data without exploring principle, mechanism, or Gustaf's perspective on drug policy or harm reduction.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "51116bdf10f74ce20e04",
+  "error": ""
+}

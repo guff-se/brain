@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news event (Dec 2015) reporting on a specific infrastructure decision without analysis, principle, or durable insight about migration policy or border control.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "4d3bd7c6a63911f3250a",
+  "error": ""
+}

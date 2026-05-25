@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "originality",
+    "risk-taking",
+    "creativity"
+  ],
+  "reason": "A crisp principle asserting what originality requires—reveals Gustaf's values around intellectual courage and creative risk.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "a1169c29ff7d51d1177e",
+  "error": ""
+}

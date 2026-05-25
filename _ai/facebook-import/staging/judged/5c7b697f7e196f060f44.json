@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional PR outreach request with no embedded knowledge, principles, or perspective — pure logistical networking ask.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "5c7b697f7e196f060f44",
+  "error": ""
+}

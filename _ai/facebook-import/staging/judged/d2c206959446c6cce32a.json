@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Social endorsement of a video with no articulated analysis, principle, or insight — just 'good explanation' with a smiley.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d2c206959446c6cce32a",
+  "error": ""
+}

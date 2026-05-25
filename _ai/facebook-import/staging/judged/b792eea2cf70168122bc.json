@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.7,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "corporate-accountability",
+    "journalism",
+    "human-rights"
+  ],
+  "reason": "Clear assertion that corporate actors responsible for harm should face criminal accountability; brief but unambiguous moral stance revealing Gustaf's values.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "b792eea2cf70168122bc",
+  "error": ""
+}

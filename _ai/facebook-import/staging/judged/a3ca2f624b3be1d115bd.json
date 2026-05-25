@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter in response to a viral video; no embedded knowledge or lasting principle — just a joke suggestion to friends.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a3ca2f624b3be1d115bd",
+  "error": ""
+}

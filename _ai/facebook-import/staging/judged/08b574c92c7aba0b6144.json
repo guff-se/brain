@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.7,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "cryptocurrency",
+    "venture-capital",
+    "technology-cycles"
+  ],
+  "reason": "Elad Gil's analysis of *why* crypto had an inflection point in 2017 is mechanistic and frameworks-rich (Netscape analogy, tokenomics infrastructure enabling capital, entrepreneurial cycle lulls) — durable even if some 2017-specific predictions didn't materialize.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "08b574c92c7aba0b6144",
+  "error": ""
+}

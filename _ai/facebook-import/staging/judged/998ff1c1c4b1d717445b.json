@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare promotional/referral link with no commentary or substantive content — transactional sharing, not knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "998ff1c1c4b1d717445b",
+  "error": ""
+}

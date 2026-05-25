@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "freedom-of-speech",
+    "eu-governance",
+    "institutional-power"
+  ],
+  "reason": "Clear principle: speech restrictions framed as counterterrorism constitute freedom erosion; reveals Gustaf's skepticism of institutional overreach on fundamental rights.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d2f699ec1e0924d4850d",
+  "error": ""
+}

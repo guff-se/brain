@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound job recommendation (2008) with no embedded knowledge, principle, or durable insight—social banter recommending a friend's company.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "f9455e4b007b16be86a4",
+  "error": ""
+}

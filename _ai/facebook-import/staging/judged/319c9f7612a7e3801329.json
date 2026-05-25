@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound response to a 2012 policy event; sarcasm implies skepticism but doesn't articulate a durable principle or mechanism worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "319c9f7612a7e3801329",
+  "error": ""
+}

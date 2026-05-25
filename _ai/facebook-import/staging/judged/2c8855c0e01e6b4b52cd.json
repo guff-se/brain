@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Social bookmark with sparse commentary; no durable insight extracted about Asimov's foresight or reasoning.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "2c8855c0e01e6b4b52cd",
+  "error": ""
+}

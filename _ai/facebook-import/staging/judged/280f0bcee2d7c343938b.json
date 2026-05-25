@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "swedish-politics"
+  ],
+  "reason": "Time-bound political commentary on a 2010 election moment; the implicit principle (consistent tax policy) is not clearly enough asserted to carry the piece as durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "280f0bcee2d7c343938b",
+  "error": ""
+}

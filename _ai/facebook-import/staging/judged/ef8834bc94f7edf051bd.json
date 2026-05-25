@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Promotional announcement for a live music DVD release with no embedded knowledge, analysis, or Gustaf commentary—purely time-bound event marketing.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "ef8834bc94f7edf051bd",
+  "error": ""
+}

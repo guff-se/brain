@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "voice",
+  "kind_hint": "note",
+  "tags_hint": [
+    "free-speech",
+    "values",
+    "market-critique"
+  ],
+  "reason": "Crisp assertion of a principle — freedom of speech transcends commodification — revealing Gustaf's hierarchy of values; useful as a touchstone for speech/rights concepts.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "bfccf409e8187b1b1d73",
+  "error": ""
+}

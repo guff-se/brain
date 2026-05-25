@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social/transactional query with no embedded knowledge, insight, or principle—purely relational banter.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "ee58a554efdcad6118be",
+  "error": ""
+}

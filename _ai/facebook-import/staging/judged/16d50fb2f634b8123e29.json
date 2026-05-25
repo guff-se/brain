@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Bare emotional reaction with no embedded idea, framework, or perspective worth building on—too fleeting to compound.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "16d50fb2f634b8123e29",
+  "error": ""
+}

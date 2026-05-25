@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "burning-man",
+    "decompression",
+    "moscow"
+  ],
+  "reason": "Event documentation with time-bound credits and logistics; lists the 10 principles but doesn't explore them or offer Gustaf's analysis of this instantiation",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "634d4c54380957807fa8",
+  "error": ""
+}

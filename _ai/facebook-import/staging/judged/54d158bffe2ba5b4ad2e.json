@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare retweet with zero Gustaf commentary; the principle is Mashable's assertion, not his elaboration, and the URL is inaccessible.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "54d158bffe2ba5b4ad2e",
+  "error": ""
+}

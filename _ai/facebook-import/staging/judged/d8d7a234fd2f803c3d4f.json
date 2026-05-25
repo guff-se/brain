@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin appreciation post — signals topical interest in labor/inequality but doesn't articulate a principle, insight, or perspective worth compounding.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d8d7a234fd2f803c3d4f",
+  "error": ""
+}

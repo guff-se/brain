@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Two-word exclamation with no durable insight; social reaction to a news clip, not substantive commentary.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "3f3e4c6de0abfb05ba0c",
+  "error": ""
+}

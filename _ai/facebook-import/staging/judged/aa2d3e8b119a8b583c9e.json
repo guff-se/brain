@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Prescriptive title format ('Till dig som vill...') suggests practical/action-oriented guidance rather than durable insight; 2015 dating implies time-bound crisis response.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "aa2d3e8b119a8b583c9e",
+  "error": ""
+}

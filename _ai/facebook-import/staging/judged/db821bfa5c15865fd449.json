@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "technology-culture",
+    "participation",
+    "passivity"
+  ],
+  "reason": "A timeless principle about how passive consumption via machinery atrophies participatory culture — durable, causal, and reveals Gustaf's intellectual interests.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "db821bfa5c15865fd449",
+  "error": ""
+}

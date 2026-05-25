@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Bare factual assertion without analysis, principle, or insight — reads as news capture or alarming statistic share, not durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "8c831ed9d89227768a9e",
+  "error": ""
+}

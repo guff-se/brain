@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.87,
+  "register_hint": "thinking",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "enshittification",
+    "internet-politics",
+    "platform-extractivism"
+  ],
+  "reason": "Gustaf identifies two foundational thinkers and names core concepts ('extraction', 'enshittification') as essential to understanding why the internet has degraded — this is a curated pointer with evaluative weight, not a casual link.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "29d4513a2d943f853aa3",
+  "error": ""
+}

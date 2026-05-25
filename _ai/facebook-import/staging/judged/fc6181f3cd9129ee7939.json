@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Three-word topic label on a shared comic link—no durable insight or actual commentary, just a capture with a subject heading.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "fc6181f3cd9129ee7939",
+  "error": ""
+}

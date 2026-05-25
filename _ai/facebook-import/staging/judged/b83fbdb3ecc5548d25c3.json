@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Purely social banter and logistical—a time-bound post about lost shoes with no durable knowledge or insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "b83fbdb3ecc5548d25c3",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [
+    "parental-autonomy",
+    "childhood-independence"
+  ],
+  "reason": "News reaction that asserts a value implicitly but lacks durable knowledge or explanation — becomes meaningful only if paired with other notes on parental freedom or childhood risk.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "5a1cd323eac2fe708295",
+  "error": ""
+}

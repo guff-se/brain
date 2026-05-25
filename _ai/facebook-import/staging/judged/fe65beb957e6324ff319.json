@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "digital-rights",
+    "surveillance",
+    "internet-governance"
+  ],
+  "reason": "Documents mechanisms of how political/economic crises drive surveillance legislation; illustrates the fragility of digital rights even after groundbreaking reform (Marco Civil)—durable pattern beyond the 2015 moment.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "fe65beb957e6324ff319",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-word cryptic comment ('Riskkapital?') with no accessible context; too thin to extract principle or durable insight from an SvD article link.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "6d2f7269f7bfcb13899e",
+  "error": ""
+}

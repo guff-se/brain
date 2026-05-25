@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "burning-man",
+    "gifting",
+    "playa-culture"
+  ],
+  "reason": "Educational video exploring Gifting as a core Burning Man principle — substantive enough to be useful for understanding the philosophy, not just event logistics.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "e5eb24a8ee52949002ba",
+  "error": ""
+}

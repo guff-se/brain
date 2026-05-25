@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Promotional video (energy drink commercial) with no analysis or insight — entertainment/curiosity share only.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "8d1d5cbe51d36842a128",
+  "error": ""
+}

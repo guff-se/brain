@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.45,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "sharing-economy",
+    "critique"
+  ],
+  "reason": "Title suggests durable critique of sharing economy narratives, but fetched content only shows site navigation, not the article body; no Gustaf commentary to clarify why he shared it.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "2b5640f33ee6ceed04fd",
+  "error": ""
+}

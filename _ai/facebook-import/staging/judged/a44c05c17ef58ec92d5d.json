@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Airbnb homepage referral link with no substantive content, commentary, or knowledge value — promotional, transactional, not durable.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "a44c05c17ef58ec92d5d",
+  "error": ""
+}

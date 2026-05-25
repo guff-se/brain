@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "URL-only share with no commentary text; no principle, insight, or context about what Gustaf found valuable in it.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "625258dbc469d6f119ea",
+  "error": ""
+}

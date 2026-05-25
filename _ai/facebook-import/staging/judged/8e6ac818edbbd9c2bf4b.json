@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event report (Skrillex concert 2011) with an implicit but undeveloped observation about mainstream music accessibility; lacks durable insight or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "8e6ac818edbbd9c2bf4b",
+  "error": ""
+}

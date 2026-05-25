@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Pure social banter with no embedded knowledge or perspective—just a smiley reaction to a video share.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "45c78ac0b0f0226cbc6b",
+  "error": ""
+}

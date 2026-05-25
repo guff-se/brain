@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Video endorsement with thin commentary; title suggests principle (defiance of religious authority) but Gustaf doesn't articulate why he finds it compelling.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "f65ff918ac219dee8443",
+  "error": ""
+}

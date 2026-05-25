@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "welfare",
+    "swedish-politics",
+    "oligarchy"
+  ],
+  "reason": "Title and intro reveal substantive analysis of political capture in Swedish welfare privatization—durable structural knowledge on mechanisms of elite capture.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "58ad873d30700f1e5dfa",
+  "error": ""
+}

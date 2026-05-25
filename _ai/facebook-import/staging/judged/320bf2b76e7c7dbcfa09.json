@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ephemeral personal anecdote with no embedded knowledge, insight, or principle — just a brief account of an accident with a light joke.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "320bf2b76e7c7dbcfa09",
+  "error": ""
+}

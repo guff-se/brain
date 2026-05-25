@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "The principle is real (real-time brain visualization → self-control), but Gustaf's annotation is too cryptic to ground a durable note, and the fetched content is just website boilerplate.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "683f3962b18b6321e2db",
+  "error": ""
+}

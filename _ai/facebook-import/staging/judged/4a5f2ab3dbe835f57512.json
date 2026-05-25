@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Event summary and recap without durable knowledge, insights, or principles — time-bound documentation rather than conceptual content.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "4a5f2ab3dbe835f57512",
+  "error": ""
+}

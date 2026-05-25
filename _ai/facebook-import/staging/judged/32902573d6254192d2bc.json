@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.87,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "transparency",
+    "governance",
+    "data-literacy"
+  ],
+  "reason": "Durable insight into how governmental transparency mechanisms create both actual accountability improvements and paradoxical appearance of worse conditions — a principle about institutional design and data literacy that transcends the 2017 political moment.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "32902573d6254192d2bc",
+  "error": ""
+}

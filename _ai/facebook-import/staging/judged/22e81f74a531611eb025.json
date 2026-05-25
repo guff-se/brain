@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Social engagement post framed as a question ('Thoughts?'), not a developed position — the substance lives in Harris's lecture, not Gustaf's two-sentence reaction.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "22e81f74a531611eb025",
+  "error": ""
+}

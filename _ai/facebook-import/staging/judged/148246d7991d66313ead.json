@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "encryption",
+    "civil-liberties",
+    "law-enforcement"
+  ],
+  "reason": "News report of a 2015 debate statement; time-bound event rather than durable analysis of the encryption/law-enforcement tradeoff.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "148246d7991d66313ead",
+  "error": ""
+}

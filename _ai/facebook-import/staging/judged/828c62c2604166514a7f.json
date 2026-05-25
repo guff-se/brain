@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "News report with one-line sarcastic commentary; the underlying research (Hattie meta-analysis) is durable but the pairing is thin social banter, not elaborated thinking or a principle Gustaf defends.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "828c62c2604166514a7f",
+  "error": ""
+}

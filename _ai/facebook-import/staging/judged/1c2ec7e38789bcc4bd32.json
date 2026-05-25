@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "copyright",
+    "intellectual-property"
+  ],
+  "reason": "Gustaf's line is social validation of external content, not his own framing or perspective.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "1c2ec7e38789bcc4bd32",
+  "error": ""
+}

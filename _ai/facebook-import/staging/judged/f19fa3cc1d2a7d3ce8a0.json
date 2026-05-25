@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "geopolitics",
+    "israel",
+    "nuclear-weapons"
+  ],
+  "reason": "Shared news announcement (Vanunu whistleblower story) with sarcastic commentary; the implied principle about governments ignoring law is not stated substantively enough to ground a concept.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "f19fa3cc1d2a7d3ce8a0",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf's commentary is a one-liner meta-comment about the article's publication date, not substantive engagement; the item is primarily a news announcement without embedded principle or analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "32f11ea80ba3dfa73ed6",
+  "error": ""
+}

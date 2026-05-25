@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Single rhetorical question with no assertion or perspective—signals interest in the topic but lacks embedded knowledge or reflection worth capturing as a durable note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "2897a91115fb767a951e",
+  "error": ""
+}

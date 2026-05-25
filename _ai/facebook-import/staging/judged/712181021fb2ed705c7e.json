@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Sarcastic reaction to a news event (Vatican abuse inquiry refusal), not a durable principle or analysis that compounds over time.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "712181021fb2ed705c7e",
+  "error": ""
+}

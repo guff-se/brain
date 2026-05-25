@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Endorses activism but lacks explanation of why security matters or articulates a principle beyond 'inspiring'—too thin for a note",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "302e678dd93b8437e6b4",
+  "error": ""
+}

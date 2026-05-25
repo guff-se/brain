@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Cryptic title (Mad Max reference) with no description, transcript, or commentary—insufficient signal of durable content without more context.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "594e9e0d9960f6c0b947",
+  "error": ""
+}

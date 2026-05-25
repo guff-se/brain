@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social media share of a historical event article with minimal commentary; no durable insight or principle stated, just light engagement ('nice story').",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "81b60ef6d3fe30e956d5",
+  "error": ""
+}

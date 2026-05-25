@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.77,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Viewing instruction + artistic video share without substantive commentary or principle asserted; social recommendation, not durable knowledge",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "3b2e6384d2bd146b15c7",
+  "error": ""
+}

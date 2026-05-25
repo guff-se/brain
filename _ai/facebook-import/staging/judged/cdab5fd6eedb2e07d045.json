@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social curation without extracted insight — 'we should get this guy on board' is endorsement, not a durable principle or analysis worth compiling",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "cdab5fd6eedb2e07d045",
+  "error": ""
+}

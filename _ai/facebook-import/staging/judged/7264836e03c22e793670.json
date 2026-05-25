@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.4,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "URL topic (Iceland's crowdsourced constitution) is durable, but fetched content is broken and Gustaf's commentary is only a sentiment, not developed analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "7264836e03c22e793670",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.7,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "consumerism",
+    "marketing",
+    "social-norms"
+  ],
+  "reason": "Title alone signals durable mechanism-analysis (how a commercial practice is engineered as social necessity), not time-bound event. Creator known for explaining why everyday things exist.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "0b533840022f5135e221",
+  "error": ""
+}

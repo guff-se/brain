@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Time-bound announcement of an expired grant deadline (Aug 30, 2018); logistical/transactional, no embedded knowledge or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "baf7c3959a1499595d42",
+  "error": ""
+}

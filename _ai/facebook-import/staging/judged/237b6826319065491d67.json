@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter—a sarcastic one-liner anchored to a 2011 news cycle, not substantive thinking or articulated principle on digital rights.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "237b6826319065491d67",
+  "error": ""
+}

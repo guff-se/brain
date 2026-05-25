@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "News report of a single meta-analysis result, not exploration of mechanisms or principles — the finding (GMO corn safe/beneficial) is announced, not examined.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "8900a7f813ff838471ee",
+  "error": ""
+}

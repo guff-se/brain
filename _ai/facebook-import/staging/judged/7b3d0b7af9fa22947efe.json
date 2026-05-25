@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Raw YouTube channel URL with no video metadata, commentary, or context — substance cannot be assessed.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "7b3d0b7af9fa22947efe",
+  "error": ""
+}

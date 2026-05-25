@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure emotional reaction to a news event with no reasoning, principle, or insight — social banter, not durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "0b48821ccd3999e45a8d",
+  "error": ""
+}

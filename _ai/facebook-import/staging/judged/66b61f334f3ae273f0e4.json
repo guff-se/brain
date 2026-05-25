@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "democracy",
+    "eu-governance",
+    "financial-crisis"
+  ],
+  "reason": "Cervenka articulates a durable principle Gustaf clearly values (democratic legitimacy as foundational to sustainable policy), with a memorable framing (EU as 'secretive hedge fund'). Gustaf's explicit endorsement signals this is worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "66b61f334f3ae273f0e4",
+  "error": ""
+}

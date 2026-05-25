@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional platform invitation with no embedded knowledge, perspective, or principle — purely promotional.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "8810475ffc65d55c813e",
+  "error": ""
+}

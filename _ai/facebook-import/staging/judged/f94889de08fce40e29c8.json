@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Sharp one-liner social commentary on a political moment, but no durable thinking—it's a pun, not a principle explained or a stance developed.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "f94889de08fce40e29c8",
+  "error": ""
+}

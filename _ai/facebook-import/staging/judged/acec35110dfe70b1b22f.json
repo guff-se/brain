@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fragment too incomplete to assess — missing context for what 'is chaos' refers to, cannot determine if principle or social banter.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "acec35110dfe70b1b22f",
+  "error": ""
+}

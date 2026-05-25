@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "News report of a pilot program's outcomes; Gustaf's engagement is a minimal question, not a developed position or framework.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "40aace79a4748c291a7c",
+  "error": ""
+}

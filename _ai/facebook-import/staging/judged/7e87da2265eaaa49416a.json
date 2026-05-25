@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Entertainment sharing + enthusiastic reaction without insight; no durable knowledge, analysis, or principle articulated beyond 'this is shocking/funny'",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "7e87da2265eaaa49416a",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event announcement (Nov 17, 2010 speaking engagement) with no embedded knowledge, principle, or insight — just logistical/promotional content.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a7088697d84291d131e2",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [
+    "populism",
+    "politics"
+  ],
+  "reason": "Reactive social media post expressing a political stance via sarcasm; the implicit principle (values over electoral gain) is real but too briefly stated and context-bound to warrant a permanent note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "5d418ff5bb187eafc82c",
+  "error": ""
+}

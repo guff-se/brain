@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-narrative",
+    "class-analysis",
+    "homophobia"
+  ],
+  "reason": "Sharp media criticism exposing class-based double standards in Swedish coverage of discrimination — analyzes how identical behaviors are scandalized in poor areas but minimized in elite ones.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "1cffc0e221aee7d20124",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.35,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Title suggests a policy position, but actual article body wasn't fetched, no Gustaf commentary provided, and Branson's drug-policy stance was already public knowledge by 2015—unclear if this was a casual share vs. meaningful engagement",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "a65cd8412cc86505d0dd",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "thinking",
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Stark juxtaposition that implicitly asserts a principle about what societies choose to fund and at what scale — reveals Gustaf's concern with resource priorities and public vs. private spending.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "f71bd83ae9082e559e0d",
+  "error": ""
+}

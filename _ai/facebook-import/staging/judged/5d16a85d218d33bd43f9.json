@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-line sarcastic reaction to a 2011 policy event; criticizes without reasoning or principle articulation—too thin for durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "5d16a85d218d33bd43f9",
+  "error": ""
+}

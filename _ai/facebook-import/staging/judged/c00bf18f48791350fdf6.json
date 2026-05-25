@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound cost comparison of a specific project without explaining causality, mechanisms, or durable principles about infrastructure procurement or cost estimation.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "c00bf18f48791350fdf6",
+  "error": ""
+}

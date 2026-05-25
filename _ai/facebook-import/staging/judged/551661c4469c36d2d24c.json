@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "nationalism",
+    "sweden-democrats",
+    "transnational-politics"
+  ],
+  "reason": "Time-bound political opinion from 2011; underlying principle (nationalism insufficient for transnational problems) is durable but the piece is a specific debate response, not foundational analysis — and Gustaf's own commentary is too thin to clarify his position.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "551661c4469c36d2d24c",
+  "error": ""
+}

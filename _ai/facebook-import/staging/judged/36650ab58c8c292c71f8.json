@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "polyamory",
+    "privilege",
+    "identity"
+  ],
+  "reason": "First-person analysis of how experiencing discrimination (as non-monogamous) reveals how privilege and defensive marginalization-rhetoric operate — extracts generalizable pattern across social contexts.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "36650ab58c8c292c71f8",
+  "error": ""
+}

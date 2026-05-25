@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "diy-bio",
+    "citizen-science",
+    "democratization"
+  ],
+  "reason": "Gustaf asserts a clear principle — science democratization is happening and should reach major institutions — tethered to a specific trend in biotech access.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "8abc029b58c07d2887a3",
+  "error": ""
+}

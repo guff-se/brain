@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event announcement without durable insight or principle assertion; social/relational exchange rather than substantive idea.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "4368f10b7b144c29f22c",
+  "error": ""
+}

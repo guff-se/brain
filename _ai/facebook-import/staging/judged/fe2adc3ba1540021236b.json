@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "egypt",
+    "revolution",
+    "politics"
+  ],
+  "reason": "Time-bound news event (Sept 2011 Egypt) with inaccessible video content and bare-minimum commentary; no durable insight or framework evident.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "fe2adc3ba1540021236b",
+  "error": ""
+}

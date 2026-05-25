@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social media reaction fragment with no insight — just a signal of interest in the e-krona topic, not a durable thought or position",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "31119059728e008ed00d",
+  "error": ""
+}

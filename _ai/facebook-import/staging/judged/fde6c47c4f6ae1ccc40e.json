@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news coverage of a political controversy (2015), reporting what a politician said without Gustaf's added analysis or principle assertion",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "fde6c47c4f6ae1ccc40e",
+  "error": ""
+}

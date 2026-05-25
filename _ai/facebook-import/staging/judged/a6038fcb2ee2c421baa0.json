@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Enthusiastic endorsement of a comedy segment with no reasoning, principle, or durable insight attached.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a6038fcb2ee2c421baa0",
+  "error": ""
+}

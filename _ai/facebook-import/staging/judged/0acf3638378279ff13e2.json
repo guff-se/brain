@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Sarcastic one-liner reaction without elaboration—the principle (right-to-repair, opposition to planned obsolescence) is implicit, not articulated. Article itself is worth preserving as consumed; commentary is too thin as a standalone note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "0acf3638378279ff13e2",
+  "error": ""
+}

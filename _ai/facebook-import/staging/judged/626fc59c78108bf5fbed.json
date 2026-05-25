@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound campaign announcement (2017 Airbnb launch); Gustaf shares a cool fact but asserts no principle or analysis",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "626fc59c78108bf5fbed",
+  "error": ""
+}

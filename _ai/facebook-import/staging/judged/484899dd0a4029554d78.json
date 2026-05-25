@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "podcast",
+  "tags_hint": [],
+  "reason": "Generic thematic title with no description, transcript, or Gustaf commentary to signal durable content.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_podcast",
+  "content_sha": "484899dd0a4029554d78",
+  "error": ""
+}

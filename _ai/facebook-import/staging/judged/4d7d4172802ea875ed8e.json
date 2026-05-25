@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "focus",
+    "opportunity-cost",
+    "strategy"
+  ],
+  "reason": "Crisp principle about prioritization and intentional focus; capturing it reveals Gustaf's values even though attributed to Heijbel.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "4d7d4172802ea875ed8e",
+  "error": ""
+}

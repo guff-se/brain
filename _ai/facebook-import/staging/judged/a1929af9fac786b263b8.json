@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.96,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure social banter and relational exchange — a casual invite to a friend about Burning Man and funding, with no embedded knowledge or principle",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a1929af9fac786b263b8",
+  "error": ""
+}

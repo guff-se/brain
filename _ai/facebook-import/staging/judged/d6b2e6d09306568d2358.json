@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "white-supremacy",
+    "trump",
+    "race"
+  ],
+  "reason": "Major analytical essay exploring mechanisms of white supremacy in American politics and presidential power—durable intellectual framework with clear causal argument.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "d6b2e6d09306568d2358",
+  "error": ""
+}

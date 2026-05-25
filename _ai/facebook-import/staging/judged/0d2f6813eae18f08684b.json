@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Dead link (404) with no content accessible and no Gustaf commentary to provide context or signal intent.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "0d2f6813eae18f08684b",
+  "error": ""
+}

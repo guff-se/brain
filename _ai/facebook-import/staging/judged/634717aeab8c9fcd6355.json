@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.63,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "flow-state",
+    "leadership"
+  ],
+  "reason": "Embeds durable insight into flow states and group bonding mechanics (neurochemistry + ego-transcendence in teams) via a Burning Man narrative; Gustaf's interests suggest this connects existing threads.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "634717aeab8c9fcd6355",
+  "error": ""
+}

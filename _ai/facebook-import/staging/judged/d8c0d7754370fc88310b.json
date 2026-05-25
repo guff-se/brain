@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure event announcement with no embedded knowledge, principle, or insight — transactional/logistical social post.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "d8c0d7754370fc88310b",
+  "error": ""
+}

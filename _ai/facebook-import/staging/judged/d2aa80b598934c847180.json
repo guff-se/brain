@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "taxation",
+    "wealth-creation",
+    "social-contract"
+  ],
+  "reason": "Asserts a clear principle about taxation and wealth: entrepreneurs should acknowledge their profit depends on public infrastructure, and understand tax as a structural cost of business, not a consumer transaction.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "d2aa80b598934c847180",
+  "error": ""
+}

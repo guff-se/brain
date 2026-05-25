@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter mocking a media outlet's sloppy terminology — no embedded knowledge or principle clearly asserted, just a moment of snark.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "68066357cf1a43b3c251",
+  "error": ""
+}

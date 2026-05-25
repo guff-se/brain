@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare prompt/question with no embedded ideas, analysis, or principle—looks like a workshop heading rather than a thought",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "d2b7e9cb9a2d734a3dda",
+  "error": ""
+}

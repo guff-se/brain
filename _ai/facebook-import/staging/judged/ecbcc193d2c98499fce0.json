@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound news event (2013 horse meat scandal) with a clever one-liner but no durable knowledge, principle, or analysis — social banter with no embedded insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "ecbcc193d2c98499fce0",
+  "error": ""
+}

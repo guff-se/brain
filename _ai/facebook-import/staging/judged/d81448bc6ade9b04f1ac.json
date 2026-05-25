@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional call invitation with no embedded knowledge — scheduling metadata with no lasting substance",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "d81448bc6ade9b04f1ac",
+  "error": ""
+}

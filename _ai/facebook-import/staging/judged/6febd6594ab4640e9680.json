@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "political-discourse",
+    "law-politics",
+    "argument-quality"
+  ],
+  "reason": "Articulates a clear, durable principle about political debate: misapplying legal framing to political questions confuses the discourse and weakens the argument itself — reveals Gustaf's epistemic values around category integrity and honest argument.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "6febd6594ab4640e9680",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "A single rhetorical question hinting at skepticism toward surveillance rhetoric, but too fragmentary to stand alone — needs elaboration or pattern with other notes to justify saving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "4202c501d8dc9523add7",
+  "error": ""
+}

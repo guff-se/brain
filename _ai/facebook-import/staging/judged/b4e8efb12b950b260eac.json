@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Charming novelty video from 2011 peak meme culture, but time-bound entertainment with no durable insight or principle about how Gustaf thinks.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "b4e8efb12b950b260eac",
+  "error": ""
+}

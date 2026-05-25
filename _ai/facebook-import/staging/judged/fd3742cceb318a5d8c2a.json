@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Event-driven news report about a specific 2011 legal case; Gustaf's commentary signals recognition of a principle (IP law overreach) but offers no analysis or insight of his own.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "fd3742cceb318a5d8c2a",
+  "error": ""
+}

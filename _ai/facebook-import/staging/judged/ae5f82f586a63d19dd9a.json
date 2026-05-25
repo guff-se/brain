@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "privacy",
+    "information-exposure",
+    "security-awareness"
+  ],
+  "reason": "PSA demonstrating a privacy principle (information aggregation reveals hidden details), but Gustaf's engagement is minimal and the substantive exploration is absent—the video illustrates the problem without developing it.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "ae5f82f586a63d19dd9a",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "voice",
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Asserts a durable principle: humans need meaning and feeling, without which everything else is hollow; captures Gustaf's philosophical stance on why the future matters.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "42a3e1e5d575bbdb0f5b",
+  "error": ""
+}

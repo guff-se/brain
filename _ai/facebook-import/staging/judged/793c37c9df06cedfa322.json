@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin one-line observation of a contradiction, lacking developed insight or principle; the article is time-bound news reporting, not durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "793c37c9df06cedfa322",
+  "error": ""
+}

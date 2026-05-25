@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news report (2017) on store closures with explanatory elements, but lacks durable insight — mechanisms (over-capacity, co-tenancy clauses, consumer shifts) are mentioned, not explored deeply enough to constitute lasting knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "b044ad104520255820ae",
+  "error": ""
+}

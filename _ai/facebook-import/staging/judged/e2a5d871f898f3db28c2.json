@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ephemeral social banter announcing attendance at a specific event with no durable knowledge or principle embedded.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "e2a5d871f898f3db28c2",
+  "error": ""
+}

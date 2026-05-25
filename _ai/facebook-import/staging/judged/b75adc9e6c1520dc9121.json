@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound crisis commentary (Euro 2011) with sarcastic banter, no durable insight or principle articulated—more observational humor than knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "b75adc9e6c1520dc9121",
+  "error": ""
+}

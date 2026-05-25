@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "media-bias",
+    "terrorism",
+    "power-structures"
+  ],
+  "reason": "Crisp assertion of a principle about institutional double standards in labeling — reveals Gustaf's concern with how power shapes categorization and media framing.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "9ecb4ca4a496909214f1",
+  "error": ""
+}

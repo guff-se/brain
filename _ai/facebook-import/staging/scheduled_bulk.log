@@ -1,0 +1,60 @@
+=== scheduled bulk run ===
+armed: Sun May 24 20:24:33 CEST 2026
+sleep: 13226s (~2026-05-25 00:04:59 CEST)
+starting: Mon May 25 00:05:00 CEST 2026
+---
+/Users/gustaf/Library/CloudStorage/Dropbox/GustafAI/Obsidian/_ai/facebook-import/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Processing 12370 rows with 2 workers...
+  100/12370 — written:0 skipped:91 errors:0
+  200/12370 — written:0 skipped:180 errors:0
+  300/12370 — written:0 skipped:263 errors:0
+  400/12370 — written:0 skipped:344 errors:0
+  500/12370 — written:0 skipped:431 errors:0
+  600/12370 — written:0 skipped:519 errors:0
+  700/12370 — written:0 skipped:603 errors:0
+  800/12370 — written:0 skipped:695 errors:0
+  900/12370 — written:0 skipped:783 errors:0
+  1000/12370 — written:0 skipped:860 errors:0
+  1100/12370 — written:0 skipped:951 errors:0
+  1200/12370 — written:12 skipped:1033 errors:0
+  1300/12370 — written:34 skipped:1110 errors:0
+
+⚠️  Claude usage/session limit reached. Stopping gracefully.
+   Re-run `python tools/fb_bulk.py` to resume — judged items are cached.
+   (Claude limit (exit 1): You've hit your session limit · resets 5am (Europe/Stockholm))
+   Cancelled 8529 queued tasks.
+
+Stopped early after 1320 completed tasks — Claude limit. Re-run to resume.
+---
+finished: Mon May 25 00:25:18 CEST 2026 exit=2
+=== scheduled bulk run ===
+armed: Mon May 25 08:39:34 CEST 2026
+sleep: 5125s (~2026-05-25 10:04:59 CEST)
+=== scheduled bulk run ===
+armed: Mon May 25 08:39:34 CEST 2026
+sleep: 5125s (~2026-05-25 10:04:59 CEST)
+=== bulk run started Mon May 25 13:02:25 CEST 2026 ===
+/Users/gustaf/Library/CloudStorage/Dropbox/GustafAI/Obsidian/_ai/facebook-import/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Processing 12370 rows with 2 workers...
+  100/12370 — written:0 skipped:91 errors:0
+  200/12370 — written:0 skipped:180 errors:0
+  300/12370 — written:0 skipped:263 errors:0
+  400/12370 — written:0 skipped:344 errors:0
+  500/12370 — written:0 skipped:431 errors:0
+  600/12370 — written:0 skipped:519 errors:0
+  700/12370 — written:0 skipped:603 errors:0
+  800/12370 — written:0 skipped:695 errors:0
+  900/12370 — written:0 skipped:782 errors:0
+  1000/12370 — written:0 skipped:860 errors:0
+  1100/12370 — written:0 skipped:951 errors:0
+  1200/12370 — written:0 skipped:1033 errors:0
+  1300/12370 — written:0 skipped:1110 errors:0
+
+⚠️  Claude usage/session limit reached. Stopping gracefully.
+   Re-run `python tools/fb_bulk.py` to resume — judged items are cached.
+   (Claude limit (exit 1): You've hit your session limit · resets 3pm (Europe/Stockholm))
+   Cancelled 8966 queued tasks.
+
+Stopped early after 1321 completed tasks — Claude limit. Re-run to resume.

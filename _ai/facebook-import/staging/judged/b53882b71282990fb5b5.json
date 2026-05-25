@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Novelty music cover with no accompanying analysis or principle — entertainment sharing without embedded knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "b53882b71282990fb5b5",
+  "error": ""
+}

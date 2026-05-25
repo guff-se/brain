@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "economics",
+    "degrowth",
+    "climate"
+  ],
+  "reason": "Commentary is just a reference link with no articulated analysis; the principle (growth ≠ environment) is implied but not developed.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "006e0ab1744b4edf4b0b",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event announcement about a 2018 solo show — no durable knowledge or principles embedded.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "6663f1c695dd8ac6b8be",
+  "error": ""
+}

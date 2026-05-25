@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event recommendation with no durable knowledge, insight, or principle — pure social post promoting ticket availability for a 2009 performance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "4ccf9fd935e7c6a686c6",
+  "error": ""
+}

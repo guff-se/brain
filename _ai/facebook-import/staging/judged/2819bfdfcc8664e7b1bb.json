@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Fragment without context — too brief to establish what 'Grayscale' refers to or what principle is being asserted; reads as a placeholder or project tag rather than durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "2819bfdfcc8664e7b1bb",
+  "error": ""
+}

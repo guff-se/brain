@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.99,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter and inside joke with no durable knowledge or principle — purely relational ephemera tied to a specific moment.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "10c508e8b81d6e9253d1",
+  "error": ""
+}

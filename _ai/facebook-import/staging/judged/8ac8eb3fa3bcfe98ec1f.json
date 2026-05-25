@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Website homepage for practical packing guides; contains camp history but no durable knowledge or principle worth extracting as a note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "8ac8eb3fa3bcfe98ec1f",
+  "error": ""
+}

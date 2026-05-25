@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound social media announcement with no embedded knowledge, insight, or principle — pure event reporting without reflection or context.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "1ee9bd4363f70f7862ea",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Social share with no substantive commentary—just a video link and a group reference, no perspective, analysis, or principle attached.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "28346f15b7cd38dfbe27",
+  "error": ""
+}

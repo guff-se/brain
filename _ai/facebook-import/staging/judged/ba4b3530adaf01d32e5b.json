@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.65,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "alexander-bard",
+    "feminism",
+    "network-society"
+  ],
+  "reason": "Named expert (Bard) discussing durable topics (gender, digital society); Gustaf's endorsement suggests substance despite minimal commentary.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "ba4b3530adaf01d32e5b",
+  "error": ""
+}

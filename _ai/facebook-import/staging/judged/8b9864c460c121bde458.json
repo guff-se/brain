@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure relational exchange with no embedded knowledge, principle, or durable insight — fleeting social sentiment, not learnable content.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "8b9864c460c121bde458",
+  "error": ""
+}

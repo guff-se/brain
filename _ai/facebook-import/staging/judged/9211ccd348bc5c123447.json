@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter with shout-outs to specific people; no embedded knowledge or developed principle beyond surface-level declaration.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "9211ccd348bc5c123447",
+  "error": ""
+}

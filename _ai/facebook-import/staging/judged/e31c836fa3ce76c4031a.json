@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Time-bound activism campaign (2012 CISPA bill) with no original analysis—Gustaf's comment is motivational exhortation, not principle assertion or mechanism exploration.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e31c836fa3ce76c4031a",
+  "error": ""
+}

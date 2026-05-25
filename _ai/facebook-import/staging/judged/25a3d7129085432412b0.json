@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "victimhood",
+    "insurance",
+    "moral-clarity"
+  ],
+  "reason": "Clear assertion of a principle about categorical difference between victimhood and culpable behavior — reveals Gustaf's values around moral precision and victim rights.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "25a3d7129085432412b0",
+  "error": ""
+}

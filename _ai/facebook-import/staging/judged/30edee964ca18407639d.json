@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "thinking",
+  "kind_hint": "video",
+  "tags_hint": [
+    "art",
+    "animal-behavior",
+    "creativity"
+  ],
+  "reason": "Gustaf asserts a principle about non-human artistry, challenging human exceptionalism — reveals his perspective on what creativity means.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "30edee964ca18407639d",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Casual status update from 2009 with no durable insight or principle — just small talk about listening to an artist and considering a remix.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "0aff1472a69b8653b19a",
+  "error": ""
+}

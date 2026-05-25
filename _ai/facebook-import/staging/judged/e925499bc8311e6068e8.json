@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter pointing out a time-bound security failure at IIT; no durable principle or insight developed.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "e925499bc8311e6068e8",
+  "error": ""
+}

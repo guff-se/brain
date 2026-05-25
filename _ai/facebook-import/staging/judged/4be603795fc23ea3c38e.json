@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.99,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Single word with no substantive content — appears to be a fleeting to-do item or logistical fragment with no durable value.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "4be603795fc23ea3c38e",
+  "error": ""
+}

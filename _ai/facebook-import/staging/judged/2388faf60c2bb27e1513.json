@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "community",
+    "transformation"
+  ],
+  "reason": "Feature article exploring Burning Man's principles and transformative impact on participants, directly relevant to a major theme in Gustaf's vault, with meaningful personal framing ('my second home')",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "2388faf60c2bb27e1513",
+  "error": ""
+}

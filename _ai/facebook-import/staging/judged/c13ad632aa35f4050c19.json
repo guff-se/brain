@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Event report of a caught hacking incident; truncated excerpt shows reporting without analytical depth or principle exploration.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "c13ad632aa35f4050c19",
+  "error": ""
+}

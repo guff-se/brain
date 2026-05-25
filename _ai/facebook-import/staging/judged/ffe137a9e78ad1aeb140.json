@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound 2012 commentary on telecom fee practices; while Gustaf hints at skepticism about monopolies and market distortion, the principle is too thin and implicit to warrant archiving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "ffe137a9e78ad1aeb140",
+  "error": ""
+}

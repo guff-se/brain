@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Historical quote without Gustaf's framing or interpretation — data point awaiting integration into a larger thinking theme.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "b68285b95fca023253fa",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound reaction to a 2010 news event; institutional skepticism is implied via sarcasm but not clearly asserted as a principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "696b2c479d8b6a905fb9",
+  "error": ""
+}

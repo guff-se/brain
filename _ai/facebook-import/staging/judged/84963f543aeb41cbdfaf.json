@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.45,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Article title suggests substance (drug policy critique) but fetched content is completely wrong (Metro.se homepage listings), no Gustaf commentary, and no readable body to assess actual durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "84963f543aeb41cbdfaf",
+  "error": ""
+}

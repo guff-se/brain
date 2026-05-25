@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional announcement with no embedded knowledge, insight, or analysis—just a notification that videos were posted.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "3336f37ac2d8e5c4d83a",
+  "error": ""
+}

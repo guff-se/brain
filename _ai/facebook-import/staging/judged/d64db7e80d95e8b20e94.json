@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "wikileaks",
+    "governance",
+    "transparency"
+  ],
+  "reason": "Time-bound news report about a 2010 scandal; the principle it illustrates (informal arrangements evade oversight) is interesting but not developed here.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d64db7e80d95e8b20e94",
+  "error": ""
+}

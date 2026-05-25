@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "data-privacy",
+    "platform-power",
+    "election-integrity"
+  ],
+  "reason": "News announcement of a specific 2018 incident; reports what happened but without Gustaf's commentary on why it matters to his thinking, it's archival rather than generative.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "790227d943c2d97cbdc5",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "welfare",
+    "economic-mobility",
+    "childhood-poverty"
+  ],
+  "reason": "Systematic evidence-based analysis of how anti-poverty programs affect labor participation and long-term outcomes, grounded in multi-country research. Explores the mechanism (poverty as chronic stress burden on development) rather than just reporting claims.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "96fb8791f1cfc730cf7f",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Reaction to a news story expressing frustration with bureaucratic inefficiency, but too fragmentary to stand alone—the principle (citizen initiative should matter) is implied rather than asserted",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "1f088e29e47e80e143a2",
+  "error": ""
+}

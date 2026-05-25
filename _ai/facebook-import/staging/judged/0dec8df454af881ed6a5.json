@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "harm-reduction",
+    "evidence-based-policy"
+  ],
+  "reason": "Expert-authored policy analysis with durable harm-reduction principles (naloxone, LARO access, consumption rooms) grounded in research—timebound statistics, but the evidence framework and meta-principle (listen to research + users, not ideology) is enduring.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "0dec8df454af881ed6a5",
+  "error": ""
+}

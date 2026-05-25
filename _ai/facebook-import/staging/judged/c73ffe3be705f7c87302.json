@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Time-bound event documentation (BRC 2009) with curated catalog of art installations; the meta-insight on representation gaps is present but embedded in descriptive rather than analytical content.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "c73ffe3be705f7c87302",
+  "error": ""
+}

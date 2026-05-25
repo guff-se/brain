@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Product listing from a 3D marketplace with technical specs; no analysis, commentary, or principle — transactional, not durable knowledge",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "cfde9f488c9ecba5157e",
+  "error": ""
+}

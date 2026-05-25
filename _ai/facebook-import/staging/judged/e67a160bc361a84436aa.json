@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "News report of a political controversy (2011) with no embedded analysis — Gustaf quoted a statement but offered no framing or perspective on it.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e67a160bc361a84436aa",
+  "error": ""
+}

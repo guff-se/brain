@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news article with minimal commentary; the implicit principle (large banks create systemic risk) is unstated, and Gustaf's endorsement is too thin to ground a standalone note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "7c857c1b407c1931ac24",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A frustrated rant about a failed IKEA transaction — social venting, not durable insight or framework.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "6fc65b903d65f5b9412d",
+  "error": ""
+}

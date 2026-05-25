@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Single rhetorical question with no context — unclear what 'this' refers to, reads as a social reaction rather than a developed thought or principle",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "e1899a90c85f2cfadb68",
+  "error": ""
+}

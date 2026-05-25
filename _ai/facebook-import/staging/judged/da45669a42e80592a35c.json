@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.87,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Political banter—a sarcastic one-liner reaction to a 2014 proposal, without substantive analysis or enduring insight",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "da45669a42e80592a35c",
+  "error": ""
+}

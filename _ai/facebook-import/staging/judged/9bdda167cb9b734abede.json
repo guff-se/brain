@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Single rhetorical quip responding to a 2011 Gothenburg policy debate; while it contains a principle (restricting nightlife drives brain drain), it's too brief and time-bound to compound over time.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "9bdda167cb9b734abede",
+  "error": ""
+}

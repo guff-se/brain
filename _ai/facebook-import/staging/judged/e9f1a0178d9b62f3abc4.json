@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "assange",
+    "information-control",
+    "transparency"
+  ],
+  "reason": "Structured analysis of Assange's political philosophy on conspiracies as emergent information networks and transparency as a power countermeasure—durable framework with timeless application to secrecy, power, and information asymmetry.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e9f1a0178d9b62f3abc4",
+  "error": ""
+}

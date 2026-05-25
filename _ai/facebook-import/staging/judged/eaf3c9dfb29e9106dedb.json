@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "corporate-power",
+    "artistic-freedom",
+    "ip-law"
+  ],
+  "reason": "Time-bound 2015 news event (band forced to rename song); embeds a principle about free speech vs. corporate overreach, but the article's primary function is to report what happened, not to explore the mechanism or principle itself.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "eaf3c9dfb29e9106dedb",
+  "error": ""
+}

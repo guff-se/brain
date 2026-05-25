@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gender-dynamics",
+    "consent",
+    "masculinity"
+  ],
+  "reason": "Substantive argument about power conditioning, mutual responsibility, and communication—frames gender and desire as systemic rather than individual, with clear principles about what needs to change.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "aaca31bfc811c9dddf6d",
+  "error": ""
+}

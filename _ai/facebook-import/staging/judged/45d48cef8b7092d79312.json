@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social anecdote tied to a specific 2009 news event; skepticism toward royal-family celebrity is hinted but not asserted as durable principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "45d48cef8b7092d79312",
+  "error": ""
+}

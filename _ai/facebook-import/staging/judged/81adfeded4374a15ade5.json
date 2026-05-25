@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Gustaf's contribution is minimal approval without personal synthesis—the Zunguzungu essay is substantive but shouldn't be saved on the basis of an 8-word endorsement.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "81adfeded4374a15ade5",
+  "error": ""
+}

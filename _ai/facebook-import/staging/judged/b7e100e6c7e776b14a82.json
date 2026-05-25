@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event report (website traffic spike on a specific date) with no insight, principle, or durable knowledge",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "b7e100e6c7e776b14a82",
+  "error": ""
+}

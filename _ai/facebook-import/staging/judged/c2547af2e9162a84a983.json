@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Event documentation without analysis—records that a festival happened on a specific date, but conveys no embedded knowledge, principle, or perspective on why spontaneity or the gathering itself matters.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "c2547af2e9162a84a983",
+  "error": ""
+}

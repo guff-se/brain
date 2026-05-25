@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter—a quip mocking chain-letter superstition on Facebook, with no durable substance or principle worth keeping.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "ca2cac76c2e630734d36",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.62,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "israel-palestine",
+    "occupation",
+    "geopolitics"
+  ],
+  "reason": "Well-sourced news reporting on a 2011 moment, but Gustaf's commentary is too thin (one word) to signal a developed principle; better to ingest when there's a second source on the same theme.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "3e83403d0f29dfebaf92",
+  "error": ""
+}

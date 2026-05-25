@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "voice",
+  "kind_hint": "note",
+  "tags_hint": [
+    "resilience",
+    "vulnerability"
+  ],
+  "reason": "Clear principle about transforming ridicule into resilience and sanity through self-awareness—durable insight worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "700d52fc6f63e01d029a",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Sarcastic quip responding to a specific 2011 news cycle moment; no reasoning, principle, or framework articulated—just mockery of Fox's outrage.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "1ba04e1d89f59fb23e5a",
+  "error": ""
+}

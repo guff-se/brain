@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "quantum-biology",
+    "quantum-mechanics"
+  ],
+  "reason": "News reporting on speculative physics; unproven theoretical model needs experimental validation to become durable knowledge",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "21ac375ba20f3810c784",
+  "error": ""
+}

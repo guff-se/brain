@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "welfare-coercion",
+    "institutional-accountability",
+    "marginalized-populations"
+  ],
+  "reason": "Gustaf asserts a clear principle — vulnerable people deserve dignity regardless of circumstances, and institutions must honor their own legal rulings — which reveals core values about human rights and institutional accountability.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "05c101ecbdcf9e46fc92",
+  "error": ""
+}

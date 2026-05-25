@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.76,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "housing-subsidies",
+    "fiscal-policy"
+  ],
+  "reason": "Asserts a clear principle (skepticism of state housing subsidies) that reveals Gustaf's policy worldview; brevity is acceptable per criteria.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "59db744f7c96cb39c5f8",
+  "error": ""
+}

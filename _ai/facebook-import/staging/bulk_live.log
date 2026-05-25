@@ -1,0 +1,86 @@
+=== monitor started Mon May 25 10:03:13 CEST 2026 ===
+skipped 2011-03-08 skip
+10:03:13 pid=61343 judged_10m=42 written_total=479 last: skipped 2011-03-08
+skipped 2011-01-20 skip
+10:05:13 pid=61343 judged_10m=65 written_total=482 last: skipped 2011-01-20
+skipped 2010-12-13 skip
+10:07:14 pid=61343 judged_10m=86 written_total=484 last: skipped 2010-12-13
+skipped 2010-11-28 skip
+10:09:14 pid=61343 judged_10m=103 written_total=489 last: skipped 2010-11-28
+skipped 2010-11-05 skip
+10:11:14 pid=61343 judged_10m=108 written_total=492 last: skipped 2010-11-05
+written 2010-10-05 save
+10:13:14 pid=61343 judged_10m=101 written_total=496 last: written 2010-10-05
+skipped 2010-08-27 skip
+10:15:14 pid=61343 judged_10m=99 written_total=499 last: skipped 2010-08-27
+skipped 2010-08-07 skip
+10:17:15 pid=61343 judged_10m=102 written_total=500 last: skipped 2010-08-07
+skipped 2010-06-03 skip
+10:19:15 pid=61343 judged_10m=108 written_total=501 last: skipped 2010-06-03
+skipped 2010-05-12 skip
+10:21:15 pid=61343 judged_10m=114 written_total=501 last: skipped 2010-05-12
+skipped 2010-04-18 skip
+10:23:15 pid=61343 judged_10m=115 written_total=502 last: skipped 2010-04-18
+skipped 2010-03-20 skip
+10:25:15 pid=61343 judged_10m=118 written_total=502 last: skipped 2010-03-20
+skipped 2010-02-20 skip
+10:27:16 pid=61343 judged_10m=116 written_total=502 last: skipped 2010-02-20
+skipped 2010-01-08 skip
+10:29:16 pid=61343 judged_10m=118 written_total=502 last: skipped 2010-01-08
+written 2009-11-12 save
+10:31:16 pid=61343 judged_10m=116 written_total=505 last: written 2009-11-12
+skipped 2009-10-06 skip
+10:33:16 pid=61343 judged_10m=120 written_total=505 last: skipped 2009-10-06
+skipped 2009-08-20 skip
+10:35:16 pid=61343 judged_10m=122 written_total=506 last: skipped 2009-08-20
+skipped 2009-06-24 skip
+10:37:16 pid=61343 judged_10m=122 written_total=507 last: skipped 2009-06-24
+skipped 2009-05-20 skip
+10:39:17 pid=61343 judged_10m=122 written_total=507 last: skipped 2009-05-20
+skipped 2009-04-25 skip
+10:41:17 pid=61343 judged_10m=127 written_total=507 last: skipped 2009-04-25
+skipped 2009-03-19 skip
+10:43:17 pid=61343 judged_10m=125 written_total=508 last: skipped 2009-03-19
+skipped 2009-02-21 skip
+10:45:17 pid=61343 judged_10m=124 written_total=508 last: skipped 2009-02-21
+skipped 2009-02-03 skip
+10:47:17 pid=61343 judged_10m=124 written_total=509 last: skipped 2009-02-03
+skipped 2008-12-22 skip
+10:49:18 pid=61343 judged_10m=123 written_total=511 last: skipped 2008-12-22
+skipped 2008-11-18 skip
+10:51:18 pid=61343 judged_10m=120 written_total=512 last: skipped 2008-11-18
+judge-error 2008-09-28 error
+10:53:18 pid=61343 judged_10m=115 written_total=513 last: judge-error 2008-09-28
+judge-error 2008-08-21 error
+10:55:18 pid=61343 judged_10m=92 written_total=513 last: judge-error 2008-08-21
+judge-error 2011-01-06 error
+10:57:18 pid=61343 judged_10m=69 written_total=513 last: judge-error 2011-01-06
+judge-error 2016-07-30 error
+10:59:18 pid=61343 judged_10m=44 written_total=513 last: judge-error 2016-07-30
+skipped-empty 2008-09-15 None
+11:01:19 pid=61343 judged_10m=20 written_total=513 last: skipped-empty 2008-09-15
+skipped-empty 2009-09-13 None
+11:03:19 pid=61343 judged_10m=1 written_total=513 last: skipped-empty 2009-09-13
+judge-error 2010-05-20 error
+11:05:19 pid=61343 judged_10m=0 written_total=513 last: judge-error 2010-05-20
+judge-error 2010-12-29 error
+11:07:19 pid=61343 judged_10m=0 written_total=513 last: judge-error 2010-12-29
+judge-error 2011-06-04 error
+11:09:19 pid=61343 judged_10m=0 written_total=513 last: judge-error 2011-06-04
+judge-error 2012-01-25 error
+11:11:19 pid=61343 judged_10m=0 written_total=513 last: judge-error 2012-01-25
+judge-error 2012-02-05 error
+11:13:20 pid=61343 judged_10m=0 written_total=513 last: judge-error 2012-02-05
+judge-error 2012-12-05 error
+11:15:20 pid=61343 judged_10m=0 written_total=513 last: judge-error 2012-12-05
+judge-error 2013-12-31 error
+11:17:20 pid=61343 judged_10m=0 written_total=513 last: judge-error 2013-12-31
+judge-error 2015-07-30 error
+11:19:20 pid=61343 judged_10m=0 written_total=513 last: judge-error 2015-07-30
+judge-error 2020-10-07 error
+11:21:20 pid=61343 judged_10m=0 written_total=513 last: judge-error 2020-10-07
+judge-error 2024-06-18 error
+11:23:21 pid=61343 judged_10m=0 written_total=513 last: judge-error 2024-06-18
+judge-error 2015-05-29 error
+11:25:21 pid=61343 judged_10m=0 written_total=513 last: judge-error 2015-05-29
+=== process 61343 ended Mon May 25 11:27:21 CEST 2026 exit check ===

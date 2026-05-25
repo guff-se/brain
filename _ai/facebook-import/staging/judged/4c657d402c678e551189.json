@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "News report of a 2017 speech—time-bound event coverage with thin treatment of UBI principles, not a source that explores or develops the underlying frameworks Gustaf would build on.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "4c657d402c678e551189",
+  "error": ""
+}

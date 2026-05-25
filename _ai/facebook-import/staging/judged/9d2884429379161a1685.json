@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gig-economy",
+    "labor",
+    "capitalism"
+  ],
+  "reason": "Sharp cultural criticism unpacking how gig-economy companies normalize worker exploitation through marketing and American myths of self-reliance — durable analysis applicable to platform labor, rhetoric, and systemic inequality.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "9d2884429379161a1685",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social notation with no embedded knowledge, analysis, or insight — describes an event without explaining why or what it means.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "c65351e7b51d02fa9009",
+  "error": ""
+}

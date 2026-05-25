@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound news announcement (2017) about a new party launch; mentions but doesn't develop the underlying principles of participatory governance or planetary sustainability.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "91ef43f3562ad9d0e5e2",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "News announcement of an event (the ruling), not an exploration of the principles or mechanisms behind it — the durable content (Kennedy's reasoning) would be better captured from the primary SCOTUS source, not a news summary.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "84a402f6e6f71c41c386",
+  "error": ""
+}

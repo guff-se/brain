@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "economics",
+    "institutions",
+    "nobel-prize"
+  ],
+  "reason": "Gustaf endorses the article but contributes no independent analysis; the principle belongs to the article, not his own assertion.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "47e9b093858cbbaf94e6",
+  "error": ""
+}

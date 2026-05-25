@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Primarily a 2017 news feature about specific people and moment-in-time initiatives at Newspeak House; minimal durable substance despite exploring civic tech themes. Gustaf's commentary is just a social invitation, not asserting a principle or finding.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "39569b0308786eeff729",
+  "error": ""
+}

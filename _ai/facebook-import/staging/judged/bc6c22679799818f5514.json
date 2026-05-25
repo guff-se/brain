@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "innovation",
+    "product-development",
+    "consumer-feedback"
+  ],
+  "reason": "Crisp principle-assertion about the relationship between product vision and consumer research; durable framework for innovation methodology that reveals Gustaf's values around intuition vs. data-driven design.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "bc6c22679799818f5514",
+  "error": ""
+}

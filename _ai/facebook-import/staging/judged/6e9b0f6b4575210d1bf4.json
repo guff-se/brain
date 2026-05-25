@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Political reaction to specific 2017 events; asserts a principle (internal dysfunction disqualifies a party) but doesn't develop it, and will age into historical artifact rather than durable insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "6e9b0f6b4575210d1bf4",
+  "error": ""
+}

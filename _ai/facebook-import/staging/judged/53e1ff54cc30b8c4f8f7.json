@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "communication-freedom",
+    "democracy",
+    "internet-governance"
+  ],
+  "reason": "Troberg articulates a durable principle about power and communication: autocrats suppress free speech because they fear their citizens; subtler forms of control in democracies are equally pernicious. Gustaf's explicit endorsement signals he finds this foundational to his worldview.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "53e1ff54cc30b8c4f8f7",
+  "error": ""
+}

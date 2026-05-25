@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Intriguing conceptual hook (party politics ↔ Heisenberg) but the comment itself is just a question/pointer to the podcast, not an articulated thought or insight worth vaulting yet.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "54744afced80c5b40b9d",
+  "error": ""
+}

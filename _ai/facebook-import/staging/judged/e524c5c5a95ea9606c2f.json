@@ -1,0 +1,12 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Title asserts a durable mechanism claim ('Why Automation is Different This Time'); Kurzgesagt produces credible explainer content; referenced books signal substantive economic analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "e524c5c5a95ea9606c2f",
+  "error": ""
+}

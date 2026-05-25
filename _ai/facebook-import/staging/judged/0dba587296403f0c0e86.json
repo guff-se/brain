@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.35,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Time-bound price observation (2017) with too-brief implied principle to constitute durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "0dba587296403f0c0e86",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "ledarskap",
+    "organisation",
+    "teal"
+  ],
+  "reason": "Social endorsement of a podcast episode and guest, thin on durable analysis—the substance lives in the episode itself, not this recommendation post.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "d6aae97f88b32fb930fb",
+  "error": ""
+}

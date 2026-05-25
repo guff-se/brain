@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Social banter sharing music without durable insight or analysis",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "478fc6e0746beb3d6040",
+  "error": ""
+}

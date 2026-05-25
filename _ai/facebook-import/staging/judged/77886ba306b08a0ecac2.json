@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social endorsement with no embedded insight; the substance (if any) is in the external blog post, not Gustaf's comment",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "77886ba306b08a0ecac2",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Event-specific 2017 polemic; while it asserts principles about context and political strategy, these are primarily defensive responses to accusations rather than independent exploration of durable ideas.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "13565411ee7b1af57722",
+  "error": ""
+}

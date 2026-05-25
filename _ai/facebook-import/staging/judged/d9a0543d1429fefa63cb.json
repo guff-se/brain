@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Time-bound political event (2010 WikiLeaks moment) with promotional campaign logistics; Gustaf's commentary is social banter, not principle-articulation or analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d9a0543d1429fefa63cb",
+  "error": ""
+}

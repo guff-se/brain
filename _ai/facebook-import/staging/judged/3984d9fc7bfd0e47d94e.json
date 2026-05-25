@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.4,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "refugee-policy",
+    "justice"
+  ],
+  "reason": "A single quoted principle without Gustaf's own elaboration—the ethical stance (fairness in asylum allocation) is durable, but the engagement is too thin to justify a note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "3984d9fc7bfd0e47d94e",
+  "error": ""
+}

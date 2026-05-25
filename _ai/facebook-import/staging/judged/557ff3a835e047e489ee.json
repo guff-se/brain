@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Broken blip.tv link (defunct platform) with unrelated Disney sweepstakes terms replacing original 2010 content; no access to source material, fetched content is purely promotional/transactional",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "557ff3a835e047e489ee",
+  "error": ""
+}

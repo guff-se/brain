@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Gustaf's annotation is purely descriptive (\"a video about X\") with no personal framework, analysis, or principle stated—too thin to vault, even though the documentary itself is substantive.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a3432616133af5c8edfe",
+  "error": ""
+}

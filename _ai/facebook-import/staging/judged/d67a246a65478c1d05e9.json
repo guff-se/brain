@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Resource link with no Gustaf commentary or analysis — just a motivational speaker reference without context on why it mattered or what principle it illustrated.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d67a246a65478c1d05e9",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event report (theft from 2011) with no embedded insight, principle, or explanation — just a complaint followed by a question.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "53770b25c63a63a08690",
+  "error": ""
+}

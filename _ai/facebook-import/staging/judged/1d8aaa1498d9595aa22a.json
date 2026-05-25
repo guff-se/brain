@@ -1,0 +1,12 @@
+{
+  "verdict": "save",
+  "confidence": 0.65,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [],
+  "reason": "Title indicates substantive critique of internet development and unintended consequences—durable subject matter despite minimal metadata.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_podcast",
+  "content_sha": "1d8aaa1498d9595aa22a",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Just a question posed to readers; no embedded insight, principle, or reasoning from Gustaf.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "775ac62ac6b001cfadd4",
+  "error": ""
+}

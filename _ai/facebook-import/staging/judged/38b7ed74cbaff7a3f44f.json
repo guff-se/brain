@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "advertising",
+    "measurement",
+    "strategy"
+  ],
+  "reason": "Feature on Gustaf's own startup Burt; articulates clear principles about advertising (earn attention, quality over volume, creative+technical integration) and critiques measurement obsession in digital marketing.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "38b7ed74cbaff7a3f44f",
+  "error": ""
+}

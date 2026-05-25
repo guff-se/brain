@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.7,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "privacy",
+    "facial-recognition",
+    "surveillance"
+  ],
+  "reason": "Illustrates durable principle of privacy erosion through facial recognition and public profiles; concrete case study with expert analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "6904e2cb7f4d6d008dc1",
+  "error": ""
+}

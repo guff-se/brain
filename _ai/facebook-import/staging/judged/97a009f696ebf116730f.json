@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "internet-rights",
+    "data-transparency",
+    "information-commons"
+  ],
+  "reason": "Foundational principles on internet rights; Gustaf's curation signals his values around data transparency and open governance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "97a009f696ebf116730f",
+  "error": ""
+}

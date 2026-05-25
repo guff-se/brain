@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Generic teaser title with no description, transcript, or Gustaf commentary—insufficient to distinguish durable content from promotional material.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "ed55c8a05e3b5d6ee939",
+  "error": ""
+}

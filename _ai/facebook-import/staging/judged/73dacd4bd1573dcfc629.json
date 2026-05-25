@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.58,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "corporate-culture",
+    "cost-cutting",
+    "resource-priorities"
+  ],
+  "reason": "Implicit principle—skepticism about large orgs' budget excuses—reveals Gustaf's view on institutional honesty and priorities, though expressed very briefly.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "73dacd4bd1573dcfc629",
+  "error": ""
+}

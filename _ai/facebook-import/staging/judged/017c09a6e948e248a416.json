@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "technology",
+    "communication",
+    "mobile"
+  ],
+  "reason": "Crisp principle about the semantic shift from place-based to person-centric communication—durable observation that reveals Gustaf's lens on technology's reorganization of how we connect.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "017c09a6e948e248a416",
+  "error": ""
+}

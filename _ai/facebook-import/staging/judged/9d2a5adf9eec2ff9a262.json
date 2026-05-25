@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social share with minimal commentary — 'Detta är vi' is a reaction caption, not an insight or analysis worth preserving without the video's context being explained",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "9d2a5adf9eec2ff9a262",
+  "error": ""
+}

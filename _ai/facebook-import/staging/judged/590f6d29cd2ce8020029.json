@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "digital-rights",
+    "surveillance",
+    "privacy"
+  ],
+  "reason": "Clear assertion of core principles: anonymity protects individuals while surveillance protects corporations; democracy cannot be bought; private entities shouldn't dictate internet law. Durable, non-trivial position on digital rights.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "590f6d29cd2ce8020029",
+  "error": ""
+}

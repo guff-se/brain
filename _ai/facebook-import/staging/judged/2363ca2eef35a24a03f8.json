@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.7,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "corporate-governance",
+    "purpose-driven-business",
+    "organizational-structure"
+  ],
+  "reason": "Explores mechanisms and causality—why PBC structure realigns fiduciary duties toward public benefit, how Kickstarter justified choosing purpose over profit extraction—durably relevant for understanding organizational design.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "2363ca2eef35a24a03f8",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure transactional collaboration request with no durable knowledge or insight",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "90d756f9e1f35c03b770",
+  "error": ""
+}

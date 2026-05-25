@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event announcement with no embedded knowledge or principle — just a logistical post about giving a talk on a specific Thursday in 2009.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "bb9ad57d78d468665b8d",
+  "error": ""
+}

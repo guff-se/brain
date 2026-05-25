@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.4,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Bare question posed to others lacks Gustaf's own position or answer; hints at values but doesn't clearly assert them.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "e07790efd567e42a70ef",
+  "error": ""
+}

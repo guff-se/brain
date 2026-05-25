@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "bitcoin",
+    "regulation",
+    "money"
+  ],
+  "reason": "Time-bound advertorial from 2015 making generic banking arguments about why Bitcoin lacks institutional acceptance; the specific claims are now stale and the underlying principle (currencies need regulation and stability) is too standard to sustain a concept.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "e4d6011e2b7b7e844bed",
+  "error": ""
+}

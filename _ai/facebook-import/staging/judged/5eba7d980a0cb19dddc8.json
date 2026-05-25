@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Minimal social media reaction with no embedded knowledge, principle, or analysis — just a two-word dismissive comment with no context.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "5eba7d980a0cb19dddc8",
+  "error": ""
+}

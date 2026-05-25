@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "entrepreneurship",
+    "mentorship"
+  ],
+  "reason": "Title is an engagement question with no description/transcript or Gustaf commentary — cannot verify substantive, durable content.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "2aeac561733d73bd970b",
+  "error": ""
+}

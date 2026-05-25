@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "democracy",
+    "inclusion",
+    "swedish-politics"
+  ],
+  "reason": "News-pegged essay with thin principle; Gustaf's affirmation ('Så fint') is sentiment, not insight. The article illustrates democratic grace but doesn't advance or explain it. Better as background reading than a vault entry.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "3d19fb816d1273137425",
+  "error": ""
+}

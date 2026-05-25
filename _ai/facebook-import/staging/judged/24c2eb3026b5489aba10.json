@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound job posting from 2010 with no enduring knowledge, insight, or principle—purely transactional.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "24c2eb3026b5489aba10",
+  "error": ""
+}

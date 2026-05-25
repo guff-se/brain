@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Purely transactional post — a time-bound housing request with no embedded knowledge, principle, or durable value.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "275ed50c616d40e2618b",
+  "error": ""
+}

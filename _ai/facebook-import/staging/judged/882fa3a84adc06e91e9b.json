@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.35,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "radical-inclusion",
+    "organizational-culture"
+  ],
+  "reason": "Historically significant moment for Burning Man, but Gustaf's commentary is purely evaluative (\"first sensible post\") without substantive reasoning, and the article, though thoughtful, is primarily BMORG's reactive statement to a 2012 crisis rather than durable analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "882fa3a84adc06e91e9b",
+  "error": ""
+}

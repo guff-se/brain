@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event announcement with no embedded insight, analysis, or principle—just a conference attendance note with a rhetorical flourish.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "b2b27e5b21f4ddffc1eb",
+  "error": ""
+}

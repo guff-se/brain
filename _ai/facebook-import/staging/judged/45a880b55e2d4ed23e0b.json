@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure logistical ephemera — a 16-year-old invitation reminder with no durable content, insight, or knowledge value.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "45a880b55e2d4ed23e0b",
+  "error": ""
+}

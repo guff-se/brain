@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Social sharing without Gustaf's substantive engagement—'would love some thoughts' is relational exchange, not a principle or analysis worth keeping.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "b4c49c75fe598dd89768",
+  "error": ""
+}

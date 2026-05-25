@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.35,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Sarcastic one-liner that signals values (opposition to authoritarianism, concern for sexual violence) but lacks substance or development to be durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "33d504d9076f1d27a0b6",
+  "error": ""
+}

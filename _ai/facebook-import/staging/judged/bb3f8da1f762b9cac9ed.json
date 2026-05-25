@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "One-sentence reaction to a 2012 op-ed; asserts a principle but lacks elaboration or independent analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "bb3f8da1f762b9cac9ed",
+  "error": ""
+}

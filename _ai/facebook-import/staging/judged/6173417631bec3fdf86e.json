@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social recommendation without substantive insight; the stress-reduction claim is asserted but not explored or connected to Gustaf's practice.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "6173417631bec3fdf86e",
+  "error": ""
+}

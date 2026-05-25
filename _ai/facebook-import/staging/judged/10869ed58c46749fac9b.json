@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter responding to a friend's mention—no explanation of why the speech mattered or what makes it a 'gold nugget,' so no durable insight to extract.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "10869ed58c46749fac9b",
+  "error": ""
+}

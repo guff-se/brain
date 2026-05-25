@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Time-bound social event documentation (2010 gathering) with no durable knowledge, insight, or Gustaf's perspective attached",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "af02cbcf01a261daf4ff",
+  "error": ""
+}

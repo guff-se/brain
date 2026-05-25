@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event report with social recommendation, no embedded knowledge or principle about why the experience mattered",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "49b3890fe8e7a2000a4a",
+  "error": ""
+}

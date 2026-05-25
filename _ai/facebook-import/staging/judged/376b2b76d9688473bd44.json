@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "ai-music",
+    "labor",
+    "creativity"
+  ],
+  "reason": "Named expert (Adam Neely, music theorist) + titled analytical structure (Three Questions, Why no influences?, New Virtues, Profiles of the Future) + historical grounding (Pete Seeger) signal substantive critique on AI's impact on musicianship and artistic labor, not product news.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "376b2b76d9688473bd44",
+  "error": ""
+}

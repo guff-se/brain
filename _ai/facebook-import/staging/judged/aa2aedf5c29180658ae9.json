@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [
+    "adolescent-health",
+    "education-policy"
+  ],
+  "reason": "Asserts a valid principle about school scheduling and youth health, but the text is too sparse and rhetorical to develop as a standalone note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "aa2aedf5c29180658ae9",
+  "error": ""
+}

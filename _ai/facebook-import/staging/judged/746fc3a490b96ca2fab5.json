@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A 2009 Facebook response clarifying his position on labor law—time-bound social context with coherent but unsupported assertion about Swedish cultural dependency, lacks the depth or durability for vault retention.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "746fc3a490b96ca2fab5",
+  "error": ""
+}

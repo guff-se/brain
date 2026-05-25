@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Pure affective endorsement with no durable insight; link is dead and commentary offers no reasoning or principle beyond 'this place is amazing to me.'",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e3baba10c13eb3c7dad5",
+  "error": ""
+}

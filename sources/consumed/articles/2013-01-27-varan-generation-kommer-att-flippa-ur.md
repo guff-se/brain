@@ -1,0 +1,26 @@
+---
+title: "”Våran generation kommer att flippa ur”"
+summary: "”Vår generation kommer flippa ur”
+Alice Bratthammar och Amanda Ivanović var med vid Instagramupploppen i Göteborg
+polis …"
+kind: "article"
+party: "third"
+register: "consumed"
+source: "wayback"
+source_id: "fb-1359307754"
+url: "http://web.archive.org/web/20170715025429/http://www.aftonbladet.se:80/kultur/article16131454.ab"
+provenance: "extracted"
+enrichment: "wayback"
+lang: "sv"
+tags: [misinformation, institutional-indifference, generational-alienation]
+status: "reference"
+ingested: "2026-05-25"
+created: "2013-01-27"
+---
+
+”Vår generation kommer flippa ur” Alice Bratthammar och Amanda Ivanović var med vid Instagramupploppen i Göteborg polis i samband med Instagram- upploppen i Göteborg i slutet av förra året.Foto: THOMAS JOHANSSON 17-åriga Alice Bratthammar och Amanda Ivanović var med vid gymnasieupploppen som skakade Göteborg i december. Här skriver de själva om kravallerna, om aggressiva poliser, panikslagna ungdomar – och om en omvärld som inte bryr sig. Plusgymnasiet. Killen som dansar på ett biltak halkar och gör värsta faceplanten mot huven. Vi hör en polishelikopter över oss. SVT är här också, vi ser deras minibuss. Lärare står i fönstren och kollar ner. Vi fäller upp luvorna och drar upp våra halsdukar så att man bara ser våra ögon. Det finns alltid minst två delar av en historia och man måste alltså ta sig tid att höra från olika håll vad som hände och varför, annars kan man strunta i att ens ha en åsikt om situationen. Vår egen gymnasieskola är lång – en lång korridor. Angeredsgymnasiet. Det sitter grupper och pratar. Man går där och hör deras röster. Det är det som är vår värld. Vi är nittiofemmor. I morgon kommer hela den där långa korridoren prata om en enda sak: vilka som är upplagda på en viss Instagramsida och varför. Det kommer att bli bråk och folk kommer vara helt förstörda och ha förlorat sina vänner. Plusgymnasiet. En polisbil kör rakt in i folkmassan. Alltså polisen skiter i det. Alltså de kunde ha kört på någon. Alla hoppar undan, backar. Panik. En ensam kille stannar kvar. En polis kommer ur bilen, ställer sig ansikte mot ansikte med honom och puttar honom. Killen snubblar bakåt men går tillbaka och ställer sig där igen. Vi hör inte vad de säger till varandra men det syns att killen tjafsar emot. Polisen puttar honom igen, han ställer sig där igen, ansikte mot ansikte med polisen. Vi kan inte hjälpa att vi allihop älskar honom, att vi tycker han är tung. För han säger till polisen att vi har rätt att vara här. I den här världen. Hans kompisar drar iväg honom till slut. Polisen går tillbaka till bilen. Vi börjar kasta snöbollar på polisbilen. Instagram. Som en dagbok fast med bilder. Ett Instagramkonto som heter GbgsOrroz har publicerat bilder på ungdomar runt om i Göteborg och skrivit att han här har gjort detta, knullat med denna och denna, och hon här gjort detta på en toalett i McDonalds. Det har stormat in anmälningar i flera dagar men inget har hänt. Sidan är fortfarande öppen när vi står där utanför Plus den artonde december förra året. Ingen bryr sig. Så vi bryr oss inte heller. Någon måste ta skiten, bara. Och i går bombade alla om ett visst namn, att en viss person låg bakom sidan. Att den personen, hon ska dö. Och hon går här på Plus. Vi chillar, röker, dricker energidricka, väntar. Det kommer fler och fler polisbilar. Poliserna gör inget. Något måste hända. Vår kompis kommer springande och har rivmärken över ögat och ont i revbenen. Hon blir påhoppad av ett gäng ungdomar utan att hon vet varför. ”Tredje världskriget på Plusgymnasiet”. Facebookeventet. Sjuhundra personer anmälde sig på några minuter i går kväll. Katastrof. Ingen tänker, ingen undrar om det inte går att fejka ett konto, om det inte går att Photoshoppa en bild. Ingen bryr sig. Något ska bara hända. De säger att det är två unga som har tagit självmord. Vad är sanning? Om en tjej har de skrivit: ”Hon slog sin mamma för en cheeseburgare.” Man kan fejka allt på den där sidan, skriva fejknamn, låtsas att man är någon annan. Och om du är på g med en tjej eller kille och det står massa grejer om dig? Då kan det sabba. Och om du läser lögner om din familj? Om du läser att dina vänner har ljugit om dig? Om någon ljuger om dina vänner? Då flippar du. När vi kom fram hit vi ba wooooow – kaos i trafiken, ungdomsmassor som rör sig. Vi är här för att se vad som händer med våra egna ögon. Vi är här för att världen är så falsk. Andra dagen. Framtidsgymnasiet. En ung tjej är helt förstörd, panik yani, hennes ögon är röda och rinniga och hennes kompisar står runt henne och skriker att folk ska dra, att vi ska lämna dem i fred. Men de är nittiosexor, de ser upp till oss, vi pratar lugnt med dem, de säger att tjejen har blivit pepparsprayad i ansiktet, att en reporter har fått en burk av polisen och sen sprayat henne. Vi går in på en restaurang och ber om vatten för att skölja hennes ögon. De vägrar ge oss vatten. Några poliser tittar på, de bryr sig inte. Tjejen gråter. Till slut får vi hjälp av några kvinnor som
+
+*[Content truncated — full text in fetch cache]*
+
+---
+**Gustaf's commentary:** "Alla springer runt, runt och väntar på något. På tredje världskriget. På framtiden." - om Instagramkravallerna. LÄS!

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Time-bound reaction to a 2012 court ruling; implies values (internet freedom, media skepticism) but doesn't clearly assert them as principles, and the commentary is too thin to ground future reference.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "bfef130beb3ac117279e",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social product-share with no embedded knowledge or analysis — Gustaf's commentary adds no insight beyond 'check this out'",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "4bce9f429d30eadca564",
+  "error": ""
+}

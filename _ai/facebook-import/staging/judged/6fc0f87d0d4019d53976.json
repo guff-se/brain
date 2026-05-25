@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "circumcision",
+    "history",
+    "medicine"
+  ],
+  "reason": "Explores the historical causality and origins of a widespread practice—the kind of durable insight into how culture and medicine intersect that compounds understanding.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "6fc0f87d0d4019d53976",
+  "error": ""
+}

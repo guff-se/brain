@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare link share from 2009 with no commentary, analysis, or principle — pure event announcement with no embedded knowledge",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "bae8a6d0d1ccec3b97d2",
+  "error": ""
+}

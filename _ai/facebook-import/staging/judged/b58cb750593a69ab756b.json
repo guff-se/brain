@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Title 'Miss' is too vague; no commentary or content to discern whether this has durable substance or is just a stub with lost metadata.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "b58cb750593a69ab756b",
+  "error": ""
+}

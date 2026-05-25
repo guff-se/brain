@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Seasonal activity share with no embedded insight, principle, or durable knowledge — pure summer banter pointing at a craft directory.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "6d8bf129552a33de5e46",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 1.0,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social interjection with no embedded knowledge, context, or substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "10df33e2893c7d0ecda8",
+  "error": ""
+}

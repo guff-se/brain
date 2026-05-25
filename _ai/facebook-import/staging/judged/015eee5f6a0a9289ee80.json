@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "copyright"
+  ],
+  "reason": "Bare quote attribution with no Gustaf commentary or original analysis—social media sharing rather than durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "015eee5f6a0a9289ee80",
+  "error": ""
+}

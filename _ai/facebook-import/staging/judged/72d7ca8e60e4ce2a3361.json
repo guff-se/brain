@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily promotional/descriptive of Burning Man Earth project features rather than analytical. Embedded principles about ephemeral preservation and participatory tech are interesting but not the focus; would benefit from Gustaf's commentary to justify save.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "72d7ca8e60e4ce2a3361",
+  "error": ""
+}

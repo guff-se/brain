@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "police-abuse",
+    "electronic-music",
+    "discrimination"
+  ],
+  "reason": "First-person account of police overreach and subcultural discrimination; articulates principles about individual rights and proportional authority.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "96f0c6c328969624f2b5",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Tactical question about a specific initiative with no durable knowledge, principle, or insight embedded—just a dated PR/logistics query.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "bdff10a30eba8a71e3f3",
+  "error": ""
+}

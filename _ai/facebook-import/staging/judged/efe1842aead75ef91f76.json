@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "metamodernism",
+    "democratic-renewal",
+    "co-creation"
+  ],
+  "reason": "External reporting on Gustaf's direct involvement in founding the Initiative, with durable philosophical substance (values-based politics, metamodernism, co-creation methods) that reveals his core values.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "efe1842aead75ef91f76",
+  "error": ""
+}

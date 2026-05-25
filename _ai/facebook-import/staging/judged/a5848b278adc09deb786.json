@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Social banter without perspective, analysis, or insight—'Robots FTW!' expresses enthusiasm but no durable knowledge or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a5848b278adc09deb786",
+  "error": ""
+}

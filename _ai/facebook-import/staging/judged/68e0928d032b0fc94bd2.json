@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "differentiation",
+    "product-strategy",
+    "startup"
+  ],
+  "reason": "Durable principle-laden framework about why personality/differentiation wins over commoditization; Gustaf's 'be bacon, not bread' signals the core resonated with him.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "68e0928d032b0fc94bd2",
+  "error": ""
+}

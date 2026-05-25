@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "News article reporting 2012 survey results; commentary is social observation pointing out an irony rather than articulating a durable principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "7dcb4baada602e024d59",
+  "error": ""
+}

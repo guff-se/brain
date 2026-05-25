@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.96,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social status update announcing a brainstorm session with no embedded knowledge, framework, or insight — purely logistical/transactional.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "0938b653c137b6b722c6",
+  "error": ""
+}

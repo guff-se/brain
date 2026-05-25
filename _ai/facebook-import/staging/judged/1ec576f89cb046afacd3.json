@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Anecdote about an individual's training intensity with no articulated principle — relational observation rather than durable knowledge",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "1ec576f89cb046afacd3",
+  "error": ""
+}

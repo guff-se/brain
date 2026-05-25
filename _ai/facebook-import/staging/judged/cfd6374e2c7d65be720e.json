@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "drug-policy",
+    "public-health",
+    "policy-design"
+  ],
+  "reason": "Durable analysis of drug policy mechanisms and measurable outcomes: decriminalization + treatment as causal model with evidence (Portugal's 80→16 deaths), legalization enabling market + regulation (Colorado tax, teen use outcomes). Policy framework worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "cfd6374e2c7d65be720e",
+  "error": ""
+}

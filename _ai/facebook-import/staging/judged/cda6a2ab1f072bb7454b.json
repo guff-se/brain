@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "thinking",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education-systems",
+    "personality-psychology",
+    "credentialism"
+  ],
+  "reason": "Gustaf expresses a clear principle: school success (high grades) correlates with conscientiousness and anxiety, not intellect or openness—so he distrusts it as a measure of ability or worth.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "cda6a2ab1f072bb7454b",
+  "error": ""
+}

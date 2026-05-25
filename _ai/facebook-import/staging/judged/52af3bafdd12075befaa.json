@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "nazi-persecution",
+    "lgbt-rights",
+    "authoritarianism"
+  ],
+  "reason": "Detailed historical documentation of legal persecution mechanisms, scale of violence, and systematic oppression—substantive reference material on how authoritarian systems weaponize law to target minorities.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "52af3bafdd12075befaa",
+  "error": ""
+}

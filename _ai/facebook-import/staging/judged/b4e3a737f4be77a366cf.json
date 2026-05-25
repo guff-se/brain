@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound political comment on a 2010 election moment; asserts a mild principle about intellectual honesty implicitly, but too surface-level and situational to build on.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "b4e3a737f4be77a366cf",
+  "error": ""
+}

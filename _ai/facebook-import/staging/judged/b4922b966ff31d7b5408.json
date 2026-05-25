@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Minimal commentary ('What is Burning Man?') with link to external video suggests curiosity rather than developed understanding or assertion of principle. Video metadata alone is insufficient without the content itself.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "b4922b966ff31d7b5408",
+  "error": ""
+}

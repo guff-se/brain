@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "fairness",
+    "distribution",
+    "voluntary-association"
+  ],
+  "reason": "Gustaf articulates a crisp principle (ability-to-pay determines contribution) he's adopted as practice, framed as voluntary distributed politics—reveals his values and approach to economic fairness",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "74d0b4ef7cc55dcbe771",
+  "error": ""
+}

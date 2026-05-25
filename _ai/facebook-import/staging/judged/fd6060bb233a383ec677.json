@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "education",
+    "accountability"
+  ],
+  "reason": "Crisp policy principle: quality problems in teaching are with incumbent staff, not newcomers — a clear reversal of the government's focus that shows where Gustaf thinks scrutiny belongs.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "fd6060bb233a383ec677",
+  "error": ""
+}

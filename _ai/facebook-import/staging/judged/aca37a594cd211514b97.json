@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Novelty web tool announcement with no embedded insight, analysis, or commentary — promotional/transactional only.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "aca37a594cd211514b97",
+  "error": ""
+}

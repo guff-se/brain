@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Promotional social amplification of a campaign video. Gustaf's text is enthusiasm, not analysis; the underlying critique (western stereotyping in development narratives) is embedded in the video, not articulated by him.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "55d4df7d489140a673c7",
+  "error": ""
+}

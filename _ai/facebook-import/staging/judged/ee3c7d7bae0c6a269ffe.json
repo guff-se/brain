@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure social expression — a one-word judgment with no embedded reasoning, analysis, or insight about why the film matters",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "ee3c7d7bae0c6a269ffe",
+  "error": ""
+}

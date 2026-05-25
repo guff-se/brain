@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Time-bound political commentary on a 2012 Walmart policy, with Gustaf's reaction as surface mockery rather than elaborated principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "9b1fa33875a31b2184dc",
+  "error": ""
+}

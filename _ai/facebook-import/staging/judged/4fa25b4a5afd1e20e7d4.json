@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound news event with no analysis or commentary articulating a principle — Gustaf shared the headline, not a view",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "4fa25b4a5afd1e20e7d4",
+  "error": ""
+}

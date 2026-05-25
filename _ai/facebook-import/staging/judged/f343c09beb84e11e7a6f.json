@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "maker-movement",
+    "hardware",
+    "entrepreneurship"
+  ],
+  "reason": "Ellen Sundh articulates a durable principle: democratized access to electronics + open source + 3D printing shifts product design from 'what companies sell' to 'what we can build'—a substantive insight about agency and tools, though the piece is partly promotional and observational.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "f343c09beb84e11e7a6f",
+  "error": ""
+}

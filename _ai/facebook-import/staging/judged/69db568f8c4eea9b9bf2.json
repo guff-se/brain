@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "tax-policy",
+    "wealth-inequality",
+    "public-finance"
+  ],
+  "reason": "Detailed policy analysis proposing mark-to-market taxation; explores tax mechanisms and mechanisms of wealth avoidance with durable substantive frameworks, not time-bound reporting.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "69db568f8c4eea9b9bf2",
+  "error": ""
+}

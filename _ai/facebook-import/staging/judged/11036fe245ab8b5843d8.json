@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fleeting logistical status update ('on my way to Prolog') — social banter with no embedded knowledge or principle",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "11036fe245ab8b5843d8",
+  "error": ""
+}

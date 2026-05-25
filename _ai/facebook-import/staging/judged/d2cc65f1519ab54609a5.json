@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social announcement of a creative moment with no embedded knowledge or perspective — just that a song exists for these personas.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "d2cc65f1519ab54609a5",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Title suggests substantive explainer about Swedish governance, but without the article body or Gustaf's commentary, it's ambiguous whether this is durable constitutional analysis or a time-bound reaction piece; 2015 URL likely paywalled/stale.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "001c6eadac6133ad75e3",
+  "error": ""
+}

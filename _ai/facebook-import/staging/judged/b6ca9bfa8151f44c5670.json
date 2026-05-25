@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social event announcement with no embedded knowledge, analysis, or perspective — pure logistical/promotional content.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "b6ca9bfa8151f44c5670",
+  "error": ""
+}

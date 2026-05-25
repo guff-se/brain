@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-word reaction to a nature video with no analysis, insight, or durable knowledge — social sharing without embedded substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "9cbbb42b3b7a8323af47",
+  "error": ""
+}

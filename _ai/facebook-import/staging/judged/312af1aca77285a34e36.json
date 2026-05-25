@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "surveillance",
+    "data-retention",
+    "digital-rights"
+  ],
+  "reason": "Uses Grimm allegory to frame data retention as a principle of overreach; aligns with Gustaf's documented civil-liberties interests, not ephemeral reporting despite truncated fetch.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "312af1aca77285a34e36",
+  "error": ""
+}

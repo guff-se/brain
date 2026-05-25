@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Social pointer to a designer with no embedded analysis, insight, or principle; time-bound event announcement from 2010 with no durable substance in Gustaf's text.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "b9ffeb54fe4ab018b2cc",
+  "error": ""
+}

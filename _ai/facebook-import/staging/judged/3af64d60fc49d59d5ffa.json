@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Fetched content is garbled (appears to be DOM noise from the webpage); no readable article body or Gustaf commentary to assess the debate substance despite promising URL title.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "3af64d60fc49d59d5ffa",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Nostalgic anniversary snapshot expressing personal growth sentiment, but no durable insight into mechanisms, patterns, or principles worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "25de006f5a4a40345b46",
+  "error": ""
+}

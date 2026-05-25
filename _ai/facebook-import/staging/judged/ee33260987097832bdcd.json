@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound event announcement (2017 summit, now archived) with no embedded analysis, principle assertion, or Gustaf commentary to elevate it beyond logistics.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "ee33260987097832bdcd",
+  "error": ""
+}

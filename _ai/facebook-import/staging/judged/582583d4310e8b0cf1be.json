@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Video pointer with Gustaf's weak engagement signal (just 'watch this') and no transcript/substantive content about Robinson's actual ideas captured.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "582583d4310e8b0cf1be",
+  "error": ""
+}

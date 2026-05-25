@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Viral novelty video with no embedded knowledge, insight, or durable value — social ephemera rather than material that compounds.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "3dee546f8e517802898d",
+  "error": ""
+}

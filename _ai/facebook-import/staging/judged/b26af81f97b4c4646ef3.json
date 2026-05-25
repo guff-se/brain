@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social transaction with no embedded knowledge—a straightforward request to borrow a shirt.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "b26af81f97b4c4646ef3",
+  "error": ""
+}

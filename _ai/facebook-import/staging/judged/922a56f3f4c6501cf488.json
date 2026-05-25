@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "person",
+  "tags_hint": [
+    "communication",
+    "entrepreneurship",
+    "human-potential"
+  ],
+  "reason": "Profile/bio with one-line enthusiasm; no embedded principle or framework from Gustaf beyond implicit admiration.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "922a56f3f4c6501cf488",
+  "error": ""
+}

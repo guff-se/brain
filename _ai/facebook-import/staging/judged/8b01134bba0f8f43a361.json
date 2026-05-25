@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": "music",
+  "tags_hint": [],
+  "reason": "Song lyrics without Gustaf's commentary explaining why they matter — relational sharing, not durable knowledge or stated principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "8b01134bba0f8f43a361",
+  "error": ""
+}

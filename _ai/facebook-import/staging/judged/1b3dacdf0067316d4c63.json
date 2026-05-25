@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Event announcement with social enthusiasm, but no embedded knowledge, analysis, or principle worth archiving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "1b3dacdf0067316d4c63",
+  "error": ""
+}

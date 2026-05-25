@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-line rhetorical question signaling a position, but too undeveloped to serve as durable knowledge or principle; social engagement with an article rather than sustained insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d14916b9a13296338f5d",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional fundraising appeal with no embedded knowledge or insight — a moment-in-time campaign request without analysis of why the project matters.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "3953e21feeb2f1085c54",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Status update announcing a project revision—logistical/promotional with no embedded knowledge or insight",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "de30dd50d9095ae16228",
+  "error": ""
+}

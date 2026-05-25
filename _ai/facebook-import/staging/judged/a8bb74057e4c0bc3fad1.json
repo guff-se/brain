@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "burning-man",
+    "google",
+    "tech-culture"
+  ],
+  "reason": "Bare news quote without Gustaf's analysis; reports a hiring detail without explaining why it matters or what principle it reveals.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "a8bb74057e4c0bc3fad1",
+  "error": ""
+}

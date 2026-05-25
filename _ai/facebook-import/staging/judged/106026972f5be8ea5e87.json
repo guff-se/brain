@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-sentence question without elaboration—too thin to extract a principle or analysis; functions as casual link-sharing rather than durable insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "106026972f5be8ea5e87",
+  "error": ""
+}

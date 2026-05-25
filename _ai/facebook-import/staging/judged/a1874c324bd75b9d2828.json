@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "thinking",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "childcare",
+    "swedish-policy",
+    "arbetslinjen"
+  ],
+  "reason": "Crisp principle: public services to children should not be conditioned on parental employment status. Sarcastic but reveals clear value stance on means-testing and welfare.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a1874c324bd75b9d2828",
+  "error": ""
+}

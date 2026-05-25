@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Emotional expression and small talk ('I miss home') without embedded knowledge, principle, or explanation of why this matters — doesn't cross the durable-substance threshold.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "759d46a0d386c86e8438",
+  "error": ""
+}

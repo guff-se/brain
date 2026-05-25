@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound political defense of a 2015 Stockholm budget vote; conventional center-right positioning on transit funding, not durable insight or distinctive principle",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "c616670ffcd280848acc",
+  "error": ""
+}

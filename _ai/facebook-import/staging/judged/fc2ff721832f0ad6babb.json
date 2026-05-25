@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.3,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "cultural-appropriation"
+  ],
+  "reason": "Title suggests a substantive take on cultural appropriation, but the fetched content is corrupted (wrong page entirely—current Metro homepage nav, not the 2015 column), and no Gustaf commentary signals why it was saved.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "fc2ff721832f0ad6babb",
+  "error": ""
+}

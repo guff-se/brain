@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure logistical coordination for a 2015 event; no durable knowledge or principle embedded.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "87e128c4714a0365ca3d",
+  "error": ""
+}

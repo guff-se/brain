@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound institutional incident (2011 SNS think tank drama) reported as narrative, not as principle; Gustaf's comment is a generic consumption signal without substantive analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "19b4db24b21b076ff474",
+  "error": ""
+}

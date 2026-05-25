@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "machine-learning",
+    "interpretability",
+    "vision"
+  ],
+  "reason": "Explains both the mechanism (iterative feedback loop for feature enhancement) and the principle: why neural network interpretability matters—what networks actually learn versus what we assume",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "b92e8a0b204d2b3abdf8",
+  "error": ""
+}

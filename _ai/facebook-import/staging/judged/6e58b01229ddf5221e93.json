@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "article-13",
+    "corporate-power",
+    "freedom-of-expression"
+  ],
+  "reason": "Crisp principle-based critique of upload-filter systems and their centralization of power; reveals Gustaf's core concerns about surveillance infrastructure and who controls speech online.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "6e58b01229ddf5221e93",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional CTA with no embedded reasoning; the substance is external (the petition page), and Gustaf provides only a bare call to action.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "886013990d02631ca466",
+  "error": ""
+}

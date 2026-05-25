@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "health",
+    "evidence",
+    "supplements"
+  ],
+  "reason": "Minimal commentary on a shared infographic; no substantive principle or analysis articulated beyond 'here's a resource'.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "b0bbae4119569f9135a0",
+  "error": ""
+}

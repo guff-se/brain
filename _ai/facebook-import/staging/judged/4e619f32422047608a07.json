@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event invitation with no embedded knowledge or principle — purely logistical/social.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "4e619f32422047608a07",
+  "error": ""
+}

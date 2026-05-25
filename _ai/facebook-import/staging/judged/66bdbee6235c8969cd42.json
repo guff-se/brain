@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.4,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "open-culture",
+    "copyright"
+  ],
+  "reason": "Three-word slogan on a shared video hints at a value but lacks elaboration needed to anchor it as durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "66bdbee6235c8969cd42",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "ai-music",
+    "cultural-critique",
+    "craft"
+  ],
+  "reason": "Substantive analysis of AI music's implications by a theorist Gustaf respects; title 'Bad Future' + timestamps on deskilling, narcissism, virtues signal principled argument, not event reporting.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "580487cc333d5ab49736",
+  "error": ""
+}

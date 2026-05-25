@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched content is only site navigation; no blog post substance visible, and no Gustaf commentary to signal intent.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "e1bc3c4e4fb0299c385d",
+  "error": ""
+}

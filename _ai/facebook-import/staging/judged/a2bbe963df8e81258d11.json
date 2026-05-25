@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Social banter (congratulations to colleagues) attached to a time-bound 2010 launch announcement; no durable insight in Gustaf's commentary.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a2bbe963df8e81258d11",
+  "error": ""
+}

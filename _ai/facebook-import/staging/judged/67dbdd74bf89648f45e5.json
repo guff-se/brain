@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure logistical/location note with no durable knowledge, insight, or principle — time-bound event from 2010 with no substantive content.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "67dbdd74bf89648f45e5",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news report of a specific incident (2018) with no analytical depth, durable insight, or Gustaf's commentary—paywalled so context unavailable.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "46c490059e5e6505e2ba",
+  "error": ""
+}

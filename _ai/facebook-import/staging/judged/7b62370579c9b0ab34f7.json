@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Commentary is a meta-statement without actual explanation—just 'I find rhinos fascinating' with no insight into why or what it reveals about Gustaf's values",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "7b62370579c9b0ab34f7",
+  "error": ""
+}

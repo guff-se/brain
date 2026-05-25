@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Time-bound event link (2011 Occupy Wall Street) with minimal commentary echoing the film title; no elaboration on principle or analysis — reads as a share without substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "0149553c929871cfe255",
+  "error": ""
+}

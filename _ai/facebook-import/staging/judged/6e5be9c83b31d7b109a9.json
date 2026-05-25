@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Conversational fragment with no developed thought or substance — incomplete sentence that opens onto nothing.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "6e5be9c83b31d7b109a9",
+  "error": ""
+}

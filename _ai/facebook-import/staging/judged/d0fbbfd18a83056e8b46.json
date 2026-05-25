@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.7,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "internet-freedom",
+    "copyright",
+    "media-policy"
+  ],
+  "reason": "Brief but pointed assertion of principle: restricting links damages the internet, and reveals political ignorance of how it works.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d0fbbfd18a83056e8b46",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "renewable-energy",
+    "water-scarcity",
+    "climate-adaptation"
+  ],
+  "reason": "Explores mechanisms: wind/solar complementarity, cost parity achieved, water consumption as overlooked driver—substantive analysis beyond the event itself.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "3cadf820660336363d0f",
+  "error": ""
+}

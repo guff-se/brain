@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "ai-governance",
+    "transparency"
+  ],
+  "reason": "Substantive argument about AI regulation—proposes democratic governance of optimization targets as alternative to impossible explainability; durable policy thinking despite minimal commentary.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "5240eaa11f12cd356d0a",
+  "error": ""
+}

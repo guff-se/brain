@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Sparse commentary (single question) + inaccessible video content (spam fetched) + no durable insight or principle asserted — fleeting curiosity from 2010, not substantive enough for the vault.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "7e595e5ebd6367f80db2",
+  "error": ""
+}

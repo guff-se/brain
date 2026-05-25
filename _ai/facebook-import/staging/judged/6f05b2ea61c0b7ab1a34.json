@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Momentary emotional expression with no embedded knowledge, principle, or substance to preserve",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "6f05b2ea61c0b7ab1a34",
+  "error": ""
+}

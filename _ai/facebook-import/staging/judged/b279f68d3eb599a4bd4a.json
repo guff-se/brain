@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social post noting consumption of an external article with no commentary, insight, or principle — purely transactional.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "b279f68d3eb599a4bd4a",
+  "error": ""
+}

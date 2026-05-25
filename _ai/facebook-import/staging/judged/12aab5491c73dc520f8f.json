@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.6,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "education",
+    "hiring",
+    "self-directed-learning"
+  ],
+  "reason": "Asserts a crisp principle about capability and self-directed learning being more valuable than attendance/compliance — non-trivial view on how hiring and learning should work.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "12aab5491c73dc520f8f",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "bureaucracy",
+    "sweden",
+    "regulatory-capture"
+  ],
+  "reason": "Crisp principle about how bureaucracies repackage rather than abolish regulations when ordered to; durable insight into institutional self-preservation.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "ea01015ed4e209e135f8",
+  "error": ""
+}

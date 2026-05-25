@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "piracy-policy",
+    "sweden"
+  ],
+  "reason": "Title signals substance (copyright enforcement), but fetched content is only a landing-page placeholder with no article body, no commentary from Gustaf, and no way to extract durable insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "628bf917c094632f3226",
+  "error": ""
+}

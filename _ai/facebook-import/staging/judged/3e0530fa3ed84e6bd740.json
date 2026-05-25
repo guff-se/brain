@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "gig-economy",
+    "labor-law",
+    "uber"
+  ],
+  "reason": "Time-bound regulatory ruling (2015, single case). Without Gustaf's own commentary on the principle, it's a news report, not captured insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "3e0530fa3ed84e6bd740",
+  "error": ""
+}

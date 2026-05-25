@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Time-bound announcement with no embedded knowledge; the lecture itself might be valuable but this comment is purely promotional.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "402a4a59525a6481ee37",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Announcement that Gustaf co-authored a debate article, with no perspective, argument summary, or embedded knowledge provided—just factual note of participation.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "c2f5608ca4b2ccc49d3c",
+  "error": ""
+}

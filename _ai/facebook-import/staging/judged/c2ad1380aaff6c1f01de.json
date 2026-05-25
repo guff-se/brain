@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news report documenting a 2015 UN appointment; reports outrage without exploring the underlying principle of institutional hypocrisy or realpolitik that drives such decisions.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "c2ad1380aaff6c1f01de",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.65,
+  "register_hint": "thinking",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "copyright",
+    "science",
+    "institutions"
+  ],
+  "reason": "Lessig's causal claim about copyright constraining scientific progress aligns with Gustaf's documented interests; thin but credible evidence of a durable principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d5630007043e45c1d6b8",
+  "error": ""
+}

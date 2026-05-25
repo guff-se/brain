@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Factual data point without analysis or explanation of why it matters; the principle that 'striking statistics deserve repeating' is implied but not articulated.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "a9107d12a843b6be8aed",
+  "error": ""
+}

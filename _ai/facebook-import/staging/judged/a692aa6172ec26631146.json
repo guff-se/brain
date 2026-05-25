@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "entrepreneurship",
+    "failure-resilience",
+    "emotional-authenticity"
+  ],
+  "reason": "Gustaf asserts a clear principle about emotional legitimacy in the face of failure—that sadness is acceptable, not weakness—which reveals his values around authenticity and self-compassion in entrepreneurship.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a692aa6172ec26631146",
+  "error": ""
+}

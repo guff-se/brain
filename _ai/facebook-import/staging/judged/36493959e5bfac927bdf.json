@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Photo caption with no analysis or insight — labels an image without explaining what makes it meaningful or worth remembering.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "36493959e5bfac927bdf",
+  "error": ""
+}

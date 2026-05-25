@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "News announcement of a career event (woman hired to create Star Wars alien languages); describes that something happened without explaining why or what it means, and lacks durable insight or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "97629d97d42c8e5b56a7",
+  "error": ""
+}

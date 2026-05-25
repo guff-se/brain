@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "public-procurement",
+    "anti-patterns"
+  ],
+  "reason": "Sharp antipattern framework for public sector tech failure — explores causality and mechanisms, draws on expertise, durable knowledge across contexts",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "fae731d4632bdb0a924d",
+  "error": ""
+}

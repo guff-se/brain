@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf's comment is purely aesthetic praise with no perspective, analysis, or principle — the substantive piece (Hanna Fahl's Mars One essay) belongs in sources/consumed/articles/, but Gustaf's one-liner adds no durable content.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "7d5b198a5b4841577df3",
+  "error": ""
+}

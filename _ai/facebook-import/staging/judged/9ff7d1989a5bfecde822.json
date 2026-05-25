@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "entrepreneurship",
+    "tedx",
+    "education"
+  ],
+  "reason": "Announcement of Gustaf's own video with no substance in the commentary; the talk itself should be formally ingested with transcript/metadata, not stored as a bare link.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "9ff7d1989a5bfecde822",
+  "error": ""
+}

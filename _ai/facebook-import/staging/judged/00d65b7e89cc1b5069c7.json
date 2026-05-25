@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [
+    "press-freedom"
+  ],
+  "reason": "Surface-level irony about a specific 2010 event, lacking substantive analysis or mechanism—reveals values but not durable insight",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "00d65b7e89cc1b5069c7",
+  "error": ""
+}

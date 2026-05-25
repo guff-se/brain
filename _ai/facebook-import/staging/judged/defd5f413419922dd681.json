@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.99,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ephemeral logistical note (water leak repair, travel plan) with no durable knowledge or principle — pure time-bound event reporting.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "defd5f413419922dd681",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "democracy",
+    "political-rhetoric"
+  ],
+  "reason": "Crisp normative claim—when elected leaders dehumanize constituents, it signals democratic decay. Flags a value Gustaf holds about political norms and what should alarm us.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "b72b1eaeda87d4f9440f",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Jillette articulates a durable epistemological principle: direct engagement with source material avoids intermediated agendas, with application to religious texts and intellectual independence.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "664c219bc98371a18032",
+  "error": ""
+}

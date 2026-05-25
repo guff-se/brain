@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social media status update with no knowledge content — a momentary activity report, not durable insight or analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "c30312dad564da2ece80",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "copyright",
+    "legal-proportionality"
+  ],
+  "reason": "Crisp juxtaposition that asserts a principle about law's priorities — damages for murder and rape dwarf compensation for IP infringement, revealing distorted legal values. Durable critique relevant to tech policy and justice.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "594812c4bfbb048f4ea0",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure status update with no durable knowledge, insight, or principle — just a location announcement.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "262aa7fc4b87618ab43c",
+  "error": ""
+}

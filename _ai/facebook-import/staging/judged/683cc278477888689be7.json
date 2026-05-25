@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "transhumanism",
+    "technology-futures",
+    "inequality"
+  ],
+  "reason": "Substantive analysis of how billionaires weaponize transhumanist narratives as escape fantasies, and how tech culture shifted from collective flourishing to individual survival betting—conceptual patterns worth revisiting.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "683cc278477888689be7",
+  "error": ""
+}

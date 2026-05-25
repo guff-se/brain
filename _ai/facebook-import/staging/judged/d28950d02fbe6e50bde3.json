@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-line enthusiasm is banter, not principle; the article is a 2011 event announcement. Pattern synthesis would catch multiple such reactions later.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d28950d02fbe6e50bde3",
+  "error": ""
+}

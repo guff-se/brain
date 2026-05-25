@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "representation",
+    "gender-equity"
+  ],
+  "reason": "One-liner sarcastic reaction without elaboration—too thin to serve as a durable thought or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "22cecee8ef32253a27a6",
+  "error": ""
+}

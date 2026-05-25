@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Bare quote with no Gustaf framing—the principle is durable but needs his analysis or context to become a note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "2d5f902ab26c92ec03bd",
+  "error": ""
+}

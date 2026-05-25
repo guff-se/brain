@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional signup call for a specific 2015 event; no durable knowledge or principle embedded",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "4a1159340faf1d20df0d",
+  "error": ""
+}

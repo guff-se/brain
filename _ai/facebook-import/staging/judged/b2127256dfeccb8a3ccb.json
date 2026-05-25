@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter with no embedded knowledge — a seasonal greeting and travel announcement with no durable insight",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "b2127256dfeccb8a3ccb",
+  "error": ""
+}

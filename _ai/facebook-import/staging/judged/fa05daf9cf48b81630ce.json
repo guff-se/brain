@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social reaction to a news event with no analysis, framework, or principle—just 'Genius!'—too thin to justify a note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "fa05daf9cf48b81630ce",
+  "error": ""
+}

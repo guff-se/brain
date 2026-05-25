@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter—a one-liner joke to friends with no embedded insight or durable knowledge",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "56e5044a91a8187e921f",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "copying-culture",
+    "open-culture",
+    "copyright"
+  ],
+  "reason": "Asserts a clear principle (copying is categorically different from theft) that is durable, contested, and central to Gustaf's documented interests in digital freedom and remix culture.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "4f7835c99a855f5a2d37",
+  "error": ""
+}

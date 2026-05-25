@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Label-only commentary on a YouTube video — no explanation of significance, learning, or why it matters",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "53a025ed655251b08b72",
+  "error": ""
+}

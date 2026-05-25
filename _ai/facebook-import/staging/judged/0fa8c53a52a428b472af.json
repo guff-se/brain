@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social media link-share with minimal commentary; the substance is in the source article, not Gustaf's text.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "0fa8c53a52a428b472af",
+  "error": ""
+}

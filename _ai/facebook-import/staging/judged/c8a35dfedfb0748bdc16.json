@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "A quote by someone else with no Gustaf commentary—captures a sentiment but not Gustaf's own principle, analysis, or perspective.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "c8a35dfedfb0748bdc16",
+  "error": ""
+}

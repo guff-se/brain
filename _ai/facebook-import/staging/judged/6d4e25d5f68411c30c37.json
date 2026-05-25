@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure fundraising pitch with no embedded knowledge, analysis, or principle — transactional appeal for crowdfunding with no articulation of why the project matters.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "6d4e25d5f68411c30c37",
+  "error": ""
+}

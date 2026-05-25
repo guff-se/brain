@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter — a joking reaction to a horror film with no embedded knowledge or perspective",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "428b56e7d55792f6b27b",
+  "error": ""
+}

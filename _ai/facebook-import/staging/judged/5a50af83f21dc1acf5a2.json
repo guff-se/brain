@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure social banter expressing excitement about returning to the office; no embedded knowledge or durable value.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "5a50af83f21dc1acf5a2",
+  "error": ""
+}

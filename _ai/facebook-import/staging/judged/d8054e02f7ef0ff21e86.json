@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social curation without embedded insight — Gustaf recommends a paywalled article but offers no substantive engagement with its themes or principles.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d8054e02f7ef0ff21e86",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social media pass-along of someone else's neologism with no independent insight or analysis by Gustaf.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "1b00c556c2306406a436",
+  "error": ""
+}

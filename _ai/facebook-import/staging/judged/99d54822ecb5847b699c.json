@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Historical event (2012 Facebook Promoted Posts scheme) with a thin one-line reaction; the principle about platform rent-extraction is sound but needs more elaboration or multiple sources to become a durable building block.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "99d54822ecb5847b699c",
+  "error": ""
+}

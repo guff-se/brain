@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "thinking",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sexual-assault",
+    "consent",
+    "voice"
+  ],
+  "reason": "Gustaf asserts a clear principle—that the path through trauma and shame is to speak about it—by framing a powerful personal essay on sexual assault. This is a durable values statement that reveals his stance on how difficult topics should be addressed.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "78839e724e388697fb1c",
+  "error": ""
+}

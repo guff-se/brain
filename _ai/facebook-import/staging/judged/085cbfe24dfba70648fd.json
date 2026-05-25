@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound political journalism from 2011 with minimal Gustaf engagement; while it contains historiographical analysis, his commentary ('interesting contemporary analysis') flags without extracting a durable principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "085cbfe24dfba70648fd",
+  "error": ""
+}

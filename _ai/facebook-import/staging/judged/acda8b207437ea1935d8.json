@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional link to government employment support programs with no analysis or principle — just 'Kolla' (check this out)",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "acda8b207437ea1935d8",
+  "error": ""
+}

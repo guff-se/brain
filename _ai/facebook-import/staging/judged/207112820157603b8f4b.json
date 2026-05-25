@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "political-discourse",
+    "copyright",
+    "piratpartiet"
+  ],
+  "reason": "Gustaf observes that political intensity around file-sharing correlates with electoral cycles, not actual prevalence — a durable insight about media-agenda dynamics and political discourse.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "207112820157603b8f4b",
+  "error": ""
+}

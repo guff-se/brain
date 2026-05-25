@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound political opinion piece responding to 2012 news events; lacks durable framework or synthesis that would remain useful.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "c61ee17b4562cf94f5e2",
+  "error": ""
+}

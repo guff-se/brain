@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social media commentary with a factual claim and rhetorical question, but no embedded analysis, principle, or framework — shares what Gustaf found notable, not why it matters or how to think about it.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "3c5bef6efd4505916789",
+  "error": ""
+}

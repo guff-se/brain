@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news report on 2017 board compensation levels; reports that compensation increased but lacks exploration of causality, mechanisms, or principles that would remain durable.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "dec18832bfe65ff2bdf9",
+  "error": ""
+}

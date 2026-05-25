@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "A time-bound event video (someone appearing on TV) with no apparent durable knowledge, principle, or pattern embedded in the title or metadata.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "2762ede7c7b75de2e8b6",
+  "error": ""
+}

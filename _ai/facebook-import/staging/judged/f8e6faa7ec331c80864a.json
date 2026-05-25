@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Time-bound political commentary on a specific 2012 government policy decision, not durable knowledge or a principle—sarcastic callout of hypocrisy rather than analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "f8e6faa7ec331c80864a",
+  "error": ""
+}

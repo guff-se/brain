@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "rollspel",
+    "community",
+    "imagination"
+  ],
+  "reason": "Substantive cultural essay on why shared narrative and imagination matter (not a time-bound book announcement); clear principle and mechanism about community formation; credible author.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "319f0efed06d27d3a1f7",
+  "error": ""
+}

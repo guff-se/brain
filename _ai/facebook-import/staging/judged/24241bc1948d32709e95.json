@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional fundraising post with no embedded knowledge — transactional appeal to donate and share, not a carrier of durable insight or perspective.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "24241bc1948d32709e95",
+  "error": ""
+}

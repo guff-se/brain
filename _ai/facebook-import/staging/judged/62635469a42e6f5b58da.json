@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "inequality",
+    "far-right-politics",
+    "sweden"
+  ],
+  "reason": "The article presents durable causal analysis (inequality drives far-right rise more than immigration attitudes), not just event reporting; Gustaf's quote selection signals he found the counternarrative meaningful",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "62635469a42e6f5b58da",
+  "error": ""
+}

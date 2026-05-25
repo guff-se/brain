@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Shared article is promotional/transactional; Gustaf's commentary is sarcasm about Swedish bureaucratic gatekeeping, not a clearly asserted principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "44b784ce62433a7456a4",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-word enthusiastic reaction with no embedded insight, perspective, or principle—social engagement, not knowledge-bearing.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "eb80eda3f574db1083b2",
+  "error": ""
+}

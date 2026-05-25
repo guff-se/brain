@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.99,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter with no embedded knowledge — casual event coordination from 2009.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "719664e84273079c7033",
+  "error": ""
+}

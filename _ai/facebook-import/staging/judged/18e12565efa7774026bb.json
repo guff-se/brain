@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Quick social-media quip using satire rather than clearly asserting a principle; too light to warrant preservation despite implying anti-censorship stance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "18e12565efa7774026bb",
+  "error": ""
+}

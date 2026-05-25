@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.87,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "burning-man",
+    "gifting",
+    "principles"
+  ],
+  "reason": "Educational video about the Gifting principle—one of the 10 Burning Man principles—directly relevant to Gustaf's documented interest in Burning Man culture.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "cf81c67fe22f2a0c8de8",
+  "error": ""
+}

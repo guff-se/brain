@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "consumerism",
+    "inequality",
+    "philosophy"
+  ],
+  "reason": "Substantive essay analyzing consumerism as a system of dignity and belonging; explains 2011 riots as exclusion from consumer identity rather than hunger — causal framework worth preserving, though Gustaf's commentary is thin.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "969ac6d057e13dddbddf",
+  "error": ""
+}

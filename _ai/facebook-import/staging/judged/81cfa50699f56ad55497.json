@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "market-liberalism",
+    "ideology",
+    "institutional-critique"
+  ],
+  "reason": "Gustaf's reasoning about a logical contradiction in market-liberal ideology — double standards on how public vs. private sector spending is judged. Topical thinking that deepens understanding of ideology and institutional analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "81cfa50699f56ad55497",
+  "error": ""
+}

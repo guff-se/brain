@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound political commentary on 2017 Swedish actors; lacks substantive claim or principle beyond invoking Orwell as a quip.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "313d637c67819b264b01",
+  "error": ""
+}

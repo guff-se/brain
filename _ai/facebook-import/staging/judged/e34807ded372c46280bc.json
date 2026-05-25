@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Social media venting on a specific 2013 reporting deadline; the embedded principle about government speed is implied via hyperbole rather than clearly asserted, and the humor makes it time-bound rather than durable.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e34807ded372c46280bc",
+  "error": ""
+}

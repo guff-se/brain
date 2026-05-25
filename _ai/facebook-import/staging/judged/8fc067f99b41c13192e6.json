@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter—brief enthusiasm about a friend's project, no analysis or principle articulated. The actual lovecrunch.org content is unavailable (dead link, fetched page is unrelated GoDaddy ad).",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "8fc067f99b41c13192e6",
+  "error": ""
+}

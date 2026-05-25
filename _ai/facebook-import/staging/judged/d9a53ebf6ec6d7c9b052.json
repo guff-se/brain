@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Promotional teaser video with no substantive content; event announcement, not durable knowledge",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "d9a53ebf6ec6d7c9b052",
+  "error": ""
+}

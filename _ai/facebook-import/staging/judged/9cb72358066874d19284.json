@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Famous Banksy quote shared without commentary—asserts a principle but lacks Gustaf's own framing or analysis to anchor it",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "9cb72358066874d19284",
+  "error": ""
+}

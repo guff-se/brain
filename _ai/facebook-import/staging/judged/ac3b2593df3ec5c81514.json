@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound event report (spontaneous party in Göteborg, 2010) with no durable knowledge, analysis, or Gustaf commentary beyond the URL share.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "ac3b2593df3ec5c81514",
+  "error": ""
+}

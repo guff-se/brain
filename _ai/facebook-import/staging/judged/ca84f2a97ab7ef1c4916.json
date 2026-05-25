@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Celebratory milestone post thanking a collaborator — relational exchange with no durable knowledge, analysis, or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "ca84f2a97ab7ef1c4916",
+  "error": ""
+}

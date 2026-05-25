@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Excellent journalism explaining a specific moment (Catalan independence crisis Oct 2017), but fundamentally event-tied reporting rather than durable principle or framework.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "1b6d1195e688bcc6b7c6",
+  "error": ""
+}

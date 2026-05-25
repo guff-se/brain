@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Generic tech comparison article with minimal commentary—no principle or durable insight articulated, just a pointer to a commodity piece.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "782bb35d70d4ee458330",
+  "error": ""
+}

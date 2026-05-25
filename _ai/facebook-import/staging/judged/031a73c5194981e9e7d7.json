@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event announcement (2010) with no durable knowledge or insight — purely logistical/social.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "031a73c5194981e9e7d7",
+  "error": ""
+}

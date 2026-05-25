@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Minimal commentary ('awesome') without revealing what Gustaf found significant; no durable insight or principle; archival bookmark to an unavailable work.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "211291980d224781dd37",
+  "error": ""
+}

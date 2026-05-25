@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure transactional recommendation with no embedded knowledge or analysis—just a link with no context.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "cd4ba8f88b76fb07a8dd",
+  "error": ""
+}

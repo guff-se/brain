@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone humorous quip with no embedded knowledge, principle, or insight—social banter, not durable material.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "10937d76fc3182599994",
+  "error": ""
+}

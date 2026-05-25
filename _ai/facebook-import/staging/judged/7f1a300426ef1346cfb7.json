@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social reaction to a video rather than sustained analysis — one sarcastic line with no independent reasoning or principle articulated.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "7f1a300426ef1346cfb7",
+  "error": ""
+}

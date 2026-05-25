@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Stub pointer only — no body text to evaluate. The URL would need to be fetched and the actual blog post content read before deciding if it contains durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "7a82e43fd9ebbc9b3d75",
+  "error": ""
+}

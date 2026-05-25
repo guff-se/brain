@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": "headline",
+  "tags_hint": [],
+  "reason": "Cryptic headline without elaboration or context — insufficient substance to anchor durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "a79bdca28e224eb1d756",
+  "error": ""
+}

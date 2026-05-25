@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social screenshot share with no embedded knowledge, analysis, or commentary — just Evernote's promotional material Gustaf noticed on Facebook.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "f18fd2e58ed5fc108471",
+  "error": ""
+}

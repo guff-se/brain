@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.7,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "sweden",
+    "free-speech",
+    "political-culture"
+  ],
+  "reason": "Crisp political principle about Swedish society: formal institutional freedom coexists with social suppression of heterodox views — reveals Gustaf's skepticism of liberal orthodoxy.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "4636e39791a38701fcbc",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Event observation with external link, no explanatory depth — reports that something happened (EU questions were sharper) without articulating why or what principle this reveals.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "74da0657326c51117a36",
+  "error": ""
+}

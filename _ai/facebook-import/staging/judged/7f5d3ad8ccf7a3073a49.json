@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical request for wiki organization with a suggested template, but lacks durable principle or reasoning about why this structure matters",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "7f5d3ad8ccf7a3073a49",
+  "error": ""
+}

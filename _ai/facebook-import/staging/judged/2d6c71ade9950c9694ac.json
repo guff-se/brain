@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [
+    "entreprenorsjakten"
+  ],
+  "reason": "A slogan is a promotional artifact, not a principle. While it hints at Gustaf's positioning philosophy (blend rigor with play), it's too thin and oblique to stand alone; it requires inference rather than direct assertion.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "2d6c71ade9950c9694ac",
+  "error": ""
+}

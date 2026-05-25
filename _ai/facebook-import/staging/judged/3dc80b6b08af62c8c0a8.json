@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "alternative-medicine",
+    "skepticism",
+    "appeals-to-authority"
+  ],
+  "reason": "Fragment reveals Gustaf's skepticism toward practitioners who invoke tradition/ancient authority—implicit principle that tradition ≠ evidence, worth capturing.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "3dc80b6b08af62c8c0a8",
+  "error": ""
+}

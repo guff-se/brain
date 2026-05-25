@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Reaction to external article without elaboration; reveals skepticism about tech companies but doesn't articulate a principle or perspective substantive enough to stand as its own note. The BrowserGate article itself is save-worthy; this commentary should be attached as an annotation to it.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "8435626b57c1b1718f3e",
+  "error": ""
+}

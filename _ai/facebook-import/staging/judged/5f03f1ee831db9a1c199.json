@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social announcement of a remix release with no durable knowledge, principle, or lasting insight — purely promotional and time-bound.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "5f03f1ee831db9a1c199",
+  "error": ""
+}

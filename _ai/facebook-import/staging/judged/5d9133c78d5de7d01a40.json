@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event announcement with no analysis, principle, or embedded knowledge — purely transactional/logistical.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "5d9133c78d5de7d01a40",
+  "error": ""
+}

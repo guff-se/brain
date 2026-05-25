@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.96,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social request for a contact with no embedded knowledge or durable insight—purely logistical and relational.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "8d4a51d7c1722f5b2323",
+  "error": ""
+}

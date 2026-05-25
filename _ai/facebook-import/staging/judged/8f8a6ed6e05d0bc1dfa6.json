@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Time-bound political quote (2004 statement shared in 2015) without Gustaf's commentary — a historical artifact, not durable knowledge or a principle Gustaf is exploring.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "8f8a6ed6e05d0bc1dfa6",
+  "error": ""
+}

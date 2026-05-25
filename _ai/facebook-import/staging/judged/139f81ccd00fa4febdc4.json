@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "book",
+  "tags_hint": [],
+  "reason": "Promotional product page; no evidence Gustaf engaged beyond sharing a link, and the book itself should be curated only after he reads it.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "139f81ccd00fa4febdc4",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound voting campaign with no embedded knowledge or analysis — pure promotion and call-to-action with no principle articulated.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "772ef2a98fe74fdebd10",
+  "error": ""
+}

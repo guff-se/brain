@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "consumption",
+    "climate",
+    "well-being"
+  ],
+  "reason": "Durable normative claim by credible philosopher (Tännsjö) that advertising drives harmful consumption and reduced well-being; core thesis survives paywall truncation.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "651623b541a7a367c1fc",
+  "error": ""
+}

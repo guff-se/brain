@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "antifragility",
+    "free-speech",
+    "institutional-design"
+  ],
+  "reason": "Articulates clear, durable principles (acute stress strengthens, chronic stress harms) about how institutions should design for resilience; directly relevant to Gustaf's interests in fragility and institutional structures.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "9373c9c46e581551cd85",
+  "error": ""
+}

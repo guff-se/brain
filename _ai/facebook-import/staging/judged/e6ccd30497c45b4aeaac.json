@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Minimal fetched content (one-line festival listing); no Gustaf commentary; primarily records a time-bound event (2004 festival showing) rather than embedding durable insight or analysis.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "e6ccd30497c45b4aeaac",
+  "error": ""
+}

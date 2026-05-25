@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "thinking",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "compartmentalization",
+    "multitasking",
+    "modern-anxiety"
+  ],
+  "reason": "Sharp satirical observation about contemporary fractured attention and compartmentalization; pattern insight with durable relevance despite being a shared quote.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "0780d67ecb5b147aa21c",
+  "error": ""
+}

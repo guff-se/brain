@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "financial-crisis",
+    "economics"
+  ],
+  "reason": "Time-bound event commentary (2012 ECB crisis response) with minimal, ambiguous closing question that doesn't assert a durable principle or offer analysis worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "81f6f166ee4f890ed282",
+  "error": ""
+}

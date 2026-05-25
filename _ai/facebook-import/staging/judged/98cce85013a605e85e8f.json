@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.87,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "populism",
+    "political-rhetoric",
+    "left-right-dialectic"
+  ],
+  "reason": "Žižek's psychoanalytic framework for understanding both populist and progressive rhetorical strategies offers durable insight beyond the Peterson moment — the distinction between factual lies used for ideology vs. truth selectively withheld for the same purpose applies across eras.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "98cce85013a605e85e8f",
+  "error": ""
+}

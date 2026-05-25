@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.6,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "commitment",
+    "work",
+    "organizing"
+  ],
+  "reason": "Crisp principle about legitimate participation: actual work commitment over symbolic interest. Thin but non-trivial.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "d34c64590477cd51d77c",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Third-party opinion on current events (2010 Afghanistan coverage); Gustaf's engagement is pure emotional reaction ('Deppigt :/') with no reasoning, analysis, or stated principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "7ca6af437758cd47fec5",
+  "error": ""
+}

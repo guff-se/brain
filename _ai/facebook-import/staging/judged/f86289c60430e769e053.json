@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Pure emotional reaction (<3) to a 2011 festival video; no embedded knowledge, analysis, or principle — social marker, not durable content.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "f86289c60430e769e053",
+  "error": ""
+}

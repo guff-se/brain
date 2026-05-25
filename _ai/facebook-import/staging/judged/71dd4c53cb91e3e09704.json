@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Personal taste statement about a song without analysis, principle, or insight worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "71dd4c53cb91e3e09704",
+  "error": ""
+}

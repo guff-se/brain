@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Time-bound protest manifesto from 2011 PayPal/WikiLeaks moment; primarily a call to action rather than durable principle exploration.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "965fb92ddd44f06727cc",
+  "error": ""
+}

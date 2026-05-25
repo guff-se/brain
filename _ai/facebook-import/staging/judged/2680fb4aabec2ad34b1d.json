@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "A brief, reactive comment on a news event; hints at a principle about attributing government failure to incompetence rather than ideology, but too thin and informal (venting, not thought-work) to serve as a standalone note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "2680fb4aabec2ad34b1d",
+  "error": ""
+}

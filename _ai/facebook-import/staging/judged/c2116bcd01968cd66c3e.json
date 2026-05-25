@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter or fleeting comment with no embedded knowledge or context; no durable substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "c2116bcd01968cd66c3e",
+  "error": ""
+}

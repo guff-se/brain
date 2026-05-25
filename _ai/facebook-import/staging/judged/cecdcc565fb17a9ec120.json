@@ -1,0 +1,12 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "thinking",
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Asserts a principle about the corrupting boundary between healthcare and politics—held across years, not a one-off reaction.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "cecdcc565fb17a9ec120",
+  "error": ""
+}

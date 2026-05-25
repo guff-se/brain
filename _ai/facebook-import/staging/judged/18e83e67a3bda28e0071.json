@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.55,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Framework presentation with minimal engagement — Gustaf's one-line question shows interest but not the thinking depth that warrants a permanent note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "18e83e67a3bda28e0071",
+  "error": ""
+}

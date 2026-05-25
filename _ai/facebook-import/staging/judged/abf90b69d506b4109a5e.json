@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter—a casual trip invite with no embedded knowledge or durable substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "abf90b69d506b4109a5e",
+  "error": ""
+}

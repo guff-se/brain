@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "voice",
+  "kind_hint": "note",
+  "tags_hint": [
+    "vulnerability",
+    "self-love",
+    "psychology"
+  ],
+  "reason": "A crisp aphoristic principle about vulnerability and self-love—exactly the kind of insight that reveals Gustaf's worldview and deserves to live as a note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "54706c64f2d5351518e0",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "carl-sagan"
+  ],
+  "reason": "A bookmark with emotional annotation ('it's my favorite') but no captured principle or insight—external pointer without durable substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e986338c1e7803348a87",
+  "error": ""
+}

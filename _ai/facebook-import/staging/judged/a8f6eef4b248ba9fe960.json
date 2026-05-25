@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound observation about a specific 2018 ad campaign with no durable insight—a witty moment, not a principle or pattern worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "a8f6eef4b248ba9fe960",
+  "error": ""
+}

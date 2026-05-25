@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social link-sharing with minimal framing—no original insight, analysis, or principle from Gustaf, just casual reference introduction.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e9be3b620181450cbad8",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound opinion piece about Swedish tax policy from 2019; no durable principles evident without Gustaf's commentary or visible article body.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "116faf7674aed54c9ff9",
+  "error": ""
+}

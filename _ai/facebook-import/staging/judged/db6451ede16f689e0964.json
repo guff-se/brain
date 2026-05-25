@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A rhetorical question without asserted principle or analysis—banter rather than durable insight, and the linked article body is not available to assess substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "db6451ede16f689e0964",
+  "error": ""
+}

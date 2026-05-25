@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "ontology",
+    "intellectual-property",
+    "immaterial-goods"
+  ],
+  "reason": "Crisp principle assertion — material/immaterial distinction is foundational to IP, copyright, and digital-goods debates; worth keeping as a thought seed.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "540405d3346b0a20debe",
+  "error": ""
+}

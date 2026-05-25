@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.99,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "transactional/logistical request (cottage loan) with no durable knowledge, insight, or principle",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "4d4eca3c561dfde519d4",
+  "error": ""
+}

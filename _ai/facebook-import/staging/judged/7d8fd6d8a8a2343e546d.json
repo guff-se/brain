@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "automation",
+    "labor",
+    "economics"
+  ],
+  "reason": "Shared article with no added analysis—Gustaf copied only the title, providing no signal about his own view or engagement beyond the share.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "7d8fd6d8a8a2343e546d",
+  "error": ""
+}

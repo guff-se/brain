@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional product page with zero analysis — Gustaf's commentary is just 'Kolla in' with no explanation of why it mattered or what principle it illustrates.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "6be9de4ed42ce9c6296c",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news announcement (Dec 2015) about IAB Sverige's ad-blocker task force; reports *what happened* without exploring underlying principles or durable insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "217e0fd552b35b6402a5",
+  "error": ""
+}

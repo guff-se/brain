@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Political platform announcement without analysis, mechanisms, or visible commentary from Gustaf — time-bound policy checklist, not durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "1f2c97cf4aa8aafda5f0",
+  "error": ""
+}

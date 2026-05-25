@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "News report of WikiLeaks cables (2007-2009 events) + expert commentary; Gustaf's comment is light sarcasm, not substantive analysis—primarily time-bound event coverage despite revealing interesting mechanisms of diplomatic leverage",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e3f278eb0240a8e53cf3",
+  "error": ""
+}

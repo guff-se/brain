@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare aspiration with no elaboration, principle, or insight — too thin to anchor a note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "deb9b8a08cd9cc132a0a",
+  "error": ""
+}

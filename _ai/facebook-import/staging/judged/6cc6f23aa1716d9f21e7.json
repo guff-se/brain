@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fleeting social status update with no durable knowledge, principles, or analysis—just a momentary report of an event and its immediate consequence.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "6cc6f23aa1716d9f21e7",
+  "error": ""
+}

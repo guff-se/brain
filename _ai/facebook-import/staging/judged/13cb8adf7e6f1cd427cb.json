@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Three-word exclamation with no articulated principle, insight, or explanation — too thin to warrant archiving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "13cb8adf7e6f1cd427cb",
+  "error": ""
+}

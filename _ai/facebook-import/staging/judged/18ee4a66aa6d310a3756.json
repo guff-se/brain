@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Time-bound news announcement about a 2011 fundraising campaign; principles about universal internet access and information equity are mentioned but not developed or analyzed.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "18ee4a66aa6d310a3756",
+  "error": ""
+}

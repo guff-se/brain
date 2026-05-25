@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "thinking",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "state-authority",
+    "free-speech",
+    "sweden"
+  ],
+  "reason": "Gustaf distills a durable principle: state-owned entities should not suppress political speech or criticism—especially when operating in the market they regulate. The event is historical (2012) but the principle about state authority and speech boundaries is timeless.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "96f04255216979853f00",
+  "error": ""
+}

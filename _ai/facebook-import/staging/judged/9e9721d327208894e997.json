@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Casual activity log for a specific week — no embedded knowledge, principle, or analysis to preserve.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "9e9721d327208894e997",
+  "error": ""
+}

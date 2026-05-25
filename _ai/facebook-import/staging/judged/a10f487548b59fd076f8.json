@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound logistical update with no durable knowledge or principle; pure status announcement.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "a10f487548b59fd076f8",
+  "error": ""
+}

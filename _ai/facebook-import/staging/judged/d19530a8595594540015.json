@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Time-bound political moment (2014 Alliance/SD/S budget dispute); Gustaf's text is a factual correction about a promise, not analysis or principle that compounds over time.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d19530a8595594540015",
+  "error": ""
+}

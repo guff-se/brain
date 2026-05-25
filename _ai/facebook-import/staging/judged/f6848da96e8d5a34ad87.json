@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.99,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fleeting social-media teaser with no embedded substance, analysis, or principle — just a caption.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "f6848da96e8d5a34ad87",
+  "error": ""
+}

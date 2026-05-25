@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare link-drop with no embedded knowledge, analysis, or clearly asserted principle — ephemeral social sharing.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "b1e6ae5dde8357df6e8e",
+  "error": ""
+}

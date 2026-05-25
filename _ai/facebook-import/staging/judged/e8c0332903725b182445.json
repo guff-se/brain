@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.58,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "iran",
+    "us-foreign-policy",
+    "blowback"
+  ],
+  "reason": "Video has durable substance (CIA coup, blowback concept), but Gustaf's contribution is minimal — just a social-media mention (@Mitt Romney), not commentary that explains his view or why this matters.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e8c0332903725b182445",
+  "error": ""
+}

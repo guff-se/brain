@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "News report of a specific armed robbery/hostage incident in Paris; no durable knowledge, analysis, or principle beyond event description.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "c616a6315e76316d4cb8",
+  "error": ""
+}

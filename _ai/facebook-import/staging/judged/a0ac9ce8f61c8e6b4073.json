@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "work",
+    "sustainability",
+    "productivity"
+  ],
+  "reason": "Explores mechanisms linking productivity gains to work hours, consumption, and environmental limits; asserts that not all job creation is socially beneficial—durable framework.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a0ac9ce8f61c8e6b4073",
+  "error": ""
+}

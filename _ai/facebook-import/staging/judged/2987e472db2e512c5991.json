@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional post for a crowdfunding campaign with minimal Gustaf commentary; no durable knowledge, principles, or analysis embedded—just a call to action for a time-bound event.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "2987e472db2e512c5991",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event registration advice with no durable knowledge or principle — purely logistical encouragement tied to a 2010 program.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "9b24f1eff80463422568",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social media observation presented as a quip; clever but undeveloped, no analysis or principle expansion",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "7c84f0504a10a9d5f041",
+  "error": ""
+}

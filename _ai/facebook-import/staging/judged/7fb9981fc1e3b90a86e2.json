@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Generic Google cookie consent boilerplate with no analysis, insight, or embedded knowledge—transactional disclosure only.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "7fb9981fc1e3b90a86e2",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Paywalled DN article reporting 2015 economic statistics; headline alone suggests cyclical pattern ('igen') but no body text or Gustaf commentary to establish durable substance—reads as time-bound news announcement.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "435a030f273f9edf3d1f",
+  "error": ""
+}

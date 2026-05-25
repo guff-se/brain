@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound memorial tribute (Jobs died Oct 5, 2011) with no embedded knowledge, principle, or analysis — respectful but no durable substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "745fc68146e4c7759f85",
+  "error": ""
+}

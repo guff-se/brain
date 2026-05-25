@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "parenting",
+    "school-entry-age",
+    "educational-equity"
+  ],
+  "reason": "Gustaf's analytical reasoning on parenting, developmental differences, and educational equity—explores causality and fairness implications, not just description.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "f51e53a9389e071b2c76",
+  "error": ""
+}

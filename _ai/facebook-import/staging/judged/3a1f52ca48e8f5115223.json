@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound product query with no embedded insight — transactional banter about whether to buy a specific show release, not a principle or perspective",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "3a1f52ca48e8f5115223",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "abundance-thinking",
+    "value-exchange",
+    "digital-economy"
+  ],
+  "reason": "Named expert (Rushkoff) presenting a framework on moving past 'free' economics toward value exchange—durable subject matter signaled by title alone.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "77439cbfa2bda648e486",
+  "error": ""
+}

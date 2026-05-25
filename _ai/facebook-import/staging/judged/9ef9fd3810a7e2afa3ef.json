@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound reaction to a specific 2018 news event; emotional expression of disgust rather than an articulated principle or explored insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "9ef9fd3810a7e2afa3ef",
+  "error": ""
+}

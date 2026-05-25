@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Creative project showcase with no embedded insight, framework, or principle—more news feature than durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "7438bd19c4cc7361cebf",
+  "error": ""
+}

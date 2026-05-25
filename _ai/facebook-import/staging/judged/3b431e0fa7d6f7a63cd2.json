@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Source blog post is inaccessible (Typepad shutdown); only a one-line citation remains with no content to evaluate.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "3b431e0fa7d6f7a63cd2",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Promotional music video with generic patriotic/spiritual messaging — no durable knowledge, principle, or analysis signal without Gustaf's commentary to explain what caught his attention.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "39a1af70771735e8db88",
+  "error": ""
+}

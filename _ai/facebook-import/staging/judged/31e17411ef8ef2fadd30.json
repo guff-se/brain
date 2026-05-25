@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "announcement",
+  "tags_hint": [
+    "entreprenorsjakten"
+  ],
+  "reason": "Time-bound event announcement (May 15, 2009) with no durable insight — promotional and logistical, not conceptual",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "31e17411ef8ef2fadd30",
+  "error": ""
+}

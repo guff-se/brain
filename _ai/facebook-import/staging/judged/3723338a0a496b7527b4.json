@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "incentive-structures",
+    "pharma",
+    "unintended-consequences"
+  ],
+  "reason": "Explains a durable mechanism (patent-lag incentives) that systematically bias drug development toward treatment over prevention, despite worse health outcomes — a structural insight applicable beyond cancer drugs.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "3723338a0a496b7527b4",
+  "error": ""
+}

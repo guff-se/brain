@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+staging/fetched/
+staging/fetched_meta/
+staging/*.pid
+staging/scheduled_bulk.pid

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Just a blog post title with no substantive content — no argument, analysis, or insight evident.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "6e46391011137d4bd823",
+  "error": ""
+}

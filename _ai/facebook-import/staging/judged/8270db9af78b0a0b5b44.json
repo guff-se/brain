@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional announcement for a live show with no embedded knowledge, perspective, or substantive content about the topic.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "8270db9af78b0a0b5b44",
+  "error": ""
+}

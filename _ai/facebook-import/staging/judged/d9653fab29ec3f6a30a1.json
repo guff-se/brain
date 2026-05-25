@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.4,
+  "register_hint": "thinking",
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Time-bound reaction to a 2011 event; asserts a political principle (delegitimize far-right parties) but without elaboration or framework that would compound in the vault.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d9653fab29ec3f6a30a1",
+  "error": ""
+}

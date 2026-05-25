@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "The article is a news report on Kickstarter's growth metrics and operational challenges; Gustaf's commentary is a joking aside pointing to his own Riksdagsrosten experiment, but neither the article nor the quip articulates a principle, mechanism, or durable insight worth preserving. The interesting signal (his participation in crowdfunding) is external to this item and would need the project itself documented to be meaningful.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "e29904bb985727009835",
+  "error": ""
+}

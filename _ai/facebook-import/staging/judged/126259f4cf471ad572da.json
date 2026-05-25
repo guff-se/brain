@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "teal-organizations",
+    "organizational-design",
+    "compensation"
+  ],
+  "reason": "Framework-oriented exploration of compensation mechanisms and motivation principles in self-managing organizations — durable knowledge with clear principles worth building on.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "126259f4cf471ad572da",
+  "error": ""
+}

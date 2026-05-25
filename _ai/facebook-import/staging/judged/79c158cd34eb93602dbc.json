@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Investigative news reporting on a specific 2010 incident of police failure and racist harassment, valuable as a case study but primarily a time-bound report rather than durable insight or principle worth developing independently.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "79c158cd34eb93602dbc",
+  "error": ""
+}

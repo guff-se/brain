@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Press release announcing a 2009 event; while it asserts the principle that entrepreneurs matter more than ideas, the item is primarily promotional/logistical and time-bound, not an exploration of that principle. A thinking note with this same date already appears in git status.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "1db8a48feb3d577d3ab9",
+  "error": ""
+}

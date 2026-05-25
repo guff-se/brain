@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Tool demonstration without Gustaf's commentary or evident insight — no principle, mechanism, or learning extracted.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "94f511414c84312a4f96",
+  "error": ""
+}

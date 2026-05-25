@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Expresses strong approval for pedagogical innovation and skepticism of mainstream media, but lacks reasoning or elaboration—reads as social-media reaction rather than durable principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "8b8a25c33237aa165e45",
+  "error": ""
+}

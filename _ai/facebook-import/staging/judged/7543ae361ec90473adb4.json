@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Personal sentiment without principle or insight — he's happy about the internet, but no elaboration on why or what that means.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "7543ae361ec90473adb4",
+  "error": ""
+}

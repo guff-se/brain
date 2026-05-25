@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "News article headline shared without Gustaf's commentary or analysis—no durable insight added, just a social signal of attention.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "b8b90b9f17f0b72992de",
+  "error": ""
+}

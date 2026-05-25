@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare link to a 2009 blog with minimal label; transactional bookmark, not durable knowledge or perspective.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "83ed1d377067d76f11b2",
+  "error": ""
+}

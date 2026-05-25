@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "transformation",
+    "stoicism"
+  ],
+  "reason": "Asserts a clear principle about transformative change vs. superficial help; the dark reframing reveals Gustaf's values around durability and systemic impact.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "1781780af26e30cf173b",
+  "error": ""
+}

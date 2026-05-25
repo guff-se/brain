@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "education",
+    "creativity",
+    "ken-robinson"
+  ],
+  "reason": "Ken Robinson on education paradigms is durable; Gustaf's emphatic 'MUST see' signals this is non-negotiable reference material for him.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d9eb813e2911665a4ac7",
+  "error": ""
+}

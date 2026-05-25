@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure logistical announcement—ordering tickets is a personal action with no embedded knowledge or principle; belongs in timeline, not the vault.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "8d9c7c0936000a05e4cf",
+  "error": ""
+}

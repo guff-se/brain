@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Tech announcement with speculative use cases, but no durable insight into principles, mechanisms, or analysis — reads as promotional futurism rather than knowledge worth preserving.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "544c046184eb46a3a775",
+  "error": ""
+}

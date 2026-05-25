@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social appreciation for a video's clarity, no embedded knowledge or position on cryptocurrency itself.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "42606eb9eb8301d264cb",
+  "error": ""
+}

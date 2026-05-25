@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Time-bound event announcement with no embedded knowledge or Gustaf's perspective on what it means.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_video",
+  "content_sha": "cd19b29c178131407aec",
+  "error": ""
+}

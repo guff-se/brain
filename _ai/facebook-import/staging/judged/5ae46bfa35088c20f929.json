@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.96,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Pure social banter—a casual network question with no embedded knowledge, insight, or lasting substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "5ae46bfa35088c20f929",
+  "error": ""
+}

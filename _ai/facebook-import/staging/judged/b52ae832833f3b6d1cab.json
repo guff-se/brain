@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Event announcement for a specific Monday, even though it asserts a principle about integrating opposing paradigms — the principle is incidental framing rather than the substance",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "b52ae832833f3b6d1cab",
+  "error": ""
+}

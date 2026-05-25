@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.87,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A bare link share with a cryptic phrase but no commentary, analysis, or visible knowledge — the substance is entirely in the inaccessible shortened URL.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "f2b5c4f06d94f2de33f6",
+  "error": ""
+}

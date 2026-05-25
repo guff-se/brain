@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-line sarcastic reaction to a news story; too thin to establish a specific principle worth preserving, even accounting for the 'clearly asserts a value' exception.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "1c89163475c42c540adb",
+  "error": ""
+}

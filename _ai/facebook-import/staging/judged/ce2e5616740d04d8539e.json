@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Time-bound policy debate (2011); Gustaf's text is a question seeking explanation, not his own analysis or perspective—no embedded knowledge retained.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "ce2e5616740d04d8539e",
+  "error": ""
+}

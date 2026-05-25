@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social media affirmation of a news announcement — Gustaf's comment is a brief endorsement with no embedded analysis, principle articulation, or insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "118454a7cad724f908d2",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Entertainment content with no Gustaf commentary; fetched URL is now a signup page, not the original sketch; even if the sketch contained startup satire, comedy without context or explanation is ephemeral, not durable knowledge.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "b21e9638fd413e35968c",
+  "error": ""
+}

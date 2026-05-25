@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Valid principle but stated as a bare one-liner with no context, elaboration, or Gustaf-specific insight — too thin for a durable note.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "9d7e8b181cef01dfa761",
+  "error": ""
+}

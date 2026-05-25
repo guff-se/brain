@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare logistical reminder with no embedded knowledge, insight, or principle — purely transactional.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "7faab2999de8b5ef3578",
+  "error": ""
+}

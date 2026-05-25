@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Metadata corrupted with spam/malware text; no legitimate title available to assess content substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "550e52bbb8384486caf9",
+  "error": ""
+}

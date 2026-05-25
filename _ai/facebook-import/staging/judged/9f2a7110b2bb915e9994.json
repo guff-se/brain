@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare question with no context, elaboration, or follow-up thinking—too thin to carry durable value.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "9f2a7110b2bb915e9994",
+  "error": ""
+}

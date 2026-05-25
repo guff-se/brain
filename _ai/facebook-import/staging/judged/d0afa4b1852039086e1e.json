@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Social banter — Gustaf laughing at a funny video, not extracting durable knowledge or asserting a principle",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d0afa4b1852039086e1e",
+  "error": ""
+}

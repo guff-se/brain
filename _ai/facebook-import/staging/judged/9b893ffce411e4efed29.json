@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "startups",
+    "sweden",
+    "silicon-valley"
+  ],
+  "reason": "Dated 2012 comparative analysis; thin fetched summary (no slides) provides insufficient signal of durable insight vs. historical snapshot",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "9b893ffce411e4efed29",
+  "error": ""
+}

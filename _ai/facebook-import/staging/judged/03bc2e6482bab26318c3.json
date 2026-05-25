@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Paywalled article with no body fetched and no Gustaf commentary; title suggests time-bound political opinion (2015) rather than durable analysis or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "03bc2e6482bab26318c3",
+  "error": ""
+}

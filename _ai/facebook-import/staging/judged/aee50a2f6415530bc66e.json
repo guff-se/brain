@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.56,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "platform-governance",
+    "digital-freedom",
+    "activism"
+  ],
+  "reason": "Asserts a clear principle about what platforms should be (engines for freedom, not censorship tools), which reveals Gustaf's political values and connects to his broader interest in social movements.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "aee50a2f6415530bc66e",
+  "error": ""
+}

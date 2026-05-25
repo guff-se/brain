@@ -1,0 +1,12 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Presents a durable framework (deaths per unit energy) for comparing energy sources by actual health impact, arguing that full-cost analysis must include pollution and occupational safety, not just climate—a non-trivial principle for energy policy regardless of 2011 data age.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "6fbf739720c29a8c19e5",
+  "error": ""
+}

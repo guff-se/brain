@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin recommendation with no substantive analysis, explanation, or insight — just a passing suggestion to read about something.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "cd870dbc7608ef4c0e26",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.45,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Asserts a principle about cloud-storage data access, but underdeveloped — no causality, mechanism, or implication beyond the bare claim. One data point in a larger privacy-skepticism theme already evident in your 2009–2012 corpus.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "2dfcaf01e5be01b1800d",
+  "error": ""
+}

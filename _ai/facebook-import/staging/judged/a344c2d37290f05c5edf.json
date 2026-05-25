@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social instruction with a dead URL and no article context—without knowing what Gustaf was directing people to read, his bare comment reveals no durable principle or insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "a344c2d37290f05c5edf",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.63,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "planned-obsolescence",
+    "design-ethics",
+    "consumer-rights"
+  ],
+  "reason": "A one-line documentary recommendation with minimal elaboration; the principle (designed obsolescence matters) is implicit but underdeveloped—better captured by the documentary itself than by this thin pointer to it.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "070b4a493ee12c9731c0",
+  "error": ""
+}

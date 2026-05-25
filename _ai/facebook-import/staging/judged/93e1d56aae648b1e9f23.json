@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "terrorism",
+    "radicalization",
+    "sweden"
+  ],
+  "reason": "Norberg articulates a durable principle: terror's force derives from fear and fracture, not body count; strategic response is social cohesion to block recruitment. Rebuttal format weakens it, but the reasoning anchors future concepts on security policy and radicalization.",
+  "model": "claude-haiku-4-5",
+  "item_type": "shared_article",
+  "content_sha": "93e1d56aae648b1e9f23",
+  "error": ""
+}

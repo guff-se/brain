@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thumbs-up reaction to a time-bound campaign with no analysis—enthusiasm without insight about why or what it means.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "7997ec80b89b2a0cdd8b",
+  "error": ""
+}
