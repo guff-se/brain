@@ -93,7 +93,7 @@ CACHE = os.path.join(STAGING, 'judged')
 os.makedirs(CACHE, exist_ok=True)
 
 MODEL = os.environ.get('FB_JUDGE_MODEL', 'claude-haiku-4-5')
-CLAUDE_BIN = os.environ.get('CLAUDE_BIN', '/Users/gustaf/.local/bin/claude')
+CLAUDE_BIN = os.environ.get('CLAUDE_BIN', '/Users/dante/.local/bin/claude')
 
 
 def _call_claude(system: str, user: str, timeout: int = 90) -> str:
