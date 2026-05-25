@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "homeschooling",
+    "silicon-valley"
+  ],
+  "reason": "Gustaf names a failed school system and homeschooling as escape; the Wired piece is durable reporting on tech DIY education, not a time-bound event.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "e91bf39127d971367938",
+  "error": ""
+}

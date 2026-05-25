@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "media-literacy",
+    "political-discourse",
+    "power"
+  ],
+  "reason": "Chomsky names a durable mechanism—narrow the acceptable opinion window while encouraging lively debate inside it—which remains useful for understanding media and social control.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6b2475f6954b0bafd583",
+  "error": ""
+}

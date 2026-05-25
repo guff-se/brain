@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Brief social shout-out to Kalmar with no ideas, analysis, or durable substance beyond relational cheer.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "64bd2cb6f57125f76025",
+  "error": ""
+}
