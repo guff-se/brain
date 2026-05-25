@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter with no embedded knowledge or principle — a rhetorical question without context, elaboration, or clear value.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "2d9c0a019e1007eb731a",
+  "error": ""
+}

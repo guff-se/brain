@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf's commentary is a rhetorical complaint with no embedded principle or analysis; the article itself is time-bound 2012 opinion, not his original thinking.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "ea6884e0b299e8b29f1c",
+  "error": ""
+}

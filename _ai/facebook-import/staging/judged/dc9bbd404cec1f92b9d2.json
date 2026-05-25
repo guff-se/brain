@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "school-reform",
+    "privatization"
+  ],
+  "reason": "Substantive policy analysis exploring how market-driven reforms (NCLB, friskolor) deepen inequality; Gustaf signaled genuine interest in the source book.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "dc9bbd404cec1f92b9d2",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Gustaf's commentary is minimal ('Great blogpost') with no interpretive signal about what insight or principle matters to him; without elaboration, this reads as a light bookmark rather than active conceptual material.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "abdd8ff9f597930e8299",
+  "error": ""
+}

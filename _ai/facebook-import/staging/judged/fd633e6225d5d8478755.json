@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter — a suggestion to friends about a music project, time-bound to a specific video, with no embedded durable knowledge or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "fd633e6225d5d8478755",
+  "error": ""
+}
