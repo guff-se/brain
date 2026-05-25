@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional request for a specific 2013 event; no durable knowledge or principle embedded.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "f21d45a44a79a9fbd2b1",
+  "error": ""
+}

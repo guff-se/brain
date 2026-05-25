@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.6,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Witty political commentary on Swedish party branding with a sharp 1984 reference, but too light and time-bound to 2013 to carry as durable thinking; the principle (political language as obfuscation) is gestured at but not developed.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "3676137cc242949f2338",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Frustrated hot take on a cultural moment without exploring principle, mechanism, or lasting insight—social positioning rather than durable thinking.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "d0be78b08c9ae9bf4c01",
+  "error": ""
+}

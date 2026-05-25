@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter asking if others experience a website issue — no durable knowledge or principle asserted.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "061493fa6c10ab9b41cd",
+  "error": ""
+}

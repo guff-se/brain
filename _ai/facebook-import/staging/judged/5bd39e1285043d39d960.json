@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Situational commentary on a specific legal case statement; the logical point (epistemic consistency) is sharp but too undeveloped and time-bound to compound.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "5bd39e1285043d39d960",
+  "error": ""
+}

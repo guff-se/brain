@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event announcement with no embedded knowledge, insight, or principle about the topic (honesty) or teaching.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "6860f1bbba78ac8bfbce",
+  "error": ""
+}

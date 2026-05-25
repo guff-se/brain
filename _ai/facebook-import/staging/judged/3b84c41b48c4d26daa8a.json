@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "ego",
+    "culture",
+    "psychology"
+  ],
+  "reason": "Crisp principle about ego as defensive structure and culture as normalized neurosis. Durable analytical claim worth anchoring a concept.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "3b84c41b48c4d26daa8a",
+  "error": ""
+}

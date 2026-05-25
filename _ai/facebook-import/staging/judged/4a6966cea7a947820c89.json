@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "authenticity",
+    "creativity",
+    "independence"
+  ],
+  "reason": "Crisp assertion of a principle: creative integrity and authentic expression over conformity and dilution — a durable value statement about how to live.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "4a6966cea7a947820c89",
+  "error": ""
+}

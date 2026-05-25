@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound complaint about a specific billing incident and a transactional decision to switch phone providers; no durable principle or insight to preserve.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "bb8c663b4a95e3caa6ec",
+  "error": ""
+}

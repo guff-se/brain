@@ -1,0 +1,12 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Durable philosophical principle about paradoxical arrival and presence; Gustaf's deliberate capture of a meaningful insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "3f2990f59db6992fef31",
+  "error": ""
+}

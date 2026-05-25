@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound observation (2012 event) posed as rhetorical question, but no developed insight or principle about job migration—just a surface snapshot.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "9e5fc6e1976eed7e6009",
+  "error": ""
+}

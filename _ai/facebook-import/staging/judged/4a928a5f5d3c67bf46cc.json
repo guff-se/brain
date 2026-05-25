@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "employment-protection",
+    "perverse-incentives",
+    "labor-law"
+  ],
+  "reason": "Articulates a specific structural problem (employment protection creating lock-in incentives) and principle worth developing — exactly the kind of policy critique Gustaf returns to.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "4a928a5f5d3c67bf46cc",
+  "error": ""
+}

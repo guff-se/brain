@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.8,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social commentary expressing annoyance at a specific media instance; the implied principle (women shouldn't be subordinated in credits) is not developed or explained.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_text",
+  "content_sha": "1f2b56f8b3b7edd46193",
+  "error": ""
+}
