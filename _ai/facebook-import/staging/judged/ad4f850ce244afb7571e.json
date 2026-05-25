@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social congratulation with no analysis or insight—brief endorsement of a startup announcement, not a durable idea or principle.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "ad4f850ce244afb7571e",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Commentary is too sparse to reveal substance — 'I explain my fascination' is a caption, not the fascination itself; video content is inaccessible, so no judgment possible on whether it contains durable insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "76563b6eea72c87ca357",
+  "error": ""
+}

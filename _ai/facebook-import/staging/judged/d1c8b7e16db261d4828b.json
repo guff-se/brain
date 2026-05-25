@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": "clipping",
+  "tags_hint": [],
+  "reason": "Rhetorical question signals a principle about legislative scope, but lacks substantive development—too close to social commentary rather than durable insight.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "d1c8b7e16db261d4828b",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fragmentary comment juxtaposing two places without developing the underlying insight or principle — too contextual to stand alone.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "23e130f30bd89463f3de",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.75,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A dismissive one-liner about a specific policy moment; too thin and context-dependent to stand alone without the article's substance.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "8a1ef4ef6191491bbb09",
+  "error": ""
+}

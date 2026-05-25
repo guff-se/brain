@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Event announcement tied to a specific project ('alien baby' built at The Borderland with Mutation Station) — no durable knowledge, analysis, or principle embedded.",
+  "model": "claude-haiku-4-5",
+  "item_type": "own_commentary",
+  "content_sha": "6b6b834234d286124ffa",
+  "error": ""
+}
