@@ -11,9 +11,9 @@ author: "Jason Tanz"
 provenance: "extracted"
 enrichment: "ok"
 lang: "en"
-tags: [alternative-education, homeschooling, tech-culture]
+tags: [education, homeschooling, silicon-valley]
 status: "reference"
-ingested: "2026-05-26"
+ingested: "2026-05-25"
 created: "2015-02-04"
 ---
 

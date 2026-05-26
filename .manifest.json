@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-05-24",
+  "last_ingest": "2026-05-26",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -581,6 +581,54 @@
       "produced": [
         "sources/consumed/articles/your-ceo-is-suffering-from-ai-psychosis.md"
       ]
+    },
+    {
+      "ingest_date": "2026-05-26",
+      "kind": "video",
+      "source": "https://www.youtube.com/watch?v=BFU1OCkhBwo",
+      "produced": [
+        "sources/consumed/videos/2025-11-27-ai-expert-here-is-what-the-world-looks-like-in-2-years-tristan-harris.md",
+        "sources/_longform/ai-expert-here-is-what-the-world-looks-like-in-2-years-tristan-harris-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-26",
+      "kind": "note",
+      "source": "inbox/thoughts/Tankar om AI-psykos.md",
+      "produced": [
+        "sources/mine/thinking/tankar-om-ai-psykos.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-26",
+      "kind": "article",
+      "source": "https://en.wikipedia.org/wiki/Sycophancy_(artificial_intelligence)",
+      "produced": [
+        "sources/consumed/articles/sycophancy-artificial-intelligence.md",
+        "sources/mine/thinking/ai-sycophancy-case-studies-for-psychosis-talk.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-26",
+      "kind": "podcast-episode",
+      "party": "third",
+      "source": "inbox/podcasts/we-didnt-ask-for-this-internet.md",
+      "note": "Enriched existing Pocket stub. Audio at _meta/attachments/podcasts/we-didnt-ask-for-this-internet.mp3. Transcript pending.",
+      "produced": [
+        "sources/consumed/podcasts/2026-02-11-we-didnt-ask-for-this-internet.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-26",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/we-didnt-ask-for-this-internet.md",
+      "source_audio": "_meta/attachments/podcasts/we-didnt-ask-for-this-internet.mp3",
+      "transcription": "mlx-community/whisper-base-mlx",
+      "produced": [
+        "sources/consumed/podcasts/we-didnt-ask-for-this-internet.md",
+        "sources/_longform/we-didnt-ask-for-this-internet-transcript.md"
+      ],
+      "notes": "Transcript generated via whisper from MP3. Existing stub sources/consumed/podcasts/2026-02-11-we-didnt-ask-for-this-internet.md retained for Gustaf review (bad Spotify scrape)."
     }
   ]
 }

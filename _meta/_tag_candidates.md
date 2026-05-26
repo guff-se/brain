@@ -142,3 +142,8 @@ Tags proposed by classification that need ≥3 uses to graduate to `taxonomy.md`
 
 <!-- 2026-05-19: added during deep tagging pass (podcasts ep 135–147 + guest episodes) -->
 - `learning` × 2 new uses — used in: `sources/mine/podcasts/pajobbetpodden-144-johanna-bolin-tingvall-ansvar-for-det-egna-larandet.md`, `sources/mine/podcasts/pajobbetpodden-146-vad-vi-vet-om-manniskor-maskiner-och-makt-sasongsavslutning.md`. Already in taxonomy at count 1 — now ≥3, meets promotion threshold.
+
+<!-- 2026-05-26: added during ingest of Ezra Klein Show podcast -->
+- `enshittification` × 2 — used in: `sources/mine/thinking/2026-02-09-we-didnt-ask-for-this-internet.md` (Gustaf's own reaction note), `sources/consumed/podcasts/we-didnt-ask-for-this-internet.md`. Meets threshold — propose for taxonomy.
+- `platform-extractivism` × 1 — used in: `sources/mine/thinking/2026-02-09-we-didnt-ask-for-this-internet.md`. Monitor.
+- `internet-politics` × 1 — used in: `sources/mine/thinking/2026-02-09-we-didnt-ask-for-this-internet.md`. Monitor.
