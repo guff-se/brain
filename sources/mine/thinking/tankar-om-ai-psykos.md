@@ -41,3 +41,4 @@ Sycophancy
 * Trump och Putin är världens ensammaste människor. Deras krav på lojalitet gör att ingen i dess närhet vågar tala sanning. Alla runt dem ljuger för dem. Detta är den värsta filterbubblan som finns, och något som har drabbat alla stora härskare och härförare. När du har makt skapas incitamentet för alla andra att föra dig bakom ljuset. Du blir lurad att tro att du är fantastisk och har rätt i allt du gör.
 * Vad händer när varje människa får tillgång till en bot som suger deras intellektuella kuk dagarna i ända? "Åh, vad du är smart!", "Ja, vilken bra idé!"
 	* Jag frågade ChatGPT vad den tyckte om min affärsidé att starta en glasskiosk på sydpolen och den älskade idén!
+		* https://chatgpt.com/share/e/6a15955a-2a40-800c-96cc-3cddcf916a76
