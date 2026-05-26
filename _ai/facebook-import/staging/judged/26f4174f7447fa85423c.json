@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Primarily a time-bound innovation/news announcement about Amazon Prime Air with little durable mechanism or framework to preserve.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "26f4174f7447fa85423c",
+  "error": ""
+}

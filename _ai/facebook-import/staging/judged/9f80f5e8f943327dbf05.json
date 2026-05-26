@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "dark-web",
+    "privacy",
+    "internet-governance"
+  ],
+  "reason": "TED talk by a named journalist on dark-net structure and mainstream adoption—durable explanatory topic, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9f80f5e8f943327dbf05",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a short witty reaction to the headline, not framing or reasoning that stands apart from the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "54261d4fdafa045b9e55",
+  "error": ""
+}

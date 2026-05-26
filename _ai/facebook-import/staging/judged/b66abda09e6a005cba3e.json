@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "creativity",
+    "cognitive-flexibility",
+    "multicultural-experience"
+  ],
+  "reason": "Research-backed article on mechanisms linking multicultural immersion to openness and creativity—durable psychology/organizational insight, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b66abda09e6a005cba3e",
+  "error": ""
+}

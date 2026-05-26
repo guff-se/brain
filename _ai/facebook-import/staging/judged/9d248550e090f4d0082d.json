@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.89,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Quantic Dream's Kara is a cinematic tech-demo short—entertainment/promo, not durable analysis or a structural topic in the title alone.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "9d248550e090f4d0082d",
+  "error": ""
+}

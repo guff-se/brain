@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary only contextualizes a share (SvD column → old YouTube explainer) with no mechanism, claim, or framing beyond a referral.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "30f7e0cc5e3295a85467",
+  "error": ""
+}

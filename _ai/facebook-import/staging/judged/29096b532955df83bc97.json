@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Likely a re-upload of Apple's Think Different ad — promotional inspirational clip, not durable analysis or a framework.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "29096b532955df83bc97",
+  "error": ""
+}

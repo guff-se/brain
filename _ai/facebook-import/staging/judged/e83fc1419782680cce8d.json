@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "civil-liberties",
+    "public-space",
+    "urban-governance"
+  ],
+  "reason": "Monbiot’s Guardian piece ties privatized public space to ASBO/IPNA-style discretionary powers—a durable mechanism-and-principle analysis, not a fleeting news blurb.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e83fc1419782680cce8d",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "arts-festivals",
+    "participatory-culture",
+    "performance"
+  ],
+  "reason": "TED talk frames a durable shift in how festivals blur audience and performer and let cities express identity—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0b524c06243332d4edfc",
+  "error": ""
+}

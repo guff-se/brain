@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "design",
+    "creative-work",
+    "entrepreneurship"
+  ],
+  "reason": "Zeldman's aphorism states a durable principle about creative relevance vs. theft, and resharing it signals what Gustaf values even without added commentary.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7572d62ca7fe962d8a2f",
+  "error": ""
+}

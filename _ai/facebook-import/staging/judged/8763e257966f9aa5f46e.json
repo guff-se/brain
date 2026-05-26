@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "swedish-politics",
+    "populism",
+    "political-normalization"
+  ],
+  "reason": "Peterson's Brännpunkt essay offers durable structural analysis—SD ideology, parliamentary leverage, media normalization, and symbolic counter-politics—not merely 2011 news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8763e257966f9aa5f46e",
+  "error": ""
+}

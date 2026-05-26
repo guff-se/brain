@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under-200-char networking/recruitment ask with no argument, mechanism, or durable insight—logistical, not knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8e2cd6ab49713dcfb222",
+  "error": ""
+}

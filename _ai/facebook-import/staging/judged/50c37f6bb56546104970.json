@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "patents",
+    "innovation",
+    "intellectual-property"
+  ],
+  "reason": "Substantive policy analysis with causal claims, cited Feldman–Lemley research, and durable mechanisms (NPEs, licensing vs. independent innovation) beyond a news headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "50c37f6bb56546104970",
+  "error": ""
+}

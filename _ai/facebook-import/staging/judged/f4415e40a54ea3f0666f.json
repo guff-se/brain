@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "false-memories",
+    "criminal-justice",
+    "legal-epistemology"
+  ],
+  "reason": "Cantwell’s column ties a specific appeal to durable mechanisms—hypnosis and contested repressed-memory science in criminal proof—not just the verdict.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f4415e40a54ea3f0666f",
+  "error": ""
+}

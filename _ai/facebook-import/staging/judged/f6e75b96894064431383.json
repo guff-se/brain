@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "discrimination",
+    "sweden",
+    "education"
+  ],
+  "reason": "Educational documentary metadata on prejudice, rights, and Sweden’s self-image—not entertainment or ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "f6e75b96894064431383",
+  "error": ""
+}

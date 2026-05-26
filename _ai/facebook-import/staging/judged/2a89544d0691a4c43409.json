@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Swedish comedy sketch (Galenskaparna/After Shave) — generic entertainment with no durable knowledge, analysis, or insight worth preserving.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "2a89544d0691a4c43409",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Attributed third-party quote (~290 chars) with no Gustaf framing, argument, or mechanism—fails own_text 200–499 bar for original reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "54a7197fdb7175b3333e",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "technology-policy",
+    "public-service",
+    "broadcasting"
+  ],
+  "reason": "Durable policy/technology analysis about forced infrastructure transitions, incentives, and public-interest tradeoffs beyond a single news event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8d74389c899b06e48f8d",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2011 FundedByMe crowdfunding page for Incredible Music Machine — promotional, time-bound fundraising with no durable analysis or fetched body.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6071661b9cfc8e8e85d7",
+  "error": ""
+}

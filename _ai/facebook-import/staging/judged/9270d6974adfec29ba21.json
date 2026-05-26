@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned Metro homepage/lifestyle fluff, not the linked piece; the URL implies 2016 basic-income pilot news, which would be time-bound announcement anyway.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9270d6974adfec29ba21",
+  "error": ""
+}

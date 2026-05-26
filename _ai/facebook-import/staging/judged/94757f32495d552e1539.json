@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A one-line reaction to a 2016 AI/game milestone with no mechanism, principle, or analysis beyond the news itself.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "94757f32495d552e1539",
+  "error": ""
+}

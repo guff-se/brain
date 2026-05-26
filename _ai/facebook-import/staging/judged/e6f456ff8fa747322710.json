@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: sarcastic one-liner on a time-bound political spat, no reasoning or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e6f456ff8fa747322710",
+  "error": ""
+}

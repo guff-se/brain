@@ -8,7 +8,7 @@ source: "facebook"
 source_id: "fb-1240152785"
 provenance: "extracted"
 lang: "sv"
-tags: [digital-rights, information-power, democracy]
+tags: [internet, democracy, information-power]
 status: "reference"
 ingested: "2026-05-25"
 created: "2009-04-19"

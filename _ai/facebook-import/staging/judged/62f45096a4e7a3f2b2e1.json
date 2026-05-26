@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under-200-char quip about oversleeping and a vanity URL—logistical banter, no argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "62f45096a4e7a3f2b2e1",
+  "error": ""
+}

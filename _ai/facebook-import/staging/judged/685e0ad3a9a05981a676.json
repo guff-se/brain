@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "basic-income",
+    "automation",
+    "mental-health"
+  ],
+  "reason": "Sandahl column uses a 2015 news hook but develops durable claims on cash vs medication for long-term unemployed, work–identity politics, labor-market paradox, automation, and basic income.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "685e0ad3a9a05981a676",
+  "error": ""
+}

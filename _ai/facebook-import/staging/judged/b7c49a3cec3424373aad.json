@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin metadata for a stand-up comedy excerpt; no durable topic, framework, or analysis beyond event entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "b7c49a3cec3424373aad",
+  "error": ""
+}

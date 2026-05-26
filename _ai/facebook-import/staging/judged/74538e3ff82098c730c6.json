@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "productivity",
+    "decision-making",
+    "analysis-paralysis"
+  ],
+  "reason": "xkcd encodes a durable principle: time spent comparing optimizations often exceeds any gain from choosing the better option.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "74538e3ff82098c730c6",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is just a quoted excerpt with no added framing or durable reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "a5e8d56cab31a281d616",
+  "error": ""
+}

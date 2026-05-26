@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone crowdfunding pitch for Riksdagsrösten—promotional and logistical, with no durable reasoning or insight beyond asking for donations.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "8b06b8e70979c6252662",
+  "error": ""
+}

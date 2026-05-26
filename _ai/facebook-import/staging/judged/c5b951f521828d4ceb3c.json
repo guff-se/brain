@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: logistical schedule correction and friend pings for SSWC/Burning Man, not durable reasoning or insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c5b951f521828d4ceb3c",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Guardian breaking-news report on Hawking's 2013 boycott decision—event coverage and quotes, not durable analysis or principles worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9372b33706618220d3e0",
+  "error": ""
+}

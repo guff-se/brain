@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "social-networks",
+    "network-theory",
+    "small-world"
+  ],
+  "reason": "URL slug names Meta's durable social-graph separation research; topic is lasting analysis despite a failed fetch that returned only site chrome.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4e328f8825680ccbcec2",
+  "error": ""
+}

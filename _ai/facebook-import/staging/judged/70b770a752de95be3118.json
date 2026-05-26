@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "net-neutrality",
+    "telecom-policy",
+    "internet-governance"
+  ],
+  "reason": "SvD opinion piece explains why market self-regulation fails on neutrality and ISP blocking—mechanism and principles still relevant beyond 2010 examples.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "70b770a752de95be3118",
+  "error": ""
+}

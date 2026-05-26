@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-policy",
+    "public-broadcasting",
+    "technology-adoption"
+  ],
+  "reason": "Bergvall’s op-ed argues mechanisms—internet/mobile displacement of terrestrial DAB, institutional blind spots, and sunk-cost policy—not just a dated news headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a26137793cee1c11fa76",
+  "error": ""
+}

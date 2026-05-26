@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paywalled DN science-news stub with only a headline deck on a 2014 study—not durable analysis or mechanism worth keeping.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "edcbe91da55b22b17677",
+  "error": ""
+}

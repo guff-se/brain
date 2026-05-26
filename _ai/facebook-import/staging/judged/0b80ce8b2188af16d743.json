@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound product praise plus a famous Hammerbacher quote, with no reasoning chain or original framing from Gustaf.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0b80ce8b2188af16d743",
+  "error": ""
+}

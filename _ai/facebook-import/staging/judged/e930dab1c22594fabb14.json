@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned a generic Daily Show fan-page index, not the 2011 segment; no durable article body or topic signal to preserve.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e930dab1c22594fabb14",
+  "error": ""
+}

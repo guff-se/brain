@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "internet-culture",
+    "sikhism",
+    "beauty-standards"
+  ],
+  "reason": "Jezebel piece is time-bound viral-news human-interest about a 2013 Reddit incident, not durable analysis despite an embedded personal-faith reply.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a62583736d28856b6fb0",
+  "error": ""
+}

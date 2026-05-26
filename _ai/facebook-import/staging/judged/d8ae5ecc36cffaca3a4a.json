@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary only relabels the headline and poses a rhetorical question, without causal analysis or framing beyond the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "d8ae5ecc36cffaca3a4a",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "psychedelics",
+    "silicon-valley",
+    "creativity"
+  ],
+  "reason": "Durable feature on tech–psychedelics culture with mechanisms, history, and named sources—not a time-bound news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "19521f92521e36662c7a",
+  "error": ""
+}

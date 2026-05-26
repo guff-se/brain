@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "global-development",
+    "public-knowledge",
+    "development-aid"
+  ],
+  "reason": "Rosling's column is durable analysis on outdated worldviews, survey mechanisms, and global progress facts—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "281c5e1d163fba75c1b5",
+  "error": ""
+}

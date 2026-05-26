@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters; a witty epistemological disclaimer, not a developed argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0dc2c8353d15585a5e27",
+  "error": ""
+}

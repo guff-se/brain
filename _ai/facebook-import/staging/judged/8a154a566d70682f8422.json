@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary (~107 chars) restates the article thesis as a hot take without mechanism or framing beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "8a154a566d70682f8422",
+  "error": ""
+}

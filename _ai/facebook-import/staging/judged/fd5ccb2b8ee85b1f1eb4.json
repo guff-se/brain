@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a pull-quote plus author praise, with no added mechanism or framing beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "fd5ccb2b8ee85b1f1eb4",
+  "error": ""
+}

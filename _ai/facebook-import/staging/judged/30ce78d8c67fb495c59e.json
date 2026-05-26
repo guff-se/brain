@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and purely logistical volunteer signup with no reasoning or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "30ce78d8c67fb495c59e",
+  "error": ""
+}

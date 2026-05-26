@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "public-health",
+    "pandemic-policy",
+    "investigative-journalism"
+  ],
+  "reason": "SvD investigative piece on mechanisms—political lock-in, suppressed internal dissent, and procurement logic behind Sweden's 2009 mass vaccination—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "db83be436e97091bb286",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-literacy",
+    "truth",
+    "epistemology"
+  ],
+  "reason": "Paywalled body, but Karlsten plus the title frame durable opinion on personal responsibility for truth, not a time-bound news report.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a259687e6056f2d080cd",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.91,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "MLK quote repost with no original reasoning from Gustaf—time-bound reaction to bin Laden news, not durable vault material.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c02bc562ce17a20b880e",
+  "error": ""
+}

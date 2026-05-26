@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "inequality",
+    "social-mobility",
+    "education"
+  ],
+  "reason": "Substantive Wonkblog analysis of intergenerational mobility, opportunity hoarding, and structural mechanisms—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "eac9ce51b68f1495840c",
+  "error": ""
+}

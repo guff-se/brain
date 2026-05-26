@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "mass-surveillance",
+    "press-freedom",
+    "privacy"
+  ],
+  "reason": "Mellin's column ties Snowden-era events to durable mechanisms—terrorism-law abuse, press intimidation, and democratic erosion—not just breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4ba516bc42a712b6a385",
+  "error": ""
+}

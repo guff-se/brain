@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Schulman's 2012 op-ed is outrage at a specific SVT/Gunnarsson scandal, not durable analysis of mechanisms or principles beyond that news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2de40a86f8958aaf613c",
+  "error": ""
+}

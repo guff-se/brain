@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "geopolitics",
+    "russia",
+    "ukraine"
+  ],
+  "reason": "DN interview with Dugin on Eurasianist ideology shaping Putin and Ukraine partition claims — durable explanatory analysis, not mere event reporting.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "59a630530d4ff4c830ee",
+  "error": ""
+}

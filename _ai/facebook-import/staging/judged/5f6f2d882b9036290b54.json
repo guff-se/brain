@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on a dated DN/policy moment; causal points are brief talking points, not developed durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "5f6f2d882b9036290b54",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "counter-terrorism",
+    "foreign-policy",
+    "political-commentary"
+  ],
+  "reason": "Sarcastic own-text stake against militarized counter-terrorism—a crisp skeptical principle, not event report or banter.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8097b996920eda90d5bd",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Brief personal health update with sarcasm, no argument or durable insight; under 200 chars.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "bf7a0bea1ed07dbb66ef",
+  "error": ""
+}

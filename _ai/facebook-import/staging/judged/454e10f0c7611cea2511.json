@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound 2015 local-politics news headline with no durable analysis; fetched body is mostly paywall promo, not substantive content.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "454e10f0c7611cea2511",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.56,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "culture-debate",
+    "politics"
+  ],
+  "reason": "Paywalled debate title alone doesn’t signal durable analysis or a reusable framework beyond a time-bound opinion exchange.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8a0e5aa6ee1b27d62f81",
+  "error": ""
+}

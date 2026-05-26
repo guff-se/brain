@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters: a same-day tram anecdote and lateness update, not a developed claim about bureaucracy or policy.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ac772b479dafa482e11a",
+  "error": ""
+}

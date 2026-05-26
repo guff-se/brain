@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.76,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "risk-perception",
+    "science-literacy",
+    "organic-food"
+  ],
+  "reason": "Paired commentary reframes the organic headline with a durable claim that natural vs chemical risk splits are emotion-driven, not factual.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "dbea310d1b9f303ae3ac",
+  "error": ""
+}

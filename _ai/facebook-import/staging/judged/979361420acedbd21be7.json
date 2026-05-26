@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Warm social post with textbook cosmic-scale facts and no argument, mechanism, or durable insight worth keeping.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "979361420acedbd21be7",
+  "error": ""
+}

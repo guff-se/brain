@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "marketing",
+    "economics",
+    "consumer-culture"
+  ],
+  "reason": "Evergreen analysis of De Beers–created demand, intrinsic value, and why diamonds fail as liquid assets—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "89c16de7441b999fc03c",
+  "error": ""
+}

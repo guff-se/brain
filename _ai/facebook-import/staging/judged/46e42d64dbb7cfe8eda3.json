@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Wired 'This Day in Tech' anniversary recap is chronological event reportage, not durable analysis or principles worth keeping.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "46e42d64dbb7cfe8eda3",
+  "error": ""
+}

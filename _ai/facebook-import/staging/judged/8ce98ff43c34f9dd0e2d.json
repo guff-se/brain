@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on ephemeral 2014 festival news; one clever expectation-mismatch line, not durable reasoning worth a note.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "8ce98ff43c34f9dd0e2d",
+  "error": ""
+}

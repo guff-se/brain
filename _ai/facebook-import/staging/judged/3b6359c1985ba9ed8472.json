@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is a short mechanical help request and collaborator ping, not durable reasoning—the Skitch solutions are not in the text.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "3b6359c1985ba9ed8472",
+  "error": ""
+}

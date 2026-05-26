@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars with no argument—only a time-bound trip logistics update (hotel break, shopping, tomorrow's company visits).",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "bbac4c4d8c8eeb230a17",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event invite with no argument or insight; under 200 chars and promotional, not durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a32d284b114cda6e8e8a",
+  "error": ""
+}

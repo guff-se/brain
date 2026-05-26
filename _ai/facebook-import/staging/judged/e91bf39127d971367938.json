@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "education",
+    "homeschooling",
+    "school-reform"
+  ],
+  "reason": "Gustaf only poses an open good-or-bad question about a failed school system, without asserting a durable position or analysis worth a first-person note.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "e91bf39127d971367938",
+  "error": ""
+}

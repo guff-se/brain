@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "nsa",
+    "surveillance",
+    "privacy"
+  ],
+  "reason": "Durable legal/policy analysis of NSA profiling and blackmail risks, arguing for missing safeguards and questioning the belief-to-violence causal assumption.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b310a9c4d1981668076c",
+  "error": ""
+}

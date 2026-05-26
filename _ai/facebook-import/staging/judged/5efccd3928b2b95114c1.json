@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "automation",
+    "future-of-work",
+    "labor-market"
+  ],
+  "reason": "DN Debatt op-ed on structural job automation and reform—not ephemeral news; lede and authors signal durable analysis despite paywall.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5efccd3928b2b95114c1",
+  "error": ""
+}

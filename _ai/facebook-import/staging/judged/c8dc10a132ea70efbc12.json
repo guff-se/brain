@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "harm-reduction",
+    "criminal-justice"
+  ],
+  "reason": "Durable policy argument about harm reduction vs prohibition with mechanisms (public health framing, undermining organized crime) rather than time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c8dc10a132ea70efbc12",
+  "error": ""
+}

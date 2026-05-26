@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical 2011 status update about finishing Entreprenörsjakten remotely—no argument, mechanism, or durable insight beyond who was where.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4e17f8296f72145ad88c",
+  "error": ""
+}

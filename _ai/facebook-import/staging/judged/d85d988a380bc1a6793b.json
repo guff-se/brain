@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "entrepreneurship",
+    "startups",
+    "business-models"
+  ],
+  "reason": "Steve Blank's durable framework on why business plan competitions misfit startups and what business-model/pivot-based contests should reward instead.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d85d988a380bc1a6793b",
+  "error": ""
+}

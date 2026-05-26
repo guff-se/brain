@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired share is under 80 characters and only points to Edenborg's Aftonbladet piece on drugs—no framing, mechanism, or argument beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "f8bf0d84df5489c28c04",
+  "error": ""
+}

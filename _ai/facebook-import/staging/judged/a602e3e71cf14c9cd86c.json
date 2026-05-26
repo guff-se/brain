@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "lgbtq-rights",
+    "human-rights",
+    "russia"
+  ],
+  "reason": "Primarily a short advocacy/promotional campaign tied to 2014 Olympic timing, with little durable mechanism or long-term framework to build on.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "a602e3e71cf14c9cd86c",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "free-speech",
+    "public-discourse",
+    "culture"
+  ],
+  "reason": "DN kulturkronika by Stina Oscarson on yttrandefrihet and who may contest prejudice—durable argument topic despite paywalled body.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "07df47e2ed0390a610dc",
+  "error": ""
+}

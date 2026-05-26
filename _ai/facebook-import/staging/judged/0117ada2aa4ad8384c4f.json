@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars with only one compressed partisan claim about 2014 debate rules, not a multi-sentence causal argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0117ada2aa4ad8384c4f",
+  "error": ""
+}

@@ -1,0 +1,29 @@
+---
+title: "Better way to deal with bad memories suggested"
+summary: "Better way to deal with bad memories suggested
+- Date:
+- April 19, 2014
+- Source:
+- Beckman Institute for Advanced Scien…"
+kind: "article"
+party: "third"
+register: "consumed"
+source: "web"
+source_id: "fb-1398411001"
+url: "http://www.sciencedaily.com/releases/2014/04/140418141121.htm?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+sciencedaily%2Fmind_brain+%28Mind+%26+Brain+News+--+ScienceDaily%29"
+provenance: "extracted"
+enrichment: "ok"
+lang: "en"
+tags: [emotion-regulation, memory, psychology]
+status: "reference"
+ingested: "2026-05-26"
+created: "2014-04-25"
+---
+
+Better way to deal with bad memories suggested - Date: - April 19, 2014 - Source: - Beckman Institute for Advanced Science and Technology - Summary: - A simple and effective emotion-regulation strategy that has neurologically and behaviorally been proven to lessen the emotional impact of personal negative memories, researchers have shown. "Sometimes we dwell on how sad, embarrassed, or hurt we felt during an event, and that makes us feel worse and worse. But we found that instead of thinking about your emotions during a negative memory, looking away from the worst emotions and thinking about the context, like a friend who was there, what the weather was like, or anything else non-emotional that was part of the memory, will rather effortlessly take your mind away from the unwanted emotions associated with that memory," the researchers suggest. - Share: What's one of your worst memories? How did it make you feel? According to psychologists, remembering the emotions felt during a negative personal experience, such as how sad you were or how embarrassed you felt, can lead to emotional distress, especially when you can't stop thinking about it. When these negative memories creep up, thinking about the context of the memories, rather than how you felt, is a relatively easy and effective way to alleviate the negative effects of these memories, a new study suggests. Researchers at the Beckman Institute at the University of Illinois, led by psychology professor Florin Dolcos of the Cognitive Neuroscience Group, studied the behavioral and neural mechanisms of focusing away from emotion during recollection of personal emotional memories, and found that thinking about the contextual elements of the memories significantly reduced their emotional impact. "Sometimes we dwell on how sad, embarrassed, or hurt we felt during an event, and that makes us feel worse and worse. This is what happens in clinical depression -- ruminating on the negative aspects of a memory," Dolcos said. "But we found that instead of thinking about your emotions during a negative memory, looking away from the worst emotions and thinking about the context, like a friend who was there, what the weather was like, or anything else non-emotional that was part of the memory, will rather effortlessly take your mind away from the unwanted emotions associated with that memory. Once you immerse yourself in other details, your mind will wander to something else entirely, and you won't be focused on the negative emotions as much." This simple strategy, the study suggests, is a promising alternative to other emotion-regulation strategies, like suppression or reappraisal. "Suppression is bottling up your emotions, trying to put them away in a box. This is a strategy that can be effective in the short term, but in the long run, it increases anxiety and depression," explains Sanda Dolcos, co-author on the study and postdoctoral research associate at the Beckman Institute and in the Department of Psychology. "Another otherwise effective emotion regulation strategy, reappraisal, or looking at the situation differently to see the glass half full, can be cognitively demanding. The strategy of focusing on non-emotional contextual details of a memory, on the other hand, is as simple as shifting the focus in the mental movie of your memories and then letting your mind wander." Looking away from the worst emotions and thinking about the context, like a friend who was there or what the weather was like, will rather effortlessly take your mind away from the unwanted emotions associated with [a negative] memory. - Florin Dolcos Not only does this strategy allow for effective short-term emotion regulation, but it has the possibility of lessening the severity of a negative memory with prolonged use. In the study, participants were asked to share their most emotional negative and positive memories, such as the birth of a child, winning an award, or failing an exam, explained Sanda Dolcos. Several weeks later participants were given cues that would trigger their memories while their brains were being scanned using magnetic resonance imaging (MRI). Before each memory cue, the participants were asked to remember each event by focusing on either the emotion surrounding the event or the context. For example, if the cue triggered a memory of a close friend's funeral, thinking about the emotional context could consist of remembering your grief during the event. If you were asked to remember contextual elements, you might instead remember what outfit you wore or what you ate that day. "Neurologically, we wanted to know what happened in the brain when people were using this simple emotion-regulation strategy to deal with negative memories or enhance the impact of positive memories," explained Ekaterina Denkova, first author of the report. "One thing we found is that when participants were focused on the context of the event, brain regions involved in basic emotion processing were working together
+
+*[Content truncated — full text in fetch cache]*
+
+---
+**Gustaf's commentary:** Dealing with bad memories? This is how to
+make them better.

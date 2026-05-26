@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "humanitarian-design",
+    "refugee-shelter",
+    "solar-energy"
+  ],
+  "reason": "Substantive design journalism on a named shelter concept with explained mechanisms (woven structure, solar skin, water thermosiphoning) and durable themes of displacement, dignity, and mobility—not merely a headline or event blurb.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "489d156cc3768a37abd0",
+  "error": ""
+}

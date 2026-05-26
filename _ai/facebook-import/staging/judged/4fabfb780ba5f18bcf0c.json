@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "perception-vs-reality",
+    "decline-narrative",
+    "cultural-change"
+  ],
+  "reason": "Walden’s column explains mechanisms behind pessimism about society—crime stats vs felt safety, nostalgia, change anxiety, and historical decline narratives—not just 2016 news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4fabfb780ba5f18bcf0c",
+  "error": ""
+}

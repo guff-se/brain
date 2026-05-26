@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.91,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gender-representation",
+    "advertising",
+    "free-speech"
+  ],
+  "reason": "Substantive first-person case study of copyright/legal chilling effects and industry sock-puppet backlash against gender critique of commercial photography—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4a406975f80bc0ed6157",
+  "error": ""
+}

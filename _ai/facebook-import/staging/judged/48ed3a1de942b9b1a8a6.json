@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Homepage teaser scrape, not a specific article—random lifestyle/SEO snippets with no durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "48ed3a1de942b9b1a8a6",
+  "error": ""
+}

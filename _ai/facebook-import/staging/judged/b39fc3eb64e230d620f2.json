@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.94,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Breaking-news obituary reporting a celebrity death and tributes, not durable analysis or principles worth retaining.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b39fc3eb64e230d620f2",
+  "error": ""
+}

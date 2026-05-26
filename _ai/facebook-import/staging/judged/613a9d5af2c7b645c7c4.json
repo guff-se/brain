@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Mashable news report on Tesla's 2014 patent pledge—time-bound event coverage, not durable analysis or a framework worth keeping.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "613a9d5af2c7b645c7c4",
+  "error": ""
+}

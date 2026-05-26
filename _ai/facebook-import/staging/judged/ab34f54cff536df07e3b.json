@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Official blockbuster movie trailer—promotional entertainment metadata with no durable ideas, analysis, or expertise.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "ab34f54cff536df07e3b",
+  "error": ""
+}

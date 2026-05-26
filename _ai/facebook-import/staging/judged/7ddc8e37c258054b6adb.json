@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is just a headline-level quote with no added causal framing or durable argument.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7ddc8e37c258054b6adb",
+  "error": ""
+}

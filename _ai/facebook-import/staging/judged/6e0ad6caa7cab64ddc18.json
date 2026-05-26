@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under-200-char travel/weather update with no argument, mechanism, or durable insight—social banter only.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6e0ad6caa7cab64ddc18",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone product-update promo (v2 feature list, ~2 weeks out) with no causal or durable reasoning; under standalone’s ≥200-char reasoning bar.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "a5cc1befda534036d294",
+  "error": ""
+}

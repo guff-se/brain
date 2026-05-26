@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Entertainment link (Bieber cover) with no commentary or durable ideas—social share, not knowledge.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "b6ab25fda6792734a9d2",
+  "error": ""
+}

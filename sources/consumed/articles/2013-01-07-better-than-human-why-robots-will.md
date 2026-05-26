@@ -1,0 +1,28 @@
+---
+title: "Better Than Human: Why Robots Will — And Must — Take Our Jobs | Gadget Lab | Wired.com"
+summary: "Better Than Human: Why Robots Will — And Must — Take Our Jobs
+- 12.24.12
+- 6:30 AM
+Imagine that 7 out of 10 working Amer…"
+kind: "article"
+party: "third"
+register: "consumed"
+source: "wayback"
+source_id: "fb-1357577576"
+url: "http://web.archive.org/web/20140319064753/http://www.wired.com:80/gadgetlab/2012/12/ff-robots-will-take-our-jobs/"
+author: "Wired Staff"
+provenance: "extracted"
+enrichment: "wayback"
+lang: "en"
+tags: [automation, artificial-intelligence, future-of-work]
+status: "reference"
+ingested: "2026-05-26"
+created: "2013-01-07"
+---
+
+Better Than Human: Why Robots Will — And Must — Take Our Jobs - 12.24.12 - 6:30 AM Imagine that 7 out of 10 working Americans got fired tomorrow. What would they all do? It’s hard to believe you’d have an economy at all if you gave pink slips to more than half the labor force. But that—in slow motion—is what the industrial revolution did to the workforce of the early 19th century. Two hundred years ago, 70 percent of American workers lived on the farm. Today automation has eliminated all but 1 percent of their jobs, replacing them (and their work animals) with machines. But the displaced workers did not sit idle. Instead, automation created hundreds of millions of jobs in entirely new fields. Those who once farmed were now manning the legions of factories that churned out farm equipment, cars, and other industrial products. Since then, wave upon wave of new occupations have arrived—appliance repairman, offset printer, food chemist, photographer, web designer—each building on previous automation. Today, the vast majority of us are doing jobs that no farmer from the 1800s could have imagined. It may be hard to believe, but before the end of this century, 70 percent of today’s occupations will likewise be replaced by automation. Yes, dear reader, even you will have your job taken away by machines. In other words, robot replacement is just a matter of time. This upheaval is being led by a second wave of automation, one that is centered on artificial cognition, cheap sensors, machine learning, and distributed smarts. This deep automation will touch all jobs, from manual labor to knowledge work. First, machines will consolidate their gains in already-automated industries. After robots finish replacing assembly line workers, they will replace the workers in warehouses. Speedy bots able to lift 150 pounds all day long will retrieve boxes, sort them, and load them onto trucks. Fruit and vegetable picking will continue to be robotized until no humans pick outside of specialty farms. Pharmacies will feature a single pill-dispensing robot in the back while the pharmacists focus on patient consulting. Next, the more dexterous chores of cleaning in offices and schools will be taken over by late-night robots, starting with easy-to-do floors and windows and eventually getting to toilets. The highway legs of long-haul trucking routes will be driven by robots embedded in truck cabs. All the while, robots will continue their migration into white-collar work. We already have artificial intelligence in many of our machines; we just don’t call it that. Witness one piece of software by Narrative Science (profiled in issue 20.05) that can write newspaper stories about sports games directly from the games’ stats or generate a synopsis of a company’s stock performance each day from bits of text around the web. Any job dealing with reams of paperwork will be taken over by bots, including much of medicine. Even those areas of medicine not defined by paperwork, such as surgery, are becoming increasingly robotic. The rote tasks of any information-intensive job can be automated. It doesn’t matter if you are a doctor, lawyer, architect, reporter, or even programmer: The robot takeover will be epic. And it has already begun. Here’s why we’re at the inflection point: Machines are acquiring smarts. We have preconceptions about how an intelligent robot should look and act, and these can blind us to what is already happening around us. To demand that artificial intelligence be humanlike is the same flawed logic as demanding that artificial flying be birdlike, with flapping wings. Robots will think different. To see how far artificial intelligence has penetrated our lives, we need to shed the idea that they will be humanlike. Consider Baxter, a revolutionary new workbot from Rethink Robotics. Designed by Rodney Brooks, the former MIT professor who invented the best-selling Roomba vacuum cleaner and its descendants, Baxter is an early example of a new class of industrial robots created to work alongside humans. Baxter does not look impressive. It’s got big strong arms and a flatscreen display like many industrial bots. And Baxter’s hands perform repetitive manual tasks, just as factory robots do. But it’s different in three significant ways. First, it can look around and indicate where it is looking by shifting the cartoon eyes on its head. It can perceive humans working near it and avoid injuring them. And workers can see whether it sees them. Previous industrial robots couldn’t do this, which means that working robots have to be physically segregated from humans. The typical factory robot is imprisoned within a chain-link fence or caged in a glass case. They are simply too dangerous to be around, because they are oblivious to others. This isolation prevents such robots from working in a small shop, where isolation is not practical. Optimally, workers should
+
+*[Content truncated — full text in fetch cache]*
+
+---
+**Gustaf's commentary:** What do you think humanity should do when robots take our "jobs"?

@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Purely logistical/time-bound announcement with no durable insight or reasoning, and under 200 characters.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d889ac83ca348d9dc4e4",
+  "error": ""
+}

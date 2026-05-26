@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "military",
+    "government-transparency",
+    "media-critique"
+  ],
+  "reason": "Holmström's op-ed names four structural mechanisms for institutional cover-up and democratic accountability, not only the 2010 Afghanistan incident.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d8f521229272d49e1a99",
+  "error": ""
+}

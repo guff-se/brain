@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "sweden-democrats",
+    "political-psychology",
+    "conspiracy-thinking"
+  ],
+  "reason": "Standalone commentary exceeds 200 chars and offers a persecution-victim campaign frame plus a causal claim that debunking may reinforce conspiracist belief, not only snark on the day's scandal.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "492f670ee06bcdbc6738",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone Kickstarter launch plea—promotional call-to-action with product blurb, not durable reasoning or insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "5f46acdf63b0463b94eb",
+  "error": ""
+}

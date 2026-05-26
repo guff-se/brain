@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired share: ~58 chars of own voice (under 80-char floor) plus a long article quote—no framing or reasoning beyond endorsing the piece.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "c92905f16e7c846a8499",
+  "error": ""
+}

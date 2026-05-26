@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: one rhetorical line dismissing 'flyktingkris' framing, not a multi-sentence argument with mechanism or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1fd91ceb22292f0e4226",
+  "error": ""
+}

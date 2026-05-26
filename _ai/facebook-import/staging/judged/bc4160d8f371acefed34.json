@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sports-analytics",
+    "data-science",
+    "decision-making"
+  ],
+  "reason": "Substantive explainer on how advanced metrics and valuation models shape IPL team strategy, not ephemeral news or a bare link.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bc4160d8f371acefed34",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "intrinsic-motivation",
+    "education-policy",
+    "autonomy"
+  ],
+  "reason": "Beyond a reaction, it articulates a durable principle about intrinsic interest as the basis for learning and critiques educational gatekeeping/arrogant control over future knowledge.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "090744dd8851ca449d05",
+  "error": ""
+}

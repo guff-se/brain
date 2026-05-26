@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Promotional event recap for Moscow Decompression 2014—line-up, artists, and logistics, not durable knowledge or analysis.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "bf64175967c570d5479a",
+  "error": ""
+}

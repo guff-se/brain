@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "product-strategy",
+    "branding",
+    "startups"
+  ],
+  "reason": "AVC guest essay articulates a durable MVP-personality framework (mission, values, enemy) with clear mechanisms for differentiation, meaning, and loyalty—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a38471c2754f21050e33",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "death-penalty",
+    "criminal-justice",
+    "constitutional-law"
+  ],
+  "reason": "Substantive first-person legal essay on sixth-amendment violations, racial disparity in capital cases, and why some legal divides are moral—not merely political.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "45898b3cf50b2b5e95f9",
+  "error": ""
+}

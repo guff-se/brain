@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "medical-history",
+    "body-autonomy",
+    "sexual-health"
+  ],
+  "reason": "Title and credited sources point to a historical-mechanism explainer on routine circumcision, not generic entertainment metadata alone.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "ea30c049e0dd7b80b51a",
+  "error": ""
+}

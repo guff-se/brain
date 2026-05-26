@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-manipulation",
+    "outrage-culture",
+    "marketing"
+  ],
+  "reason": "SvD opinion piece explains Ryan Holiday’s provocation-to-media pipeline and why outrage at sexist ads can fuel the marketer’s strategy—a durable mechanism, not a time-bound event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4761a5115e7395d1696f",
+  "error": ""
+}

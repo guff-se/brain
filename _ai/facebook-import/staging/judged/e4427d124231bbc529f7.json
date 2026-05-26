@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "chemistry",
+    "food-science",
+    "science-literacy"
+  ],
+  "reason": "Durable science-communication piece reframing 'natural' foods via chemical nomenclature and chemistry-everywhere framing, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e4427d124231bbc529f7",
+  "error": ""
+}

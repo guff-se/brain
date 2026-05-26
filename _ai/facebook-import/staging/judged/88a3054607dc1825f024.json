@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Paired commentary is just agreement with the headline (“What if the internet is God?”) and adds no durable mechanism or framing.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "88a3054607dc1825f024",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A one-word reaction to a GIF has no durable idea, principle, or analysis worth preserving as a vault note.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "0e0241a8e99474401fb6",
+  "error": ""
+}

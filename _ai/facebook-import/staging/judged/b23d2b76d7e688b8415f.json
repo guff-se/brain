@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "mass-surveillance",
+    "investigative-journalism",
+    "surveillance-industry"
+  ],
+  "reason": "Substantive overview of mechanisms—private intel contractors, state partnerships, disinformation and persona ops, and TrapWire—useful beyond the 2013 case timeline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b23d2b76d7e688b8415f",
+  "error": ""
+}

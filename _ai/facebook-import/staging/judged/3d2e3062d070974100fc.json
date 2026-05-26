@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "psychedelics",
+    "ptsd",
+    "mental-health"
+  ],
+  "reason": "Reports peer-reviewed MDMA–psychotherapy PTSD outcomes and long-term follow-up with trial context—durable research substance beyond a headline or fundraiser hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3d2e3062d070974100fc",
+  "error": ""
+}

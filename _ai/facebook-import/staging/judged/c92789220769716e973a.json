@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "computer-science-education",
+    "education-policy",
+    "coding-in-schools"
+  ],
+  "reason": "Primarily a 2013 news/policy report about introducing coding in schools with limited durable framework or mechanism.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c92789220769716e973a",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education-policy",
+    "social-exclusion",
+    "crime"
+  ],
+  "reason": "Rothstein op-ed links school underperformance, labor-market exclusion, and lack of social recognition to gang violence via a clear structural mechanism, not only the 2015 news hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f05c0fe6c31316fe8631",
+  "error": ""
+}

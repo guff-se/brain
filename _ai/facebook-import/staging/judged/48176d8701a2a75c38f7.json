@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Short logistical promo for Borderland’s shared power grid with a read-more link, not developed reasoning or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "48176d8701a2a75c38f7",
+  "error": ""
+}

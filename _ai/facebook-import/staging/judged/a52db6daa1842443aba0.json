@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under-200-char travel check-in with no argument or insight—ephemeral social logistics, not durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a52db6daa1842443aba0",
+  "error": ""
+}

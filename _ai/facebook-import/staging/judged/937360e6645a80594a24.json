@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.91,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "foreign-policy",
+    "political-hypocrisy",
+    "orwell"
+  ],
+  "reason": "SvD column uses Orwellian doublethink to analyze Western/Swedish complicity with Saudi authoritarianism—a durable geopolitical and intellectual argument, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "937360e6645a80594a24",
+  "error": ""
+}

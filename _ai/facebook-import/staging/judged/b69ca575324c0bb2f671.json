@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "foreign-policy",
+    "israel-palestine",
+    "us-politics"
+  ],
+  "reason": "Saletan’s essay ties Netanyahu’s 2015 win to enduring US–Israel dynamics—enabling without cost, values drift, and policy levers—not episodic news alone.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b69ca575324c0bb2f671",
+  "error": ""
+}

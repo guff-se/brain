@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "thomas-quick",
+    "false-confessions",
+    "criminal-justice"
+  ],
+  "reason": "Substantive SvD interview explaining mechanisms of false confessions, coerced reconstructions, and psychiatric institutional failure—not a thin news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "39736a0e5f715d33b05a",
+  "error": ""
+}

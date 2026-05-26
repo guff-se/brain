@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "housing-policy",
+    "fiscal-policy",
+    "sweden"
+  ],
+  "reason": "DN Debatt headline on mortgage interest-deduction reform is structural fiscal/housing policy analysis, not ephemeral news, despite paywalled body.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e6a443476f715410d45d",
+  "error": ""
+}

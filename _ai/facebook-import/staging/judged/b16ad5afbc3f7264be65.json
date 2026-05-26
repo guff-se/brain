@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "education",
+    "creativity",
+    "learning"
+  ],
+  "reason": "Sir Ken Robinson TED talk names durable education principles and systemic critique, not ephemeral news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "b16ad5afbc3f7264be65",
+  "error": ""
+}

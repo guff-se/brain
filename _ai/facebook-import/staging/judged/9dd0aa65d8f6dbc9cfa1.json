@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional 2009 media pitch for a one-day talent-hunt event; the entrepreneur-vs-idea aside is thin and the rest is logistics and an invitation.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "9dd0aa65d8f6dbc9cfa1",
+  "error": ""
+}

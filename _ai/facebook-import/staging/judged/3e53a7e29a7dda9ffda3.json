@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: praise plus topic keywords and a listen CTA, no framing or reasoning of Gustaf's own beyond the episode headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "3e53a7e29a7dda9ffda3",
+  "error": ""
+}

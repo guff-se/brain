@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Light social banter about friends traveling to India—no argument, mechanism, or durable insight beyond a mood joke.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5f23f3cd00bce77d7c5d",
+  "error": ""
+}

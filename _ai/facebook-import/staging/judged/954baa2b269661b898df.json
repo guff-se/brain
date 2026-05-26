@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional footage for a dated local Lunch Beat session—playfulness/community slogans, not durable analysis or a reusable framework.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "954baa2b269661b898df",
+  "error": ""
+}

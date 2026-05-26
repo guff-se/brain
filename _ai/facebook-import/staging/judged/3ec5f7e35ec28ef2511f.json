@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "financial-markets",
+    "high-frequency-trading",
+    "market-regulation"
+  ],
+  "reason": "Wikipedia synthesis of flash-crash mechanisms, HFT, spoofing, and regulatory causes—durable market-structure reference, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3ec5f7e35ec28ef2511f",
+  "error": ""
+}

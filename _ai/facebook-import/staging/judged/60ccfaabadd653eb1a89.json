@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event announcement for Entreprenörsjakten with no reasoning, insight, or durable substance—promotional logistics under 200 chars.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "60ccfaabadd653eb1a89",
+  "error": ""
+}

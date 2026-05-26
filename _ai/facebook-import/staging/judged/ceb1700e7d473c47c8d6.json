@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: brief praise plus a vague rhetorical question—no causal framing or insight beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ceb1700e7d473c47c8d6",
+  "error": ""
+}

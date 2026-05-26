@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched body is GoDaddy domain parking and registrar promo, not durable article content.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "567690cb7638058c279b",
+  "error": ""
+}

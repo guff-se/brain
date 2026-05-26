@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education-technology",
+    "self-directed-learning",
+    "learning-science"
+  ],
+  "reason": "Wired explains a durable learning framework—critiquing industrial-era schooling and arguing for curiosity-driven, decentralized self-teaching with illustrative mechanism.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4a88eb91c88958147b19",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Viral meme song remix with no durable ideas, analysis, or topic beyond entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "24a38463463a3a357542",
+  "error": ""
+}

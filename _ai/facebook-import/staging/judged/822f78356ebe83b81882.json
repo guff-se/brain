@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "political-hypocrisy",
+    "swedish-politics",
+    "pension-policy"
+  ],
+  "reason": "Kadhammar's column generalizes beyond 2015 pension headlines into a durable account of partisan double standards, willful misreading, and how elite consensus reframes once-controversial positions.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "822f78356ebe83b81882",
+  "error": ""
+}

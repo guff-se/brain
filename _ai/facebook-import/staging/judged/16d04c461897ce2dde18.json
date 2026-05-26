@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "racial-profiling",
+    "civil-liberties",
+    "media"
+  ],
+  "reason": "Substantive New Yorker analysis of how suspicion, media, and profiling attach in crisis—not ephemeral event reporting.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "16d04c461897ce2dde18",
+  "error": ""
+}

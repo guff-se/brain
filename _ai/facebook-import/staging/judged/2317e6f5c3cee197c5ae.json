@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "reproductive-rights",
+    "medical-ethics",
+    "health-policy"
+  ],
+  "reason": "Substantive opinion analysis linking abortion law/Catholic care doctrine to causal harms with mechanisms and recurring patterns—not only a one-off 2013 event report.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2317e6f5c3cee197c5ae",
+  "error": ""
+}

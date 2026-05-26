@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "labor-immigration",
+    "swedish-labor-model",
+    "migration-policy"
+  ],
+  "reason": "Investigative piece explains the institutional mechanism—union remiss, collective-agreement floors, and Migrationsverket decisions—not only 2014 election headlines.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cf8889c0cd592ea9ad7d",
+  "error": ""
+}

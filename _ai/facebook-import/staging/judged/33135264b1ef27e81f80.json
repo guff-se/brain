@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on time-bound Erdogan news (~190 chars): summarizes the headline and adds a partisan hot take, not durable mechanism or principle.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "33135264b1ef27e81f80",
+  "error": ""
+}

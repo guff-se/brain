@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "harm-reduction",
+    "dark-web"
+  ],
+  "reason": "Contains durable arguments about prohibition’s limits, harm-reduction logic, and the decentralization/resilience of illicit markets.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2d33bde314e0338829de",
+  "error": ""
+}

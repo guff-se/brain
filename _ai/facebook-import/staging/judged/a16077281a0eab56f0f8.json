@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "digital-democracy",
+    "participatory-governance",
+    "iceland"
+  ],
+  "reason": "Guardian piece explains mechanisms of digital democracy platforms, crowd-sourced constitution, and structural limits—not only 2013 election news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a16077281a0eab56f0f8",
+  "error": ""
+}

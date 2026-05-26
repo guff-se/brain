@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched body is only production credits for a short dramatic sketch; no durable framework or analysis beyond an illustrative entertainment title.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "34e3c008b36ebeb5b15c",
+  "error": ""
+}

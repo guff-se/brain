@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "privacy",
+    "surveillance",
+    "biometrics"
+  ],
+  "reason": "Wired piece explains DNA phenotyping mechanics and links a public-shaming campaign to durable questions of consent, privacy, and misuse of forensic biotech.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6e04a3ff4a21098de7e8",
+  "error": ""
+}

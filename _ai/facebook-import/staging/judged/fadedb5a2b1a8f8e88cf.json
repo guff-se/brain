@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: one line of praise plus someone else's quote, with no mechanism or reasoning in Gustaf's own words.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "fadedb5a2b1a8f8e88cf",
+  "error": ""
+}

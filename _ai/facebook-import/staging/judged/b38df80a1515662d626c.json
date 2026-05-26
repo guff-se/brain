@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Title-only share of a Burning Man camp-map utility with no substantive body or durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b38df80a1515662d626c",
+  "error": ""
+}

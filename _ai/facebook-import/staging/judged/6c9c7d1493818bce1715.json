@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "music",
+    "mashup"
+  ],
+  "reason": "This is a song remix/mashup with no durable analysis, framework, or structural insight worth archiving.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "6c9c7d1493818bce1715",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "human-connection",
+    "empathy",
+    "perspective"
+  ],
+  "reason": "Substantive reflective essay on chance encounter, reentry, and why meeting people matters—not news, banter, or a thin link.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "42dad6f157dfcba19f45",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-criticism",
+    "gender",
+    "reality-tv"
+  ],
+  "reason": "Victor Malm’s essay treats Paradise Hotel as cultural analysis—authenticity, gender, promiscuity norms—not episodic recap or breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "290fcf2708a6bcaf9646",
+  "error": ""
+}

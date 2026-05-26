@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched content is Bambuser product marketing and sales copy, not durable analysis, frameworks, or substantive insight worth preserving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9711f62e8c6e6067f4ce",
+  "error": ""
+}

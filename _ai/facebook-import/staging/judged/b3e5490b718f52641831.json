@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "higher-education",
+    "critical-thinking",
+    "credentialism"
+  ],
+  "reason": "Alvesson DN Debatt op-ed advances a durable structural critique of HE expansion and critical thinking, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b3e5490b718f52641831",
+  "error": ""
+}

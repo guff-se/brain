@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "academia",
+    "research-incentives",
+    "productivity"
+  ],
+  "reason": "Durable critique of academic incentive structures (publish-or-perish) and how they can suppress deep, breakthrough work.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b3787b048330186d7795",
+  "error": ""
+}

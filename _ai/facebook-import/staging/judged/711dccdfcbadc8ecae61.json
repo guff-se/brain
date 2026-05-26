@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched metadata is credits and TEDx boilerplate only; the performance link does not embed durable ideas or analysis in the note body.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "711dccdfcbadc8ecae61",
+  "error": ""
+}

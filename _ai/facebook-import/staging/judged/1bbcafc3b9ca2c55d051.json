@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "file-sharing",
+    "pirate-bay"
+  ],
+  "reason": "Substantive long-form Café interview on copyright, open internet, and Pirate Bay history—not only a time-bound arrest notice.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1bbcafc3b9ca2c55d051",
+  "error": ""
+}

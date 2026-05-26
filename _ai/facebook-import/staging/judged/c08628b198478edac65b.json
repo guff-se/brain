@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.76,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "history-education",
+    "civic-literacy",
+    "politics"
+  ],
+  "reason": "DN Debatt op-ed on a durable civic-education theme (youth knowledge of communism), not time-bound news; title and format signal substantive analysis worth keeping despite paywall.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c08628b198478edac65b",
+  "error": ""
+}

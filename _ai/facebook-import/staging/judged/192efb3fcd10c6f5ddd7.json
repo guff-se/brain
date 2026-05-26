@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "state-ownership",
+    "banking",
+    "public-finance"
+  ],
+  "reason": "Opinion analysis with durable mechanisms—control-post sales, timing, returns vs debt paydown, and owner-governance—not only a 2011 news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "192efb3fcd10c6f5ddd7",
+  "error": ""
+}

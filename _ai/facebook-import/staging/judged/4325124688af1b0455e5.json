@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "public-transport",
+    "infrastructure",
+    "climate-policy"
+  ],
+  "reason": "Op-ed explains how profit-maximizing rail pricing shifts mode choice and emissions—a reusable public-ownership vs private-incentive pattern, not just a 2011 news hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4325124688af1b0455e5",
+  "error": ""
+}

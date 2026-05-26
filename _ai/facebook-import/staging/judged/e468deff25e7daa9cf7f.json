@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "police-militarization",
+    "civil-liberties",
+    "law-enforcement"
+  ],
+  "reason": "Marine-veteran analysis of why combat gear and occupier posture undermine domestic policing—a structural pattern beyond the Ferguson news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e468deff25e7daa9cf7f",
+  "error": ""
+}

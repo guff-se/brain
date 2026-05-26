@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "migration-policy",
+    "political-rhetoric",
+    "sweden"
+  ],
+  "reason": "Juxtaposes humanitarian rhetoric with restrictive reunification policy and argues that harsher rules push more families onto boats—a causal political critique, not a bare news reaction.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "521cc470d4de54dc68b6",
+  "error": ""
+}

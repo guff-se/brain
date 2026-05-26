@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "political-extremism",
+    "democracy",
+    "economic-crisis"
+  ],
+  "reason": "Substantive Swedish reportage on Golden Dawn’s parliamentary entry with causal framing (economic crisis, collapsed party trust, Weimar parallels), not only a 2012 election headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "dff0cdc2bbec5140280d",
+  "error": ""
+}

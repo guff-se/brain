@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.84,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "autonomous-weapons",
+    "humanitarian-law",
+    "arms-control"
+  ],
+  "reason": "Substantial external analysis of lethal autonomy, escalation, accountability, IHL—not just a launch headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9b305073e5974fdb9e06",
+  "error": ""
+}

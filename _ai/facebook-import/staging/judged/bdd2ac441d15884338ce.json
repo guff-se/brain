@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "surveillance",
+    "encryption",
+    "privacy"
+  ],
+  "reason": "Substantive investigative reporting on how NSA/GCHQ compromised SIM encryption at scale—durable mechanisms and structural privacy implications, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bdd2ac441d15884338ce",
+  "error": ""
+}

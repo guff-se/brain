@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional download plug for a remix with no argument or durable insight; under 200 chars.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "3f8c6383f84d429162f0",
+  "error": ""
+}

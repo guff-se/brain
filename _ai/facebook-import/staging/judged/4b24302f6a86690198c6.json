@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "north-korea",
+    "propaganda",
+    "education"
+  ],
+  "reason": "Investigative memoir excerpt with durable insight into indoctrination, epistemic limits, and nationalist mechanisms—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4b24302f6a86690198c6",
+  "error": ""
+}

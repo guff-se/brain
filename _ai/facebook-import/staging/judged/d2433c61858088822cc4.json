@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary under 200 chars—one causal line that mirrors the article thesis, then a sarcastic tag; not framing beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "d2433c61858088822cc4",
+  "error": ""
+}

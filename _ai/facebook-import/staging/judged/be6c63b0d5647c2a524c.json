@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "parenting",
+    "gender-roles",
+    "neuroscience"
+  ],
+  "reason": "Substantive interview with causal claims about biology, caregiving, and parental roles, plus a named counter-argument—not ephemeral news or thin link bait.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "be6c63b0d5647c2a524c",
+  "error": ""
+}

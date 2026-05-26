@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a sarcastic political hot take on Thorning-Schmidt's hypocrisy, unrelated to the shared article and without mechanism or durable framing.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "108be07ddecefe2b9e4c",
+  "error": ""
+}

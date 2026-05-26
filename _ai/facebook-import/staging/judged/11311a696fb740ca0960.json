@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "September 2015 Schengen/asylum crisis news commentary tied to that week's border closures and headcounts, not durable analysis or principles beyond the moment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "11311a696fb740ca0960",
+  "error": ""
+}

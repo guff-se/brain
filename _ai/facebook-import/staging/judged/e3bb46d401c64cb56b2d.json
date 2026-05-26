@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters and only a family Christmas joke—no reasoning, mechanism, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e3bb46d401c64cb56b2d",
+  "error": ""
+}

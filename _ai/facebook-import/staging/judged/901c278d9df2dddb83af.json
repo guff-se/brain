@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Live-chat endorsement of a contact with personal praise but no durable ideas, principles, or substantive take on migration.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "901c278d9df2dddb83af",
+  "error": ""
+}

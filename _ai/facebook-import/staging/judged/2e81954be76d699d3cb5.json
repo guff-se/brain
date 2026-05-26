@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on ephemeral Pirate Bay trial news: situational irony and emotional reaction, not ≥200 chars of developed mechanism or principle.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "2e81954be76d699d3cb5",
+  "error": ""
+}

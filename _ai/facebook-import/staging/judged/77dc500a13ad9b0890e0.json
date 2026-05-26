@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "swedish-politics",
+    "household-debt",
+    "central-banking"
+  ],
+  "reason": "Time-bound 2014 crisis column, but Cervenka develops durable mechanisms—credit growth outpacing GDP, Riksbank abdication, and market trust—that go beyond news recap.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "77dc500a13ad9b0890e0",
+  "error": ""
+}

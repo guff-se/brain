@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary only restates Swedbank’s payout hook and endorses Cervenka—no mechanism, principle, or framing beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "6e0c371dacd90870b059",
+  "error": ""
+}

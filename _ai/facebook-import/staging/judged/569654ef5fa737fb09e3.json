@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "artificial-intelligence",
+    "go",
+    "games"
+  ],
+  "reason": "Substantive Wired feature on why Go resists automation—mechanisms, complexity, and AI limits—not ephemeral news or a bare link.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "569654ef5fa737fb09e3",
+  "error": ""
+}

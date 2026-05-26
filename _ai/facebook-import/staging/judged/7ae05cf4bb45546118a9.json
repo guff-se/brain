@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is urgent alarm about a 2010 news item, not framing beyond the headline—no mechanism or durable argument.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7ae05cf4bb45546118a9",
+  "error": ""
+}

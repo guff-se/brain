@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "mass-incarceration",
+    "criminal-justice",
+    "united-states"
+  ],
+  "reason": "Comparative incarceration statistics and historical trend framing address a durable structural policy topic, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3d5067e72d0f9eacf37e",
+  "error": ""
+}

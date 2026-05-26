@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Political drunk-parody edit with no durable topic, framework, or analysis—generic time-bound entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "970a98720d9dc190d775",
+  "error": ""
+}

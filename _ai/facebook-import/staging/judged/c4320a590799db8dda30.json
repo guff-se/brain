@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "criminal-justice",
+    "public-health"
+  ],
+  "reason": "Evergreen policy analysis linking prohibition to incarceration, overdose risk, violence, and youth harm—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c4320a590799db8dda30",
+  "error": ""
+}

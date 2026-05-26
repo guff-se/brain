@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a single cynical reaction to a 2014 parliamentary vote, with no mechanism, argument, or durable insight beyond the moment.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "06c8aa0e9fa85d2f3d6c",
+  "error": ""
+}

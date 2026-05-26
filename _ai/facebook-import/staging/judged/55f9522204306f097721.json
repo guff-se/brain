@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound 2012 news brief on a specific school illness outbreak; shallow event reporting, not durable analysis of social contagion or conversion disorder.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "55f9522204306f097721",
+  "error": ""
+}

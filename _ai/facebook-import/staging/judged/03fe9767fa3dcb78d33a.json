@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf only echoes a fleeting 2015 meme with no analysis, principle, or durable insight beyond the viral moment.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "03fe9767fa3dcb78d33a",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education-policy",
+    "private-equity",
+    "sweden"
+  ],
+  "reason": "Durable case study of incentives and failure modes in for-profit schooling and private equity exit logic in public services.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "86dec4e27acb32a94a21",
+  "error": ""
+}

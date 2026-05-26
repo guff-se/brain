@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "neuroscience",
+    "brain-imaging",
+    "pain"
+  ],
+  "reason": "Named neuroscientist TED talk on real-time fMRI and conscious experience of pain/emotion — durable science topic despite thin fetched metadata.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e71101092d00f54a0b35",
+  "error": ""
+}

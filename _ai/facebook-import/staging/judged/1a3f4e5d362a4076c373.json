@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Novelty gag site with a one-line perception joke, not durable analysis or a topic worth retaining.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1a3f4e5d362a4076c373",
+  "error": ""
+}

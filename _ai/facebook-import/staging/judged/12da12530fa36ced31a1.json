@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional YouTube metadata for a pop/jazz performance—generic entertainment with no durable analysis, framework, or insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "12da12530fa36ced31a1",
+  "error": ""
+}

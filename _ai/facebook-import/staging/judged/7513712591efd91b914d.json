@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "politics",
+    "ethics",
+    "honesty"
+  ],
+  "reason": "Extends a childhood share-or-hoard frame with a third political mechanism—denying you have the apple—which is a durable, causal observation rather than a mood or event.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7513712591efd91b914d",
+  "error": ""
+}

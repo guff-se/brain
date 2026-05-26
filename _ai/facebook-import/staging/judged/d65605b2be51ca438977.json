@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "food-industry",
+    "public-health",
+    "nutrition-policy"
+  ],
+  "reason": "Satirical guest essay with durable mechanisms—industry health-washing, lobbying against child-nutrition standards, profit incentives, and exploitation of biological cravings—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d65605b2be51ca438977",
+  "error": ""
+}

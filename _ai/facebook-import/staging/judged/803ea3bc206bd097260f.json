@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "political-economy",
+    "greece",
+    "institutions"
+  ],
+  "reason": "Substantive opinion analysis tracing Greece’s crisis to clientelism, rent-seeking, and weak institutions since the 1980s—not a news flash or headline-only share.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "803ea3bc206bd097260f",
+  "error": ""
+}

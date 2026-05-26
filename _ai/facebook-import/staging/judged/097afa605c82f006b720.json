@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "hiring",
+    "recruiting",
+    "management"
+  ],
+  "reason": "Google's data-backed hiring and leadership insights (GPA/brainteaser irrelevance, behavioral interviews, manager consistency) are durable mechanisms, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "097afa605c82f006b720",
+  "error": ""
+}

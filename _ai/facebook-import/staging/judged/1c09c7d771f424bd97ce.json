@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "migration-policy",
+    "media-narrative",
+    "progress-optimism"
+  ],
+  "reason": "The edit states a durable stance—long-run progress optimism and resisting fear-driven media—alongside clear values on openness and human rights, despite time-bound outrage.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1c09c7d771f424bd97ce",
+  "error": ""
+}

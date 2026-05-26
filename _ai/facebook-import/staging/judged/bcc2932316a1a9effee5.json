@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-line recommendation blurb with no Gustaf-specific insight, principle, or analysis beyond pointing at a popular explainer.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "bcc2932316a1a9effee5",
+  "error": ""
+}

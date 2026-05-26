@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "meaning-making",
+    "secularism",
+    "religion"
+  ],
+  "reason": "Paired commentary reframes faith as self-created meaning with a clear substitution (God → Mening) and a principle, not a headline reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "0c3665f27059344abebd",
+  "error": ""
+}

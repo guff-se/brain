@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "tedxstockholm",
+    "events"
+  ],
+  "reason": "This is a promotional/organizational overview with no durable ideas, mechanisms, or analysis beyond event statistics.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "eb6a89c44e0865a54eab",
+  "error": ""
+}

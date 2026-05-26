@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "resource-conflict",
+    "sudan",
+    "corporate-accountability"
+  ],
+  "reason": "Sourced debate analysis tracing oil revenues → military spending → displacement and atrocities, countering corporate development claims—a durable mechanism, not episodic news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b72c501f4a3cc2fb5791",
+  "error": ""
+}

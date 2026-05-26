@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "privacy",
+    "surveillance",
+    "data-retention"
+  ],
+  "reason": "Crisp principle on how data storage should work (targeted, security-only) plus a durable pattern claim that scope creep was predictable.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6e80e9b4f5144cf07bcf",
+  "error": ""
+}

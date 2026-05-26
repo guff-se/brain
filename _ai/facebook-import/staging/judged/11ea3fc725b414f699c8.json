@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary under 200 chars—logistical reply on Riksdagsrosten funding transparency plus a quip, not durable reasoning or insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "11ea3fc725b414f699c8",
+  "error": ""
+}

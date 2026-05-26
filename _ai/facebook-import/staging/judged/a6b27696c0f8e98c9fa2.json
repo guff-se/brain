@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "development-communication",
+    "aid-narratives",
+    "media-stereotypes"
+  ],
+  "reason": "SAIH's Africa for Norway parody embeds a durable critique of pity-based charity imagery and simplistic Western narratives about Africa.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "a6b27696c0f8e98c9fa2",
+  "error": ""
+}

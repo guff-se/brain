@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "european-union",
+    "democracy",
+    "financial-crisis"
+  ],
+  "reason": "Cervenka column uses the 2011 euro crisis to argue a durable mechanism—the real threat is democratic deficit and opaque rescue accounting, not headline deficits alone.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "361f27824cea0734d133",
+  "error": ""
+}

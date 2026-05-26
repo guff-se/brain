@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: office surprise and stage perk, no argument or durable insight beyond naming a colleague's book.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "fe5af3ab672322d80161",
+  "error": ""
+}

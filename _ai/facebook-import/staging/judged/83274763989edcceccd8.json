@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "pseudoscience",
+    "placebo-effect",
+    "consumer-protection"
+  ],
+  "reason": "Encyclopedic account of a famous placebo scam, regulatory pushback, and controlled trials—durable reference on pseudoscience marketing and evidence.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "83274763989edcceccd8",
+  "error": ""
+}

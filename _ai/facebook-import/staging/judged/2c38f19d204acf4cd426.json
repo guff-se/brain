@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "neuroscience",
+    "biohacking",
+    "cognitive-enhancement"
+  ],
+  "reason": "Wired feature on DIY tDCS covers research, ethics, and self-experimentation culture with lasting explanatory depth, not a time-bound news blip.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2c38f19d204acf4cd426",
+  "error": ""
+}

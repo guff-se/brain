@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch blocked; URL/title indicate a 2012 policy news story, not durable analysis or insight worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5cf7b88ea67f1be2cce4",
+  "error": ""
+}

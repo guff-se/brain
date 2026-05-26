@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired share only pastes Jarvis's seven rights verbatim with no added framing or reasoning from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7d9188eecf9a1720960c",
+  "error": ""
+}

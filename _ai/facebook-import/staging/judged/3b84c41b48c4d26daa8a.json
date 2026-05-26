@@ -1,15 +1,15 @@
 {
-  "verdict": "save",
-  "confidence": 0.72,
-  "register_hint": "consumed",
-  "kind_hint": "clipping",
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": "note",
   "tags_hint": [
     "ego",
     "culture",
     "psychology"
   ],
-  "reason": "Crisp principle about ego as defensive structure and culture as normalized neurosis. Durable analytical claim worth anchoring a concept.",
-  "model": "claude-haiku-4-5",
+  "reason": "This is primarily a pasted quote without Gustaf’s own added framing or causal development, so it functions like a one-liner citation.",
+  "model": "auto",
   "item_type": "own_text",
   "content_sha": "3b84c41b48c4d26daa8a",
   "error": ""

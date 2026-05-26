@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin video metadata is only a 2009 event thank-you recap with no durable ideas, mechanisms, or analysis.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "7c3db5356b5bccaff5a1",
+  "error": ""
+}

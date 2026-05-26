@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "crowdfunding",
+    "entrepreneurship",
+    "fundraising"
+  ],
+  "reason": "Structured analysis of six recurring crowdfunding mistakes with causal mechanisms about audience motivation, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cef03e109f6c526b8b80",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "intellectual-property",
+    "ownership",
+    "cognition"
+  ],
+  "reason": "Crisp skepticism of owning mental information structures — a durable principle about IP and cognition, not a time-bound event.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "60d005ad0a2ccd676800",
+  "error": ""
+}

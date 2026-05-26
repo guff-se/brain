@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2014 Google promo/demo clip with thin marketing copy and no analysis, mechanisms, or durable insight beyond a time-bound product milestone.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "6f0b2f346e3d6bd9e246",
+  "error": ""
+}

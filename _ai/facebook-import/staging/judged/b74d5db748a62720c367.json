@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Casual browser-game mashup with no durable ideas, analysis, or expertise—ephemeral entertainment only.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b74d5db748a62720c367",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "free-expression",
+    "public-discourse",
+    "social-norms"
+  ],
+  "reason": "A crisp principle on opinion rights versus social consequences—durable stance on discourse, not banter or news.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ddc8aecb95830850b8e6",
+  "error": ""
+}

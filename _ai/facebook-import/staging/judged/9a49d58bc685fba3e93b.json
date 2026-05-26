@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched metadata is mostly 2010 Burning Man promotion and camp logistics; the durable gifting content is in the video itself, not captured in the import text.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "9a49d58bc685fba3e93b",
+  "error": ""
+}

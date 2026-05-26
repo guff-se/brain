@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: social shout-out and enthusiasm about drone racing progress, with no mechanism, analysis, or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "bdb64e004d2c5d9287e5",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "education",
+    "metrics",
+    "schooling"
+  ],
+  "reason": "Short but makes a durable critique of what PISA measures and a causal claim about institutional self-perpetuation in industrial schooling.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a98978f5fa2bded40e6e",
+  "error": ""
+}

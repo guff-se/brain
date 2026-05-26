@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ephemeral DMI local weather forecast with no analysis, principles, or durable knowledge beyond that day's conditions.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "194485e859ffe8ea41a4",
+  "error": ""
+}

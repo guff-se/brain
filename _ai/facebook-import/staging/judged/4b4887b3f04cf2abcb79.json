@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "innovation",
+    "business-models",
+    "incentives"
+  ],
+  "reason": "A concise but durable incentive-based claim about how incumbents preserve problems they profit from, useful as a recurring lens.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4b4887b3f04cf2abcb79",
+  "error": ""
+}

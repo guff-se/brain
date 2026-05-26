@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "YouTube description is only production credits and a one-line pitch for a learning product, with no durable ideas, mechanisms, or analysis to archive.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "67da266af46fbc837130",
+  "error": ""
+}

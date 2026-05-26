@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "israel-palestine",
+    "geopolitics",
+    "power-dynamics"
+  ],
+  "reason": "Standalone commentary exceeds 200 chars and chains mechanisms—enemy cultivation, victim narrative, occupation—not a headline reaction to ephemeral news.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "6ff94c5c67fa686b6a16",
+  "error": ""
+}

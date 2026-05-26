@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Personal farewell to Malin about her India trip—relational warmth with no durable ideas, and under 200 chars without argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8d13ee41b75312110447",
+  "error": ""
+}

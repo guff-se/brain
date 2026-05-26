@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "open-source",
+    "organizational-design",
+    "knowledge-sharing"
+  ],
+  "reason": "Exhibition monologue develops cathedral vs. bazaar as durable organizational and knowledge-control frameworks, not entertainment or news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "b12f71c214f928b86d23",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 80 chars and paired: aesthetic reaction ('nice picture') adds no framing beyond the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "df5403380dd72b819104",
+  "error": ""
+}

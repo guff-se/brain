@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Under-200-character own_text with a social invitation/link, no durable mechanism or analysis.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1ae861b93b6a24aaf913",
+  "error": ""
+}

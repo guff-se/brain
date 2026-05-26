@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "intellectual-property",
+    "public-domain"
+  ],
+  "reason": "Expert legal analysis of term-extension mechanics, lobbying incentives, and public-domain principles that remain useful beyond the 2011 EU news moment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b557eeb951c12fbec83d",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Kickstarter campaign copy for a maker toy is promotional and transactional, not durable knowledge or analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7e752a2cb471811779e4",
+  "error": ""
+}

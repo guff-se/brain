@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "civic-organizing",
+    "transformation"
+  ],
+  "reason": "Conference recap, but the body embeds a reusable change-organizing framework, substantive culture-and-leadership analysis, and vault-relevant network context—not headline-only news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d020ca02ee864da327b6",
+  "error": ""
+}

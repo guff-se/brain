@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education-policy",
+    "geography",
+    "curriculum"
+  ],
+  "reason": "Substantive expert critique of geography pedagogy, eurocentrism, and curriculum design—not merely a time-bound announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "71e310e070daad02632e",
+  "error": ""
+}

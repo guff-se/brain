@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.74,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Reactive one-liner on a specific linked story—moral outrage about unions and legality without mechanism, context, or a developed stance worth preserving alone.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "0573b13d6643d859290c",
+  "error": ""
+}

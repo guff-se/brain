@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "politics",
+    "political-framing",
+    "migration-policy"
+  ],
+  "reason": "Standalone commentary exceeds 200 chars and argues a durable principle—that left–right spectrum labels misread real policy splits—even if the 2015 CUF/KDU example is dated.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "9f714197f174972705ab",
+  "error": ""
+}

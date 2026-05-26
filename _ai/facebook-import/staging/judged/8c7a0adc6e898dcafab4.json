@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Under 200 chars and purely logistical—2014 registration and Facebook group migration, no argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8c7a0adc6e898dcafab4",
+  "error": ""
+}

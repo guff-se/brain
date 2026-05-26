@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Wikipedia incarceration-rate table is reference statistics and maintenance text, not analysis, mechanisms, or durable argument worth a vault note.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "55a32d41b9b23416c9f6",
+  "error": ""
+}

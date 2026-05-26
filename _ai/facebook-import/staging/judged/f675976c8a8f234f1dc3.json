@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "tim-minchin",
+    "life-lessons",
+    "personal-growth"
+  ],
+  "reason": "A named, substantive talk that distills durable life principles rather than reporting a time-bound event.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "f675976c8a8f234f1dc3",
+  "error": ""
+}

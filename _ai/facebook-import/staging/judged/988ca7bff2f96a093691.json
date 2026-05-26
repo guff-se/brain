@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a single ironic quip on the 2015 Uber/taxi fight, not a multi-sentence argument with durable mechanism or insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "988ca7bff2f96a093691",
+  "error": ""
+}

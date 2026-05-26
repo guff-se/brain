@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.84,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "whistleblowing",
+    "geopolitics",
+    "media-coverage"
+  ],
+  "reason": "Substantive op-ed with causal claims, comparative framing, and recurring patterns (double standards, silence on US conduct) beyond a simple news report.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6fde8ee1c2729298e8ba",
+  "error": ""
+}

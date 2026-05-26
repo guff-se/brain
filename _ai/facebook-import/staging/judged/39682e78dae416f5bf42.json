@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "human-enhancement",
+    "ai-ethics",
+    "existential-risk"
+  ],
+  "reason": "TEDx talk by a named FHI researcher on a durable normative question—what humanity to aim for—not ephemeral news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "39682e78dae416f5bf42",
+  "error": ""
+}

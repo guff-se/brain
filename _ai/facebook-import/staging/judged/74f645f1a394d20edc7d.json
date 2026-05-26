@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gig-economy",
+    "labor-law",
+    "regulatory-arbitrage"
+  ],
+  "reason": "Substantive analysis of worker classification, control tests, and regulatory arbitrage in on-demand platforms—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "74f645f1a394d20edc7d",
+  "error": ""
+}

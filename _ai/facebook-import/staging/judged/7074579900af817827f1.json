@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "welfare-state",
+    "labor-economics",
+    "nordic-model"
+  ],
+  "reason": "Upshot analysis challenges the welfare-vs-work intuition with mechanisms, expert framing, and policy comparisons—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7074579900af817827f1",
+  "error": ""
+}

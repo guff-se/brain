@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "sweden",
+    "governance"
+  ],
+  "reason": "DN Debatt title signals durable higher-education policy analysis on tuition and university quality, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "956a665e8b4844a784a2",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gifted-education",
+    "education",
+    "differentiation"
+  ],
+  "reason": "Satirical listicle embeds durable mechanisms—grade lock-in, faux differentiation, interest curtailment—in critiques of gifted-child schooling.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2484451c5159bd760be4",
+  "error": ""
+}

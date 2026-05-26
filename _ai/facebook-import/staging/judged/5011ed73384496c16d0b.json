@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin, novelty travel/sex-park description with no durable analysis or framework.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5011ed73384496c16d0b",
+  "error": ""
+}

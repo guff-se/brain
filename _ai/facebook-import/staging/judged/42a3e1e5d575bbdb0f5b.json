@@ -1,11 +1,11 @@
 {
-  "verdict": "save",
-  "confidence": 0.75,
-  "register_hint": "voice",
-  "kind_hint": "clipping",
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
   "tags_hint": [],
-  "reason": "Asserts a durable principle: humans need meaning and feeling, without which everything else is hollow; captures Gustaf's philosophical stance on why the future matters.",
-  "model": "claude-haiku-4-5",
+  "reason": "Mostly a blog promo with a short aphorism on meaning—not a developed argument; durable substance belongs in the linked guff.se post if judged separately.",
+  "model": "auto",
   "item_type": "own_text",
   "content_sha": "42a3e1e5d575bbdb0f5b",
   "error": ""

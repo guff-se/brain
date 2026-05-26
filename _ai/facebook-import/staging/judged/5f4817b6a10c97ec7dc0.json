@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Live-music promo and DVD pitch with no durable ideas, frameworks, or analysis beyond entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "5f4817b6a10c97ec7dc0",
+  "error": ""
+}

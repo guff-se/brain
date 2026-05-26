@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "surveillance",
+    "data-privacy",
+    "internet-freedom"
+  ],
+  "reason": "Snowden’s TED talk frames enduring principles—privacy rights, surveillance, and how law should protect the internet—not a time-bound news item.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "826ca4489f771b5e2e90",
+  "error": ""
+}

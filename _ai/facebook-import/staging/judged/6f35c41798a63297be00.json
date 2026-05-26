@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "privatization",
+    "government-contracting",
+    "corporate-accountability"
+  ],
+  "reason": "Hungry Beast–style investigation of Serco’s outsized role in defense, prisons, and public infrastructure — durable structural accountability, not a time-bound announcement.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "6f35c41798a63297be00",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin promotional metadata for a 2014 Maidan documentary share—no durable analysis, framework, or reasoning in the fetched description.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "8ff885584d8869ecc666",
+  "error": ""
+}

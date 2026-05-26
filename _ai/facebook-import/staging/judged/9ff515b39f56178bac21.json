@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "geopolitics",
+    "global-governance",
+    "power-dynamics"
+  ],
+  "reason": "Thin TED metadata still signals durable structural analysis—a named expert outlining major global power shifts—not ephemeral news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9ff515b39f56178bac21",
+  "error": ""
+}

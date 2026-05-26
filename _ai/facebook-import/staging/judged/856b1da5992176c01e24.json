@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "economic-mobility",
+    "income-inequality",
+    "intergenerational-elasticity"
+  ],
+  "reason": "Explains intergenerational earnings mobility, Corak’s father–son correlation framework, and cross-country comparison—durable structural analysis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "856b1da5992176c01e24",
+  "error": ""
+}

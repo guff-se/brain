@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "polyamory",
+    "relationships",
+    "psychology"
+  ],
+  "reason": "Research-backed myth-busting on consensual non-monogamy explains mechanisms and patterns, not a time-bound news event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "66a2c41c2adf82c583e2",
+  "error": ""
+}

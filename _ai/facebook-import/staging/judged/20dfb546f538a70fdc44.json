@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "music",
+    "comedy"
+  ],
+  "reason": "A music video/meta entertainment release without durable frameworks, mechanisms, or lasting insight to build a note around.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "20dfb546f538a70fdc44",
+  "error": ""
+}

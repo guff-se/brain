@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "technology",
+    "communication",
+    "relationships"
+  ],
+  "reason": "Short essay with a clear tools-not-slaves thesis, causal example (distance/connection), and durable reframing—not news, banter, or a bare link.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1dfc00e7cac8776bf73d",
+  "error": ""
+}

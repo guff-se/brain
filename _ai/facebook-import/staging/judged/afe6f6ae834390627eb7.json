@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paywalled DN piece with only a headline lede; time-bound 2015 party-position reporting on the refugee crisis, not durable analysis or mechanisms.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "afe6f6ae834390627eb7",
+  "error": ""
+}

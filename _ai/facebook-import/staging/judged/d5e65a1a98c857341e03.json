@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters; relays a Bildt quote with attribution but no argument or framing from Gustaf.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d5e65a1a98c857341e03",
+  "error": ""
+}

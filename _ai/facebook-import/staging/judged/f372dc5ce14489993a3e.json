@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched body is promo and channel links; title is motivational spoken word with no durable framework or analysis in the metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "f372dc5ce14489993a3e",
+  "error": ""
+}

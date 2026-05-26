@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional, time-bound Makerspark event listing with no durable insight, principle, or analysis.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "caee33591caaffa53d5c",
+  "error": ""
+}

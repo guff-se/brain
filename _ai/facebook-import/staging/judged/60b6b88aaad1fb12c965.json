@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Site self-description for a novelty meme project, not durable analysis or substantive external content worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "60b6b88aaad1fb12c965",
+  "error": ""
+}

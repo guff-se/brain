@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary mirrors the headline's reverse-causality point and adds only a correlation slogan, not framing beyond the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "15821ffae64f367c81df",
+  "error": ""
+}

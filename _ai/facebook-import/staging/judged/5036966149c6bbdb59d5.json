@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "religion-and-politics",
+    "political-rhetoric",
+    "american-politics"
+  ],
+  "reason": "Analytical opinion column on the mechanism of divine-calling claims in campaigns and media deference to faith rhetoric—a durable pattern beyond the 2011 news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5036966149c6bbdb59d5",
+  "error": ""
+}

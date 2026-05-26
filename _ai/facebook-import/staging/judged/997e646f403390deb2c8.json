@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "neuroscience",
+    "decision-making",
+    "consciousness"
+  ],
+  "reason": "Title names David Eagleman on choice—a durable expert/topic pair; thin metadata still meets the named-expert structural-content bar for shared_video.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "997e646f403390deb2c8",
+  "error": ""
+}

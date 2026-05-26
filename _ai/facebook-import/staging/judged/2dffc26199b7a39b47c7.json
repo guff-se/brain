@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched body is a crafts-site navigation index, not the lantern tutorial or any durable analysis, framework, or technique worth preserving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2dffc26199b7a39b47c7",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drone-warfare",
+    "investigative-journalism",
+    "us-foreign-policy"
+  ],
+  "reason": "The Intercept's Drone Papers series is durable investigative reporting on assassination programs, kill chains, and military mechanisms—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f64b527f01d88b4f60a2",
+  "error": ""
+}

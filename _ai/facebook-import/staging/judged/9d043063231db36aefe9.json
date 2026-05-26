@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is mostly a quoted collective WikiLeaks statement plus a pointer to external authors, with almost no original reasoning from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "9d043063231db36aefe9",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "ted",
+    "wonder"
+  ],
+  "reason": "Substantive comparative essay on shared mechanisms (barriers, immersion, wonder) between TED and Burning Man—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c1a48f6451eb17a2cc93",
+  "error": ""
+}

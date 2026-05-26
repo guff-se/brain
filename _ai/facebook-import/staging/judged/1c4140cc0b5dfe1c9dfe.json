@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "harm-reduction",
+    "public-health"
+  ],
+  "reason": "Guardian piece distills a comparative Home Office study with durable evidence on enforcement vs use and health-based policy, not only a one-day news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1c4140cc0b5dfe1c9dfe",
+  "error": ""
+}

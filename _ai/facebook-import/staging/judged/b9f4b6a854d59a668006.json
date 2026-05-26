@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "political-art",
+    "refugees",
+    "satire"
+  ],
+  "reason": "A crisp satirical art concept that inverts Danish refugee asset confiscation and encodes a clear political stance, not mere news or banter.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b9f4b6a854d59a668006",
+  "error": ""
+}

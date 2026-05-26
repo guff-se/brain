@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "critical-thinking",
+    "skepticism",
+    "persuasion"
+  ],
+  "reason": "Pearce's stated purpose is a durable mechanism claim—how fact-free, emotionally charged language bypasses rational thought and enables charlatans—not just a novelty link.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8cea6fe87e41da124402",
+  "error": ""
+}

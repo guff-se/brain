@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "theme-camps",
+    "placement-map"
+  ],
+  "reason": "It’s an event-specific 2014 placement map/list with little durable analysis or mechanism.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "88610f810a86d7ae1529",
+  "error": ""
+}

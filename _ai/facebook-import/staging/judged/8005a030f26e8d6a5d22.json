@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "psychedelics",
+    "mental-health",
+    "drug-policy"
+  ],
+  "reason": "Substantive Guardian feature on psychedelic research, prohibition history, and therapeutic mechanisms—not ephemeral news or a thin share.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8005a030f26e8d6a5d22",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "space-exploration",
+    "mars-one",
+    "existential-meaning"
+  ],
+  "reason": "Hanna Fahls satiriska kolumn utvecklar varaktiga teman—utforskandets mening, isolering och drömmen om rymden—bortom ren nyhetsnotis om Mars One.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "90c015dcb9ef985e6aef",
+  "error": ""
+}

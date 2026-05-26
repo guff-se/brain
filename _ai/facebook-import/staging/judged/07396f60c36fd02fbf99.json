@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "open-innovation",
+    "business-models",
+    "intellectual-property"
+  ],
+  "reason": "Introduces a durable four-category open business model spiral (closed → co-creative) with mechanisms, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "07396f60c36fd02fbf99",
+  "error": ""
+}

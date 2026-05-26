@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A watch-this nudge with no Gustaf analysis; the TEDx clip only restates familiar Burning Man participation rhetoric.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ec087e5bb4494c1cb9fe",
+  "error": ""
+}

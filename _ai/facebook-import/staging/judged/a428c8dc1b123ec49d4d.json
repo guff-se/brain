@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a short, generic reaction with no mechanism or durable framing beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "a428c8dc1b123ec49d4d",
+  "error": ""
+}

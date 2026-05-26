@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters: a single sarcastic quip about male grooming conformity, not a developed argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b175e8f26e683e008fe1",
+  "error": ""
+}

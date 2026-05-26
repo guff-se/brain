@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound Swedish op-ed sparring over a specific 2015 media feud; the expert-vs-pundit point is thin next to heavy episodic polemic.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "668c5854aeba87e878f2",
+  "error": ""
+}

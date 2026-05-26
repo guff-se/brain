@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned a generic Greenpeace homepage and news feed, not the shared 2011 article—no durable analysis, only promotional boilerplate and ephemeral headlines.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e5d4e975326e2ee8a91f",
+  "error": ""
+}

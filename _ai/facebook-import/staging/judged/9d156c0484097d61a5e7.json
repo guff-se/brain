@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "87-char promotional shout-out with no argument, mechanism, or durable insight; under-200 own_text default applies.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "9d156c0484097d61a5e7",
+  "error": ""
+}

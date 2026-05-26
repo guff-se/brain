@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "individualism",
+    "social-theory",
+    "epistemology"
+  ],
+  "reason": "Standalone commentary clears the 200-character bar with a non-trivial principle (group generalizations vs individual judgment) via the vaccine analogy, not merely a reaction to the GP piece.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "8adf2caa2be6b8d26ab9",
+  "error": ""
+}

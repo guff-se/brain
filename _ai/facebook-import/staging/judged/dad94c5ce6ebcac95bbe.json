@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound logistical babysitting ask with no durable insight; under 200 chars with no argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "dad94c5ce6ebcac95bbe",
+  "error": ""
+}

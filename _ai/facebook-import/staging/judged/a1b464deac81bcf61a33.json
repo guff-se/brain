@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gamification",
+    "serious-games",
+    "game-design"
+  ],
+  "reason": "Substantive Wired review of McGonigal's Reality Is Broken thesis—game mechanics, happiness research, and ARG/serious-game frameworks that remain useful beyond 2011.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a1b464deac81bcf61a33",
+  "error": ""
+}

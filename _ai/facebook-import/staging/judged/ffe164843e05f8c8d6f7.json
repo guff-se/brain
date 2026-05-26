@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "83-char joke attributed to a character; no argument, mechanism, or durable insight under strict own_text rules.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ffe164843e05f8c8d6f7",
+  "error": ""
+}

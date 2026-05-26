@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "cultural-policy",
+    "music-industry"
+  ],
+  "reason": "Substantive opinion analysis of copyright licensing, STIM agreements, and publishers’ litigation tactics—not ephemeral news or commentary fluff.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ccf5d198fbb99f12ea1e",
+  "error": ""
+}

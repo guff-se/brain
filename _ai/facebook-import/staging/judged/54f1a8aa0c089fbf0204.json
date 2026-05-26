@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "A creative short-film share about Dr. Seuss at Burning Man—entertainment and credits, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "54f1a8aa0c089fbf0204",
+  "error": ""
+}

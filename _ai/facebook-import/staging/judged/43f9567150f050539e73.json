@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "feminism",
+    "gender",
+    "harassment"
+  ],
+  "reason": "Durable first-person analysis of activist fatigue, threats, and the structural logic behind feminism framed as lived experience rather than time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "43f9567150f050539e73",
+  "error": ""
+}

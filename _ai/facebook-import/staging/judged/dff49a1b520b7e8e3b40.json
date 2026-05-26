@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: one-sentence contrast (Timbuktu vs R. Kelly) is a hot take on the article’s sexism theme, not added framing or causal reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "dff49a1b520b7e8e3b40",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.94,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "9gag gag URL with meaningless title implies entertainment/meme content, not lasting analysis or knowledge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "25c313b8c8ac01eafacf",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.96,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Short promotional recruitment ask for NXTG Göteborg with no argument, insight, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d67b77e3548ae28222f7",
+  "error": ""
+}

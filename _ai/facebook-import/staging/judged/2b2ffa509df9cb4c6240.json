@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf adds only a short reaction to 2015 border-control news; his own text is under 200 characters without a developed argument, and the bulk is a quoted Lagrådet statement.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "2b2ffa509df9cb4c6240",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man",
+    "participatory-culture"
+  ],
+  "reason": "Paired mode: one-line endorsement of Bard’s piece with no reasoning, mechanism, or framing beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "69f03c9c5e7bc58b6ce1",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "biotechnology",
+    "patent-law",
+    "agriculture"
+  ],
+  "reason": "Encyclopedic account of biotech patent business models and landmark farmer-litigation cases—structural, reference-grade knowledge, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a76b42f7e4110f2c2db0",
+  "error": ""
+}

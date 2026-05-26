@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "mass-hysteria",
+    "medical-history",
+    "european-history"
+  ],
+  "reason": "Wikipedia entry on a documented historical epidemic with lasting theories (mass hysteria, ergot), mechanisms, and historiographic debate—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "066aa11bb585cd194312",
+  "error": ""
+}

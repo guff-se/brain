@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary only restates agreement with the article's thesis—no mechanism, framing, or reasoning beyond a personal 'still sensible' nod.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "256c9b0a268148c23a2e",
+  "error": ""
+}

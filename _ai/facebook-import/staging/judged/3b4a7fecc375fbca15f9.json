@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only announces a vernissage with a name tag—logistical/social, no durable reasoning or insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "3b4a7fecc375fbca15f9",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.55,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "svenska-kyrkan",
+    "theologi",
+    "feminism"
+  ],
+  "reason": "The available excerpt is mostly paywall/subscription boilerplate and the snippet doesn’t show durable mechanisms or analysis to justify saving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "84dd21da2991a372449f",
+  "error": ""
+}

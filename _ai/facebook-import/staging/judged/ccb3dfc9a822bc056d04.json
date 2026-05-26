@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "trade-policy",
+    "eu-governance",
+    "corporate-lobbying"
+  ],
+  "reason": "Substantive op-ed on TTIP with institutional mechanisms, a revealing primary quote, and analysis of EU trade policy and corporate influence—not ephemeral news or headline-only.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ccb3dfc9a822bc056d04",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "wikileaks",
+    "press-freedom",
+    "government-transparency"
+  ],
+  "reason": "Episodic 2010 Gawker news report on military Wikileaks access warnings, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e7f00c325434d6dd9c13",
+  "error": ""
+}

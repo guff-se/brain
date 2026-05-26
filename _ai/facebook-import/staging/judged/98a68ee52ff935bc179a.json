@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "cognitive-bias",
+    "political-framing",
+    "decision-making"
+  ],
+  "reason": "Substantive explainer on infer-vs-rationalize, confirmation bias, and political framing—durable mechanisms, not a time-bound report.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "98a68ee52ff935bc179a",
+  "error": ""
+}

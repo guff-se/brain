@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "gothenburg",
+    "nightlife-policy",
+    "local-news"
+  ],
+  "reason": "Ephemeral 2012 local news on Göteborg bar closing hours—policy event reporting, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c08962a3ab92cf1aa7f0",
+  "error": ""
+}

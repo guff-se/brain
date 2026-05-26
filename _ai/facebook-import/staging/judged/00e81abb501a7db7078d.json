@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone project update: names OpenSCAD/Sierpinski export but offers no mechanism, principle, or insight beyond 'I built this'.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "00e81abb501a7db7078d",
+  "error": ""
+}

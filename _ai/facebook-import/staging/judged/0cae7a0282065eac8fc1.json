@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only cites extinction statistics with no causal argument, framework, or Gustaf's own reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0cae7a0282065eac8fc1",
+  "error": ""
+}

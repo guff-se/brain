@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "privacy",
+    "surveillance",
+    "data-retention"
+  ],
+  "reason": "Op-ed with sustained analysis of mass data retention, proportionality, and civil liberties—not only a time-bound vote alert.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ccb64daf175a30ac693c",
+  "error": ""
+}

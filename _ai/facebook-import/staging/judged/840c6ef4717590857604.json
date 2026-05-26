@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Satirical 2016 listicle reacting to sensational refugee/no-go-zone headlines—local humor and time-bound media pushback, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "840c6ef4717590857604",
+  "error": ""
+}

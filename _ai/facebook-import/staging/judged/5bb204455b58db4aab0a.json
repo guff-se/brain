@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sexuality",
+    "media-representation",
+    "gender"
+  ],
+  "reason": "It goes beyond a show recap to analyze how sexual shame and TV portrayals shape expectations around women’s orgasms.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5bb204455b58db4aab0a",
+  "error": ""
+}

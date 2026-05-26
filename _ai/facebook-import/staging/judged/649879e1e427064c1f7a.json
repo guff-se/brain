@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary only states a personal degrees-of-separation stat and a social prompt—no framing, mechanism, or insight beyond the linked research post.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "649879e1e427064c1f7a",
+  "error": ""
+}

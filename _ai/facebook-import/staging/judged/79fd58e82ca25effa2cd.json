@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A brief witty anecdote about an AI assistant with no articulated insight, principle, or durable idea worth building on.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "79fd58e82ca25effa2cd",
+  "error": ""
+}

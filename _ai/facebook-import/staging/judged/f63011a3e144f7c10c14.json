@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "It’s a one-off entertainment/publicity stunt with no enduring framework, mechanism, or durable insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f63011a3e144f7c10c14",
+  "error": ""
+}

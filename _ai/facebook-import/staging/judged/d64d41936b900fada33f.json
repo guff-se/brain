@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Same-day event logistics and well-wishes, with no durable insight, principle, or analysis worth keeping.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d64d41936b900fada33f",
+  "error": ""
+}

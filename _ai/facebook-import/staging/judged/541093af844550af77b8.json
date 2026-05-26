@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "December 2015 year-in-review good-news framing tied to a specific year; paywalled title reads as ephemeral journalism, not durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "541093af844550af77b8",
+  "error": ""
+}

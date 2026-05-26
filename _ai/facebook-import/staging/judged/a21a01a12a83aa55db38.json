@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "refugees",
+    "migration-policy",
+    "human-rights"
+  ],
+  "reason": "A one-line sarcastic quip on time-bound 2016 news adds no durable insight beyond moral outrage already clear from the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "a21a01a12a83aa55db38",
+  "error": ""
+}

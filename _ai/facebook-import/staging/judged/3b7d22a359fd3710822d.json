@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "open-access",
+    "internet-freedom",
+    "civil-liberties"
+  ],
+  "reason": "Substantive Greenwald analysis of Swartz's activism, public-good ethics, academic publishing access, and prosecutorial overreach—durable beyond the obituary moment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3b7d22a359fd3710822d",
+  "error": ""
+}

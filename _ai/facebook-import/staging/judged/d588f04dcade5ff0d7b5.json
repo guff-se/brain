@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2012 breaking-news report on a specific Wikileaks/Stratfor leak and Bildt's Twitter reaction, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d588f04dcade5ff0d7b5",
+  "error": ""
+}

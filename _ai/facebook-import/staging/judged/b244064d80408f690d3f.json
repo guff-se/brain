@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "masculinity",
+    "right-wing-populism",
+    "patriarchy"
+  ],
+  "reason": "Substantial Swedish analysis linking entitlement, masculine status stress, and demographic/feminist shifts to reactionary politics—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b244064d80408f690d3f",
+  "error": ""
+}

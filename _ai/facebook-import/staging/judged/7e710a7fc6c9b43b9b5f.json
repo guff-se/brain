@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound logistics for a pre-Borderland craft workshop—equipment list and invite, no reasoning or durable knowledge; under 200 chars.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7e710a7fc6c9b43b9b5f",
+  "error": ""
+}

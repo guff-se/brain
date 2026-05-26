@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paywalled DN good-news piece reporting 2014 crime stats—a durable trend is named but the fetch is headline plus lede with no mechanisms or analysis worth a vault note.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "484c609438995831a3d6",
+  "error": ""
+}

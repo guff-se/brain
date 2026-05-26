@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on a 2010 election-cycle news beat: a thin behavior-vs-discourse observation and a call to revisit copyright, without durable mechanism or analysis.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7a68439359732585d680",
+  "error": ""
+}

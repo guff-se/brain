@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sexism",
+    "feminism",
+    "popular-culture"
+  ],
+  "reason": "Substantive essay on why sexism in music is normalized while anti-fascist violence in lyrics triggers institutional backlash, with durable mechanisms beyond 2013 news hooks.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e310406b3ab90f9e65a3",
+  "error": ""
+}

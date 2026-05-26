@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "tax-policy",
+    "inequality",
+    "capital-markets"
+  ],
+  "reason": "Op-ed explains the realization loophole for ultra-wealthy stockholders and proposes mark-to-market taxation—a durable policy mechanism, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c3c140d55aeae89fceaa",
+  "error": ""
+}

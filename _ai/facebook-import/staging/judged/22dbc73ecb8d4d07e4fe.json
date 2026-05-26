@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.83,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "meritocracy-myth",
+    "silicon-valley",
+    "neoliberalism"
+  ],
+  "reason": "Durable analysis of how meritocracy and entrepreneur hero-worship myths reinforce structural privilege and bias in tech.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "22dbc73ecb8d4d07e4fe",
+  "error": ""
+}

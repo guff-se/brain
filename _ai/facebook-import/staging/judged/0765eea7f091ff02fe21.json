@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "file-sharing",
+    "media-policy"
+  ],
+  "reason": "Durable media-policy analysis of culture economics, copyright law, and file-sharing mechanisms—not ephemeral court reporting.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0765eea7f091ff02fe21",
+  "error": ""
+}

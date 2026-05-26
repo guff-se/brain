@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "alcohol-culture",
+    "cultural-critique",
+    "happiness"
+  ],
+  "reason": "Paywalled, but DN kulturdebatt plus Ann Heberlein and the title point to durable cultural analysis of alcohol and happiness, not breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "85bc35d761bd40c494d5",
+  "error": ""
+}

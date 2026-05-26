@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on time-bound 2015 regulatory news—a partisan hot take and rhetorical question, not durable mechanism or principle worth keeping.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "bbccbee584e46f531dc4",
+  "error": ""
+}

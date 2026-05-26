@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "structural-racism",
+    "migration",
+    "inequality"
+  ],
+  "reason": "The quoted reversal test names a durable mechanism of global structural racism, and Gustaf's endorsement marks it as a principle worth keeping.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7ccc82f10106f0b8a0dc",
+  "error": ""
+}

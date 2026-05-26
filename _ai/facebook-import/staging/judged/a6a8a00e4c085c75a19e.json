@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "automation",
+    "ai",
+    "end-of-work"
+  ],
+  "reason": "CGP Grey’s horse-to-automation analogy is a durable structural explainer on technological unemployment, not time-bound news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "a6a8a00e4c085c75a19e",
+  "error": ""
+}

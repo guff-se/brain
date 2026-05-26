@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "ethics",
+    "morality",
+    "medicine"
+  ],
+  "reason": "A crisp dual principle—moral posturing overrides research and empathy, and some medicines are categorically wrong—reveals a durable ethical stance worth preserving.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "cf181fd7887d482c0ec8",
+  "error": ""
+}

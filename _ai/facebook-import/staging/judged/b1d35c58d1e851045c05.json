@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "voynich-manuscript",
+    "cryptography",
+    "medieval-history"
+  ],
+  "reason": "Encyclopedic reference on an enduring historical and cryptographic mystery with durable hypotheses, codicology, and scholarly context—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b1d35c58d1e851045c05",
+  "error": ""
+}

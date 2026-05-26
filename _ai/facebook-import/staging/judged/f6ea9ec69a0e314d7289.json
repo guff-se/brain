@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf's 'America. LOL.' is reactive banter with no stated view, and the Slate piece is ephemeral 2015 campaign news, not durable knowledge or principle.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "f6ea9ec69a0e314d7289",
+  "error": ""
+}

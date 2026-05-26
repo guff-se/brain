@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "spotify",
+    "music-industry",
+    "streaming-economics"
+  ],
+  "reason": "Standalone commentary explains the label-equity-for-licensing mechanism and per-stream vs ownership economics with concrete figures, not a headline reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "5015cc2555f241ac678b",
+  "error": ""
+}

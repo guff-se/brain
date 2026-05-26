@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "April 2014 community newsletter focused on event logistics, registration deadlines, and promotional calls—not durable ideas or analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "be02aa8faaa5bf45323d",
+  "error": ""
+}

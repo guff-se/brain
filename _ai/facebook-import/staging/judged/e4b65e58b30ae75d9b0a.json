@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education-policy",
+    "privatization",
+    "democracy"
+  ],
+  "reason": "Investigative piece with durable structural claims—international comparison, reform mechanisms, segregation, and democratic conflict-of-interest—not only the 2014 scandal hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e4b65e58b30ae75d9b0a",
+  "error": ""
+}

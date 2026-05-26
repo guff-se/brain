@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "democracy",
+    "civil-liberties",
+    "protest"
+  ],
+  "reason": "Substantive analysis of how austerity-driven protest is met with punitive gag-law mechanisms—not only a dated news alert.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "08a9d3bc4e849f566abb",
+  "error": ""
+}

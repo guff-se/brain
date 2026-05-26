@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-flipside"
+  ],
+  "reason": "Community wiki landing page—volunteer directory and event logistics, not durable analysis or insight worth a standalone note.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8f01662ff0b602b9db60",
+  "error": ""
+}

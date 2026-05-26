@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2013 DN policy news on digital radio and UR funding—time-bound announcement, not durable analysis; fetch is mostly paywall promo.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c1e93a2f08c2c3fcccd7",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "atheism",
+    "religion",
+    "secularism"
+  ],
+  "reason": "Substantive interview on reading sacred texts cover-to-cover, cherry-picking vs. source material, and tribal morality—durable argument, not entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "c581c9e828838276a0bf",
+  "error": ""
+}

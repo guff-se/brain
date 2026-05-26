@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "education",
+    "creativity",
+    "sir-ken-robinson"
+  ],
+  "reason": "Named expert on enduring education/creativity paradigms; title signals durable structural content despite thin description.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "fee7f9f5e156b191cb20",
+  "error": ""
+}

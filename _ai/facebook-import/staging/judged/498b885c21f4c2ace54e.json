@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-framing",
+    "class-inequality",
+    "integration"
+  ],
+  "reason": "Opinion analysis of asymmetric media narratives on homophobia and class (Husby vs Djursholm)—mechanism and double standards, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "498b885c21f4c2ace54e",
+  "error": ""
+}

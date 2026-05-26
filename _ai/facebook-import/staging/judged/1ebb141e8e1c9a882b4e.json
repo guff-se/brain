@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and reads as appreciative social sentiment without durable insight or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1ebb141e8e1c9a882b4e",
+  "error": ""
+}

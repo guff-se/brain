@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gender",
+    "corporate-power",
+    "music-industry"
+  ],
+  "reason": "Essay ties the Kesha ruling to durable mechanisms—contracts vs. bodily safety, courts favoring commerce over credibility of women—not just the 2016 news event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4abfb496b62f12604438",
+  "error": ""
+}

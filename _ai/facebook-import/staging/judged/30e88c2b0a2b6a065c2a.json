@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sustainability",
+    "economic-growth",
+    "work"
+  ],
+  "reason": "Christer Sanne's op-ed ties productivity, rebound effects, public-sector limits, and work-time reduction to ecological constraints with clear mechanisms—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "30e88c2b0a2b6a065c2a",
+  "error": ""
+}

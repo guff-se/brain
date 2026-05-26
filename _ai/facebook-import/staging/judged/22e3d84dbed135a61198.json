@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "fintech",
+    "monopoly",
+    "entrepreneurship"
+  ],
+  "reason": "Paired commentary spells out a causal chain—six banks, mobile payments, market lock-in, and exclusion of competitors—not just a headline reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "22e3d84dbed135a61198",
+  "error": ""
+}

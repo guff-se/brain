@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "macroeconomics",
+    "financial-crisis",
+    "economics-methodology"
+  ],
+  "reason": "Substantive 2012 analysis of macro modeling failures (DSGE, crisis blindness) and whether economics deserves Nobel status—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "40fda25482c26f95e0c9",
+  "error": ""
+}

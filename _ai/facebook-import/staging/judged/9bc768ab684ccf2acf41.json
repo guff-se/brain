@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A one-line provocative question aimed at an audience, with no stated view, analysis, or principle—only a share hook for the linked piece.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "9bc768ab684ccf2acf41",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "international-relations",
+    "us-foreign-policy",
+    "middle-east"
+  ],
+  "reason": "Walt frames the 2015 flap as exposing structural U.S.–Israel interest divergence and alliance dysfunction, not episodic news alone.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4fe83786b695a9a877c4",
+  "error": ""
+}

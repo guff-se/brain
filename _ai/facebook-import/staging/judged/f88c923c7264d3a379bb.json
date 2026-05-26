@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a lone Gallup statistic with no argument, mechanism, or Gustaf's analysis—save the source article instead if needed.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "f88c923c7264d3a379bb",
+  "error": ""
+}

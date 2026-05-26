@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "empathy",
+    "social-change",
+    "human-development"
+  ],
+  "reason": "RSA lecture on empathy’s evolutionary role in civilization—durable conceptual framing by a named author, not ephemeral entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "cb83580085e106a51a9a",
+  "error": ""
+}

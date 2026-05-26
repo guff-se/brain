@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "taxation",
+    "migration-policy",
+    "political-rhetoric"
+  ],
+  "reason": "Durable argument dissecting the 'other people's money' rhetoric via collective taxation, democracy, and bad-faith political framing—not episodic news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "da1fe7eb246ce6df0036",
+  "error": ""
+}

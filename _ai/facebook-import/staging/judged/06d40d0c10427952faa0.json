@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "science-fiction",
+    "philosophy",
+    "literature"
+  ],
+  "reason": "Encyclopedic overview of a major author whose fiction centers on reality, perception, and identity—durable reference material, not time-bound news or banter.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "06d40d0c10427952faa0",
+  "error": ""
+}

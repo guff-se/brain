@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "radicalization",
+    "sweden",
+    "integration"
+  ],
+  "reason": "Long-form Foreign Policy analysis tracing segregation, identity, and recruitment mechanisms in Swedish suburbs—not episodic news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "838f01ea32b2566eac51",
+  "error": ""
+}

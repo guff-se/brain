@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only a same-day event check-in naming nominees—no reasoning, mechanism, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e50cb71e3f327a037e4d",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [
+    "social-media"
+  ],
+  "reason": "It’s a short one-liner with no durable mechanism or reasoning beyond a reaction/reference.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e6db1402932fb6b6b6c7",
+  "error": ""
+}

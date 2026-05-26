@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "philosophy",
+    "practical-philosophy",
+    "education"
+  ],
+  "reason": "Title and channel signal a durable explainer on philosophy’s purpose; thin fetch is mostly promo, but the topic is substantive rather than entertainment or news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "6d3e27bc1af3b476694e",
+  "error": ""
+}

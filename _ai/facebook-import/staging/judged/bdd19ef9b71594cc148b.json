@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "youtube",
+    "jul",
+    "underhallning"
+  ],
+  "reason": "A nostalgic entertainment music video/lyrics with no durable insight, mechanism, or enduring framework.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "bdd19ef9b71594cc148b",
+  "error": ""
+}

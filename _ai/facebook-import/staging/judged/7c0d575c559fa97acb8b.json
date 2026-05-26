@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "wikileaks",
+    "press-freedom",
+    "activism"
+  ],
+  "reason": "A 2010 GetUp petition and signup page for a time-bound Wikileaks campaign, not durable analysis or reference material.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7c0d575c559fa97acb8b",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "gift-economy",
+    "commodification"
+  ],
+  "reason": "Substantive first-person account of plug-and-play camps that analyzes how luxury turnkey experiences conflict with radical self-reliance and gifting — durable Burning Man cultural critique, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "569b869c640734c6f038",
+  "error": ""
+}

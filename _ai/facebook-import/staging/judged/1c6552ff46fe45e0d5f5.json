@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a one-sentence hot take that the threat is fabricated, with no mechanism or developed argument—time-bound political reaction, not durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1c6552ff46fe45e0d5f5",
+  "error": ""
+}

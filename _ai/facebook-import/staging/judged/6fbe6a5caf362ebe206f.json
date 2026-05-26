@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone satirical reaction to 2012 teacher-certification news—ironic punchline, not durable reasoning or framing worth preserving.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "6fbe6a5caf362ebe206f",
+  "error": ""
+}

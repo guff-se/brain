@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Reactive 2012 Gaza hot take with symmetric labels but no mechanism or durable insight beyond urging social-media nuance.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ef0d4846ca7caf157480",
+  "error": ""
+}

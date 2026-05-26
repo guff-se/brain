@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "The fetched content is essentially a 404/cookie notice with no durable topic or analysis to preserve.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "61b64f4a3561cbfb0c90",
+  "error": ""
+}

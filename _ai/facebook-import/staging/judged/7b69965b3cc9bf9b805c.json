@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters and expresses a moral stance without durable mechanism, analysis, or insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7b69965b3cc9bf9b805c",
+  "error": ""
+}

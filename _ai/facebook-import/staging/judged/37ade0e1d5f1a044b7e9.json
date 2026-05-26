@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "drug-policy",
+    "racism",
+    "criminal-justice"
+  ],
+  "reason": "Paired commentary adds mechanism—war-on-drugs as control, Sweden/Somalia khat vs alcohol harm mismatch, and prohibition framing—not just a headline reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "37ade0e1d5f1a044b7e9",
+  "error": ""
+}

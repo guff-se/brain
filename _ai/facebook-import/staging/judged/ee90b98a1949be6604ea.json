@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "privacy",
+    "surveillance",
+    "digital-rights"
+  ],
+  "reason": "Falkvinge’s essay offers durable historical and causal framing—Cold War fear vs. modern risk, East/West surveillance parallels, and why privacy is non-negotiable—not merely 2010 election news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ee90b98a1949be6604ea",
+  "error": ""
+}

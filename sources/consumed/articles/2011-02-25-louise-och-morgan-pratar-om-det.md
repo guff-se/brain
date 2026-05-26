@@ -1,0 +1,24 @@
+---
+title: "Louise och Morgan pratar om det"
+summary: "Jag upplåter min blogg för gästbloggare som vill #prataomdet men inte har egna bloggar. Texten nedan är skriven av Louis…"
+kind: "article"
+party: "third"
+register: "consumed"
+source: "web"
+source_id: "fb-1298656013"
+url: "https://kalashnicore.wordpress.com/2011/02/14/louise-och-morgan-pratar-om-det/"
+provenance: "extracted"
+enrichment: "ok"
+lang: "sv"
+tags: [consent, accountability, prataomdet]
+status: "reference"
+ingested: "2026-05-25"
+created: "2011-02-25"
+---
+
+Jag upplåter min blogg för gästbloggare som vill #prataomdet men inte har egna bloggar. Texten nedan är skriven av Louise och Morgan. Vi pratade aldrig om det För 15 år sedan hände nått mellan oss. Något vi aldrig pratat om. Här är våra historier, skrivna var och en för sig, berättade utifrån vad vi upplevde. Våra verkligheter är olika, men händelserna skedde trots allt. Louises historia: Vi var på en fest, vi var mycket unga, vi var bland goda vänner, vi var trygga, vi drack mycket, i alla fall jag. Jag gick och la mig, alternativt däckade i en slumpmässigt vald säng, fullt påklädd. Vaknade av smekande händer både utanpå och innanför mina kläder, vaknade av tyngd. Blir helt stel, vet inte hur lång tid det tar innan jag mumlar fram något, ingen aning om vad jag säger. Chockad, förvånad, tänker att det hela är mitt eget fel och senare, jävligt förbannad. Jag skäms. Jag kan ärligt säga att mitt minne sviker när det gäller denna händelse men det jag kan berätta är hur det har påverkat mig senare. Hur tanken har gått från klarhet till klarhet. Jag har skämts för att jag inte hoppade ur sängen och slog ihjäl honom på en gång, så har jag alltid trott jag skulle reagera. Jag har trott att det betyder att jag egentligen själv ville. Jag har trott att det var mitt eget fel, antingen för att jag klätt mig för utmanande eller gett fel signaler. Flera år senare har jag skämts för att jag tänkt att, det var nog inte så farligt och att tänk om jag har förstört hans liv, det var ju min vän. Alla har ju olika personligheter, jag är alltid rädd att såra, gillar inte att behöva vara otrevlig för att bli hörd, och har kanske därför svårt och säga nej. Men om man har gått och lagt sig, ensam, så ska det respekteras. Jag förstår att kärleksspelet är svårt. Men ett tips till alla pojkar, om hon ligger som en död sill, sluta, det kan gå så snett. Det som sen dess har förundrat mig är varför, varför kunde jag inte röra mig ur fläcken? Det har hänt en gång till i mitt liv, båda gånger när det gällt någon som jag tyckt om, annars är det väl lätt och värja sig. Min och hans relation har tagit skada och kommer nog aldrig bli vad det annars kunde ha varit. Många gånger har han sagt att han behöver mycket kärlek och närhet, och många gånger har jag tänkt, det inte betyder att man kan ta det hur som helst. Som tur är så tror jag att i sådana här fall kan man välja att gå vidare, välja att förlåta, välja att försöka förstå den andra parten. Det har vi gjort och jag är mycket glad för det. Alla har inte den möjligheten. Jag vill inte att han eller någon annan ska röra mig om det inte är ömsesidig tillit och respekt mellan parterna, men ja, hur vet man det i kärleksspelet? Morgans historia: Jag har länge känt mig skyldig för det här. Jag har nästan lyckats förlåta mig själv över tiden, då min vän har blivit en närmre vän och hon inte tycks hålla det mot mig. Men vi pratade aldrig om det. Hon har aldrig sagt att hon förlåtit mig. Jag har aldrig bett om ursäkt. Min historia är inte om en händelse där jag är osäker om jag var en förövare, eller en historia där jag insett i efterhand att jag betedde mig som ett as eller gick över någons gränser. Det här är en historia där jag betedde mig fel, var ett svin och var medveten om att jag gjorde det. Det är ett halvt liv sedan och jag vet inte hur jag tänkte längre. Om jag tänkte. Jag vet att det inte handlade om makt för mig, men jag försatt henne maktlös. Jag har sexuellt ofredat en vän. Jag gick ettan på gymnasiet, hon gick i åttan. Vi umgicks i samma kompisgäng – de alternativa i en liten småstad i Skåne. Jag var förälskad i hennes bästa vän som hade en annan pojkvän, so no luck there. Jag var en av de där pojkarna som aldrig hade några tjejer. Alla mina andra vänner var coola och hade massor hela tiden. Eller så verkade det i alla fall i mina ögon. Mina vänner festar rätt hårt; mycket sprit och andra droger; jag var och är en nykterist. På en av våra fester blev min vän full, väldigt full. Hon däckade i en säng i ett sidorum. Nån gång under natten – jag minns inte riktigt hur eller när, kanske det var dags att gå och lägga sig – bestämde jag mig för att ligga i samma säng. Jag la mig bakom henne, la
+
+*[Content truncated — full text in fetch cache]*
+
+---
+**Gustaf's commentary:** Två sidor av ett sexuellt övergrepp. Starkt gjort att prata om det.

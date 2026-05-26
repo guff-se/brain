@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "automation",
+    "economic-inequality",
+    "capitalism"
+  ],
+  "reason": "Hawking/Piketty framing on automation, wealth distribution, and structural inequality is mechanism-rich analysis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6bdeb554a289421737dd",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "racism",
+    "civility",
+    "migration"
+  ],
+  "reason": "Substantive 2014 column linking a racist harassment incident to collective responsibility, empathy, and durable literary/philosophical frames—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1850207fbd5b4372b336",
+  "error": ""
+}

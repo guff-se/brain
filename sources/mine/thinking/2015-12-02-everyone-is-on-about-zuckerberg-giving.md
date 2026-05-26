@@ -5,11 +5,12 @@ kind: "note"
 party: "first"
 register: "thinking"
 source: "facebook"
-source_id: "fb-voice-queue-43"
+source_id: "fb-1449015306"
 provenance: "extracted"
 lang: "en"
+tags: [passive-capital, corporate-governance, philanthropy]
 status: "reference"
-ingested: "2026-05-24"
+ingested: "2026-05-26"
 created: "2015-12-02"
 ---
 

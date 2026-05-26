@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.87,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a time-bound novelty/news feature about a cave discovery with descriptive facts but no durable framework or analysis to build on.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f253a3694769d3448c1c",
+  "error": ""
+}

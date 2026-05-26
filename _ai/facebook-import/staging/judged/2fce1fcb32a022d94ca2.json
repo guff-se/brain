@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "internet-governance",
+    "media-industry"
+  ],
+  "reason": "Sunde's op-ed ties tech evolution to industry capture of law and democracy—not just the 2012 TPB ruling.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2fce1fcb32a022d94ca2",
+  "error": ""
+}

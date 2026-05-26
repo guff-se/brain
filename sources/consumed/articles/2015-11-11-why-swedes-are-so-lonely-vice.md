@@ -12,9 +12,9 @@ author: "John-David Ritz"
 provenance: "extracted"
 enrichment: "wayback"
 lang: "en"
-tags: [swedish-individualism, loneliness, family-bonds]
+tags: [sweden, loneliness, individualism]
 status: "reference"
-ingested: "2026-05-24"
+ingested: "2026-05-26"
 created: "2015-11-11"
 ---
 

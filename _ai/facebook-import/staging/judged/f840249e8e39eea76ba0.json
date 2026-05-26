@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "refugees",
+    "geopolitics",
+    "migration"
+  ],
+  "reason": "A sharp political principle—enemy-of-enemy logic applied to refugees and Erdogan—that flags Gustaf's skepticism toward instrumental migration politics.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "f840249e8e39eea76ba0",
+  "error": ""
+}

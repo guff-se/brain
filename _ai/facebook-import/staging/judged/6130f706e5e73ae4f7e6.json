@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.7,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "inequality",
+    "tourism",
+    "ethics"
+  ],
+  "reason": "Durable critique of commodifying poverty (slum tourism) and how privilege seeks “safe” simulated suffering.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6130f706e5e73ae4f7e6",
+  "error": ""
+}

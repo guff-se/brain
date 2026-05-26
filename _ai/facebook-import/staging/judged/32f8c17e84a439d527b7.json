@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "economics",
+    "banking",
+    "financial-crisis"
+  ],
+  "reason": "UR program metadata on money, banks, and recurring crises—durable explanatory topic with named journalist, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "32f8c17e84a439d527b7",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a short hot take (celebrate Fox's death, pirate more) with no causal framing beyond the linked article headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "3b940f847c31d16ce64f",
+  "error": ""
+}

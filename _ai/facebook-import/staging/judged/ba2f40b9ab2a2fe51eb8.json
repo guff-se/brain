@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "energy",
+    "environmentalism",
+    "nuclear-energy"
+  ],
+  "reason": "Substantive Patrick Moore interview on energy systems, biotech, nuclear, and how environmentalism drifted from science—mechanisms and policy arguments that stay relevant.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ba2f40b9ab2a2fe51eb8",
+  "error": ""
+}

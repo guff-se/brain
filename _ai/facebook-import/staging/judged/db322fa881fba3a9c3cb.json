@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound 2015 debate op-ed announcing emigration over Romson/Almedalen politics—personal grievance and news-cycle polemic, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "db322fa881fba3a9c3cb",
+  "error": ""
+}

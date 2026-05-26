@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Title-only metadata for a 2014 London decompression event clip—time-bound social footage, not durable analysis or ideas.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "103d87e4129f6e83ab2a",
+  "error": ""
+}

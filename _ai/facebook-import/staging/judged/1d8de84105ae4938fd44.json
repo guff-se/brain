@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch is a generic Veckans Affärer landing page with no article body, and the URL points to ephemeral 2015 piracy-blocking news rather than durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1d8de84105ae4938fd44",
+  "error": ""
+}

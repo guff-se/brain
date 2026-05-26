@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Under 200-character `own_text` is strict-skip, and this is primarily a sharp analogy with no durable mechanism or framework.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "030b626a1adc610425b2",
+  "error": ""
+}

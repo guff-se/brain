@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Only a one-line intro to SD comments on the refugee crisis—no Gustaf analysis, principle, or durable substance in the text itself.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "558c8aea667f52931790",
+  "error": ""
+}

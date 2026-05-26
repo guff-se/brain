@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2011 news report of Clinton's testimony on Al Jazeera and Egypt coverage, not durable analysis of media or information ecosystems.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ab82315ba7ac0cebe58c",
+  "error": ""
+}

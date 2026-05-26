@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "public-discourse",
+    "sweden",
+    "media-culture"
+  ],
+  "reason": "Substantive ledare essay with a durable thesis on motive-policing vs substance debate and how uncomfortable expertise gets marginalized, not merely 2015 news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "76eb564310ec8a1432ce",
+  "error": ""
+}

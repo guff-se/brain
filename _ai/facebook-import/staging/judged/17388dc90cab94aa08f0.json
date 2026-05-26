@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Humorous Oatmeal comic with no fetched substantive body—entertainment, not durable knowledge or analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "17388dc90cab94aa08f0",
+  "error": ""
+}

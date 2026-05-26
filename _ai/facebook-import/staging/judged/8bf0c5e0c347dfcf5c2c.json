@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound 2014 news about a specific Spanish bill vote, with no durable analysis or mechanisms beyond the headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8bf0c5e0c347dfcf5c2c",
+  "error": ""
+}

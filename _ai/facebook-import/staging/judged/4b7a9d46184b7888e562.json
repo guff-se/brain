@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary under 80 characters—a rhetorical hot take on drug policy, not framing beyond the SvD headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "4b7a9d46184b7888e562",
+  "error": ""
+}

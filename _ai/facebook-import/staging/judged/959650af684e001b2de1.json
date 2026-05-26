@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired one-liner reframes the headline (cheap vs sustainable) without a developed argument—reads as a hot take, not durable framing.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "959650af684e001b2de1",
+  "error": ""
+}

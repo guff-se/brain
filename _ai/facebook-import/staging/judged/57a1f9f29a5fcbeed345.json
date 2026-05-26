@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a single witty prediction about arbetslinjen and automation, not a multi-sentence causal argument worth keeping.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "57a1f9f29a5fcbeed345",
+  "error": ""
+}

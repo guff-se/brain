@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "democracy",
+    "political-power",
+    "presidential-politics"
+  ],
+  "reason": "Multi-paragraph reflection on structural limits of presidential power and what campaigns must acknowledge, with causal framing beyond a 2016 news moment.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4a0dca0c608daad11dcf",
+  "error": ""
+}

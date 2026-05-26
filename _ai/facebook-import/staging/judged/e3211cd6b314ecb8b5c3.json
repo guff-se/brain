@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "wikileaks",
+    "transparency",
+    "journalism"
+  ],
+  "reason": "Assange explains WikiLeaks' operating model and mission around classified information—durable principles of transparency and accountability, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e3211cd6b314ecb8b5c3",
+  "error": ""
+}

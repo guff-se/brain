@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Last-minute 2013 event invite under 200 chars—promotional and time-bound, with no argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a4a0ffead7ec468838f1",
+  "error": ""
+}

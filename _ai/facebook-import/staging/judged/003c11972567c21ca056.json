@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "gender",
+    "history",
+    "representation"
+  ],
+  "reason": "Beyond mood, it poses a concrete thought experiment and a causal pattern about how women enter the historical canon—durable reflection on visibility and role models.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "003c11972567c21ca056",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "payment-systems",
+    "telecom",
+    "transaction-costs"
+  ],
+  "reason": "Op-ed compares card vs SMS fee structures with concrete margins and argues for transparency—a durable mechanism about intermediary rent-seeking, not just 2012 news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e1acf403d04b3e65ada5",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf only restates the article lede with no added view; the link is time-bound corporate recruiting news, not durable insight worth a vault note.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "4c650ce0ba1778e2ca33",
+  "error": ""
+}

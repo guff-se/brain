@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A 2010 open-letter appeal tied to Cablegate headlines; it restates standard press-freedom arguments without durable analysis beyond that moment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "59e2271611d536dd5e22",
+  "error": ""
+}

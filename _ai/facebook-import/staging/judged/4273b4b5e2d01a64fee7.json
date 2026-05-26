@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "relationships",
+    "marriage",
+    "psychology"
+  ],
+  "reason": "Substantive Esther Perel interview on why affairs happen in happy marriages—mechanisms (merged marriage, transparency, seeking another self/aliveness), not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4273b4b5e2d01a64fee7",
+  "error": ""
+}

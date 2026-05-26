@@ -1,14 +1,15 @@
 {
   "verdict": "save",
-  "confidence": 0.75,
+  "confidence": 0.82,
   "register_hint": "thinking",
   "kind_hint": "note",
   "tags_hint": [
-    "proportionality",
-    "governance"
+    "poverty",
+    "policing",
+    "public-spending"
   ],
-  "reason": "A reframing of enforcement costs vs. problem magnitude—generalizable principle on resource allocation despite its 2015 Swedish context.",
-  "model": "claude-haiku-4-5",
+  "reason": "Per-capita reframing of a headline figure plus a reasoned critique of police surveillance cost—not just outrage or event reporting.",
+  "model": "auto",
   "item_type": "own_text",
   "content_sha": "e59118f7c263ef4be4b5",
   "error": ""

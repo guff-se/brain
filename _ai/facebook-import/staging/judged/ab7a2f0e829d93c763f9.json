@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "YouTube short-film credits and festival wins only—creative entertainment about Dr. Seuss at Burning Man, not durable analysis or frameworks.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "ab7a2f0e829d93c763f9",
+  "error": ""
+}

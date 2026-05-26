@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.91,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch is Metro homepage/lifestyle listicles, not the linked column; visible text has no durable analysis, and the URL alone is insufficient to verify substance.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fbe507b47a3b11028fab",
+  "error": ""
+}

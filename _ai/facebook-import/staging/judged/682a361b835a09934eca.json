@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "social-media",
+    "consumer-culture"
+  ],
+  "reason": "Scraped Tumblr feed is lifestyle flex and promo posts with no analysis, frameworks, or durable substance beyond ephemeral wealth-display content.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "682a361b835a09934eca",
+  "error": ""
+}

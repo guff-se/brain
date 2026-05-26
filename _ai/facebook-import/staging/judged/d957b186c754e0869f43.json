@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "empathy",
+    "vulnerability",
+    "psychology"
+  ],
+  "reason": "RSA Short on empathy by a named researcher; durable mechanism (genuine connection via own fragility), not entertainment or news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "d957b186c754e0869f43",
+  "error": ""
+}

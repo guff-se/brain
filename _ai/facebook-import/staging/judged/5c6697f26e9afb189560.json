@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "automation",
+    "labor-displacement"
+  ],
+  "reason": "Paired mode: Sweden stat plus a 5-year job-loss prediction and rhetorical question localize the share without mechanism or framing beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "5c6697f26e9afb189560",
+  "error": ""
+}

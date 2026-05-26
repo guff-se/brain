@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "neuroscience",
+    "mental-health"
+  ],
+  "reason": "Edenborg synthesizes MDMA brain-scan findings, research-funding barriers, and harm-reduction framing beyond a one-off TV headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e2ec332748cff246a95d",
+  "error": ""
+}

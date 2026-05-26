@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: one-line rhetorical reaction to the headline, not added framing or causal reasoning beyond the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "2018e5cc5aa349ea5215",
+  "error": ""
+}

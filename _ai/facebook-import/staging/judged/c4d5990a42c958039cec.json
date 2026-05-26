@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "cultural-policy",
+    "media-production"
+  ],
+  "reason": "SvD opinion piece with a durable framework (kulturisolationism, cultural commons, amateur production) and causal analysis of how politics defines and funds \"cultural creators,\" not just 2010 election news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c4d5990a42c958039cec",
+  "error": ""
+}

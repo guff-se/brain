@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2011 Occupy Wall Street activist short film with crowdfunding and share promotion, not durable analysis or mechanism.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "88b3f02d2ea1d02775ad",
+  "error": ""
+}

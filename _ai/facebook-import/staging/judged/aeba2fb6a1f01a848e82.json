@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "social-credit",
+    "surveillance",
+    "china"
+  ],
+  "reason": "Explains how Sesame Credit gamifies compliance, scoring mechanisms, and real-world consequences—a durable pattern piece, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "aeba2fb6a1f01a848e82",
+  "error": ""
+}

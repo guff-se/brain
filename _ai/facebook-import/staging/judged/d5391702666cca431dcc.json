@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "privacy",
+    "surveillance",
+    "data-brokers"
+  ],
+  "reason": "Durable analysis of mass-surveillance incentives, public apathy, and long-term personal-data consequences beyond the 2013 news hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d5391702666cca431dcc",
+  "error": ""
+}

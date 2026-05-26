@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-line trend cheer with no mechanism, principle, or analysis worth preserving.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "aeac6ea8481246e59576",
+  "error": ""
+}

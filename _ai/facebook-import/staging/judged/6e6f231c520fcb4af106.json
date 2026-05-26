@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: two short identification questions with no mechanism or framing beyond the video—reaction, not durable reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "6e6f231c520fcb4af106",
+  "error": ""
+}

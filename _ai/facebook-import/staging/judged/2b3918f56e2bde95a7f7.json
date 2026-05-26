@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "contraception",
+    "gender",
+    "ethics"
+  ],
+  "reason": "Short rhetorical question without developed mechanism or durable insight; more a momentary prompt than a reusable note.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "2b3918f56e2bde95a7f7",
+  "error": ""
+}

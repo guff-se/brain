@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.96,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Short promotional launch announcement with no durable insight or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8a878fa105e6da0b01f9",
+  "error": ""
+}

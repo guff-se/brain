@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ephemeral Nyheter24 listicle/parody on summer dating tropes with no durable analysis, frameworks, or insight worth retaining.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "92d8c05cc709f5ca27b0",
+  "error": ""
+}

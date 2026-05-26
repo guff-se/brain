@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "surveillance",
+    "encryption",
+    "privacy"
+  ],
+  "reason": "Substantive investigative reporting on NSA/GCHQ mechanisms—backdoors, stolen keys, and standards manipulation—that explains durable structural patterns in state surveillance and cryptographic security.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3b9fb48b985eaa999344",
+  "error": ""
+}

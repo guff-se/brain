@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "audiophilia",
+    "pseudoscience",
+    "blind-testing"
+  ],
+  "reason": "It argues with mechanisms and evidence gaps (blind tests, quantification) to debunk a specific audiophile practice, making it durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "20ee2146add0266cf943",
+  "error": ""
+}

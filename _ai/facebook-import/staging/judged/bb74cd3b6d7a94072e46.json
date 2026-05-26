@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Festival short-film promo and production credits only—entertainment artifact, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "bb74cd3b6d7a94072e46",
+  "error": ""
+}

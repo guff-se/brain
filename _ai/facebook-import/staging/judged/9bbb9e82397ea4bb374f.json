@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "urbanism",
+    "informal-settlements",
+    "hong-kong"
+  ],
+  "reason": "Durable historical/urbanism case study of extreme density and emergent self-organization in an ungoverned built environment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9bbb9e82397ea4bb374f",
+  "error": ""
+}

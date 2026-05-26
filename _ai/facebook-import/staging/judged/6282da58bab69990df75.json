@@ -1,15 +1,11 @@
 {
-  "verdict": "save",
-  "confidence": 0.85,
-  "register_hint": "thinking",
-  "kind_hint": "clipping",
-  "tags_hint": [
-    "tage-danielsson",
-    "personal-truth",
-    "intellectual-humility"
-  ],
-  "reason": "Clear epistemological principle: personal meaning, however hard-won, has an inherent boundary—it applies only to me. Asserts a doctrine about subjectivity and intellectual humility worth keeping.",
-  "model": "claude-haiku-4-5",
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Quoted Tage Danielsson verse with no Gustaf commentary or reasoning—external aphorism, not durable vault material as own_text.",
+  "model": "auto",
   "item_type": "own_text",
   "content_sha": "6282da58bab69990df75",
   "error": ""

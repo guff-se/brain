@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary: one-line agreement with the article thesis, no framing or mechanism beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7fd554f33a1ca754635c",
+  "error": ""
+}

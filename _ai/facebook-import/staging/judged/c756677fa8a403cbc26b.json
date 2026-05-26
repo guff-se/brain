@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "political-parties",
+    "democracy",
+    "swedish-politics"
+  ],
+  "reason": "Durable analysis of internal party democracy vs leadership control and incentives around member participation.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c756677fa8a403cbc26b",
+  "error": ""
+}

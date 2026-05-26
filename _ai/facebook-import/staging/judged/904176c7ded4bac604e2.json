@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "nationalism",
+    "swedish-politics",
+    "populism"
+  ],
+  "reason": "Substantive DN long-form on how SD’s friendly public rebranding masks an enduring nationalist ideological core—a durable political pattern, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "904176c7ded4bac604e2",
+  "error": ""
+}

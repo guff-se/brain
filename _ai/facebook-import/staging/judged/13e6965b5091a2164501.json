@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "color-perception",
+    "neuroscience",
+    "visual-perception"
+  ],
+  "reason": "Wired piece explains color constancy, illuminant discounting, and perceptual variation with expert mechanism—not just the viral dress moment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "13e6965b5091a2164501",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "modular-synthesis",
+    "music-technology",
+    "synthesizers"
+  ],
+  "reason": "Primarily a product/news announcement with specs and release info, not durable analysis or enduring framework.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "245ac8f6fe19e482ebad",
+  "error": ""
+}

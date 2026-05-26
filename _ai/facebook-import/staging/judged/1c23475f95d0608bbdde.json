@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.91,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Art-film promo with poetic credits and email-list CTA—no durable topic, framework, or analysis in the metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "1c23475f95d0608bbdde",
+  "error": ""
+}

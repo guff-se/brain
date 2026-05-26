@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: commentary is a brief endorsement with no framing, mechanism, or reasoning beyond the video title.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "acc2aacbf19244f82cf9",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only a GoDaddy parking page with no article body, and the implied DIY listicle URL is not durable knowledge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0635a533404e5de5ca07",
+  "error": ""
+}

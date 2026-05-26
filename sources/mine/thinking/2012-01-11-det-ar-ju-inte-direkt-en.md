@@ -9,9 +9,9 @@ source_id: "fb-1326238024"
 fb_url: "http://www.svd.se/nyheter/inrikes/unga-krver-bredare-politisk-rekrytering_6761155.svd"
 provenance: "extracted"
 lang: "sv"
-tags: [political-authenticity, institutional-critique, swedish-politics]
+tags: [party-politics, youth-organizations, political-marketing]
 status: "reference"
-ingested: "2026-05-24"
+ingested: "2026-05-26"
 created: "2012-01-11"
 ---
 

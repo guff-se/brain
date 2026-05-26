@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Last Week Tonight satire clip for entertainment, not durable analysis or a substantive topic worth archiving.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "34ce693a7ec8e0ae18c7",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social invite to a Sunday concert—logistical, no argument or durable knowledge; under 200-char own_text default.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "89306f1e3996f1223239",
+  "error": ""
+}

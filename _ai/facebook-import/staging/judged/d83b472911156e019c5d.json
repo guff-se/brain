@@ -1,15 +1,11 @@
 {
-  "verdict": "save",
-  "confidence": 0.72,
-  "register_hint": "thinking",
-  "kind_hint": "note",
-  "tags_hint": [
-    "pride",
-    "values",
-    "institutions"
-  ],
-  "reason": "Crisp assertion of a principle — Gustaf defines conservatism and rejects it, revealing his view that moral rightness should override institutional tradition",
-  "model": "claude-haiku-4-5",
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters and mostly a 2013 news reaction; the one-line conservatism gloss is too thin for durable vault reasoning.",
+  "model": "auto",
   "item_type": "own_text",
   "content_sha": "d83b472911156e019c5d",
   "error": ""

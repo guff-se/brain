@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "incarceration",
+    "digital-rights",
+    "pirate-bay"
+  ],
+  "reason": "Substantial SvD feature on prison life, memory, and identity—not just arrest news—with reporting depth beyond a time-bound headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "468b8d6cb2bb931d2345",
+  "error": ""
+}

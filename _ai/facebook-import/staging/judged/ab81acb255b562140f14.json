@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: commentary is a TED quote plus 'you HAVE to watch this' with no framing or reasoning from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ab81acb255b562140f14",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.96,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under-200-char quip about the 2015 DeepDream fad—playful banter with no reasoning, mechanism, or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "f9b0e3d1a4e24e2534b4",
+  "error": ""
+}

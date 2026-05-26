@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Live performance share with promo-only description—generic entertainment, no durable topic or insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "36fab76cd2960729c367",
+  "error": ""
+}

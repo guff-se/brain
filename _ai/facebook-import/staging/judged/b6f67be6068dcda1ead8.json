@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "secularism",
+    "religion",
+    "philosophy"
+  ],
+  "reason": "Substantial New Statesman essay with durable frameworks on New Atheism, secularism, and what non-believers can learn from religious practice and myth.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b6f67be6068dcda1ead8",
+  "error": ""
+}

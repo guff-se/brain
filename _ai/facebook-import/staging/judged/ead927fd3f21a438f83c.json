@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-line sarcastic reaction to a 2016 politician moment on migration, with no stated principle, analysis, or durable insight beyond the immediate event.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ead927fd3f21a438f83c",
+  "error": ""
+}

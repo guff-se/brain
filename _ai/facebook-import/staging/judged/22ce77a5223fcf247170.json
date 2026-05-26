@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "digital-economy",
+    "automation",
+    "inequality"
+  ],
+  "reason": "SvD book-review essay on Brynjolfsson/McAfee with durable mechanisms—winner-take-all platforms, job displacement, amateur/professional dynamics, and automation—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "22ce77a5223fcf247170",
+  "error": ""
+}

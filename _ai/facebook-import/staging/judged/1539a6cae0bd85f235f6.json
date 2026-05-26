@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "inclusive-education",
+    "school-reform"
+  ],
+  "reason": "Case study with durable mechanisms—research-based pedagogy, in-class support instead of pull-out, and school accountability—not just a 2010 results headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1539a6cae0bd85f235f6",
+  "error": ""
+}

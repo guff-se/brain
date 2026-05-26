@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a one-line partisan quip about Björklund, not framing or reasoning beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "9dbee20887acf5d32957",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a short cynical hot take on segregation, not framing that adds durable reasoning beyond the article headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "f4235aad5857d92ddf30",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sexual-violence",
+    "trauma",
+    "gender"
+  ],
+  "reason": "Substantive op-ed on cultural trauma narratives, survivor/victim framing, and patriarchal sexuality—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "920fb7a003b191625667",
+  "error": ""
+}

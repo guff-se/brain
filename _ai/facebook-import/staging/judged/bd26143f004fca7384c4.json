@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "telecom",
+    "competition",
+    "infrastructure"
+  ],
+  "reason": "Trade press piece that explains the open-network operator model and why vertical integration by incumbents threatens competition—a structural pattern, not only a 2012 Telia headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bd26143f004fca7384c4",
+  "error": ""
+}

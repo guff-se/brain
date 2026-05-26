@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched body is a 2009 Slashdot comment pile on breaking blacklist news—mostly jokes and event chatter, not durable analysis or mechanisms worth a vault note.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3b18d86d602bc635f57b",
+  "error": ""
+}

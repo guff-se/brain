@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "bitcoin",
+    "cryptography",
+    "payments"
+  ],
+  "reason": "Andreessen's essay explains durable mechanisms (BGP, distributed ledger, trustless transfer) and structural implications, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "aebc71edfb4041418650",
+  "error": ""
+}

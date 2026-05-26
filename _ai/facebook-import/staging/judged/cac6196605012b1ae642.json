@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "social-cohesion",
+    "welfare-state",
+    "sweden"
+  ],
+  "reason": "Substantive policy analysis with trends, mechanisms, and structural challenges around cohesion and inequality—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cac6196605012b1ae642",
+  "error": ""
+}

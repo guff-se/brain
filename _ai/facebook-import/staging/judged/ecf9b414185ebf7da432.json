@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "astronomy",
+    "cosmology",
+    "science-visualization"
+  ],
+  "reason": "Educational astronomy content explaining redshift-based distance mapping and the Ultra Deep Field, not fleeting news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "ecf9b414185ebf7da432",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event invite under 200 chars with no argument or durable insight—only logistics and cheer.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "905358c3cb0b60643cf5",
+  "error": ""
+}

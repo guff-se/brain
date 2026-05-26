@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "trademark-law",
+    "advertising-law",
+    "european-union-law"
+  ],
+  "reason": "Substantive legal analysis of CJEU AdWords/trademark doctrine (investment function, famous marks, alternatives) with durable mechanisms, not a fleeting news blurb.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "940879930ae589c2a78c",
+  "error": ""
+}

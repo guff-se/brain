@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "syria",
+    "civil-war",
+    "journalism"
+  ],
+  "reason": "Long-form reportage with expert framing on who kills most civilians, why regime violence is under-covered versus IS, and refugee drivers—durable structural insight beyond a single news event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9a1ebac69ad62e78556a",
+  "error": ""
+}

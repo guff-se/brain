@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "labor-market",
+    "bureaucracy",
+    "welfare-state"
+  ],
+  "reason": "Substantive op-ed on Roland Paulsen's book with durable structural analysis of Swedish employment policy, bureaucratic dysfunction, and the productivity–work-time paradox.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e33f4f2fa3907843b913",
+  "error": ""
+}

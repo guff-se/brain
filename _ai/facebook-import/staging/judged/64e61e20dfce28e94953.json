@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "pension",
+    "work-life-balance",
+    "entrepreneurship"
+  ],
+  "reason": "Full SVT debatt essay with durable argument on pension as control, flexible life-work timing, and bodily wear—not ephemeral news or a link stub.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "64e61e20dfce28e94953",
+  "error": ""
+}

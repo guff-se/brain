@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and purely a logistical borrow-a-cabin ask with no durable reasoning or insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "580dd0e2b16a618b5061",
+  "error": ""
+}

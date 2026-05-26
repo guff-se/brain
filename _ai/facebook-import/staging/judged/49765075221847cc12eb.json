@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under-200-char social quip about a friend in yesterday's Metro; no argument, mechanism, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "49765075221847cc12eb",
+  "error": ""
+}

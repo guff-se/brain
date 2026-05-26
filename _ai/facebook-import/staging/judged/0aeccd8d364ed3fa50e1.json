@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A bare anniversary nod to doing 'something important' with a named person—no what, why, or durable idea.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0aeccd8d364ed3fa50e1",
+  "error": ""
+}

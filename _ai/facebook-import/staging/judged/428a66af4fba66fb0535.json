@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Tomorrow’s idepedia kickoff invite is promotional and time-bound, with no argument or durable insight under the 200-char own_text rule.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "428a66af4fba66fb0535",
+  "error": ""
+}

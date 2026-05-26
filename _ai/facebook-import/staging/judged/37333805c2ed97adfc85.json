@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2014 breaking-news coverage of one revolving-door appointment and quote reactions, not durable analysis or principles worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "37333805c2ed97adfc85",
+  "error": ""
+}

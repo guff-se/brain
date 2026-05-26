@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "transhumanism",
+    "wealth-inequality",
+    "techno-religion"
+  ],
+  "reason": "Tabloid repackaging, but Harari’s durable claims on enhancement, inequality of access, and Silicon Valley techno-religion carry real mechanism and framing worth keeping as consumed reference.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "79eae4875ef2a86bf23d",
+  "error": ""
+}

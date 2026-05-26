@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on time-bound 2011 riksdag news: a witty procedural hack under 200 chars, not developed reasoning on democracy or institutions.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "9431978caceffc1f2d9b",
+  "error": ""
+}

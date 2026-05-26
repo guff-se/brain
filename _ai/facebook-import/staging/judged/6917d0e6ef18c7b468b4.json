@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a taunting 'I told you so' with no causal framing beyond vindicating past arguments about tech and social life.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "6917d0e6ef18c7b468b4",
+  "error": ""
+}

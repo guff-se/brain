@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Viral 2014 lifestyle listicle that romanticizes a travel archetype without analysis, mechanisms, or durable ideas worth retaining.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a382cd99df3fa3ace06a",
+  "error": ""
+}

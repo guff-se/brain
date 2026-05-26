@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "masculinity",
+    "psychology",
+    "relationships"
+  ],
+  "reason": "Substantive essay explains why pickup-as-cheat-code rhetoric normalizes assault and how vulnerable men seeking scripts get harmful instruction, beyond a dated Kickstarter call-to-action.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "824e88a9c90ffb83c76c",
+  "error": ""
+}

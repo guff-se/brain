@@ -8,11 +8,13 @@ kind: "note"
 party: "first"
 register: "thinking"
 source: "facebook"
-source_id: "fb-voice-queue-8"
+source_id: "fb-1330438209"
+fb_url: "http://www.svd.se/opinion/brannpunkt/sluta-diskriminera-oss-unga_6870055.svd"
 provenance: "extracted"
 lang: "sv"
+tags: [labor-market, employment-policy, seniority]
 status: "reference"
-ingested: "2026-05-24"
+ingested: "2026-05-26"
 created: "2012-02-28"
 ---
 
@@ -26,3 +28,6 @@ created: "2012-02-28"
 Till nytta för vad? Trygghet för folk som inte gör sitt jobb?
 
 Dags att Moderaterna skärper sig och slutar försvara en föråldrad industriell arbetarmodell.
+
+---
+*Shared link: http://www.svd.se/opinion/brannpunkt/sluta-diskriminera-oss-unga_6870055.svd*

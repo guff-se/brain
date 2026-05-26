@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: short praise plus a one-line media-impartiality jab, not framing beyond the headline or a developed causal argument.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "0a198f49c0b0197c413c",
+  "error": ""
+}

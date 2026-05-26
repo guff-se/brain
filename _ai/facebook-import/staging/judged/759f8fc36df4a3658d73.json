@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.96,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under-200-char Musikhjälpen donation tally and holiday greeting—event report and social update, no durable argument or insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "759f8fc36df4a3658d73",
+  "error": ""
+}

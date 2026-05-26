@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone share is only a pasted Sarandon quote on drugs with no Gustaf reasoning, mechanism, or durable framing beyond celebrity gossip.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "34a666149a181029b684",
+  "error": ""
+}

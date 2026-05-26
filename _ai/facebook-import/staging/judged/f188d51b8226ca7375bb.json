@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is only a headline-level 'insightful' reaction with no added framing or reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "f188d51b8226ca7375bb",
+  "error": ""
+}

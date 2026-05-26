@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Daytime venue hunt in Stockholm—logistical, under 200 chars, no argument or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0feeddfa33383a3b3f0c",
+  "error": ""
+}

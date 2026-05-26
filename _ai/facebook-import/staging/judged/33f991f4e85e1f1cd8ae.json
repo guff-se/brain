@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Trade-press news from Dec 2015 on IAB Sweden's anti-adblock taskforce and usage stats—time-bound industry announcement, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "33f991f4e85e1f1cd8ae",
+  "error": ""
+}

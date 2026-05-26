@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Branded juice promo video with no durable topic, framework, or analysis beyond advertising.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "db8aad59e937b461d65e",
+  "error": ""
+}

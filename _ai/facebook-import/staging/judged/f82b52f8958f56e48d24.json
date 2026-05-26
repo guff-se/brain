@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a time-bound news report about a specific party’s security arrangements with limited durable analysis or transferable insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f82b52f8958f56e48d24",
+  "error": ""
+}

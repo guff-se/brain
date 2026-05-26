@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "intimate-partner-violence",
+    "gender",
+    "research-methods"
+  ],
+  "reason": "Durable methodological and interpretive clarification about self-reported partner-violence data and how headline framing can distort results with policy consequences.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ba2b40daf1494bc03ba6",
+  "error": ""
+}

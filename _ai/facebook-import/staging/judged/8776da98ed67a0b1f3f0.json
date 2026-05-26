@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "theodicy",
+    "abortion-politics",
+    "us-politics"
+  ],
+  "reason": "Substantive analysis of theological logic, theodicy, and rhetorical misreading—not ephemeral campaign news alone.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8776da98ed67a0b1f3f0",
+  "error": ""
+}

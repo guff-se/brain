@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "gdpr",
+    "data-privacy",
+    "privacy-notice"
+  ],
+  "reason": "Appears primarily to be a GDPR/terms update notice without durable frameworks, mechanisms, or enduring analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5343e95c35153c52d062",
+  "error": ""
+}

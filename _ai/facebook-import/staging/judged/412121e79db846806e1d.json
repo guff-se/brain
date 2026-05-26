@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Post-event mood and affection after a specific YEOS weekend, with no developed claim, mechanism, or durable insight beyond listing feelings.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "412121e79db846806e1d",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "postcapitalism",
+    "political-economy",
+    "automation"
+  ],
+  "reason": "Mason's essay frames postcapitalism with durable mechanisms (IT, abundance vs markets, collaborative production), not a time-bound news hit.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7c9d425fcf85b730b5a0",
+  "error": ""
+}

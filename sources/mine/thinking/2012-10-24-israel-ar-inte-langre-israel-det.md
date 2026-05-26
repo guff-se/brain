@@ -9,9 +9,9 @@ source_id: "fb-1351082393"
 fb_url: "http://www.etc.se/ledare/boethius-%E2%80%9Disrael-ar-en-skurkstat%E2%80%9D"
 provenance: "extracted"
 lang: "sv"
-tags: [israel-palestine, authoritarianism, geopolitics]
+tags: [israel-palestine, geopolitics, power-dynamics]
 status: "reference"
-ingested: "2026-05-25"
+ingested: "2026-05-26"
 created: "2012-10-24"
 ---
 

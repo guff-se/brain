@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gender-equality",
+    "religion",
+    "human-rights"
+  ],
+  "reason": "Carter's op-ed is durable analysis linking religious interpretation, institutional power, and systemic gender inequality—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e358481a4a1a27e51a01",
+  "error": ""
+}

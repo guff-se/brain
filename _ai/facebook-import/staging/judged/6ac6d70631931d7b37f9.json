@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary that only restates Manning's quote and sentencing context, with no framing, analysis, or reasoning from Gustaf beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "6ac6d70631931d7b37f9",
+  "error": ""
+}

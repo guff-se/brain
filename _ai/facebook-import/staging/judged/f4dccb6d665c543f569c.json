@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "economics",
+    "eurozone",
+    "sovereign-debt"
+  ],
+  "reason": "Vox explainer teaches durable mechanisms—monetary union constraints, austerity–debt dynamics, and eurozone politics—not only the July 2015 referendum moment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f4dccb6d665c543f569c",
+  "error": ""
+}

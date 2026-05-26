@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only a Markmonitor domain-protection landing page, not durable article content about Ripple or payments.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7434149e2c47fba4ee90",
+  "error": ""
+}

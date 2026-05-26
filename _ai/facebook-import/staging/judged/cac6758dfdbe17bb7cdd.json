@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "passive-capital",
+    "corporate-governance",
+    "philanthropy"
+  ],
+  "reason": "Gustaf analyzes passive-capital incentives and governance, and asserts that companies should be owned by people with conscience—not rule-bound systems.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "cac6758dfdbe17bb7cdd",
+  "error": ""
+}

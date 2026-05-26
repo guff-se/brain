@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under-200-char teaser with no argument or insight—only points readers to an update about Jón Gnarr.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "75a59a909b9c182cdae3",
+  "error": ""
+}

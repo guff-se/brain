@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "political-satire",
+    "us-politics",
+    "shutdowns"
+  ],
+  "reason": "It appears to be a short, time-bound comedic commentary with no clear durable framework or mechanism worth archiving as a standalone note.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "074c0f70a820eb318c91",
+  "error": ""
+}

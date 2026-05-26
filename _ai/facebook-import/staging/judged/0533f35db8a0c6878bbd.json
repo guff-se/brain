@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Title-only metadata is a time-bound 2015 civic call-to-action on helping refugees, not durable analysis, frameworks, or structural insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "0533f35db8a0c6878bbd",
+  "error": ""
+}

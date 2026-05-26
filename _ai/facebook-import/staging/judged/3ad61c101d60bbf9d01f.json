@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "capitalism",
+    "marx",
+    "political-economy"
+  ],
+  "reason": "DN Debatt lede frames a durable thesis on capitalism, Marx, and network-based production—not ephemeral news, despite paywall.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3ad61c101d60bbf9d01f",
+  "error": ""
+}

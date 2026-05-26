@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "entrepreneurship",
+    "startups",
+    "motivation"
+  ],
+  "reason": "Substantive essay with durable frameworks—investor vs jobs vs self-actualization lenses, entrepreneurship vs nyföretagande, and why public discourse misses creative autonomy.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "86fb8511964188d3d85f",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "automation",
+    "future-of-work",
+    "basic-income"
+  ],
+  "reason": "Wijkman's structural analysis of AI/robotics, broken productivity–jobs link, and policy shifts (work, taxes, guaranteed income) is durable opinion, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "06ff3e74f1136f48920f",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "consent",
+    "gender-equality",
+    "relationships"
+  ],
+  "reason": "Substantial debate column on coerced sex in relationships, consent, and how domestic peace naturalizes unwanted sex—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e7bfe86f11d65117fb8d",
+  "error": ""
+}

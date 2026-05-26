@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "online-extremism",
+    "media",
+    "hate-speech"
+  ],
+  "reason": "DN Debatt lede frames coordinated online harassment as a deliberate media-intimidation strategy, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "585d177d1bf7f9ef220e",
+  "error": ""
+}

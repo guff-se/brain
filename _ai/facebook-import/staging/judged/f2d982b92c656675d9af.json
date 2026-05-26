@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only a login page with no article body; the displayed title is unusable and URL alone is insufficient to verify durable analysis worth ingesting.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f2d982b92c656675d9af",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "psychology",
+    "learning"
+  ],
+  "reason": "Research-backed analysis of how school grading rewards conscientiousness and neuroticism over openness, with durable implications for wellbeing, deep learning, and system design.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "542ae2bc6a7b0ec36a4b",
+  "error": ""
+}

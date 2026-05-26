@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "eating-disorders",
+    "body-image",
+    "media-ethics"
+  ],
+  "reason": "Durable critique of harm mechanisms (triggers, unintended reach) and why shock/hoax campaigns can worsen body fixation despite good intentions.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fdb6c7a31715c0aca68c",
+  "error": ""
+}

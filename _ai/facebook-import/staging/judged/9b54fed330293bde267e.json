@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "inequality",
+    "psychology",
+    "economy"
+  ],
+  "reason": "Long-form cultural analysis with causal framing (hedonic adaptation, class obliviousness) that outlasts its 2012 Occupy news hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9b54fed330293bde267e",
+  "error": ""
+}

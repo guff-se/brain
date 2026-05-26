@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Single 95-character contrast with no multi-sentence mechanism or reasoning; under-200 own_text default is skip unless developed argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "11ff4d728209621afb60",
+  "error": ""
+}

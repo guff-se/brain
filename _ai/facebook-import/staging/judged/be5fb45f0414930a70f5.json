@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired share: Gustaf's text only repeats the headline with no framing, argument, or insight beyond the article title.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "be5fb45f0414930a70f5",
+  "error": ""
+}

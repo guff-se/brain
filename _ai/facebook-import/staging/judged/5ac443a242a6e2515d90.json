@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "atheism",
+    "secularism",
+    "richard-dawkins"
+  ],
+  "reason": "Named expert TED talk on atheism and church incursion into politics and science — durable argument, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5ac443a242a6e2515d90",
+  "error": ""
+}

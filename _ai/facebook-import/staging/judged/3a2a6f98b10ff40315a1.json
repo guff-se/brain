@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "quantum-mechanics",
+    "physics",
+    "science"
+  ],
+  "reason": "Long-form science journalism on QM interpretations, pilot-wave theory, and mechanism—not ephemeral news or a thin share.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3a2a6f98b10ff40315a1",
+  "error": ""
+}

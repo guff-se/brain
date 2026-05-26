@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2012 corporate news about BASF shelving Amflora GMO potato; fetch returned generic Greenpeace homepage, not durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7dcaad6cc481ec4c5698",
+  "error": ""
+}

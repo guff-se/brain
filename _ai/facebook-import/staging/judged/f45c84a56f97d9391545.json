@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "moral-agency",
+    "personal-responsibility",
+    "ethics"
+  ],
+  "reason": "Crisp ethical contrast between deflecting responsibility ('just doing my job') and claiming human agency to choose better—durable moral principle, not event or banter.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "f45c84a56f97d9391545",
+  "error": ""
+}

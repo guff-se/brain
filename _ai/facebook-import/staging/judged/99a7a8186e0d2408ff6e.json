@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "ETH quadrotor juggling demo is a famous spectacle with only institutional credits and a brief how-it-works FAQ, not durable analysis or principles worth a vault note.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "99a7a8186e0d2408ff6e",
+  "error": ""
+}

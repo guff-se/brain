@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "lgbtq-rights"
+  ],
+  "reason": "This appears to be a paywalled, incident-style news item about a specific school assignment with no durable framework or mechanism to carry forward.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "dabaac45690e53e9d48b",
+  "error": ""
+}

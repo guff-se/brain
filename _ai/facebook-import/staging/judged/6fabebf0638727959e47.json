@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "neuroscience",
+    "artificial-intelligence",
+    "brain-simulation"
+  ],
+  "reason": "Substantive Wired feature on brain simulation, funding, and scientific limits—not ephemeral news or thin share metadata.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6fabebf0638727959e47",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "social-dynamics",
+    "bias",
+    "diversity"
+  ],
+  "reason": "Classic interactive explainer with durable mechanisms—how small individual preferences produce systemic segregation and why passive neutrality cannot undo path-dependent inequality.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2bcb185fc7f7e0086ea1",
+  "error": ""
+}

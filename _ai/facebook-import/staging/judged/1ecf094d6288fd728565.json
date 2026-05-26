@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education-policy",
+    "school-system",
+    "sweden"
+  ],
+  "reason": "Linder synthesizes the Pearson/EIU ranking with five durable mechanisms (resources vs outcomes, teachers, culture, choice, vocational paths), not just a 2012 news blip.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1ecf094d6288fd728565",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "feynman",
+    "science",
+    "complexity"
+  ],
+  "reason": "Feynman lecture on electromagnetic spectrum and scientific wonder is durable expert content despite thin uploader description.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "76dd1d2ce03d153480ef",
+  "error": ""
+}

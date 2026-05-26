@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired share with only a pull-quote from the article and no added framing or reasoning from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "66fe792d128559fdaff9",
+  "error": ""
+}

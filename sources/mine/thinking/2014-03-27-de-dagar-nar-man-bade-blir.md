@@ -8,9 +8,9 @@ source: "facebook"
 source_id: "fb-1395908415"
 provenance: "extracted"
 lang: "sv"
-tags: [tribalism, polarization, epistemic-humility]
+tags: [political-polarization, discourse, nuance]
 status: "reference"
-ingested: "2026-05-25"
+ingested: "2026-05-26"
 created: "2014-03-27"
 ---
 

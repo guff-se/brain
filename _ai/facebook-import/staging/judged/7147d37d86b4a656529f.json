@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A one-line existential question with no stated view, answer, or principle—too thin to stand alone as durable thinking.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7147d37d86b4a656529f",
+  "error": ""
+}

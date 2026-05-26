@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "wealth-inequality",
+    "tax-policy",
+    "economic-policy"
+  ],
+  "reason": "Standalone commentary exceeds 200 chars and develops a causal policy argument—savings tax cuts don't boost consumption or self-finance like job cuts, and wealth tax would better target inequality.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "3ab4d2adffa31c63cdbe",
+  "error": ""
+}

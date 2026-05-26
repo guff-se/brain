@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2012 Metro-in-Space contest pitch—promotional personal narrative with no durable analysis, frameworks, or mechanisms beyond winning a trip.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "071d6ca732ed2181b175",
+  "error": ""
+}

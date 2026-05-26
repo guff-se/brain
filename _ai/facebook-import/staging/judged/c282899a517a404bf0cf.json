@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Brief partisan cheerleading with no argument, principle, or durable insight; the link resolves to a generic DI topic page, not substantive content.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "c282899a517a404bf0cf",
+  "error": ""
+}

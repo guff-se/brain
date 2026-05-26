@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2014 DN Debatt op-ed advocating a street-begging ban—time-bound policy advocacy, not durable analysis; paywalled body adds no substance beyond the lede.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1fa4e2c584e0bf2e25b6",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "voice",
+  "kind_hint": "note",
+  "tags_hint": [
+    "authenticity",
+    "perception",
+    "self-expression"
+  ],
+  "reason": "Multi-stanza finished poem with a clear perspectival thesis (beauty in what you see), not banter or a one-liner.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "42fb97edb9cbb5237c69",
+  "error": ""
+}

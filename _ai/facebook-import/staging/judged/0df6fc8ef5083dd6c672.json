@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "marriage",
+    "polyamory",
+    "family-law"
+  ],
+  "reason": "Substantive ledare arguing why marriage as a two-person legal institution is outdated and what polyamorous or multi-adult families need instead—not episodic news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0df6fc8ef5083dd6c672",
+  "error": ""
+}

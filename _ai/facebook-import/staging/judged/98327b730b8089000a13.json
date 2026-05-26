@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "public-health",
+    "dental-health",
+    "health-policy"
+  ],
+  "reason": "Wikipedia article explains mechanisms, evidence, implementation, and debate on fluoridation—durable reference, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "98327b730b8089000a13",
+  "error": ""
+}

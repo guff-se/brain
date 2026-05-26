@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "financialization",
+    "macroeconomics",
+    "capital-markets"
+  ],
+  "reason": "Durable structural analysis of global financialization, capital glut vs. real economy, and systemic risk mechanisms—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "90e7ae3d76efc412ac50",
+  "error": ""
+}

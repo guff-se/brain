@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "colonialism",
+    "european-union",
+    "africa"
+  ],
+  "reason": "Named scholars frame EU integration through colonial exploitation of Africa—a durable historical-mechanism thesis, not ephemeral news despite the Nobel hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a36e78ac977070cd2ed9",
+  "error": ""
+}

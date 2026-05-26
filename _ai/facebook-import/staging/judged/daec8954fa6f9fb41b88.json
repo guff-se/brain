@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: asserts a 2014 political linkage without mechanism and ends on a generic rights maxim, not a developed argument worth keeping.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "daec8954fa6f9fb41b88",
+  "error": ""
+}

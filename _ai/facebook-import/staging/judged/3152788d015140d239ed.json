@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "entrepreneurship",
+    "social-class",
+    "labor"
+  ],
+  "reason": "Short Swedish essay with durable reflection on class identity, work ethic, and the paradox of being 'capital' while struggling—not news or banter.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3152788d015140d239ed",
+  "error": ""
+}

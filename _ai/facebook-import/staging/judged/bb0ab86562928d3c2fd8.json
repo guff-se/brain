@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "universal-basic-income",
+    "automation",
+    "silicon-valley"
+  ],
+  "reason": "Substantive 2015 analysis of why tech elites back UBI—automation anxiety, political coalitions, and policy mechanisms—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bb0ab86562928d3c2fd8",
+  "error": ""
+}

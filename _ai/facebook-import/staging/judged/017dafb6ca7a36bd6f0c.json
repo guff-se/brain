@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "financial-crisis",
+    "whistleblowing",
+    "investigative-journalism"
+  ],
+  "reason": "Taibbi's investigative account of mortgage diligence fraud, institutional pressure, and executive accountability is durable mechanism-rich analysis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "017dafb6ca7a36bd6f0c",
+  "error": ""
+}

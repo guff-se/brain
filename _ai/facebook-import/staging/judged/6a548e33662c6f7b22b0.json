@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "criminal-justice",
+    "solitary-confinement",
+    "youth-incarceration"
+  ],
+  "reason": "Substantive Guardian analysis of youth solitary confinement with mechanisms, harm, and policy context—not ephemeral news or a link stub.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6a548e33662c6f7b22b0",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A one-line 2015 political quip about MP's broken promises—witty but time-bound banter, not durable analysis or a non-trivial principle.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7f3f4cbfa79a411f8727",
+  "error": ""
+}

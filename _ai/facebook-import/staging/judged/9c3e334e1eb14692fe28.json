@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "mass-surveillance",
+    "privacy",
+    "civil-liberties"
+  ],
+  "reason": "Substantive op-ed on how mass signal intelligence works, democratic tradeoffs, and surveillance chilling effects—not only a 2012 news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9c3e334e1eb14692fe28",
+  "error": ""
+}

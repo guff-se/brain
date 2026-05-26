@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch is only a torrent-details page shell with no article text or durable topic—logistical link, not knowledge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ae9caa340ebad261b7bb",
+  "error": ""
+}

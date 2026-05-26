@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "attention",
+    "boredom",
+    "modernity"
+  ],
+  "reason": "Durable philosophical analysis of boredom, attention, and novelty-seeking as addiction-like behavior with clear mechanisms and typologies.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d33f0bb64d38c391877a",
+  "error": ""
+}

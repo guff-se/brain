@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "lgbtq-rights",
+    "civil-liberties",
+    "editorial"
+  ],
+  "reason": "DN huvudledare on freedom vs rights with structural LGBTQ acceptance analysis—durable opinion, not breaking news, despite paywall-thin fetch.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a9f94c0fe00b2838d436",
+  "error": ""
+}

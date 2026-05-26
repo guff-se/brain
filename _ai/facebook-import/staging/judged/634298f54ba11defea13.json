@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "geopolitics",
+    "russia"
+  ],
+  "reason": "Under 200 chars: only endorses Politico and quotes its headline with no causal argument or framing of his own.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "634298f54ba11defea13",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "venture-capital",
+    "startup-economics",
+    "predatory-pricing"
+  ],
+  "reason": "Roose explains mechanisms of VC-subsidized unit economics, pension-capital flows, and unfair competition—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "50c6f1f22aa6f9322b39",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary only points to Ajour’s roundup, adds a one-line aside that Bildombudsman is private, and ends with insult—no framing or reasoning beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ae2eb2b9d75731538671",
+  "error": ""
+}

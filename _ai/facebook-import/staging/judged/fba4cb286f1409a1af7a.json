@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2012 news survey piece with dated stats on study choices and unemployment, not durable analysis or a reusable framework.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fba4cb286f1409a1af7a",
+  "error": ""
+}

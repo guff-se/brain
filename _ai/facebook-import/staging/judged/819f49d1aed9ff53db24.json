@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A bare notice that something happened, with no why, meaning, or principle worth keeping.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "819f49d1aed9ff53db24",
+  "error": ""
+}

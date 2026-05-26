@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gender-quotas",
+    "corporate-governance",
+    "causation"
+  ],
+  "reason": "Ledare that unpacks correlation vs causation on board diversity and profitability, plus process-vs-outcome framing—durable argument beyond 2014 budget news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "892a016d1348550d2ff5",
+  "error": ""
+}

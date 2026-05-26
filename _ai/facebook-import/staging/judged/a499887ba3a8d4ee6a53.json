@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is brief enthusiasm that restates the headline thesis without mechanism, framing, or reasoning beyond the share.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "a499887ba3a8d4ee6a53",
+  "error": ""
+}

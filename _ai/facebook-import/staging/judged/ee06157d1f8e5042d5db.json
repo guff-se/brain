@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "interactive-art",
+    "motion-capture",
+    "creative-tools"
+  ],
+  "reason": "Durable look at physics-based animation + motion capture as a creative tool for interactive performance (principles and approach, not just an event).",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ee06157d1f8e5042d5db",
+  "error": ""
+}

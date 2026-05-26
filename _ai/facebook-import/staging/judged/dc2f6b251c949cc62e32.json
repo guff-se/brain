@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2012 Bambuser–AP partnership announcement; mostly time-bound industry news with light opt-in/licensing color, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "dc2f6b251c949cc62e32",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "parenting",
+    "puberty",
+    "body-autonomy"
+  ],
+  "reason": "Long-form essay with mechanisms (peer norms, puberty, parental support) and a structural analogy, not just a 2013 news reaction.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4728cb02793bc2212039",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "future-of-work",
+    "lifelong-learning",
+    "automation"
+  ],
+  "reason": "Substantive essay framing learning agility, knowledge flows vs stocks, and automation’s impact on education—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "870bca0d63ad4cd0f215",
+  "error": ""
+}

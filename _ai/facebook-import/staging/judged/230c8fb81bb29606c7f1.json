@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "public-procurement",
+    "edtech",
+    "it-contracting"
+  ],
+  "reason": "2013 local news piece about one city’s iPad contract and prices—time-bound reporting, not a lasting framework or principle worth a permanent consumed note.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "230c8fb81bb29606c7f1",
+  "error": ""
+}

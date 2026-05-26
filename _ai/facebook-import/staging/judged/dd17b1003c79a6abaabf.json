@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare Dropbox folder link with no fetched content, commentary, or topic signal—logistical share, not durable knowledge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "dd17b1003c79a6abaabf",
+  "error": ""
+}

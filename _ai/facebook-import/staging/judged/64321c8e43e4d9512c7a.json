@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "monetary-policy",
+    "housing-bubble",
+    "inequality"
+  ],
+  "reason": "It offers a durable causal analysis of low-rate policy, housing leverage incentives, and the resulting social split rather than just reporting an event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "64321c8e43e4d9512c7a",
+  "error": ""
+}

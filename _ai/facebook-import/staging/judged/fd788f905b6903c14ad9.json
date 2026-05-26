@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.94,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ephemeral 2014 cabinet-speculation news with no durable analysis, frameworks, or mechanisms beyond who might get which post.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fd788f905b6903c14ad9",
+  "error": ""
+}

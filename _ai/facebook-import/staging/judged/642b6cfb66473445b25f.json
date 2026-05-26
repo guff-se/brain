@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "role-playing",
+    "community",
+    "storytelling"
+  ],
+  "reason": "Cultural essay with durable analysis of RPGs as collective storytelling, moral panic, and empathy—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "642b6cfb66473445b25f",
+  "error": ""
+}

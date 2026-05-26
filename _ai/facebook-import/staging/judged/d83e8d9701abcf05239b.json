@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paradox game trailer promo with no analysis, framework, or durable topic—generic entertainment marketing.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "d83e8d9701abcf05239b",
+  "error": ""
+}

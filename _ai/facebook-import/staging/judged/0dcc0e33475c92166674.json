@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "exoplanets",
+    "astrobiology",
+    "fermi-paradox"
+  ],
+  "reason": "Swedish popular-science piece explains how transit spectroscopy and biomarkers could detect life, not just 2014 exoplanet counts.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0dcc0e33475c92166674",
+  "error": ""
+}

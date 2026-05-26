@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "lifelong-learning",
+    "education",
+    "automation"
+  ],
+  "reason": "Seminar recap with durable arguments on school purpose, industrial-era schooling vs exponential change, and grading—beyond a mere event notice.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e03bc67aa6f5b1848430",
+  "error": ""
+}

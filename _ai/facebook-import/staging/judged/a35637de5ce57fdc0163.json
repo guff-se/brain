@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical post offering to privately share a lecture recording; no ideas, analysis, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a35637de5ce57fdc0163",
+  "error": ""
+}

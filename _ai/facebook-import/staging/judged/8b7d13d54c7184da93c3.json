@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "regulation",
+    "small-scale-farming",
+    "eu-policy"
+  ],
+  "reason": "Substantive first-person analysis of EU/Swedish cosmetics vs food rules, compliance costs, lobbying, and a durable regulatory-workaround pattern—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8b7d13d54c7184da93c3",
+  "error": ""
+}

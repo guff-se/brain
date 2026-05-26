@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-literacy",
+    "body-image",
+    "film-production"
+  ],
+  "reason": "Investigative piece explaining the hidden mechanics, economics, and cultural stakes of digital beauty work—not ephemeral celebrity gossip.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f03134594516eaac899a",
+  "error": ""
+}

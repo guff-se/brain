@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "cosmopolitanism",
+    "urban-inequality",
+    "class-mobility"
+  ],
+  "reason": "Long-form essay on suburban unrest with structural causality, cosmopolitanism’s dual face, and class/mobility framing—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2bd0de4ea23a72022fdb",
+  "error": ""
+}

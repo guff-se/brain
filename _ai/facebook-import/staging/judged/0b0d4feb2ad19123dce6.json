@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a nostalgic DreamHack check-in with no argument, mechanism, or durable insight beyond 'some things don't change.'",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0b0d4feb2ad19123dce6",
+  "error": ""
+}

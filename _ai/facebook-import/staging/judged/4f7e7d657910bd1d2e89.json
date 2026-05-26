@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional team logistics (emails, Dropbox, meeting scheduling) with no durable insight or reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "4f7e7d657910bd1d2e89",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound poll news with commentary that only restates the headline—no principle, analysis, or durable insight from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "d78a9d9d0237b81f7f89",
+  "error": ""
+}

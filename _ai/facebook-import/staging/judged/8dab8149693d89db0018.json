@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "terrorism",
+    "media-criticism",
+    "fear"
+  ],
+  "reason": "States a durable causal principle—that terrorism works by inflating irrational fear and that fear-mongering serves attackers—and applies it as an explicit value judgment.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8dab8149693d89db0018",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "adhd",
+    "education",
+    "healthcare-inequality"
+  ],
+  "reason": "SvD analysis links rising child ADHD medication to school structure, missing support, and class-based prescribing gaps—not episodic news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d15e5abc0487e9b48558",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "body-image",
+    "gender",
+    "media-criticism"
+  ],
+  "reason": "Substantive critique of Dove’s campaign—representation, narrow beauty norms, and why “you’re beautiful” messaging reinforces valuing women through appearance—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7b7e206be8d7c81e6315",
+  "error": ""
+}

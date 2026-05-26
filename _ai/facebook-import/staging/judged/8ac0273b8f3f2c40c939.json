@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound obituary and death announcement with biographical color, not durable analysis or principles worth keeping as vault knowledge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8ac0273b8f3f2c40c939",
+  "error": ""
+}

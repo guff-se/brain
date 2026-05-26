@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "cognitive-enhancement",
+    "neuroscience",
+    "brain-stimulation"
+  ],
+  "reason": "Substantive feature on tDCS mechanisms, ethics, and first-person insight—not time-bound news or a thin link.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "29074b0de44604b92d4d",
+  "error": ""
+}

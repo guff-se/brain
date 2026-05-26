@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "refugees",
+    "migration",
+    "terrorism"
+  ],
+  "reason": "One-line causal principle: refugees flee the same actors as attack victims, countering conflation with perpetrators.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5c690a4822caf069c089",
+  "error": ""
+}

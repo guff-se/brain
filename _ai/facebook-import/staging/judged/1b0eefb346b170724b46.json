@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound media rant with a hot-take contrast but no developed mechanism or durable insight beyond venting.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1b0eefb346b170724b46",
+  "error": ""
+}

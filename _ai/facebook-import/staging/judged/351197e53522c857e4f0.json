@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [
+    "help-seeking",
+    "communication",
+    "self-improvement"
+  ],
+  "reason": "It’s a short request for tips without a durable mechanism, causal claim, or developed argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "351197e53522c857e4f0",
+  "error": ""
+}

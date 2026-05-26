@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "monopoly",
+    "tech-history",
+    "innovation"
+  ],
+  "reason": "Tim Wu’s Bell Labs case study explains why a monopoly buried magnetic recording for decades—a durable mechanism story, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6f05b16a1c2089d5177b",
+  "error": ""
+}

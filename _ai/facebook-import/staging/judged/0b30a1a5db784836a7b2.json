@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin SvD web-TV clip about a 2010 show premiere—time-bound entertainment/news with no durable analysis in title or body.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0b30a1a5db784836a7b2",
+  "error": ""
+}

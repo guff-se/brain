@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is a 2011 hackathon vote-and-share plea with no causal or principled argument beyond a one-line pitch.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "35f37cf9c7310c5ccc77",
+  "error": ""
+}

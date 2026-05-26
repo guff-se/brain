@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Kickstarter campaign pitch for a prototyping toy—promotional, time-bound crowdfunding, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8637c1f28c3546fcdf17",
+  "error": ""
+}

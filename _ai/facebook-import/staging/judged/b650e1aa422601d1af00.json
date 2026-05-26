@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Short paired reaction with no durable reasoning or mechanism beyond emotional disbelief.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "b650e1aa422601d1af00",
+  "error": ""
+}

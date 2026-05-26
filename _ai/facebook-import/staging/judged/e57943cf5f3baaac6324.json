@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "privatization",
+    "public-transit",
+    "stockholm"
+  ],
+  "reason": "Challenges the meaning of 'privatization' when public transit ends up owned by foreign state-linked operators—a durable framing insight, not a time-bound event report.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e57943cf5f3baaac6324",
+  "error": ""
+}

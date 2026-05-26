@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "net-neutrality",
+    "internet-policy",
+    "telecom"
+  ],
+  "reason": "Policy explainer on a structural issue (ISP tiering/net neutrality), not generic entertainment, despite a dated 2014 FCC CTA.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "caec85c89223ef037766",
+  "error": ""
+}

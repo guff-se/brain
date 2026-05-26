@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "education-policy",
+    "digital-distraction",
+    "classroom-management"
+  ],
+  "reason": "It’s mainly a time-bound readers’ debate about a specific classroom phone ruling rather than a durable mechanism or framework.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0cca7180f7c6d629e634",
+  "error": ""
+}

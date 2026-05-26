@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "school-policy",
+    "sweden"
+  ],
+  "reason": "Multi-part essay intro with historical reform context, causal claims about teacher marginalization and grading systems—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "836470892016142db723",
+  "error": ""
+}

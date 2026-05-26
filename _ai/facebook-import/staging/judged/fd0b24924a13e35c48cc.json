@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "trade-policy",
+    "isds",
+    "eu-politics"
+  ],
+  "reason": "Explains ISDS mechanics, closed arbitration, and state–corporate power in TTIP—not only the Malmström resignation headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fd0b24924a13e35c48cc",
+  "error": ""
+}

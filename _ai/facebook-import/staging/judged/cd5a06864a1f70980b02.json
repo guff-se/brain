@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "alexander-bard",
+    "internet-revolution",
+    "philosophy-of-technology"
+  ],
+  "reason": "A philosophical TEDx talk framing the internet as a quasi-religious organizing force, offering durable ideas about networks and belief rather than a time-bound event.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "cd5a06864a1f70980b02",
+  "error": ""
+}

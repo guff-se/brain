@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "intellectual-property",
+    "film"
+  ],
+  "reason": "Substantive first-person essay on asymmetric copyright enforcement and its causal impact on creators—not ephemeral news or a link stub.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d4e511fbba07cb2b4356",
+  "error": ""
+}

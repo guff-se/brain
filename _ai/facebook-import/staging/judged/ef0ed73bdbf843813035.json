@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "surveillance",
+    "privacy",
+    "civil-liberties"
+  ],
+  "reason": "Substantive Reporters Without Borders op-ed on FRA expansion, mass surveillance mechanics, and democratic tradeoffs—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ef0ed73bdbf843813035",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "sleep",
+    "circadian-rhythm"
+  ],
+  "reason": "Substantive opinion piece explaining circadian biology, pubertal sleep shift, and research-backed case for later school start times—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4f86b875d0e543ca40a3",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "free-speech",
+    "gender-representation"
+  ],
+  "reason": "Substantive report on a structural Swedish print-vs-web image-criticism loophole and how agencies use copyright claims to chill criticism, not just a one-off news blip.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0cf4396cfaa14082b3fe",
+  "error": ""
+}

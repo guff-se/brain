@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "asylum",
+    "rule-of-law",
+    "childrens-rights"
+  ],
+  "reason": "Substantive reportage on REVA, policing methods, and harm to undocumented children—mechanisms, rights framing, and rule-of-law analysis beyond a news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "39b4df8c641352e8b67a",
+  "error": ""
+}

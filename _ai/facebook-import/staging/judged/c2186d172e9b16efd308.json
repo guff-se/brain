@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.76,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "file-sharing",
+    "media-policy"
+  ],
+  "reason": "Cornucopia critique goes beyond the 2013 court story—proportionality, industry loss math, public subsidy vs enforcement, plus durable quoted legal reasoning on reputational harm.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c2186d172e9b16efd308",
+  "error": ""
+}

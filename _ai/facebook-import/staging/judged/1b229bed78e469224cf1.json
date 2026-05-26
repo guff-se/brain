@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars with a neat causal quip on 2015 SL politics, but too aphoristic and time-bound for durable vault substance.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1b229bed78e469224cf1",
+  "error": ""
+}

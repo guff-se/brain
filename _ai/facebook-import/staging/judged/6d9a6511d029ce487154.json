@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "science",
+    "expertise",
+    "epistemology"
+  ],
+  "reason": "Crisp epistemic stance—lay opinions on science should not outweigh scientists'—worth keeping as a durable thinking fragment.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6d9a6511d029ce487154",
+  "error": ""
+}

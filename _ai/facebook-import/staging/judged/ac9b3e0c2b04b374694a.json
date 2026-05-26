@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only a personal Tele2 contract favor request relayed from a friend—logistical, no durable insight or Gustaf reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ac9b3e0c2b04b374694a",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Short sarcastic quip with no durable reasoning or mechanism beyond the article headline framing.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "244be5d5d737a8d7d16e",
+  "error": ""
+}

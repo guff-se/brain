@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.87,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "private-equity",
+    "healthcare",
+    "eldercare"
+  ],
+  "reason": "Primarily a time-bound political news report about a proposed ban, without durable framework-level analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "011ff4a9ed1e27b06e39",
+  "error": ""
+}

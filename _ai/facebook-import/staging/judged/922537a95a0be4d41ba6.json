@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: commentary is essentially a block quote from the article with no added Gustaf framing or reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "922537a95a0be4d41ba6",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "philosophy-of-science",
+    "cosmology",
+    "physics"
+  ],
+  "reason": "Durable conceptual argument about limits of timeless laws in cosmology and the idea that laws may evolve, which is a reusable framework for thinking about scientific explanation.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e967dab8f8b57ed3e7e5",
+  "error": ""
+}

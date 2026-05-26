@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "education",
+    "credentialism",
+    "spoken-word"
+  ],
+  "reason": "Named spoken-word piece with a clear, durable critique of exam results and degree credentialism as gatekeepers to careers—not generic entertainment or event news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "a640ca364e70f4326024",
+  "error": ""
+}

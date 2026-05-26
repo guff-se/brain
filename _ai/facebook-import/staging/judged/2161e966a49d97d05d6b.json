@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is a sub-80-char logistical ticket-sale nudge with no reasoning; ephemeral event coordination, not durable knowledge.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "2161e966a49d97d05d6b",
+  "error": ""
+}

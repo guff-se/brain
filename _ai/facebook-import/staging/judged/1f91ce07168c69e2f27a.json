@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Personal welcome to family—relational small talk with no durable insight or principle.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1f91ce07168c69e2f27a",
+  "error": ""
+}

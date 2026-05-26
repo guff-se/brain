@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "burning-man",
+    "gift-economy",
+    "community"
+  ],
+  "reason": "External explainer on Burning Man's gifting principle—a durable framework topic, not ephemeral entertainment or news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "a083de1e527c7a421762",
+  "error": ""
+}

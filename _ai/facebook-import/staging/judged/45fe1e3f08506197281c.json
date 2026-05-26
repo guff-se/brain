@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned Metro homepage/lifestyle fluff, not the linked 2013 police-debate news piece, and that topic would be ephemeral event coverage anyway.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "45fe1e3f08506197281c",
+  "error": ""
+}

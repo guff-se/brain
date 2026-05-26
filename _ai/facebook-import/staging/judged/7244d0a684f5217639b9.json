@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "children-rights",
+    "parenting",
+    "democracy"
+  ],
+  "reason": "Satirical debate essay with durable analysis of age-based power, children's rights history, and why empowerment triggers backlash—expert-authored, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7244d0a684f5217639b9",
+  "error": ""
+}

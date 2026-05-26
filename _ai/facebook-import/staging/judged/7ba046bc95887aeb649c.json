@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "misinformation",
+    "education"
+  ],
+  "reason": "Investigative piece debunking drug-ed myths, tracing Scientology-linked programs in schools, and explaining systemic accountability gaps—not ephemeral headline noise.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7ba046bc95887aeb649c",
+  "error": ""
+}

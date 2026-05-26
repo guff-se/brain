@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A two-word reaction to unnamed reading adds no durable insight, principle, or analysis—only that something about 'det bruna Östermalm' felt scary and insightful.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0eff756179965b70f895",
+  "error": ""
+}

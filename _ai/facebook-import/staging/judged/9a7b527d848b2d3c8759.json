@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "personal-finance",
+    "opportunity-cost",
+    "work-life"
+  ],
+  "reason": "A crisp reflective question that surfaces the hidden meta-cost of earning income—a durable life-design and economic mechanism, not event or banter.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "9a7b527d848b2d3c8759",
+  "error": ""
+}

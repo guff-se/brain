@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "private-equity",
+    "capitalism",
+    "finance"
+  ],
+  "reason": "Salmon analyzes durable mechanisms—PE leverage, growth imperatives, fiduciary duty vs jobs—beyond the 2012 Romney news peg.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "69f440f94b6b403ad934",
+  "error": ""
+}

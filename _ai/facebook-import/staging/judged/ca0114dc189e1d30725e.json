@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "copyright",
+    "digital-culture",
+    "open-culture"
+  ],
+  "reason": "Nina Paley’s named copyright advocacy piece frames copying vs theft and evolving legal/economic models—a durable structural topic, not generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "ca0114dc189e1d30725e",
+  "error": ""
+}

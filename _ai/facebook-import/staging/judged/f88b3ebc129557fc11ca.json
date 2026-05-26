@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "encryption",
+    "government-surveillance",
+    "accountability"
+  ],
+  "reason": "Crisp causal claim tying encryption to leak-driven accountability and opposing state crypto bans—a durable policy principle, not event reporting.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "f88b3ebc129557fc11ca",
+  "error": ""
+}

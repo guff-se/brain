@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "fifa",
+    "corruption",
+    "sports-governance"
+  ],
+  "reason": "Title and description signal an investigative explainer on FIFA institutional corruption—a structural governance topic, not generic entertainment, despite 2014 World Cup timing and HBO promo boilerplate.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "e0e61df0cddcf769c5e5",
+  "error": ""
+}

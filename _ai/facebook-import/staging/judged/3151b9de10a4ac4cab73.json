@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched page is only a domain parking/coming-soon stub with no article body or durable substance.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3151b9de10a4ac4cab73",
+  "error": ""
+}

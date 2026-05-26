@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gold-farming",
+    "virtual-economy",
+    "labor-exploitation"
+  ],
+  "reason": "Investigative feature explains gold-farming mechanics, market scale, and prison-labor exploitation—not only a dated news peg.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e11c60c8b6dd482600f5",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional outreach for customer leads in two cities, with no reasoning or durable knowledge, and under the 200-character own_text threshold.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5ad38f6a3efd81bdb401",
+  "error": ""
+}

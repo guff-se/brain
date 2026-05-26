@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is mostly thanks and a one-line House of Cards metaphor, not ≥200 chars of Gustaf's own causal reasoning beyond the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "02e56d5c4f31a9c67b7f",
+  "error": ""
+}

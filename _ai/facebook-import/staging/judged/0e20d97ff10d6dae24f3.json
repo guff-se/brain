@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "harm-reduction",
+    "public-health"
+  ],
+  "reason": "Campaign text still articulates a durable harm-reduction framework and systemic critique of abstinence-focused policy, beyond the 2012 news hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0e20d97ff10d6dae24f3",
+  "error": ""
+}

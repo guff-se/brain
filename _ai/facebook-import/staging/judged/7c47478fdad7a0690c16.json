@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "maker-movement",
+    "invention-literacy",
+    "digital-fluency"
+  ],
+  "reason": "Manifesto-style argument with durable frameworks—invention literacy, freedom-as-making, and digital fluency—not a tool hype piece or time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7c47478fdad7a0690c16",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched metadata is mostly GF2045 congress promotion and speaker bio, not durable ideas or reasoning from the talk itself.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "091f1117e74562b217e1",
+  "error": ""
+}

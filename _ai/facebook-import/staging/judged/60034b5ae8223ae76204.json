@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2014 Nyheter24 opinion column tied to a single Riksdag vote on SD’s vice talman post—event commentary, not durable analysis or principles beyond that news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "60034b5ae8223ae76204",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "political-satire",
+    "cultural-wars",
+    "sweden"
+  ],
+  "reason": "It’s comedic, absurd satire about holiday culture politics without durable mechanisms or enduring insight beyond a time-bound provocation.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b1ceb999ede599835519",
+  "error": ""
+}

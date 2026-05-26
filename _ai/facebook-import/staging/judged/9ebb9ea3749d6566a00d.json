@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin YouTube metadata for 2010 event footage (a piano at Burning Man), not durable analysis or a reusable idea.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "9ebb9ea3749d6566a00d",
+  "error": ""
+}

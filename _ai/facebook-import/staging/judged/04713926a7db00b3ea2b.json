@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a block quote from the article, not Gustaf's framing or reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "04713926a7db00b3ea2b",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "standardized-testing",
+    "metrics"
+  ],
+  "reason": "Durable critique of standardized testing/league-table metrics (PISA) and how measurement incentives shape education toward teach-to-test skills training.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5556b87a10a4142db29d",
+  "error": ""
+}

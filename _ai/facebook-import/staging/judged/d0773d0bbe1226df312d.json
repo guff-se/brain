@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: sarcastic climate quip listing effects without mechanism or developed argument—default skip for own_text.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d0773d0bbe1226df312d",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A brief, upbeat reaction to a local radio bit—no durable insight, mechanism, or non-trivial principle beyond generic praise for folk education.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "61c24857754fae136edd",
+  "error": ""
+}

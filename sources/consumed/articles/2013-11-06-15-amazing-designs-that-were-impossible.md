@@ -1,0 +1,28 @@
+---
+title: "15 Amazing Designs That Were Impossible to Make 15 Years Ago | Wired Design | Wired.com"
+summary: "15 Amazing Designs That Were Impossible to Make 15 Years Ago
+- 11.05.13
+- 6:30 AM
+Richard DuPont's untitled sculpture us…"
+kind: "article"
+party: "third"
+register: "consumed"
+source: "wayback"
+source_id: "fb-1383738831"
+url: "http://web.archive.org/web/20140326041650/http://www.wired.com:80/design/2013/11/digital-fabrication-created-these-tk-crazy-works-of-art/"
+author: "Liz Stinson"
+provenance: "extracted"
+enrichment: "wayback"
+lang: "en"
+tags: [3d-printing, digital-fabrication, design]
+status: "reference"
+ingested: "2026-05-26"
+created: "2013-11-06"
+---
+
+15 Amazing Designs That Were Impossible to Make 15 Years Ago - 11.05.13 - 6:30 AM Richard DuPont's untitled sculpture uses data from a self-scan he did back in 2001. Image: Courtesy of the artist Wim Delvoye's created his Twisted Dump Truck by laser cutting steel into an intricate victorian-style lace pattern. Image: Courtesy of the artist Achim Menges and Jan Knippers' ICD/ITKE Research Pavilion (2011). The bionic pavilion is the result of computer-based design and computer-controlled manufacturing. Image: Achim Menges Naim Josefi's Melonia Shoe (2010) is entirely 3-D printed. Image: Naim Josefi The Rapid Racer is a 25-pound 3-D printed car. And it's functional. Image: HAWK University of Applied Sciences and Arts The shape of Lucas Maassen's Brainwave Sofa was determined by taking a 3-second snippet of his neural activity and transforming that into a piece of furniture. Image: Courtesy of the artist Zaha Hadid's Liquid Glacial Smoke coffee table is meant to look like water. Image: Courtesy of the artist Maya Lin's Imaginary Iceberg (2009) is foam milled from a CNC machine. Image: Courtesy of the artist and Pace Gallery Dror Benshetrit's Volume light (2009) is 3-D printed. Image: Dror Benshtrit Ron Arad's Oh Void (2006). Image: Courtesy of Friedman Benda, New York Julian Mayor's Clone Chair (2005) is a digitally replicated version of a Queen Anne chair from the collection of the Metropolitan Museum of Art. Image: Courtesy of 21st twenty first Gallery Aranda\Lasch's Low Chair (2010) is part of the exhibition's New Geometric collection. Image: Courtesy of the artists Greg Lynn's Flatware Collection (2006). Image: Greg Lynn Form Post-digital is a confusing phrase. It’s hard to know what people mean when they throw it around—are we done with digital? What does digital even mean anymore? The definition is blurry. But to Ron Labaco, post-digital is less about a definition than it is about a mindset. Labaco, a curator at the Museum of Arts and Design in New York City, has put together a massive exhibition of digitally fabricated works from 2005 to present day for the recently opened Out of Hand: Materializing the Postdigital. The collection of more than 100 works is a comprehensive survey of design pieces and works of art that illustrate Labaco’s point—which is that over the past decade, there’s been a shift in the way that we talk and think about digital fabrication. Meaning, as technology becomes more ingrained in our daily lives, we’re moving away from a preoccupation with the technology itself into discussions about how it can be used and applied. In other words, we’ve entered the post-digital era. “These technologies are now being utilized as tools,” Labaco explains. “So it’s part of the toolkit as much as a chisel or as much as a paintbrush.” In the case of Out of Hand, digital fabrication means a lot of things. There are fully 3-D printed pieces like Naim Josefi’s Melonia Shoe. Then there are CNC cut works like Maya Lin’s stunning foam iceberg. Nike’s Vapor Laser Talon running cleat, which features a 3-D printed plate are on show, as is a necklace by Marc Newson with 2000 diamonds and sapphires arranged in a fractal pattern. It’s an odd mix of pieces, but Labaco has arranged all of them under cohesive conceptual umbrellas like “Remixing the Figure,” which features a 3-D printed dress that Shapeways created for Dita Von Teese and “New Geometries,” which explores how mathematics and science have impacted art and design. You can appreciate many of the included pieces through pictures—Wim Delvoye’s Twisted Dump Truck, an intricately laser cut steel piece that appears to be made from Victorian lace, is impressive two-dimensionally—but it’s not until you see the pieces in person that you grasp how far digital fabrication has come. “I wanted for there to be an interesting dialogue between the virtual world and the real world because I think when we see things online we tend to believe we’ve experienced it,” he says. “I wanted people to know it’s a different experience to see something two dimensionally on a screen and to see the object in real life.” Labaco points to Richard Dupont’s trippy life-size sculpture of himself that greets visitors upon entering the exhibition. Back in 2001, the artist scanned his entire body and has since been manipulating that digital data to create physical sculptures. The bizarro mannequin is an optical illusion; as you circle the sculpture the outline of it fades away and it’s almost as though you’re looking at something completely different. Dupont’s piece is a perfect example of the melding of digital and craftsman methods of creation—using digital data, Dupont was able to mill the wavy form of his body, which he then created a mold of and cast in polyurethane. “It shows how practitioners are using these technologies in different ways but
+
+*[Content truncated — full text in fetch cache]*
+
+---
+**Gustaf's commentary:** 15 Amazing Designs That Were Impossible to Make 15 Years Ago

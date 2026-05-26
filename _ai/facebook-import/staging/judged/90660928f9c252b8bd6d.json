@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a short quoted vignette from Fahl's column with no added framing or argument from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "90660928f9c252b8bd6d",
+  "error": ""
+}

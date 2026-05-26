@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drone-warfare",
+    "war-powers",
+    "media-criticism"
+  ],
+  "reason": "Greenwald's analysis ties a specific strike to durable mechanisms—AUMF overreach, official 'militant' definitions, media credulity, and normalized presidential killing—not just the news event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "035558a3dd41154b6e74",
+  "error": ""
+}

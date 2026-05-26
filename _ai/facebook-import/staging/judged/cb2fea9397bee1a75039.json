@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "social-media",
+    "media-theory",
+    "digital-culture"
+  ],
+  "reason": "Long-form analysis frames Twitter's shift via Ong's orality/literacy and Stewart's participation theory—not just 2015 earnings news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cb2fea9397bee1a75039",
+  "error": ""
+}

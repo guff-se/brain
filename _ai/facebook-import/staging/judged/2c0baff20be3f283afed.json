@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "antifascism",
+    "political-violence",
+    "sweden-politics"
+  ],
+  "reason": "Linderborg's essay ties a 2014 trial to durable arguments about when left/antifascist violence is justified, with historical mechanism and principle—not episodic news alone.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2c0baff20be3f283afed",
+  "error": ""
+}

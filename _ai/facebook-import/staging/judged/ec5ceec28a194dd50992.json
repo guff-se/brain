@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "marriage",
+    "divorce",
+    "relationships"
+  ],
+  "reason": "Substantive social-science analysis of age-at-marriage and divorce risk, with data, mechanisms, and causal hypotheses—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ec5ceec28a194dd50992",
+  "error": ""
+}

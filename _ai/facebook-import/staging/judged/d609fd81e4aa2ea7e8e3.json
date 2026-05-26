@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "epistemology",
+    "science",
+    "beliefs"
+  ],
+  "reason": "A timeless, mechanism-forward mini-argument contrasting faith-based belief with evidence-based science, worth recalling.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d609fd81e4aa2ea7e8e3",
+  "error": ""
+}

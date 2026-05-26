@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "press-freedom",
+    "government-transparency",
+    "wikileaks"
+  ],
+  "reason": "Substantive Wired editorial on press freedom, secrecy, and democratic accountability—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "eb7ff07a8a26baed82c4",
+  "error": ""
+}

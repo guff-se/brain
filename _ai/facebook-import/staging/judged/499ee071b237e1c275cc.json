@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.96,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "microfinance",
+    "global-development",
+    "poverty"
+  ],
+  "reason": "Substantive critique of microfinance with evidence, causal mechanisms, and structural alternatives—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "499ee071b237e1c275cc",
+  "error": ""
+}

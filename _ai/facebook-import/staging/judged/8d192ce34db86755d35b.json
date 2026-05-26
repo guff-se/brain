@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "euro-crisis",
+    "european-union"
+  ],
+  "reason": "Time-bound December 2011 news satire on an EU anniversary video amid the euro crisis, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8d192ce34db86755d35b",
+  "error": ""
+}

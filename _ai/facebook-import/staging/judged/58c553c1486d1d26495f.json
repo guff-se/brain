@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "copyright",
+    "creative-industries",
+    "innovation"
+  ],
+  "reason": "TED talk frames a durable cross-industry mechanism—how weak copyright in fashion relates to innovation and what other creative sectors can learn.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "58c553c1486d1d26495f",
+  "error": ""
+}

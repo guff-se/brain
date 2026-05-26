@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "quantum-mechanics",
+    "physics",
+    "science"
+  ],
+  "reason": "Substantive Wired/Quanta piece on quantum interpretations, pilot-wave theory, and mechanism—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "aaab070805ba7b5e9dc3",
+  "error": ""
+}

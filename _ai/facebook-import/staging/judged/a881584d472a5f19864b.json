@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: annoyance plus a one-line claim about Scientology recruitment, not a developed argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a881584d472a5f19864b",
+  "error": ""
+}

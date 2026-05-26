@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "philosophy-of-science",
+    "science-culture",
+    "epistemology"
+  ],
+  "reason": "Substantive essay on the science–culture divide, with historical context and analysis of how anti-science arguments conflate limits of science with rejection of empirical truth.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f2914c687774d56cc26f",
+  "error": ""
+}

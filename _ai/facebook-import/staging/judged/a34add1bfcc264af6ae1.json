@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "maker-movement",
+    "education",
+    "innovation"
+  ],
+  "reason": "Beyond the 2011 Maker Faire event frame, Bushnell's quotes offer durable mechanisms—making for unknown future jobs, sci-fi over classics for forward thinking, and hiring on hobbies not grades.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a34add1bfcc264af6ae1",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only a generic Veckans Affärer topic-hub blurb, not the chronicle body—no durable analysis or substance to ingest.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6d21e814f39e164248a2",
+  "error": ""
+}

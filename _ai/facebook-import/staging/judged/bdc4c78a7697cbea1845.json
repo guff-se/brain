@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "objectification",
+    "gender",
+    "satire"
+  ],
+  "reason": "Satirical but substantive cultural critique of sexualization and commodification of young women—durable perspective, not ephemeral news or entertainment fluff.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bdc4c78a7697cbea1845",
+  "error": ""
+}

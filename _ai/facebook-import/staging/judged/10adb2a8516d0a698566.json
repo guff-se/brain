@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is a time-bound event invitation and promotion for a 2012 hotel launch projection, with no reasoning or durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "10adb2a8516d0a698566",
+  "error": ""
+}

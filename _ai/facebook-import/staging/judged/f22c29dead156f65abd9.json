@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.84,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copenhagen-suborbitals",
+    "open-source",
+    "design-process"
+  ],
+  "reason": "Substantive piece on open DIY space development, sketch-first engineering workflow, and transparent hardware culture—not a fleeting news blip.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f22c29dead156f65abd9",
+  "error": ""
+}

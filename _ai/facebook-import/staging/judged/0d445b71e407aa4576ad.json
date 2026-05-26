@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Generic FundedByMe platform homepage title with no article body—promotional crowdfunding logistics, not durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0d445b71e407aa4576ad",
+  "error": ""
+}

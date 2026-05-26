@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "voice",
+  "kind_hint": "note",
+  "tags_hint": [
+    "democracy",
+    "civic-participation",
+    "political-engagement"
+  ],
+  "reason": "Polished manifesto-length prose with a durable causal claim—abstention cedes power to loud reactionary voices—not merely an election-day reminder.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5a0e1502d019a64381bd",
+  "error": ""
+}

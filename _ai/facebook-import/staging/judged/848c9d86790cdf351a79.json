@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "human-trafficking",
+    "sexual-violence",
+    "purity-culture"
+  ],
+  "reason": "News-wire framing, but Smart's testimony explains shame and abstinence-education metaphors as mechanisms behind why victims stay—durable victim psychology, not only the event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "848c9d86790cdf351a79",
+  "error": ""
+}

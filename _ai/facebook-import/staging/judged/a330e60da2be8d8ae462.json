@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "87-char mood post about a view and wanting to live in a city—no argument, mechanism, or durable knowledge; default skip under 200-char own_text rules.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a330e60da2be8d8ae462",
+  "error": ""
+}

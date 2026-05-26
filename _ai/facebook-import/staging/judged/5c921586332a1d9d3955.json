@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A same-day ticket-registration reminder with no analysis, principle, or durable insight—purely logistical and time-bound.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "5c921586332a1d9d3955",
+  "error": ""
+}

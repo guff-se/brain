@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "gamification",
+    "behavioral-design",
+    "education"
+  ],
+  "reason": "TED talk presenting a durable framework—game dynamics as a pervasive behavioral layer reshaping education and commerce—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "86085db7457e87028a58",
+  "error": ""
+}

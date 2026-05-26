@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "universal-basic-income",
+    "automation",
+    "future-of-work"
+  ],
+  "reason": "Substantive explainer on UBI as a structural response to technological unemployment, with historical precedent, mechanisms, and expert framing—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f6ee03d2e8c0a94f5d24",
+  "error": ""
+}

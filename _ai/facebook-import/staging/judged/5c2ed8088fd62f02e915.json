@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "TEDx youth anecdote with thin metadata; Burning Man participation is named but not developed into durable analysis or mechanism.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "5c2ed8088fd62f02e915",
+  "error": ""
+}

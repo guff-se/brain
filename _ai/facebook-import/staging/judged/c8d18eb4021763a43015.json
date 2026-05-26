@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "contemporary-art",
+    "racism",
+    "culture"
+  ],
+  "reason": "P1 Söndagsintervju on racism, offense culture, and art provocation with a named artist—durable cultural analysis despite thin episode blurb.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c8d18eb4021763a43015",
+  "error": ""
+}

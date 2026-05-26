@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: mood and superlative about an art visit, no argument, mechanism, or durable insight beyond naming Hilma af Klint.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "338d57fb60e70439d8f4",
+  "error": ""
+}

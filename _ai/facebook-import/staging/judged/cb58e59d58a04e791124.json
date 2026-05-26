@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound makerspace invite and Burning Man logistics with no argument or durable insight; under 200 chars.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "cb58e59d58a04e791124",
+  "error": ""
+}

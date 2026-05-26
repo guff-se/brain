@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-industry",
+    "innovation",
+    "copyright"
+  ],
+  "reason": "Substantive essay on media panic vs. hackathon experimentation, with durable mechanisms beyond the 2012 Sammanfatta.se incident.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "60d39c4f7abe946536d3",
+  "error": ""
+}

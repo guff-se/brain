@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Available metadata is promotional merch copy with no substantive description of ideas—entertainment share, not durable knowledge.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "d27881f7684c9dd766fd",
+  "error": ""
+}

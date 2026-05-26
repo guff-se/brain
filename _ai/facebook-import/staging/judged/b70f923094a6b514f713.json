@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "The shared URL is an expired domain; fetched content is only a registrar parking page with no durable article or insight to preserve.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b70f923094a6b514f713",
+  "error": ""
+}

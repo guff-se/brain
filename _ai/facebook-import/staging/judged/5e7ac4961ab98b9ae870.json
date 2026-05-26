@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional speaker-reel intro with no durable topic, framework, or analysis beyond marketing copy.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "5e7ac4961ab98b9ae870",
+  "error": ""
+}

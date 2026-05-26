@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "industrial-safety",
+    "engineering-failure",
+    "infrastructure"
+  ],
+  "reason": "Wikipedia entry with durable mechanism-level analysis—turbine vibration bands, maintenance history, and organizational failure—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "745a96abddc6e7476da2",
+  "error": ""
+}

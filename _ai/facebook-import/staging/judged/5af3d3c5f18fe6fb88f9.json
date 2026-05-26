@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters: a brief voting-compass anecdote and abstention quip, not a developed causal argument worth keeping.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5af3d3c5f18fe6fb88f9",
+  "error": ""
+}

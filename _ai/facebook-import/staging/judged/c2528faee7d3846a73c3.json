@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Playful one-line share to someone ('Nåt för dig?') with no analysis, principle, or durable knowledge—relational banter around a novelty link.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "c2528faee7d3846a73c3",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "racism",
+    "white-fragility",
+    "systemic-racism"
+  ],
+  "reason": "Robin DiAngelo’s essay defines durable mechanisms—systemic racism, white fragility, and the good/bad binary—with causal analysis, not episodic news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "730ee45adc5650895206",
+  "error": ""
+}

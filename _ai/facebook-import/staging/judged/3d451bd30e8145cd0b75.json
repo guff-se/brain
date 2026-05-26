@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "neuroplasticity",
+    "neuroscience",
+    "brain-fitness"
+  ],
+  "reason": "Substantive explainer on lifelong neuroplasticity, mechanisms, and study evidence—not time-bound news or promo fluff.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3d451bd30e8145cd0b75",
+  "error": ""
+}

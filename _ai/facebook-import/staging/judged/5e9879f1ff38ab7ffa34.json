@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-negativity",
+    "risk-perception",
+    "economic-progress"
+  ],
+  "reason": "Substantive op-ed with historical framing, data, and a durable argument about perception vs measured progress—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5e9879f1ff38ab7ffa34",
+  "error": ""
+}

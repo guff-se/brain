@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "gender",
+    "education",
+    "engineering"
+  ],
+  "reason": "A Upworthy-style viral/promotional post with no durable analysis, framework, or causal insight beyond advocating a specific initiative.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e7db63926f9535feb1a2",
+  "error": ""
+}

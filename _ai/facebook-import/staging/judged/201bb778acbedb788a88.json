@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A warm Sunday greeting with no durable idea, analysis, or non-trivial principle—social warmth only.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "201bb778acbedb788a88",
+  "error": ""
+}

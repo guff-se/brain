@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "filter-bubble",
+    "social-media",
+    "algorithmic-curation"
+  ],
+  "reason": "Substantial first-person analysis of filter bubbles, algorithmic feeds, and epistemic isolation—not just a reaction to the 2015 news moment.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5f0bbb90d56e88a4567c",
+  "error": ""
+}

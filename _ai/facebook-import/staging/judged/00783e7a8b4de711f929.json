@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf only quotes comment-section hate as illustration of Cantwell's 2015 news piece—no own principle or analysis, and the durable substance lives in the article, not this commentary.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "00783e7a8b4de711f929",
+  "error": ""
+}

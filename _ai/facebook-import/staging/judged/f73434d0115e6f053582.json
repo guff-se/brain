@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [
+    "language"
+  ],
+  "reason": "It is a short linguistic quip/correction under the strict <200-character own_text rule, with no durable mechanism or sustained reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "f73434d0115e6f053582",
+  "error": ""
+}

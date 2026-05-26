@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Casual social nudge to apply at a friend's company—relational banter, not durable knowledge or a stated principle.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a4fc97a4875e683a0550",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.76,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "civil-society",
+    "democracy",
+    "anti-racism"
+  ],
+  "reason": "LSU’s statement grounds a 2011 decision in durable principles—universal rights, democratic legitimacy, and why racist ideologies weaken youth organizing—not only the news hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cd903d42850c6137dce3",
+  "error": ""
+}

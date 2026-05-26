@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "animals",
+    "dogs",
+    "social-media"
+  ],
+  "reason": "This is an entertainment/adorable animal profile with no durable ideas, mechanisms, or analysis worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7c58d0b76b9127ba8b00",
+  "error": ""
+}

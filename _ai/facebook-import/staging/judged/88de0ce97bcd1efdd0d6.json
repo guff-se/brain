@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a frustrated rhetorical question about a traffic fine, not a developed argument on presumption of innocence or law.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "88de0ce97bcd1efdd0d6",
+  "error": ""
+}

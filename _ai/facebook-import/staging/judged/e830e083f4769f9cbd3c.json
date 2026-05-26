@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "climate-change",
+    "misinformation",
+    "think-tanks"
+  ],
+  "reason": "Peer-reviewed analysis of mechanisms linking conservative think tanks, denial books, and manufactured climate uncertainty — durable structural insight, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e830e083f4769f9cbd3c",
+  "error": ""
+}

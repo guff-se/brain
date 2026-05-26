@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary only cites incarceration stats from the share without Gustaf's own causal framing or argument beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "2a06bef5b18151bf01c9",
+  "error": ""
+}

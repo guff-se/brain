@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "black-lives-matter",
+    "race",
+    "political-commentary"
+  ],
+  "reason": "Matt Bors editorial cartoon on a durable rhetorical pattern (universalist slogans vs excluded groups); thin fetch but title, author, and tags signal substantive consumed commentary, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "26eae1ec01746629353e",
+  "error": ""
+}

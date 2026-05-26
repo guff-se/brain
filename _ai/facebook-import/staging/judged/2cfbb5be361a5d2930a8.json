@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "banking",
+    "financial-regulation",
+    "economics"
+  ],
+  "reason": "Cervenka’s column explains bank leverage, flawed capital metrics, and the Admati–Hellwig case for higher equity—durable mechanism-level analysis, not a time-bound news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2cfbb5be361a5d2930a8",
+  "error": ""
+}

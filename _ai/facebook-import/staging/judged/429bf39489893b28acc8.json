@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical ride-along invite for a dated roadtrip—social coordination with no reasoning or durable knowledge, and under 200 chars.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "429bf39489893b28acc8",
+  "error": ""
+}

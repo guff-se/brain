@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only announces a blog post with a comment-on-site CTA—no argument, mechanism, or durable insight in the post itself.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7bee2570ea0bd111b919",
+  "error": ""
+}

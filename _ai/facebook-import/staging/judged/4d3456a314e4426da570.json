@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A 2014 Sweden-rankings listicle with dated stats and no causal analysis or durable insight beyond trivia.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4d3456a314e4426da570",
+  "error": ""
+}

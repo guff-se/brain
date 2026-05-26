@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "compulsory-schooling",
+    "self-directed-learning"
+  ],
+  "reason": "Enduring argument on how institutional schooling constrains freedom, its historical design, and mechanisms of learning vs. teach-and-test schooling—not disposable news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fe6cb71367c87eb25a8a",
+  "error": ""
+}

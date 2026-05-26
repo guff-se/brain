@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "burning-man",
+    "gifting",
+    "burn-principles"
+  ],
+  "reason": "Metadata frames durable Burning Man principle education (gifting as one of the ten principles), not ephemeral news or generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "e5b5ad5646ccca0f6ede",
+  "error": ""
+}

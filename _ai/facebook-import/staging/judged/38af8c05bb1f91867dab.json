@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Human-interest photo gallery and light interview with generic photography tips, not durable analysis, frameworks, or insights worth retaining.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "38af8c05bb1f91867dab",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "psychology",
+    "cognitive-bias",
+    "victim-blaming"
+  ],
+  "reason": "Burkeman synthesizes durable research on the just-world hypothesis—mechanism, experiments, and why victim-blaming need not stem from malice.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6b9f3ffce194b5bf9365",
+  "error": ""
+}

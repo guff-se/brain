@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.74,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [
+    "hate",
+    "propaganda",
+    "rhetoric"
+  ],
+  "reason": "It’s primarily an emotional condemnation and analogy without a durable, multi-sentence causal framework.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "96395215eda5c30fcabe",
+  "error": ""
+}

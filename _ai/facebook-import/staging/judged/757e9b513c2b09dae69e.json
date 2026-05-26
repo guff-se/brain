@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "internet-culture",
+    "viral-video",
+    "sublime"
+  ],
+  "reason": "Fokus piece analyzes why Double Rainbow resonated—recognition, sharing reflex, longing for the sublime—not just a 2010 meme recap.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "757e9b513c2b09dae69e",
+  "error": ""
+}

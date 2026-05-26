@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched body is only a P3 Planet program archive index (place names and dates), not durable analysis or substance.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e411af0dd5c158ffae58",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional, date-bound meetup invite and agenda with no durable analysis or ideas.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e9cd2c5fabf7e2c492a3",
+  "error": ""
+}

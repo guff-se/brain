@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "digital-rights",
+    "file-sharing"
+  ],
+  "reason": "Op-ed uses the Pirate Bay verdict as hook but argues durable mechanisms—industry–customer mismatch, citizen privacy, proportionality, and copyright vs culture—not just the 2010 news event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "02998295368b39f41f0b",
+  "error": ""
+}

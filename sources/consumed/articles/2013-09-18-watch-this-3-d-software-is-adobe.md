@@ -1,0 +1,28 @@
+---
+title: "Watch: This 3-D Software Is Adobe Illustrator on Acid | Wired Design | Wired.com"
+summary: "Watch: This 3-D Software Is Adobe Illustrator on Acid
+- 09.17.13
+- 10:45 AM
+This is Adrien Mondot during a performance o…"
+kind: "article"
+party: "third"
+register: "consumed"
+source: "wayback"
+source_id: "fb-1379501976"
+url: "http://web.archive.org/web/20140318153828/http://www.wired.com:80/design/2013/09/a-tool-that-lets-you-build-beautiful-interactive-performances"
+author: "Liz Stinson"
+provenance: "extracted"
+enrichment: "wayback"
+lang: "en"
+tags: [interactive-art, motion-capture, creative-tools]
+status: "reference"
+ingested: "2026-05-26"
+created: "2013-09-18"
+---
+
+Watch: This 3-D Software Is Adobe Illustrator on Acid - 09.17.13 - 10:45 AM This is Adrien Mondot during a performance of Cinamatique. It looks like he's being swallowed by a gridded black hole, but it's actually an effect achieved by eMotion, the software that he developed. Image: Courtesy of the artists eMotion is basically a physics-based animation system that uses human motion to interact with projected graphics in real time. Image: Courtesy of the artists Using devices like Kinect, eMotion generates, calculates and animates images in real time. Image: Courtesy of the artists In Hakanai, a dancer interacts with the graphics projected from two video projectors. Image: Courtesy of the artists The dancer's tracked position is used to apply invisible forces to the graphical objects like wind, displacement and attraction.Image: Courtesy of the artists The artists refer to it as digital puppetry. Image: Courtesy of the artists They want eMotion to enable interaction outside of screens, instead turning them into environments and living organisms. Image: Courtesy of the artists eMotion can be used in interactive installations as well. Image: Courtesy of the artists "This tool is still experimental, but we wish to improve its stability and ergonomics, to develop instructions for use, in order to provide it to the largest number of users interested, to create a community who thinks with it," the artists say. Image: Courtesy of the artists Though the more people who use the app, the more creative Mondot and Bardainne need to be with their applications. "It's a good creative challenge," Bardainne says.Image: Courtesy of the artists In the video below you’ll see a dancer who appears to be stuck in a white, netted cage. As she gracefully swings her elbow to the left, the cage suddenly bulges out, as though it was instantaneously inflated by her movement. A gentle turn of the knee produces a similar ballooning effect. Soon the dancer is on the floor, lifting up the corner of the light cage, as though she’s peeking into the street from behind a curtain. It’s a surreal moment, but it’s hard to know why exactly. The netting you’re looking at appears to be real—it’s three-dimensionality and response to human motion totally believable. But it’s actually made from projected light. This is the handiwork of Adrien Mondot and Claire Bardainne, two Lyon, France-based artist/technologists who are very good at blurring the lines between reality and fantasy. To make their performances work, the duo uses a host of devices (Kinect, projectors, computers), but most vital to achieving these subtly trippy effects is eMotion, an app that transforms electronic motion from stilted and synthetic to a palpable onstage presence. Described simply, eMotion is a physics-based animation system that uses human motion to interact with projected graphics in real time. The free software, originally built by Mondot back in 2006, allows users to decide how lines, points, letters, grids, or whatever visual they choose interact with certain types of motion. Mondot describes it succinctly: “Think of it as Adobe Illustrator on acid.” Unsatisfied with the tools available at the time, Mondot decided to build eMotion more or less as a research project. The goal was to explore how motion can convey emotion—hence the name of the software. “I wanted body movements to do more than just tweak some parameters,” Mondot says. “I wanted movements to convey meaning. I wanted a tool that could allow me to try a maximum of things in a minimum of time because in this art field we have money and time are scarce.” The software is used differently in each of Mondot and Bardainne’s projects, but in the case of Hakanai, the dancer’s motions are captured through Kinect, and the graphical images you see are generated, calculated, animated in real time and projected via two video projectors pointed at the dancer’s body. The tracked position is used to apply invisible forces to the graphical objects like wind, displacement, and attraction. “It’s a kind of digital puppetry,” says Bardainne. The team tries to keep the technique as invisible as possible in order to create an intuitive melding of technology and body. “Capturing systems don’t have much imagination … they cannot extend a gesture, or respond to it by expressing something,” says Bardainne. “And what we want to do, is tell stories. So we regularly need the insight of the human eye, which observes the dancer, and manipulates together the image with graphics tablets.” Right now, eMotion is mainly used in live performances or in installations like XYZT Abstracts Landscapes, which is an interactive light exhibition that make light interaction into a dynamic environments that feels like living organism. Mondot says the software is still in the development phase, and accordingly has a few bugs, mainly because he and Bardainne would rather focus on crafting
+
+*[Content truncated — full text in fetch cache]*
+
+---
+**Gustaf's commentary:** Pretty.

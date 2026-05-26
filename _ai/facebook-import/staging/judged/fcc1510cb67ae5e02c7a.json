@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "cosmology",
+    "astronomy",
+    "science-communication"
+  ],
+  "reason": "Substantive popular-science explanation of deep-field cosmology, the cosmological principle, and its observational limits—not ephemeral news or banter.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fcc1510cb67ae5e02c7a",
+  "error": ""
+}

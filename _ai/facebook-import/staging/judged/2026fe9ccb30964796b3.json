@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "george-w-bush",
+    "jay-leno",
+    "faith"
+  ],
+  "reason": "Primarily a celebrity/talk-show anecdote with brief quoted reflections, not a durable framework or mechanism worth standalone vault capture.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2026fe9ccb30964796b3",
+  "error": ""
+}

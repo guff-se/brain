@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "neuroscience",
+    "learning",
+    "neurofeedback"
+  ],
+  "reason": "Popular-science report on decoded fMRI neurofeedback that explains a durable mechanism—inducing learning without conscious awareness—with rehabilitation and skill-transfer implications.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "108c385c7434f2d4282f",
+  "error": ""
+}

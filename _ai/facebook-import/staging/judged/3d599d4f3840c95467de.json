@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "segregation",
+    "gothenburg",
+    "urban-inequality"
+  ],
+  "reason": "Op-ed ties gang violence to decades of segregation, school and labor-market mechanisms, and neighborhood statistics—not only the 2015 headline event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3d599d4f3840c95467de",
+  "error": ""
+}

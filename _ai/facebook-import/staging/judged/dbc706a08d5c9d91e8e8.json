@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound TV promo announcement with no argument or durable insight; under 200 chars triggers default own_text skip.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "dbc706a08d5c9d91e8e8",
+  "error": ""
+}

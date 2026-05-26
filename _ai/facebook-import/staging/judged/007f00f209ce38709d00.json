@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "racism",
+    "swedish-politics",
+    "public-discourse"
+  ],
+  "reason": "Substantive kulturdebatt essay on structural vs individual explanations, agency, and anti-racism discourse—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "007f00f209ce38709d00",
+  "error": ""
+}

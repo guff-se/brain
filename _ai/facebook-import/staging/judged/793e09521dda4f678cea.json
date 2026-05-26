@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "masculinity",
+    "mens-health",
+    "gender"
+  ],
+  "reason": "Substantive Fokus feature on shifting masculinity ideals and men's structural health disadvantages, with mechanisms, statistics, and expert framing—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "793e09521dda4f678cea",
+  "error": ""
+}

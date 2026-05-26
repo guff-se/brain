@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: three juxtaposed figures imply outrage but no developed argument, mechanism, or analysis—reaction-style quip via Karl Bergström, not durable Gustaf reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e04a06104b48c8420fac",
+  "error": ""
+}

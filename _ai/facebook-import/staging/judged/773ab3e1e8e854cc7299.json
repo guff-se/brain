@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "fashion",
+    "beauty",
+    "health"
+  ],
+  "reason": "This is a generic news/section roundup with time-bound trend snippets and no durable analysis or framework.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "773ab3e1e8e854cc7299",
+  "error": ""
+}

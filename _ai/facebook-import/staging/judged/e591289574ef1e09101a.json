@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "prohibition",
+    "public-health"
+  ],
+  "reason": "Ledare develops a durable mechanism argument—prohibition drives ever more dangerous synthetic variants—not just 2014 Spice headlines or scandal color.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e591289574ef1e09101a",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "entrepreneurship",
+    "marketing",
+    "attention-economy"
+  ],
+  "reason": "Seth Godin's durable framework on value, trust, attention, and bootstrapping—not news or a fad listicle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b7c5f672a787c6311677",
+  "error": ""
+}

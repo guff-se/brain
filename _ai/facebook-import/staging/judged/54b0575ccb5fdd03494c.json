@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "evidence-based-medicine",
+    "placebo",
+    "homeopathy"
+  ],
+  "reason": "Ernst’s essay explains mechanisms (specific vs non-specific treatment effects, placebo, trial design) and durable principles behind rejecting homeopathy—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "54b0575ccb5fdd03494c",
+  "error": ""
+}

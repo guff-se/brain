@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a time-bound news report about the 2013 Snowden revelations with no durable framework or analysis in the provided content.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cb6705e0b2b0a0e0f88c",
+  "error": ""
+}

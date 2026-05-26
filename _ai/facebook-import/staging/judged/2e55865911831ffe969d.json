@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "open-source",
+    "patents",
+    "3d-printing"
+  ],
+  "reason": "Beyond the 2014 news hook, it explains prior-art mechanics, patent-vs-community dynamics, and embeds durable open-source hardware philosophy.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2e55865911831ffe969d",
+  "error": ""
+}

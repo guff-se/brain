@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars with no causal argument—only a teasing hint about early Entreprenörsjakten applications, explicitly withheld.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "fc50cece9612d8c19936",
+  "error": ""
+}

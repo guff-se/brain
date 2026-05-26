@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standard 2012 appointment news with no developed analysis beyond who got which job and when.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "711ef2214c34e59482b7",
+  "error": ""
+}

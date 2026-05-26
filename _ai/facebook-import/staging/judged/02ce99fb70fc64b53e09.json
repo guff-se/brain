@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Clever 2013 horse-meat scandal reframing, but it is a short news-reaction hot take without a developed causal argument durable beyond the event.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "02ce99fb70fc64b53e09",
+  "error": ""
+}

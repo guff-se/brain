@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "public-discourse",
+    "law",
+    "politics"
+  ],
+  "reason": "Editorial argues a durable mechanism—weaponizing legal framing when political argument feels weak—with causal analysis beyond 2015 news hooks.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fa040ecbd35d020098b9",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "change",
+    "community"
+  ],
+  "reason": "Substantive essay on cycles of change, gatekeeping ('it's over'), and experimental communities—durable analysis beyond event news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9d2901561e763b55f27a",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A 2011 prototype demo of a specific LEGO art installation—project-specific showcase, not durable analysis, frameworks, or transferable insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "4c24d31f10d551618337",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "democracy",
+    "political-economy",
+    "oligarchy"
+  ],
+  "reason": "Reports Gilens & Page’s empirical claim that U.S. policy tracks elite over median-voter preferences—a structural mechanism, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6935fcffa102e8e1bd4a",
+  "error": ""
+}

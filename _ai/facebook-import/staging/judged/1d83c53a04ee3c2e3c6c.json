@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "macroeconomics",
+    "debt",
+    "banking"
+  ],
+  "reason": "Substantive explanatory piece on endogenous money creation, debt dynamics, and systemic fragility—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1d83c53a04ee3c2e3c6c",
+  "error": ""
+}

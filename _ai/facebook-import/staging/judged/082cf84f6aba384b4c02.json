@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "democracy",
+    "political-philosophy",
+    "ted-talk"
+  ],
+  "reason": "Title names a durable governance/nature metaphor at TEDx; promo-only description is thin but the topic signal is strong enough for a consumed bookmark.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "082cf84f6aba384b4c02",
+  "error": ""
+}

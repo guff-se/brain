@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "marriage",
+    "psychology",
+    "relationships"
+  ],
+  "reason": "Reports Finkel's suffocation model—a durable causal framework for how rising self-discovery expectations in marriage outstrip time and investment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c965e952d0c577b3c93a",
+  "error": ""
+}

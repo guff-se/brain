@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "free-will",
+    "philosophy-of-mind",
+    "sam-harris"
+  ],
+  "reason": "Named expert lecture on free will—a durable philosophical topic, not ephemeral news or generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "695eafcec8926f7fe303",
+  "error": ""
+}

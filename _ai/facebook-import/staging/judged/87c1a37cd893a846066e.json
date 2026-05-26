@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "At 121 characters it hits the under-200 default skip: a quoted one-liner plus a cyborg punchline, not a developed multi-sentence causal argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "87c1a37cd893a846066e",
+  "error": ""
+}

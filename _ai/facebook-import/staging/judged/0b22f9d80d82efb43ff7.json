@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "swedish-politics",
+    "populism",
+    "immigration"
+  ],
+  "reason": "DN Debatt piece on voter-research framing SD support around xenophobia rather than generic protest—a durable mechanism claim, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0b22f9d80d82efb43ff7",
+  "error": ""
+}

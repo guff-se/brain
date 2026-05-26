@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Landover Baptist parody satire tied to 2011 news; entertainment shock humor, not durable analysis or insight worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b144b2e45efcb61e213c",
+  "error": ""
+}

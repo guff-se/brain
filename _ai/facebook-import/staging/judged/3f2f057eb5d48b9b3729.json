@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: election-day cheerleading and vote CTA with a tossed-in stat, not a developed or durable argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "3f2f057eb5d48b9b3729",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "democracy",
+    "voting-age",
+    "youth-civic-participation"
+  ],
+  "reason": "Substantive opinion essay with causal claims, cross-country evidence, and principled argument on democratic representation—not a time-bound news blurb.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b07bf9c2a12181510af9",
+  "error": ""
+}

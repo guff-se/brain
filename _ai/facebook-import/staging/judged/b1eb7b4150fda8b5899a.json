@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "emotion-regulation",
+    "memory",
+    "psychology"
+  ],
+  "reason": "Summarizes durable research on a concrete emotion-regulation mechanism—shifting recall from feelings to contextual details—and contrasts it with suppression and reappraisal.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b1eb7b4150fda8b5899a",
+  "error": ""
+}

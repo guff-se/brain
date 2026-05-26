@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "anti-racism",
+    "privilege",
+    "allyship"
+  ],
+  "reason": "Substantive op-ed on performative solidarity, structural privilege, and vi/ni/de framing—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "571e77825966dc87f7ad",
+  "error": ""
+}

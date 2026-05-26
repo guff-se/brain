@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone crowdfunding launch plea—promotional, time-bound, and logistical with no reasoning or durable insight beyond asking friends to share.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "724ef0294ebceab97b6a",
+  "error": ""
+}

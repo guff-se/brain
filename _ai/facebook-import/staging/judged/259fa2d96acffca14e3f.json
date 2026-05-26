@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "israel-palestine",
+    "political-analysis",
+    "antisemitism"
+  ],
+  "reason": "Substantive ledarkrönika with durable framing—political vs ethnic conflict, state mechanisms, and cross-group solidarity—not episodic news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "259fa2d96acffca14e3f",
+  "error": ""
+}

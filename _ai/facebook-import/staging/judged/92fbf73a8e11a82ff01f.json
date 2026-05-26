@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "mass-surveillance",
+    "whistleblowing",
+    "digital-privacy"
+  ],
+  "reason": "Substantive investigative piece on secrecy, NSA dragnet surveillance, motives, and whistleblowing—durable civic and policy-relevant framing, not ephemeral headline-only news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "92fbf73a8e11a82ff01f",
+  "error": ""
+}

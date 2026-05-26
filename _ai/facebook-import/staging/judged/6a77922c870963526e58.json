@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional timelapse art piece with no durable ideas, analysis, or mechanisms—visual entertainment only.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "6a77922c870963526e58",
+  "error": ""
+}

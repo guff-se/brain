@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "environmental-economics",
+    "lobbying",
+    "climate-policy"
+  ],
+  "reason": "Substantive op-ed debunking the environmental Kuznets curve with cited research and a clear mechanism critique of industry-funded 'facts' for schools.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9ebe6e85002a7bf79086",
+  "error": ""
+}

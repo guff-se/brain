@@ -57,7 +57,8 @@ def is_token_limit_message(text: str) -> bool:
     if any(sig in low for sig in _TOKEN_LIMIT_SIGNALS):
         return True
     # Bulk run logged thousands of these when the CLI exited 1 with empty capture.
-    if 'agent exited 1' in low or 'claude exited 1' in low:
+    if ('agent exited 1' in low or 'claude exited 1' in low
+            or 'cursor agent exited 1' in low):
         return True
     return False
 
@@ -75,7 +76,8 @@ def is_retriable_judge_error(error: str) -> bool:
     if is_token_limit_message(error):
         return True
     low = error.lower()
-    if 'agent exited 1' in low or 'claude exited 1' in low:
+    if ('agent exited 1' in low or 'claude exited 1' in low
+            or 'cursor agent exited 1' in low):
         return True
     if 'timed out' in low or 'timeout' in low:
         return True
@@ -92,19 +94,19 @@ STAGING = os.path.join(PROJECT, 'staging')
 CACHE = os.path.join(STAGING, 'judged')
 os.makedirs(CACHE, exist_ok=True)
 
-MODEL = os.environ.get('FB_JUDGE_MODEL', 'composer-2-fast')
-AGENT_BIN = os.environ.get(
-    'AGENT_BIN',
-    shutil.which('agent') or '/Users/gustaf/.local/bin/agent',
+MODEL = os.environ.get('FB_JUDGE_MODEL', 'auto')
+CURSOR_BIN = os.environ.get(
+    'CURSOR_BIN',
+    shutil.which('cursor') or '/usr/local/bin/cursor',
 )
 
 
 def _call_agent(system: str, user: str, timeout: int = 90) -> str:
-    """Invoke `agent -p` non-interactively (--mode ask, JSON-only rubric)."""
+    """Invoke `cursor agent -p` non-interactively (--mode ask, JSON-only rubric)."""
     # Cursor agent does not read stdin when a prompt argv is set; pass one combined prompt.
     prompt = f'{system}\n\n---\n\n{user}'
     cmd = [
-        AGENT_BIN, '-p',
+        CURSOR_BIN, 'agent', '-p',
         '--mode', 'ask',
         '--model', MODEL,
         '--trust',
@@ -115,7 +117,7 @@ def _call_agent(system: str, user: str, timeout: int = 90) -> str:
     try:
         proc = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
     except subprocess.TimeoutExpired:
-        raise RuntimeError(f'agent timed out after {timeout}s')
+        raise RuntimeError(f'cursor agent timed out after {timeout}s')
 
     stdout = proc.stdout or ''
     stderr = proc.stderr or ''
@@ -135,7 +137,7 @@ def _call_agent(system: str, user: str, timeout: int = 90) -> str:
             raise TokenLimitError(
                 f'Agent limit (exit 1, no output — likely usage/session/credits): {detail}'
             )
-        raise RuntimeError(f'agent exited {proc.returncode}: {detail}')
+        raise RuntimeError(f'cursor agent exited {proc.returncode}: {detail}')
     # Only check for limit signals on exit 0 if stdout doesn't look like a valid response.
     stdout_has_verdict = '"verdict"' in stdout
     if not stdout_has_verdict and is_token_limit_message(stderr):
@@ -152,37 +154,49 @@ You receive ONE candidate item. Decide whether it deserves to live as its own no
 - Explores causality, mechanisms, patterns, or principles (not just events)
 - Shares perspective, analysis, or expertise worth building on
 - Could deepen understanding of a topic, domain, or human experience
-- **Clearly asserts a principle or value** that reveals what Gustaf finds important — even if stated plainly rather than argued at length. A crisp position on how something should work counts. "X is Y's job, not Z's" or "private entities have the right to do X" are enough if the principle itself is non-trivial.
 
 # Do NOT save if it:
 - Is primarily a news announcement or time-bound event report
 - Is social banter, small talk, or relational exchange with no embedded knowledge
 - Describes that something happened without explaining why or what it means
 - Is promotional, transactional, or logistical in nature
+- Is a one-liner reaction, quote, meme caption, or link title with no added reasoning
+- Merely signals agreement/disgust with something external (save the article instead, not this)
 
 # Item types
 - `own_text`        — Gustaf wrote this. No external link, or the link was incidental.
-- `own_commentary`  — Gustaf's commentary attached to a shared link.
-- `shared_article`  — The content of a URL Gustaf shared (possibly without commentary).
+- `own_commentary`  — ONLY Gustaf's commentary on a share (not the article body). Saved separately from the article.
+- `shared_article`  — The fetched body (or metadata) of a URL Gustaf shared.
 - `shared_video`    — Video metadata (title, description) from YouTube/Vimeo/etc.
 - `shared_podcast`  — Podcast episode metadata.
 
+# Length rules (strict — apply before other criteria)
+If `length_note` is present, follow it exactly.
+
+For `own_text`:
+- Under 200 characters: default **skip**. Save only if Gustaf develops a clear argument with mechanism/causality in multiple sentences — not a quip, quote, or slogan.
+- 200–499 characters: save only with a non-trivial claim or reasoning chain, not mood or hot take.
+
+For `own_commentary` — read `pairing_note` if present:
+- **paired** (article already passed): save only if commentary adds real framing beyond the headline — a reaction, quote, or hot take is **skip** (the article note will be dropped too).
+- **standalone** (article failed durability): default **skip** unless ≥200 chars of Gustaf's own reasoning (mechanism, principle, causal claim). Reactions to ephemeral news do not qualify.
+- Under 80 characters: always **skip**.
+- 80–199 characters: default **skip** unless standalone mode and exceptional argument density.
+
+For `shared_article` / `shared_video` / `shared_podcast`:
+- Judge the external content for durable substance. Gustaf's short reaction is irrelevant here.
+- `register_hint` must be `consumed` when saving external content.
+
 # Special: paywalled articles
-If the input includes `fetch_note: paywall — only title and commentary available`, do NOT
-penalize the article for being paywalled. Judge by the title + Gustaf's commentary alone.
-If those signal durable substance, save. We have no way to read the body, so absence of
-fetched text is not evidence of low quality.
+If the input includes `fetch_note: paywall — only title and commentary available`, judge by title + author signal. Save only if the topic is clearly durable analysis, not breaking news.
 
 # Special: thin video/podcast metadata
-If the only signal is a generic title (no description, no transcript), be willing to save
-if (a) the title alone suggests durable subject matter (named expert, named concept,
-specific framework) AND/OR (b) Gustaf's commentary makes the connection explicit. Don't
-require deep evidence we cannot access.
+Save only if title/description names a durable topic (framework, named expert, structural issue). Generic entertainment → skip.
 
 # Register hint (if save)
-- `voice`    — Polished, finished prose by Gustaf. Rare. Manifestos, essays.
-- `thinking` — Gustaf's view in fragments or paragraphs. Most own_text/own_commentary saves land here.
-- `consumed` — External authored content (shared_article, shared_video, shared_podcast).
+- `voice`    — Polished, finished prose by Gustaf. Rare. Manifestos, essays (usually ≥500 chars).
+- `thinking` — Gustaf's own view with reasoning. For `own_commentary` / `own_text` only.
+- `consumed` — External authored content (`shared_*` only). Never use `thinking` for article bodies.
 
 # Output
 Respond with ONLY a JSON object, no prose:
@@ -268,6 +282,10 @@ def judge(item_type: str, payload: dict, *, retries: int = 2) -> Judgement:
         v = payload.get(k)
         if v:
             parts.append(f'{k}: {v}')
+    if payload.get('length_note'):
+        parts.append(f"length_note: {payload['length_note']}")
+    if payload.get('pairing_note'):
+        parts.append(f"pairing_note: {payload['pairing_note']}")
     if payload.get('text'):
         parts.append(f"\nGustaf's text:\n---\n{payload['text'][:4000]}\n---")
     if payload.get('fetched_text'):

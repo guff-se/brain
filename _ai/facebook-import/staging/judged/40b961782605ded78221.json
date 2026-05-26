@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Kanal 5 satire clip tied to 2015 Billström news; description is generic show promo, not durable analysis or a named framework.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "40b961782605ded78221",
+  "error": ""
+}

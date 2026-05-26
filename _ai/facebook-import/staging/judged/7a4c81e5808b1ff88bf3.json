@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters and a single-sentence quip about opinions vs. social ridicule, with no developed mechanism or multi-sentence argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7a4c81e5808b1ff88bf3",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "addiction",
+    "behavioral-science",
+    "social-determinants"
+  ],
+  "reason": "Durable explanatory model of addiction as environment- and distress-driven (Rat Park), useful as a framework beyond the original context.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "969a4f11409577a5dc5a",
+  "error": ""
+}

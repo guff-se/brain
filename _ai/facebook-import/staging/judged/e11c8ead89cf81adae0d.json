@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "The URL resolves to a Loopia domain-parking page, not the original Startup Sweden Weekend article—no durable content remains.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e11c8ead89cf81adae0d",
+  "error": ""
+}

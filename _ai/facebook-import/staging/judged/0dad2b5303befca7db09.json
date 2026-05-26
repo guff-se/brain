@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "democracy",
+    "civil-liberties",
+    "spain"
+  ],
+  "reason": "Substantive op-ed on democratic erosion, protest criminalization, and the gag law’s mechanisms—not only a dated news alert.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0dad2b5303befca7db09",
+  "error": ""
+}

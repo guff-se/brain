@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "fifa",
+    "labor-rights",
+    "sports-governance"
+  ],
+  "reason": "Substantive Guardian column analyzing FIFA accountability, labor exploitation mechanisms, and moral calculus—not ephemeral match news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a906bd388cdef61d84ab",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Imperative link-share with no analysis or principle from Gustaf—only labels Banksy's Gaza video, while the YouTube title is generic promotion.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ed26d84a9ca7bd48a6fb",
+  "error": ""
+}

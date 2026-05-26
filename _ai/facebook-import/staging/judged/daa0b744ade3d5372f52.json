@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "afghanistan",
+    "military-intervention",
+    "interpreters"
+  ],
+  "reason": "Substantive guest analysis of ISAF withdrawal, local allies' risk, and Swedish responsibility—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "daa0b744ade3d5372f52",
+  "error": ""
+}

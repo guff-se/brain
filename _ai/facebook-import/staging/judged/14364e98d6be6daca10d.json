@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "food-safety",
+    "organic-farming",
+    "agriculture"
+  ],
+  "reason": "Researcher-authored opinion piece with durable mechanisms (dose vs natural/synthetic), Efsa data, and concrete agricultural policy—not ephemeral news or promo.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "14364e98d6be6daca10d",
+  "error": ""
+}

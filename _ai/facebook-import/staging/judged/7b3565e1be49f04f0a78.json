@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [
+    "stockholm"
+  ],
+  "reason": "Short social/logistical invitation with no durable insight, mechanism, or principle.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7b3565e1be49f04f0a78",
+  "error": ""
+}

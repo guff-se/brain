@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Personal tip to Olle about gaming an online poll via multiple IPs—social/logistical, under 200 chars, no durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0e55a97b345c2af7c5b3",
+  "error": ""
+}

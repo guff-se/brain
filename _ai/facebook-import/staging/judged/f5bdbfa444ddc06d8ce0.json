@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin event attendance note with no insight, principle, or analysis beyond who spoke and crowd size.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "f5bdbfa444ddc06d8ce0",
+  "error": ""
+}

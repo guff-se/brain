@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drone-strikes",
+    "us-foreign-policy",
+    "ethics"
+  ],
+  "reason": "Friedersdorf's argument uses a specific strike to analyze enduring questions—moral double standards, drone-war cost–benefit, and official rhetoric—not just report the incident.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "887aaa6b68f6214acace",
+  "error": ""
+}

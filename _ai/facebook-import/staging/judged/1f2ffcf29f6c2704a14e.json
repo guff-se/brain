@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "banking",
+    "too-big-to-fail",
+    "financial-regulation"
+  ],
+  "reason": "2012 SvD news report on a then-current analyst debate, not durable analysis or mechanisms worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1f2ffcf29f6c2704a14e",
+  "error": ""
+}

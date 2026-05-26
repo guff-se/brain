@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A attributed quote with no Gustaf commentary adds no durable first-person insight beyond widely known aphorism.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "68d0a7a69df78246292b",
+  "error": ""
+}

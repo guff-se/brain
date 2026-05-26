@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin 2013 gadget-demo write-up about a camera stabilizer with no analysis, frameworks, or lasting insight beyond product hype.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bfaa4473ec5b8cd5c572",
+  "error": ""
+}

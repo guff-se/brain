@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical camp signup instructions with a spreadsheet link—no durable ideas, analysis, or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1182d64152f2aa55fbd7",
+  "error": ""
+}

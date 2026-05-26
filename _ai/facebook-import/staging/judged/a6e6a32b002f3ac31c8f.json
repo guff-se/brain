@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "criminal-justice",
+    "policing",
+    "racial-disparity"
+  ],
+  "reason": "First-person prosecutorial account with deliberate experiment documenting systemic racial bias in policing and prosecution—durable structural analysis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a6e6a32b002f3ac31c8f",
+  "error": ""
+}

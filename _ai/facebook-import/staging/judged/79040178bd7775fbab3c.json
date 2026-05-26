@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Urgent, time-bound plea for Facebook contacts to fix a friend's hacked account—not durable knowledge, analysis, or a stated principle.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "79040178bd7775fbab3c",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gender-economics",
+    "labor-market",
+    "eu-policy"
+  ],
+  "reason": "DN Debatt lede frames a durable policy argument—female education vs. labor participation, welfare loss, and GDP growth—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b69e0aa2abd8deaf2163",
+  "error": ""
+}

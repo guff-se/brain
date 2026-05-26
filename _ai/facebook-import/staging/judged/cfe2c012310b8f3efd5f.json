@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "mental-health",
+    "psychiatry",
+    "dsm-5"
+  ],
+  "reason": "Long-form analysis of DSM-5, diagnostic inflation, and whether psychiatric labels reflect real disorders—enduring conceptual debate, not a time-bound announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cfe2c012310b8f3efd5f",
+  "error": ""
+}

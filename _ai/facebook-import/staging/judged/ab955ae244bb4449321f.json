@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A one-line rally to MP on a 2015 government-crisis headline is time-bound political cheer, not durable analysis or a stated principle.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ab955ae244bb4449321f",
+  "error": ""
+}

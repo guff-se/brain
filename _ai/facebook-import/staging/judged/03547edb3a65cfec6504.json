@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "technology-futurism",
+    "automation",
+    "surveillance"
+  ],
+  "reason": "Kevin Kelly's interview frames durable mechanisms—tech acceleration, robotics/co-production, coveillance, data-as-wealth, and questions over answers—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "03547edb3a65cfec6504",
+  "error": ""
+}

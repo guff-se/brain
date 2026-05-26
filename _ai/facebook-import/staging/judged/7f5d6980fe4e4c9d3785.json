@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin 2016 campaign clip metadata with no durable analysis, framework, or Gustaf commentary—ephemeral political share, not vault-worthy substance.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "7f5d6980fe4e4c9d3785",
+  "error": ""
+}

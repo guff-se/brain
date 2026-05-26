@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only a same-evening outing announcement with names and venue—logistical, time-bound, no durable reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b0212c883fbb678b7437",
+  "error": ""
+}

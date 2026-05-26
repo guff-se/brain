@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "computer-science",
+    "computational-thinking"
+  ],
+  "reason": "Substantive 2012 Guardian essay framing ICT-as-driving-licence as a category mistake and arguing for computational thinking and core CS concepts in schools—durable policy and pedagogy analysis, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ca1178aeaf8b473cd5f7",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "polyamory",
+    "relationships",
+    "non-monogamy"
+  ],
+  "reason": "Substantive first-person essay defining polyamory, contrasting relationship forms, and explaining mechanisms of desire, honesty, and negotiated connection—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "11e7b0e5b32ea1a93236",
+  "error": ""
+}

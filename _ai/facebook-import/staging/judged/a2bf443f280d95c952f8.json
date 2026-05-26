@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "universal-basic-income",
+    "economics",
+    "rutger-bregman"
+  ],
+  "reason": "TEDx talk framing UBI as a structural policy idea with a named expert—not entertainment or time-bound news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "a2bf443f280d95c952f8",
+  "error": ""
+}

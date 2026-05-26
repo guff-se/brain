@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "world-values-survey",
+    "cultural-values",
+    "sociology"
+  ],
+  "reason": "Durable explainer of the Inglehart–Welzel/WVS framework with axes, country clusters, and development-linked value shifts—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "860b985981961c4f2555",
+  "error": ""
+}

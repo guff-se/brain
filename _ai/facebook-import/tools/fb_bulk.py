@@ -63,9 +63,15 @@ _log_lock = threading.Lock()
 
 # Terminal run_log statuses — safe to skip fetch/judge on re-run (see load_run_resume).
 TERMINAL_RESUME = frozenset({
-    'written', 'already-written', 'skipped', 'skipped-empty',
+    'written', 'already-written', 'skipped', 'skipped-empty', 'skipped-short',
     'skipped-domain', 'skipped-own-domain', 'bundle-facts', 'dry-run-save',
 })
+
+# Length gates (v2 — see PLAN.md §7.3, fb_reset_v1)
+MIN_OWN_TEXT_CHARS = 200
+MIN_OWN_TEXT_HARD_SKIP = 80
+MIN_COMMENTARY_CHARS = 80
+MIN_FETCH_BODY_CHARS = 100
 _last_run_status: dict[tuple, str] = {}
 _last_run_error: dict[tuple, str] = {}
 _retry_errors = False
@@ -123,6 +129,40 @@ def _row_work_priority(row: dict) -> int:
 
 def _sort_rows_for_work(rows: list[dict]) -> list[dict]:
     return sorted(rows, key=lambda r: (_row_work_priority(r), r.get('ts', 0)))
+
+
+def dedupe_rows(rows: list[dict]) -> list[dict]:
+    """One row per timestamp for main1/main2 — keep longer text, tie-break main2."""
+    main: dict[int, dict] = {}
+    other: list[dict] = []
+    for r in rows:
+        if r.get('src') not in ('main1', 'main2'):
+            other.append(r)
+            continue
+        ts = r.get('ts')
+        if ts not in main:
+            main[ts] = r
+            continue
+        a, b = main[ts], r
+        la, lb = len(a.get('text') or ''), len(b.get('text') or '')
+        if lb > la or (lb == la and b.get('src') == 'main2'):
+            main[ts] = b
+    return other + list(main.values())
+
+
+def _length_note(item_type: str, text: str, *, pairing: str | None = None) -> str | None:
+    n = len(text or '')
+    if item_type == 'own_text':
+        if n < MIN_OWN_TEXT_HARD_SKIP:
+            return f'{n} chars — under {MIN_OWN_TEXT_HARD_SKIP}; auto-skip tier'
+        if n < MIN_OWN_TEXT_CHARS:
+            return f'{n} chars — under {MIN_OWN_TEXT_CHARS}; strict own_text rules apply'
+    if item_type == 'own_commentary':
+        if pairing == 'standalone' and n < MIN_OWN_TEXT_CHARS:
+            return f'{n} chars — article failed; standalone commentary needs ≥{MIN_OWN_TEXT_CHARS}'
+        if pairing == 'paired' and n < MIN_COMMENTARY_CHARS:
+            return f'{n} chars — paired commentary needs ≥{MIN_COMMENTARY_CHARS}'
+    return None
 
 # ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -201,11 +241,10 @@ def primary_url(row: dict) -> dict | None:
 
 # ── Note composers ───────────────────────────────────────────────────────────
 
-def compose_own_note(row: dict, j: dict, fetch_res=None) -> str:
+def compose_own_note(row: dict, j: dict, fetch_res=None, *, link_title: str | None = None) -> str:
     """Compose a mine/voice or mine/thinking note from a Gustaf post."""
     text = row.get('text', '')
     date = row.get('date', '')
-    year = row.get('year', '')
     lang = detect_lang(text)
     tags = j.get('tags_hint') or []
     u = primary_url(row)
@@ -228,9 +267,83 @@ def compose_own_note(row: dict, j: dict, fetch_res=None) -> str:
         'created': date,
     })
     body = text
-    if url_str:
+    if link_title:
+        body += f'\n\n→ [[{link_title.replace("]]", "")}]]'
+    elif url_str:
         body += f'\n\n---\n*Shared link: {url_str}*'
     return fm + '\n\n' + body + '\n'
+
+
+def _note_title_from_path(path: str) -> str | None:
+    """Read title from frontmatter of a written note."""
+    try:
+        with open(path, encoding='utf-8') as f:
+            head = f.read(2048)
+    except OSError:
+        return None
+    m = re.search(r'^title:\s*"(.*)"', head, re.M)
+    return m.group(1) if m else None
+
+
+def _fetched_substantive(fr) -> bool:
+    return bool(
+        fr
+        and fr.action in ('ok', 'wayback')
+        and (fr.text_len or 0) >= MIN_FETCH_BODY_CHARS
+    )
+
+
+def _shared_item_type(fr) -> str:
+    if fr.kind == 'video':
+        return 'shared_video'
+    if fr.kind == 'podcast':
+        return 'shared_podcast'
+    return 'shared_article'
+
+
+def _run_judge(
+    item_type: str, payload: dict, cache_only: bool, *, pairing: str | None = None,
+) -> tuple[dict | None, str | None]:
+    """Return (judgement_dict, error_status) or raise TokenLimitError."""
+    payload = dict(payload)
+    if pairing:
+        payload['pairing_note'] = pairing
+    ln = _length_note(item_type, payload.get('text', ''), pairing=pairing)
+    if ln:
+        payload['length_note'] = ln
+    try:
+        if cache_only:
+            if not os.path.exists(judgement_cache_path(item_type, payload)):
+                return None, 'pending-judge'
+            j = load_cached_judgement(item_type, payload)
+            if j is None:
+                return None, 'pending-judge'
+        else:
+            j = judge(item_type, payload)
+        if j.verdict == 'error':
+            if is_token_limit_message(j.error or ''):
+                raise TokenLimitError(j.error)
+            return None, 'judge-error'
+        return asdict(j), None
+    except TokenLimitError:
+        raise
+    except RuntimeError as e:
+        if is_token_limit_message(str(e)):
+            raise TokenLimitError(str(e)) from e
+        return None, 'judge-error'
+    except Exception as e:
+        if is_token_limit_message(str(e)):
+            raise TokenLimitError(str(e)) from e
+        return None, 'judge-error'
+
+
+def _try_write(path: str, content: str, dry_run: bool) -> str:
+    if os.path.exists(path):
+        return 'already-written'
+    if dry_run:
+        return 'dry-run-save'
+    atomic_write(path, content)
+    return 'written'
 
 
 def compose_consumed_note(row: dict, j: dict, fr) -> str:
@@ -316,15 +429,206 @@ def append_to_bundle(bundle_path: str, row: dict, j: dict, fr=None):
 
 # ── Core item processor ──────────────────────────────────────────────────────
 
+def _process_own_text(row: dict, payload: dict, dry_run: bool, cache_only: bool) -> dict:
+    """Status-only posts (no external URL to fetch)."""
+    ts, date, src = row.get('ts', 0), row.get('date', '2000-01-01'), row.get('src')
+    text = (row.get('text') or '').strip()
+    result = {'ts': ts, 'date': date, 'src': src, 'status': 'pending',
+              'verdict': None, 'path': None, 'error': None}
+
+    if len(text) < MIN_OWN_TEXT_HARD_SKIP:
+        result['status'] = 'skipped-short'
+        return result
+
+    j_dict, err = _run_judge('own_text', payload, cache_only)
+    if err:
+        result['status'] = err
+        return result
+    result['verdict'] = j_dict['verdict']
+    if j_dict['verdict'] == 'skip':
+        result['status'] = 'skipped'
+        return result
+
+    register = j_dict.get('register_hint') or 'thinking'
+    if register == 'consumed':
+        register = 'thinking'
+    slug = slugify(text)
+    path = note_path(date, slug, register, 'note')
+    result.update(path=path, register=register, kind='note')
+    try:
+        st = _try_write(path, compose_own_note(row, j_dict), dry_run)
+        result['status'] = st
+    except Exception as e:
+        result['status'] = 'write-error'
+        result['error'] = str(e)
+    return result
+
+
+def _process_url_share(
+    row: dict, fr, base_payload: dict, dry_run: bool, cache_only: bool,
+) -> dict:
+    """Link shares: both-or-neither when commentary present; bare link = article only."""
+    ts, date, src = row.get('ts', 0), row.get('date', '2000-01-01'), row.get('src')
+    text = (row.get('text') or '').strip()
+    result = {'ts': ts, 'date': date, 'src': src, 'status': 'pending',
+              'verdict': None, 'path': None, 'error': None, 'paths': []}
+
+    shared_type = _shared_item_type(fr)
+    article_payload = {k: v for k, v in base_payload.items() if k != 'text'}
+    if _fetched_substantive(fr):
+        article_payload['fetched_text'] = fr.text
+    elif fr.action == 'paywalled':
+        article_payload['fetch_note'] = 'paywall — only title and commentary available; judge by those'
+
+    article_ok = False
+    j_art = None
+    if _fetched_substantive(fr) or article_payload.get('fetch_note') or fr.title:
+        j_art, err = _run_judge(shared_type, article_payload, cache_only)
+        if err:
+            result['status'] = err
+            return result
+        article_ok = bool(j_art and j_art['verdict'] == 'save')
+
+    has_commentary = len(text) >= MIN_COMMENTARY_CHARS
+
+    # Substantive commentary on a link: require both passes, or standalone thinking only.
+    if has_commentary:
+        if article_ok:
+            j_comm, err = _run_judge(
+                'own_commentary', {**base_payload, 'text': text}, cache_only,
+                pairing='paired',
+            )
+            if err:
+                result['status'] = err
+                return result
+            if not (j_comm and j_comm['verdict'] == 'save'):
+                result['status'] = 'skipped'
+                result['verdict'] = 'skip'
+                return result
+            return _write_paired_notes(
+                row, j_art, j_comm, fr, base_payload, text, date, dry_run, result,
+            )
+
+        # Article failed — short reaction to unworthy link is noise.
+        if len(text) < MIN_OWN_TEXT_CHARS:
+            result['status'] = 'skipped-short'
+            result['verdict'] = 'skip'
+            return result
+
+        j_comm, err = _run_judge(
+            'own_commentary', {**base_payload, 'text': text}, cache_only,
+            pairing='standalone',
+        )
+        if err:
+            result['status'] = err
+            return result
+        if not (j_comm and j_comm['verdict'] == 'save'):
+            result['status'] = 'skipped'
+            result['verdict'] = 'skip'
+            return result
+        return _write_thinking_only(row, j_comm, text, date, dry_run, result)
+
+    # Bare link (no commentary) — article only.
+    if article_ok:
+        return _write_consumed_only(row, j_art, fr, base_payload, date, dry_run, result)
+
+    result['status'] = 'skipped'
+    result['verdict'] = 'skip'
+    return result
+
+
+def _write_paired_notes(
+    row, j_art, j_comm, fr, base_payload, text, date, dry_run, result,
+) -> dict:
+    kind = fr.kind or j_art.get('kind_hint') or 'article'
+    consumed_path = note_path(
+        date, slugify(fr.title or base_payload.get('title') or 'untitled'), 'consumed', kind,
+    )
+    register = j_comm.get('register_hint') or 'thinking'
+    if register == 'consumed':
+        register = 'thinking'
+    think_path = note_path(date, slugify(text), register, 'note')
+    try:
+        cst = _try_write(consumed_path, compose_consumed_note(row, j_art, fr), dry_run)
+        if cst not in ('written', 'dry-run-save', 'already-written'):
+            result['status'] = 'skipped'
+            result['verdict'] = 'skip'
+            return result
+        consumed_title = _note_title_from_path(consumed_path) or fr.title
+        tst = _try_write(
+            think_path,
+            compose_own_note(row, j_comm, link_title=consumed_title),
+            dry_run,
+        )
+        if tst not in ('written', 'dry-run-save', 'already-written'):
+            result['status'] = 'skipped'
+            result['verdict'] = 'skip'
+            return result
+        result['paths'] = [consumed_path, think_path]
+        result['path'] = think_path
+        result['register'] = register
+        result['kind'] = kind
+        result['verdict'] = 'save'
+        result['status'] = 'written'
+    except Exception as e:
+        result['status'] = 'write-error'
+        result['error'] = str(e)
+    return result
+
+
+def _write_consumed_only(row, j_art, fr, base_payload, date, dry_run, result) -> dict:
+    kind = fr.kind or j_art.get('kind_hint') or 'article'
+    consumed_path = note_path(
+        date, slugify(fr.title or base_payload.get('title') or 'untitled'), 'consumed', kind,
+    )
+    try:
+        st = _try_write(consumed_path, compose_consumed_note(row, j_art, fr), dry_run)
+        if st in ('written', 'dry-run-save', 'already-written'):
+            result['paths'] = [consumed_path]
+            result['path'] = consumed_path
+            result['register'] = 'consumed'
+            result['kind'] = kind
+            result['verdict'] = 'save'
+            result['status'] = 'written'
+        else:
+            result['status'] = 'skipped'
+            result['verdict'] = 'skip'
+    except Exception as e:
+        result['status'] = 'write-error'
+        result['error'] = str(e)
+    return result
+
+
+def _write_thinking_only(row, j_comm, text, date, dry_run, result) -> dict:
+    register = j_comm.get('register_hint') or 'thinking'
+    if register == 'consumed':
+        register = 'thinking'
+    think_path = note_path(date, slugify(text), register, 'note')
+    try:
+        st = _try_write(think_path, compose_own_note(row, j_comm), dry_run)
+        if st in ('written', 'dry-run-save', 'already-written'):
+            result['paths'] = [think_path]
+            result['path'] = think_path
+            result['register'] = register
+            result['kind'] = 'note'
+            result['verdict'] = 'save'
+            result['status'] = 'written'
+        else:
+            result['status'] = 'skipped'
+            result['verdict'] = 'skip'
+    except Exception as e:
+        result['status'] = 'write-error'
+        result['error'] = str(e)
+    return result
+
+
 def process_item(row: dict, dry_run: bool = False, cache_only: bool = False) -> dict:
-    """Full pipeline for one row: fetch → judge → route → write."""
+    """Full pipeline for one row: fetch → judge → route → write (v2 dual-write)."""
     ts = row.get('ts', 0)
     date = row.get('date', '2000-01-01')
-    year = row.get('year')
-    text = row.get('text', '')
+    text = (row.get('text') or '').strip()
     src = row.get('src')
 
-    # Re-run fast path: prior finished outcome, or non-retriable judge-error (no fetch/judge).
     if _should_resume_skip(ts, src):
         prior = _last_run_status.get((ts, src))
         return {
@@ -333,7 +637,6 @@ def process_item(row: dict, dry_run: bool = False, cache_only: bool = False) -> 
             'resumed': True,
         }
 
-    # Drain cleanly when a token limit has been signalled
     if _stop.is_set():
         return {'ts': ts, 'date': date, 'src': src, 'status': 'stopped',
                 'verdict': None, 'path': None, 'error': None}
@@ -341,16 +644,11 @@ def process_item(row: dict, dry_run: bool = False, cache_only: bool = False) -> 
     result = {'ts': ts, 'date': date, 'src': src, 'status': 'pending',
               'verdict': None, 'path': None, 'error': None}
 
-    u = primary_url(row)
-
-    # ── Skip sources that aren't ingested individually ──
     if src in ('check_ins', 'tagged_places', 'memories_media'):
         result['status'] = 'bundle-facts'
         return result
 
-    # ── Fetch ──
-    fr = None
-    item_type = 'own_text'
+    u = primary_url(row)
     payload: dict = {'text': text, 'date': date}
 
     if u:
@@ -365,112 +663,33 @@ def process_item(row: dict, dry_run: bool = False, cache_only: bool = False) -> 
             if not text:
                 result['status'] = 'skipped-domain'
                 return result
-            # has commentary → judge the text only
-        elif cls['action'] == 'own':
+            return _process_own_text(row, payload, dry_run, cache_only)
+
+        if cls['action'] == 'own':
             if not text:
                 result['status'] = 'skipped-own-domain'
                 return result
-            item_type = 'own_text'
-        else:
-            try:
-                fr = fetch(url, throttle=0.8)
-                if fr.title and not payload.get('title'):
-                    payload['title'] = fr.title
-                if fr.author:
-                    payload['author'] = fr.author
-                if fr.action in ('ok', 'wayback') and fr.text_len > 100:
-                    payload['fetched_text'] = fr.text
-                if fr.action == 'paywalled':
-                    payload['fetch_note'] = 'paywall — only title and commentary available; judge by those'
-                if (fr.extra or {}).get('mp3_url'):
-                    payload['fetch_note'] = (payload.get('fetch_note', '') + ' mp3 located').strip()
-                item_type = ('own_commentary' if text
-                             else 'shared_video' if fr.kind == 'video'
-                             else 'shared_podcast' if fr.kind == 'podcast'
-                             else 'shared_article')
-            except Exception as e:
-                result['status'] = 'fetch-error'
-                result['error'] = str(e)
-                return result
+            return _process_own_text(row, payload, dry_run, cache_only)
 
-    # ── Guard: skip if payload has no evaluable content ──
-    has_content = (payload.get('text') or payload.get('fetched_text') or
-                   payload.get('title') or payload.get('author'))
-    if not has_content:
+        try:
+            fr = fetch(url, throttle=0.8)
+            if fr.title and not payload.get('title'):
+                payload['title'] = fr.title
+            if fr.author:
+                payload['author'] = fr.author
+            if (fr.extra or {}).get('mp3_url'):
+                payload['fetch_note'] = 'mp3 located'
+            return _process_url_share(row, fr, payload, dry_run, cache_only)
+        except Exception as e:
+            result['status'] = 'fetch-error'
+            result['error'] = str(e)
+            return result
+
+    if not text:
         result['status'] = 'skipped-empty'
         return result
 
-    # ── Judge ──
-    try:
-        if cache_only:
-            if not os.path.exists(judgement_cache_path(item_type, payload)):
-                result['status'] = 'pending-judge'
-                return result
-            j = load_cached_judgement(item_type, payload)
-            if j is None:
-                result['status'] = 'pending-judge'
-                return result
-        else:
-            j = judge(item_type, payload)
-        result['verdict'] = j.verdict
-        if j.verdict == 'error':
-            if is_token_limit_message(j.error or ''):
-                raise TokenLimitError(j.error)
-            result['status'] = 'judge-error'
-            result['error'] = j.error
-            return result
-    except TokenLimitError:
-        raise  # propagate to main loop — do not cache, do not retry
-    except RuntimeError as e:
-        if is_token_limit_message(str(e)):
-            raise TokenLimitError(str(e)) from e
-        result['status'] = 'judge-error'
-        result['error'] = str(e)
-        return result
-    except Exception as e:
-        if is_token_limit_message(str(e)):
-            raise TokenLimitError(str(e)) from e
-        result['status'] = 'judge-error'
-        result['error'] = str(e)
-        return result
-
-    j_dict = asdict(j)
-
-    if j.verdict == 'skip':
-        result['status'] = 'skipped'
-        return result
-
-    # ── Route ──
-    register = j.register_hint or 'thinking'
-    kind = (fr.kind if fr else None) or j.kind_hint or 'note'
-    slug = slugify(payload.get('title') or text or 'untitled')
-    path = note_path(date, slug, register, kind)
-
-    result['path'] = path
-    result['register'] = register
-    result['kind'] = kind
-
-    # ── Write (unless dry-run or already exists) ──
-    if os.path.exists(path):
-        result['status'] = 'already-written'
-        return result
-
-    if dry_run:
-        result['status'] = 'dry-run-save'
-        return result
-
-    try:
-        if fr and register == 'consumed':
-            content = compose_consumed_note(row, j_dict, fr)
-        else:
-            content = compose_own_note(row, j_dict, fr)
-        atomic_write(path, content)
-        result['status'] = 'written'
-    except Exception as e:
-        result['status'] = 'write-error'
-        result['error'] = str(e)
-
-    return result
+    return _process_own_text(row, payload, dry_run, cache_only)
 
 
 # ── Status command ────────────────────────────────────────────────────────────
@@ -547,6 +766,11 @@ def main():
     with open(JSONL) as f:
         for line in f:
             rows.append(json.loads(line))
+
+    before = len(rows)
+    rows = dedupe_rows(rows)
+    if len(rows) != before:
+        print(f'Deduped main1/main2: {before} → {len(rows)} rows')
 
     if args.year:
         rows = [r for r in rows if r.get('year') == args.year]

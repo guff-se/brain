@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "organizational-design",
+    "workplace-culture",
+    "management"
+  ],
+  "reason": "Substantive case study of Holacracy and self-management at Zappos—mechanisms, tradeoffs, and culture principles that stay useful beyond the 2015 news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cf740397adce06dc6694",
+  "error": ""
+}

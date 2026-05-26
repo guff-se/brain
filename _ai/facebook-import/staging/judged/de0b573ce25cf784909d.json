@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: one rhetorical line with no developed argument, mechanism, or durable insight beyond a political quip.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "de0b573ce25cf784909d",
+  "error": ""
+}

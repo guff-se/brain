@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paywalled DN news piece with only a headline-level policy gripe; no durable analysis or mechanisms in the fetched body.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e283af37ba3371bf460c",
+  "error": ""
+}

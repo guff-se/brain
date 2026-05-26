@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a brief alarmist reaction to 2013 Spain news, not framing or analysis beyond the article headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "a55f0e4b90faac3c0fa8",
+  "error": ""
+}

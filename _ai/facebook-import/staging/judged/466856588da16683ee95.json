@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.96,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a social shout-out to a friend's Burning Man photos with no reasoning or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "466856588da16683ee95",
+  "error": ""
+}

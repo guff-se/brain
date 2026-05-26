@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sweden",
+    "national-identity",
+    "immigration"
+  ],
+  "reason": "Durable, data-backed analysis of Swedish national identity rituals and demographic/political patterns in participation.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "aa8b862fe5f835d2e304",
+  "error": ""
+}

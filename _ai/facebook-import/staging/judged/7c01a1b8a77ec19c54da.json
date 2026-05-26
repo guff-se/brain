@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only announces a site migration and intent to blog again—logistical, no durable insight or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7c01a1b8a77ec19c54da",
+  "error": ""
+}

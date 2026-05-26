@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary (~130 chars) is a brief inclusion observation, not framing or reasoning beyond the linked article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "8f5749929fad2aae4ed9",
+  "error": ""
+}

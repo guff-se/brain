@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "ai-ethics",
+    "autonomous-vehicles",
+    "moral-philosophy"
+  ],
+  "reason": "MIT Technology Review analysis of algorithmic morality in self-driving cars—trolley dilemmas, utilitarian tradeoffs, and public-acceptance paradoxes that remain structurally relevant.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "972e0f05e17763f28271",
+  "error": ""
+}

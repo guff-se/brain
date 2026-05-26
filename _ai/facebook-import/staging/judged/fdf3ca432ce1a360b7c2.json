@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin metadata—a catchy causal title on Swedish music culture with no description or credible source to confirm analysis over likely satire or entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "fdf3ca432ce1a360b7c2",
+  "error": ""
+}

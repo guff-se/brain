@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "education",
+    "creativity",
+    "ken-robinson"
+  ],
+  "reason": "Title and Sir Ken Robinson credit identify a durable education-systems talk, not generic entertainment, despite thin promo description.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "d8db2d3db33a5b04cc28",
+  "error": ""
+}

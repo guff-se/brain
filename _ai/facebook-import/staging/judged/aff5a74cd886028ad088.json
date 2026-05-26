@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "language",
+    "writing",
+    "internet-culture"
+  ],
+  "reason": "Substantive essay on SWE/CSWE, class, and how mass online writing reshapes trust in language—not just a 2014 meme recap.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "aff5a74cd886028ad088",
+  "error": ""
+}

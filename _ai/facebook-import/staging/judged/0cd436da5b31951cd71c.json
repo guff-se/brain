@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "automation",
+    "artificial-intelligence",
+    "future-of-work"
+  ],
+  "reason": "Substantive Wired essay with historical analogy and mechanistic analysis of how automation displaces and creates work—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0cd436da5b31951cd71c",
+  "error": ""
+}

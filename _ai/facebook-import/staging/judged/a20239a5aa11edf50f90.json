@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "asylum-policy",
+    "propaganda",
+    "media-criticism"
+  ],
+  "reason": "Substantive cultural critique that analyzes mechanisms—omissions, sanitized messaging, and credibility rules—in state-sponsored children's media about asylum, not just a dated news item.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a20239a5aa11edf50f90",
+  "error": ""
+}

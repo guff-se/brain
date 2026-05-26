@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "foreign-policy",
+    "middle-east",
+    "geopolitics"
+  ],
+  "reason": "Substantive long-form analysis of causal mechanisms and recurring Western proxy-war patterns, not a time-bound news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "54177bd72fae816104b4",
+  "error": ""
+}

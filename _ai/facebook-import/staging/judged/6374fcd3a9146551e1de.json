@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound Kickstarter sales cheer and friend shout-out, with no analysis, principle, or durable knowledge beyond the milestone.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "6374fcd3a9146551e1de",
+  "error": ""
+}

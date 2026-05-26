@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-framing",
+    "journalism",
+    "far-right"
+  ],
+  "reason": "Op-ed analyzes why mainstream media uses false extremist-equivalence framing—not just the 2013 Kärrtorp attack—so the media-incentive mechanism remains useful beyond the news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8257630ccf9adc8ec438",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired own_commentary is only the article URL with no framing, reasoning, or view beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "3cce83ff5b6893eb313b",
+  "error": ""
+}

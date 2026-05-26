@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "journalism",
+    "media-criticism",
+    "disinformation"
+  ],
+  "reason": "Analytical case study of rumor-driven coverage and media resource failure, with mechanisms that outlast the 2014 ubåtsjakt episode.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f776a85f31596fd97fab",
+  "error": ""
+}

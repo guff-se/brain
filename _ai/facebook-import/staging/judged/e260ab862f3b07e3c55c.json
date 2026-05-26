@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Marked TEST with no analysis—only a promotional nudge to try NPR's automation quiz, not durable insight from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "e260ab862f3b07e3c55c",
+  "error": ""
+}

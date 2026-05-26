@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Official trailer metadata is promotional, not substantive external content, and Gustaf added no commentary.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "68b9da6ab6f73ebac529",
+  "error": ""
+}

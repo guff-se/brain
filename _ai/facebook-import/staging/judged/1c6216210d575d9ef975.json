@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "media-representation",
+    "gender",
+    "documentary"
+  ],
+  "reason": "Trailer metadata for a named documentary that states a durable causal thesis—media misrepresentation drives women's underrepresentation in power—not generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "1c6216210d575d9ef975",
+  "error": ""
+}

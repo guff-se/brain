@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "singularity",
+    "renewable-energy",
+    "kurzweil"
+  ],
+  "reason": "Substantive analysis of exponential solar growth claims—scale, subsidies, and whether solar tracks IT-style curves—not a time-bound news blip.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1e4bea25c27b89d90df5",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Travel itinerary and next-day speaking logistics only—no durable insight, argument, or mechanism under the under-200 own_text bar.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c313ba14e6bcb89a3d17",
+  "error": ""
+}

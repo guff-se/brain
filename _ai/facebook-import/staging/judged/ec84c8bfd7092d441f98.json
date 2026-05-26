@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "identity",
+    "language",
+    "self-perception"
+  ],
+  "reason": "The TED talk offers durable reflection on identity beyond surface cues, exploring mechanisms of how language and accent shape self and others.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ec84c8bfd7092d441f98",
+  "error": ""
+}

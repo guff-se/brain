@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "radical-self-expression",
+    "community"
+  ],
+  "reason": "Beyond the 2016 recap, it explains how Burning Man principles land in Moscow’s dress-code culture and documents reusable Costume Camp community-building practices.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a7e608b97c4621ee7706",
+  "error": ""
+}

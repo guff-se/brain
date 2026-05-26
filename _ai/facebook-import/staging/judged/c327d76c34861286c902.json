@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright-levies",
+    "private-copying",
+    "sweden"
+  ],
+  "reason": "It argues a durable mechanism-level case that technology-era copyright levies (private-copying fees) distort markets and need modernization toward fair creator compensation.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c327d76c34861286c902",
+  "error": ""
+}

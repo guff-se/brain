@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [
+    "skola",
+    "utbildning"
+  ],
+  "reason": "This is a short quip/observation under 200 characters with no durable mechanism or extended reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "972c6e8a5e7a60bbb133",
+  "error": ""
+}

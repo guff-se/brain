@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.84,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "addiction",
+    "neuroscience",
+    "dopamine"
+  ],
+  "reason": "Durable explanatory framing of addiction as shared brain mechanisms (reward/impulse control, dopamine dysregulation) rather than moral failing.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "825a175ab135f1b11b7e",
+  "error": ""
+}

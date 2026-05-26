@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "nuclear-energy",
+    "energy-policy",
+    "climate-change"
+  ],
+  "reason": "Named TED debate on a structural, enduring policy question with explicit pro/con framing, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3751e23d1b6af4755b54",
+  "error": ""
+}

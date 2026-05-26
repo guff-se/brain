@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "education",
+    "project-based-learning",
+    "alternative-education"
+  ],
+  "reason": "TED talk on Studio Schools names a durable project-based schooling model; thin fetch but title and description carry clear educational substance.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9f8bd64cf2c59c8a36ba",
+  "error": ""
+}

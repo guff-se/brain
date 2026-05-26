@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "machine-learning",
+    "computer-vision",
+    "deep-learning"
+  ],
+  "reason": "Title and description frame a durable ML explainer (image recognition, neural nets, related systems), not generic entertainment, despite thin fetched metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "f3cc07fb94531643fa54",
+  "error": ""
+}

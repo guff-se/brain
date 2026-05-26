@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "harry-potter",
+    "improv-everywhere",
+    "public-stunts"
+  ],
+  "reason": "It’s an entertaining one-off prank mission with no durable framework, mechanism, or lasting insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "f97bfb990e7cebbb71ac",
+  "error": ""
+}

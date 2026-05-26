@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "nsa",
+    "surveillance",
+    "privacy"
+  ],
+  "reason": "Gustaf’s commentary adds a causal mechanism—NSA profiling from data feeds into a strategy to harm targeted reputations—beyond a simple headline reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "097f554b531cdb75dc48",
+  "error": ""
+}

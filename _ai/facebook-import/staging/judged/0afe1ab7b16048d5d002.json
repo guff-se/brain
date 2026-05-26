@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "urban-planning",
+    "housing",
+    "politics"
+  ],
+  "reason": "DN Debatt title signals durable policy analysis—a regulatory-sandbox framework for construction—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0afe1ab7b16048d5d002",
+  "error": ""
+}

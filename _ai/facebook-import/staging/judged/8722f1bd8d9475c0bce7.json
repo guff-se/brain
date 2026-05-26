@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "think-tanks",
+    "research-independence",
+    "swedish-policy"
+  ],
+  "reason": "Long-form Fokus feature on think-tank independence, funder–researcher tension, and institutional integrity—not just a news blip.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8722f1bd8d9475c0bce7",
+  "error": ""
+}

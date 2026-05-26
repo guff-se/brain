@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "This is primarily a time-bound promotional/event announcement with no durable mechanism, analysis, or enduring insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "5cb11c0dbc7c1753b1a2",
+  "error": ""
+}

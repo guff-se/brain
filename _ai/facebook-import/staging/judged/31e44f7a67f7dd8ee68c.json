@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is brief and mostly a recommendation/teaser without durable reasoning beyond the article’s premise.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "31e44f7a67f7dd8ee68c",
+  "error": ""
+}

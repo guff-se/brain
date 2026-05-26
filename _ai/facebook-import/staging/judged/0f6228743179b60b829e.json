@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "social-psychology",
+    "system-justification",
+    "inequality"
+  ],
+  "reason": "Substantive introduction to system justification theory with causal mechanisms for why disadvantaged groups internalize hierarchy—durable framework, not news or banter.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0f6228743179b60b829e",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "voice",
+  "kind_hint": "note",
+  "tags_hint": [
+    "masculinity",
+    "cultural-criticism",
+    "media"
+  ],
+  "reason": "Polished manifesto-style polemic that states durable values against glamorized violent masculinity and anti-intellectual pop culture.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6502a410a52cf58cce66",
+  "error": ""
+}

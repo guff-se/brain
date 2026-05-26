@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "healthcare-policy",
+    "primary-care",
+    "equity"
+  ],
+  "reason": "Riksrevisionen's audit summary explains a structural goal conflict between demand-driven care choice and needs-based prioritization, with causal equity patterns—not just a dated news headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "57eaa79d84439cb3304d",
+  "error": ""
+}

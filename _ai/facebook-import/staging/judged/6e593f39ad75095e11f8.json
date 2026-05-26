@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Single-year Firefly ticket lottery, pricing, and registration logistics—operational and time-bound, not durable knowledge or analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6e593f39ad75095e11f8",
+  "error": ""
+}

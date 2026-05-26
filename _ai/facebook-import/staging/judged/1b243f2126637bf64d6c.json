@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "anti-racism",
+    "political-persuasion",
+    "machiavelli"
+  ],
+  "reason": "It adds causal framing about why tactics aimed at one’s own side won’t persuade opposing voters.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "1b243f2126637bf64d6c",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars with no argument—only a logistical quip about duplicate Almedalen 2013 Facebook groups.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "82b675da1d1806ffdd7f",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin trailer metadata is promotional project media, not durable external analysis; Futuredrome is already documented in Gustaf's voice notes.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "c29f7223e8d06de124da",
+  "error": ""
+}

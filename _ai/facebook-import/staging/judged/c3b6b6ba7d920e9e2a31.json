@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "97-char rhetorical one-liner names age privilege but offers no mechanism, argument chain, or developed view—default skip under strict own_text rules.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c3b6b6ba7d920e9e2a31",
+  "error": ""
+}

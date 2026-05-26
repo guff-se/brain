@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.76,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "migration",
+    "dehumanization",
+    "social-media"
+  ],
+  "reason": "Op-ed moves past the 2015 incident into mechanisms—false narratives, moral collapse, and the attitude-vs-law point on barnaga—not mere news recap.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a7303e423f3c91c4ae20",
+  "error": ""
+}

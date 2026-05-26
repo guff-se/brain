@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "youth-unemployment",
+    "automation",
+    "labor-market"
+  ],
+  "reason": "Debate prep with three durable causal claims—automation vs work, age discrimination (LAS), and conflating who gets jobs with how jobs are created—not just tonight’s TV logistics.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "3b0ed0514bfeea5fe6b5",
+  "error": ""
+}

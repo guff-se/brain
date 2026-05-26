@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Satirical first-person humor (April Fool's gag on nude offices), not durable analysis—the brief open-office critique is generic and the rest is entertainment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a0eedbf3ff40b729cd91",
+  "error": ""
+}

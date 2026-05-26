@@ -8,9 +8,9 @@ source: "facebook"
 source_id: "fb-1386094546"
 provenance: "extracted"
 lang: "sv"
-tags: [education-systems, standardized-testing, systems-thinking]
+tags: [education, metrics, schooling]
 status: "reference"
-ingested: "2026-05-25"
+ingested: "2026-05-26"
 created: "2013-12-03"
 ---
 

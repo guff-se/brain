@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "violence-decline",
+    "historical-progress",
+    "cognitive-bias"
+  ],
+  "reason": "DN lede frames a durable empirical thesis (historic lows in war/violence vs illusion of a violent age), not breaking news, despite paywalled body.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a87c495ce08936f2ac6f",
+  "error": ""
+}

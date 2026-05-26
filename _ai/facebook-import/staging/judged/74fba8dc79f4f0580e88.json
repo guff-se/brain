@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "music-streaming",
+    "creator-economics",
+    "consumer-behavior"
+  ],
+  "reason": "Beyond the Tidal news hook, the piece explains durable mechanisms—revealed preference vs moral appeals, individual artists vs abstract categories, and identifiable-beneficiary dynamics in how fans pay for music.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "74fba8dc79f4f0580e88",
+  "error": ""
+}

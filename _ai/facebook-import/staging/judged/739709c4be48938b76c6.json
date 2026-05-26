@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Commentary is only an unfinished fragment ('På tal om kommunal...') with no stated view, and the linked piece is time-bound tabloid exposé on bank CEOs' lifestyles rather than durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "739709c4be48938b76c6",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "techno-optimism",
+    "abundance",
+    "innovation"
+  ],
+  "reason": "Named TED talk with a durable abundance-and-innovation thesis, not ephemeral news or generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "27f9e532357bb6b7e803",
+  "error": ""
+}

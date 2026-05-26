@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2014 election-cycle partisan op-ed for citizenship tests—policy positioning, not durable analysis or reusable frameworks.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e9ed03613769f9f227bd",
+  "error": ""
+}

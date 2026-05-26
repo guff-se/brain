@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone charity sail promotion with a call to donate—logistical, time-bound, and no reasoning or durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "57adfe9e291b4e16d471",
+  "error": ""
+}

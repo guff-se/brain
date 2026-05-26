@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "julian-assange",
+    "wikileaks",
+    "transparency"
+  ],
+  "reason": "Pedagogical analysis of Assange's framework on emergent conspiracies, secrecy, and leaks—durable political philosophy, not a fleeting news reaction.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1c6b1baca7e983a1a40b",
+  "error": ""
+}

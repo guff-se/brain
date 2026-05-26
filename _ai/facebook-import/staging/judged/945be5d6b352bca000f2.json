@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.91,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "energy-policy",
+    "nuclear-energy",
+    "public-health"
+  ],
+  "reason": "Data-driven comparative framework for deaths per TWh across energy sources with cited epidemiology and policy mechanisms that outlast the Fukushima news hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "945be5d6b352bca000f2",
+  "error": ""
+}

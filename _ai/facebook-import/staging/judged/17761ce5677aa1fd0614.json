@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "lgbt-rights",
+    "russia",
+    "authoritarianism"
+  ],
+  "reason": "A 2013 news report on a specific draft bill and lawmakers, not durable analysis, mechanisms, or principles worth retaining.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "17761ce5677aa1fd0614",
+  "error": ""
+}

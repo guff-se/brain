@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound absence notice and hotline/contact logistics with no reasoning or durable knowledge; under 200 chars default skip applies.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d1025b1aadd98af73c97",
+  "error": ""
+}

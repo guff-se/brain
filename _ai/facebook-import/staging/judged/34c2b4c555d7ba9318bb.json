@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "war-on-drugs",
+    "criminal-justice",
+    "structural-racism"
+  ],
+  "reason": "Substantive op-ed linking drug-war policy to institutional racism, perverse law-enforcement and prison-industry incentives, and durable reform alternatives—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "34c2b4c555d7ba9318bb",
+  "error": ""
+}

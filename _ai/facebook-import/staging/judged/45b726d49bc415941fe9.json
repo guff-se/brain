@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "intellectual-property",
+    "file-sharing"
+  ],
+  "reason": "Full replik with durable IP-vs-physical-property and copying-vs-theft reasoning, not a time-bound event blurb.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "45b726d49bc415941fe9",
+  "error": ""
+}

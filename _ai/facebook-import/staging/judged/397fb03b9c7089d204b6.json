@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "encryption",
+    "privacy",
+    "digital-security"
+  ],
+  "reason": "Apple's letter is durable policy and security-mechanism analysis on backdoors and encryption, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "397fb03b9c7089d204b6",
+  "error": ""
+}

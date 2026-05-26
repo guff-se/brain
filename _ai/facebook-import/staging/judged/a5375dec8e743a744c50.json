@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "welfare-privatization",
+    "property-rights",
+    "swedish-politics"
+  ],
+  "reason": "DI ledare goes beyond the 2014 budget headline into durable analysis of welfare politics, ownership rights, and Swedish attitudes to private profit in public services.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a5375dec8e743a744c50",
+  "error": ""
+}

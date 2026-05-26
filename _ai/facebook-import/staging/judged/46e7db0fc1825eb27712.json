@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "same-sex-marriage",
+    "marriage-norms",
+    "social-change"
+  ],
+  "reason": "Paired commentary adds a non-trivial thesis—that marriage-equality wins reinforce traditional romantic marriage while postponing acceptance of other lifestyles—not just agreement with the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "46e7db0fc1825eb27712",
+  "error": ""
+}

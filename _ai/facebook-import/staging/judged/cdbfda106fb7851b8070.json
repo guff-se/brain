@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a brief endorsement with no framing beyond the TED headline; under paired rules this is a reaction, not durable reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "cdbfda106fb7851b8070",
+  "error": ""
+}

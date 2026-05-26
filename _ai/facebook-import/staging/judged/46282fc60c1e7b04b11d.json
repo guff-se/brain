@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only Google's cookie consent page, not substantive content; the goo.gl/maps URL was almost certainly a location link, not durable knowledge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "46282fc60c1e7b04b11d",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional press pitch for a fixed May 2009 event—logistics and hype, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "f102dd1e9f11013d8d01",
+  "error": ""
+}

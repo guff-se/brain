@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "citizen-science",
+    "protein-folding",
+    "crowdsourcing"
+  ],
+  "reason": "Ars explainer on Foldit/Nature work ties durable mechanisms—protein energy landscapes, Rosetta limits, and why human gamers outperformed algorithms—to citizen-science patterns.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c045582c12d72fe6f16f",
+  "error": ""
+}

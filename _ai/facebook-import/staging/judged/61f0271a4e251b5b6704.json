@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "consumer-culture",
+    "marketing",
+    "social-norms"
+  ],
+  "reason": "Title names a structural critique (engagement-ring industry scam/manufactured tradition), not generic entertainment; thin promo description still passes on durable topic signal.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "61f0271a4e251b5b6704",
+  "error": ""
+}

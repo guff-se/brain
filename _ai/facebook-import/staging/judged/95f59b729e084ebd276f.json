@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical equipment-borrow request under 200 chars with no reasoning or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "95f59b729e084ebd276f",
+  "error": ""
+}

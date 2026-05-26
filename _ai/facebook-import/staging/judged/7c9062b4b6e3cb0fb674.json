@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "YouTube share of an animated short with entertainment/viral framing and no durable analysis, framework, or expertise in the metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "7c9062b4b6e3cb0fb674",
+  "error": ""
+}

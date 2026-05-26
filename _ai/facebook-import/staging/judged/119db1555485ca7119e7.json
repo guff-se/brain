@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "wikileaks",
+    "authoritarianism",
+    "information-warfare"
+  ],
+  "reason": "Substantial explication of Assange's conspiracy-as-network model and anti-conspiracy strategy—durable mechanism-level analysis, not ephemeral Wikileaks news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "119db1555485ca7119e7",
+  "error": ""
+}

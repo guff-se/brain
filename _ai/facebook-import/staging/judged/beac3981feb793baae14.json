@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "misophonia",
+    "sensory-processing",
+    "neuroscience"
+  ],
+  "reason": "Names a real condition and sketches CNS mechanism plus sensory-filtering research—not ephemeral news, despite clickbait framing and a weak source.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "beac3981feb793baae14",
+  "error": ""
+}

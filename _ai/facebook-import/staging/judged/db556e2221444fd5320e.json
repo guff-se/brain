@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "civil-liberties",
+    "surveillance",
+    "european-politics"
+  ],
+  "reason": "Substantive debate essay with a durable 'politics of fear' framework on post-9/11 surveillance, migration, and liberties—not merely campaign news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "db556e2221444fd5320e",
+  "error": ""
+}

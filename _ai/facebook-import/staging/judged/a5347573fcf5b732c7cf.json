@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "spirituality",
+    "capitalism",
+    "meritocracy"
+  ],
+  "reason": "Substantive cultural critique linking spiritual meritocracy, consumer Buddhism, and systemic inequality—durable mechanisms, not a news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a5347573fcf5b732c7cf",
+  "error": ""
+}

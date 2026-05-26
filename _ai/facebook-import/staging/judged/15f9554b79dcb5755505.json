@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "participatory-culture",
+    "digital-culture"
+  ],
+  "reason": "Bard’s essay offers durable frameworks (participatory culture, Syntheism, digital natives) and causal claims linking Burning Man to Silicon Valley culture—not merely event news or book promo.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "15f9554b79dcb5755505",
+  "error": ""
+}

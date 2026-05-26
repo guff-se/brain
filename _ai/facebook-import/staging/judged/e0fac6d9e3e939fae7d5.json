@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.96,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man",
+    "the-borderland"
+  ],
+  "reason": "Time-bound volunteer signup for a regional burn—logistical, not durable knowledge, and under 200 chars with no argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e0fac6d9e3e939fae7d5",
+  "error": ""
+}

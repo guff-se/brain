@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "neural-networks",
+    "confirmation-bias",
+    "computational-art"
+  ],
+  "reason": "Memo Akten's description explains DeepDream mechanistically and links it to confirmation bias and human–AI meaning-making—durable analysis, not entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "fe0775f7d08466929653",
+  "error": ""
+}

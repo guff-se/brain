@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a brief conversational reaction with no mechanism or framing beyond validating prior skepticism of Copenhagen.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "316305b763d6d3c4ef19",
+  "error": ""
+}

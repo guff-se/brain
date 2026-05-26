@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "advertising",
+    "consumption",
+    "climate-change"
+  ],
+  "reason": "DN Debatt op-ed by Tännsjö argues advertising drives harmful overconsumption and environmental harm—a durable causal critique, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9e28694458805694928b",
+  "error": ""
+}

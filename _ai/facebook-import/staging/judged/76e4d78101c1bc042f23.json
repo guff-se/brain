@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "game-development",
+    "entrepreneurship",
+    "publishing"
+  ],
+  "reason": "Longform Grin collapse feature explains publisher power, consultant-model risk, and crisis timing—not a fleeting news blip.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "76e4d78101c1bc042f23",
+  "error": ""
+}

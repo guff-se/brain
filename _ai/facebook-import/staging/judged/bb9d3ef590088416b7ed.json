@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched body is generic SEO/marketing blog content from a repurposed domain, not durable analysis or the original civic tool the 2011 share likely pointed to.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bb9d3ef590088416b7ed",
+  "error": ""
+}

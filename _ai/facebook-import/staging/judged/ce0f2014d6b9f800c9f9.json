@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "thermodynamics",
+    "origin-of-life",
+    "evolution"
+  ],
+  "reason": "Substantive science journalism on England's dissipation-driven theory linking thermodynamics to life's origin—durable mechanism and causality, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ce0f2014d6b9f800c9f9",
+  "error": ""
+}

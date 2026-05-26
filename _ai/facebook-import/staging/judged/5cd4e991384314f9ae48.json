@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and purely promotional event recap plus ticket plug—no argument, mechanism, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5cd4e991384314f9ae48",
+  "error": ""
+}

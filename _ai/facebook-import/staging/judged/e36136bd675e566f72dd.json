@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "human-progress",
+    "global-development",
+    "public-health"
+  ],
+  "reason": "Kenny's Atlantic piece synthesizes durable trends in violence, disease, and poverty with data and causal framing, not a disposable news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e36136bd675e566f72dd",
+  "error": ""
+}

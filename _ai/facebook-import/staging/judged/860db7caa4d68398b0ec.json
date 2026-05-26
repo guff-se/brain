@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A 152-character emergency logistics tip during the 2011 Oslo bombing, with no reasoning or durable insight beyond the moment.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "860db7caa4d68398b0ec",
+  "error": ""
+}

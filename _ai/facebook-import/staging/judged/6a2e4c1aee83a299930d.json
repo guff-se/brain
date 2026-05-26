@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "harm-reduction",
+    "sweden-politics"
+  ],
+  "reason": "Substantive op-ed on why standard Swedish youth drug policy fails, with mechanisms (FHI campaigns, policing, mortality vs rhetoric) not just a dated news hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6a2e4c1aee83a299930d",
+  "error": ""
+}

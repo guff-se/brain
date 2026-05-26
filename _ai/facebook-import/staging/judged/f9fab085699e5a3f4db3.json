@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2014 celebrity product-promo entertainment news with no durable analysis, frameworks, or mechanisms worth retaining.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f9fab085699e5a3f4db3",
+  "error": ""
+}

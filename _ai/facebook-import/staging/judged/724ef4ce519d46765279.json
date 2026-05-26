@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "internet",
+    "emotions",
+    "technology"
+  ],
+  "reason": "Title and description state a durable mechanism claim—internet as humanity’s most efficient medium for conveying emotions—with future implications, not generic entertainment or event-only chatter.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "724ef4ce519d46765279",
+  "error": ""
+}

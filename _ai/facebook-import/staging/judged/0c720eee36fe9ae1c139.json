@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "alternative-education",
+    "homeschooling",
+    "tech-culture"
+  ],
+  "reason": "Wired feature ties tech DIY/disintermediation mindset to homeschooling as education reform—substantive cultural analysis beyond a news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0c720eee36fe9ae1c139",
+  "error": ""
+}

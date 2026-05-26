@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "cybersecurity",
+    "ssl-tls",
+    "supply-chain-security"
+  ],
+  "reason": "Incident write-up with lasting mechanism detail on MITM, root trust, and manufacturer compromise—not headline-only news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a2a90b5da7990efd1071",
+  "error": ""
+}

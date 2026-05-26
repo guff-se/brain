@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters and a single policy slogan with two premises but no developed mechanism or multi-sentence argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1b5c1399e1448c8e9a55",
+  "error": ""
+}

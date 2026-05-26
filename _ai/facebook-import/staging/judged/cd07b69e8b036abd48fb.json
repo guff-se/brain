@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Humorous xkcd comic with a correlation-vs-causation punchline — entertainment, not substantive analysis worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cd07b69e8b036abd48fb",
+  "error": ""
+}

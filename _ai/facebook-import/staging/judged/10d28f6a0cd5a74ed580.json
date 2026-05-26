@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only page navigation and a title—no comic or article body to evaluate for durable substance.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "10d28f6a0cd5a74ed580",
+  "error": ""
+}

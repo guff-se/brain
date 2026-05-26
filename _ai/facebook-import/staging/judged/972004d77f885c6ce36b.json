@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a time-bound promotional announcement about a gallery opening and prizes, with little durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "972004d77f885c6ce36b",
+  "error": ""
+}

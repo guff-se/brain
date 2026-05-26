@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "party-politics",
+    "youth-organizations",
+    "political-marketing"
+  ],
+  "reason": "Standalone commentary exceeds 200 chars and offers a structural critique—youth wings as token politics, contradictory messaging vs parent parties, and a false-advertising analogy—not merely a news reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "df5f25ac8e00ab75a855",
+  "error": ""
+}

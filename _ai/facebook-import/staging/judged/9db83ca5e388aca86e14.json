@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.74,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "basic-income",
+    "human-rights",
+    "economic-policy"
+  ],
+  "reason": "Primarily an advocacy/promotional campaign with a sign-call, not a durable, mechanism-level framework.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "9db83ca5e388aca86e14",
+  "error": ""
+}

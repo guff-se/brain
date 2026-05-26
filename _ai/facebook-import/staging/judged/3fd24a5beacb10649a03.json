@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "climate-change",
+    "corporate-accountability",
+    "fossil-fuels"
+  ],
+  "reason": "Investigative reporting on Exxon's early internal climate knowledge versus decades of denial funding documents a durable corporate-mechanism pattern, not only a 2015 news peg.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3fd24a5beacb10649a03",
+  "error": ""
+}

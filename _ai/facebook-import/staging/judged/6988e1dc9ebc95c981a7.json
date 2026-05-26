@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "55-second humor clip with only a catchphrase title and no durable topic or analysis in the metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "6988e1dc9ebc95c981a7",
+  "error": ""
+}

@@ -1,14 +1,11 @@
 {
-  "verdict": "save",
-  "confidence": 0.7,
-  "register_hint": "thinking",
-  "kind_hint": "note",
-  "tags_hint": [
-    "swedish-politics",
-    "economic-crisis"
-  ],
-  "reason": "Reveals Gustaf's model of electoral dynamics: economic shock → issue dominance → platform relevance determines viability; borderline but the reasoning about sidelining fringe parties due to issue invisibility is durable",
-  "model": "claude-haiku-4-5",
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Dated 2010 election punditry tied to SAAB news—some party logic, but no durable principle beyond a moment-in-time forecast.",
+  "model": "auto",
   "item_type": "own_text",
   "content_sha": "46211e6beac246609c9d",
   "error": ""

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired hot take restates the headline with sarcasm; no mechanism or framing beyond what the Monbiot article already provides.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "097d8ec39bc7e31ded9a",
+  "error": ""
+}

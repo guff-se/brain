@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound 2011 Friedman column reporting on Americans Elect's 2012 launch mechanics and predictions, not durable analysis of political structure.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "563c21a3d71676e51af7",
+  "error": ""
+}

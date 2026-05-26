@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary restates the headline and offers a one-line ideological reframe plus a hot take, without mechanism or durable analysis beyond the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "9e265b996d2df8db0f63",
+  "error": ""
+}

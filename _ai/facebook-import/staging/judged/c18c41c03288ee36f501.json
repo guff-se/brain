@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary only restates the headline and adds a media-cynicism quip—no framing, mechanism, or reasoning beyond a hot take.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "c18c41c03288ee36f501",
+  "error": ""
+}

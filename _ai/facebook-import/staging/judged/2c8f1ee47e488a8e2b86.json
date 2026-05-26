@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone sarcasm on ephemeral 2011 piracy news—a punchline about unemployment stats, not durable mechanism or framing beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "2c8f1ee47e488a8e2b86",
+  "error": ""
+}

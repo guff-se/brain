@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a short endorsement ('best visualization', 'enlightening') with no framing, mechanism, or analysis beyond the link.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "946da1e5baefe1f1ea0e",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "privacy",
+    "experience-design",
+    "internet-of-things"
+  ],
+  "reason": "Long-form Wired case study on ambient computing, consent tradeoffs, and experience design via MagicBand—durable mechanisms, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "371ce55fbe8696a0ff3c",
+  "error": ""
+}

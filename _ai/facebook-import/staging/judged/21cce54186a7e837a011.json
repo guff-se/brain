@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "wealth-inequality",
+    "generational-economics",
+    "housing"
+  ],
+  "reason": "SvD piece synthesizes Pew data on generational wealth gaps with causal mechanisms (housing timing, debt, labor market)—durable structural economics, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "21cce54186a7e837a011",
+  "error": ""
+}

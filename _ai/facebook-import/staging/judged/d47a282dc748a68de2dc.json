@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.35,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "With only the title provided and no content or durable analysis visible, this looks indeterminately informational rather than a reliably lasting insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d47a282dc748a68de2dc",
+  "error": ""
+}

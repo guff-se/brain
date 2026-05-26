@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "security",
+    "physical-security",
+    "3d-printing"
+  ],
+  "reason": "Beyond the 2015 news hook, the piece explains reusable mechanisms—photos decoding keys, rapid 3D reproduction, and security theater of master-key systems—with expert framing.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "dcdc928b7a331ce09e5b",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a time-bound anecdote/news-style story about Saudi religious police rather than durable analysis or a reusable framework.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "81406992742349e56baa",
+  "error": ""
+}

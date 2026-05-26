@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "This is a generic homepage/landing page with promotional service listings and short topical teasers, not durable analysis or a clear mechanism.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f7003b308e5dcea359ee",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched title is a loading placeholder with no article substance; nothing durable to preserve from the share.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f61a79cd0e74eba70e2c",
+  "error": ""
+}

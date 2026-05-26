@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Standalone commentary is a time-bound meeting logistics invite with no reasoning, mechanism, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "01875c9ceb1845f977b7",
+  "error": ""
+}

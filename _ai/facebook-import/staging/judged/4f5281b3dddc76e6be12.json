@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "automation",
+    "future-of-work",
+    "productivity"
+  ],
+  "reason": "Canonical HBR interview on technology, employment, and the productivity–wage decoupling framework—durable analysis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4f5281b3dddc76e6be12",
+  "error": ""
+}

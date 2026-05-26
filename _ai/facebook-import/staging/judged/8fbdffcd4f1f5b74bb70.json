@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a time-bound Swedish political news report about FRA/integrity commission without durable analysis or a reusable framework.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8fbdffcd4f1f5b74bb70",
+  "error": ""
+}

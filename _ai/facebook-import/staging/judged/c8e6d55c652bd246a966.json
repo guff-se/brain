@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "public-procurement",
+    "government-waste",
+    "stimulus-spending"
+  ],
+  "reason": "Investigative reporting on ignored technical warnings, procurement mechanics, and recurring patterns of stimulus overspend—not a headline-only event note.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c8e6d55c652bd246a966",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired sarcastic hot take at article readers—no durable framing or causal argument beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "333a304da17b57b5b997",
+  "error": ""
+}

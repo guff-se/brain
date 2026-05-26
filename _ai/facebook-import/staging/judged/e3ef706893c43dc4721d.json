@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "swedish-politics",
+    "foreign-policy"
+  ],
+  "reason": "Time-bound news scoop about an honor listing, not analysis, frameworks, or durable insight beyond the event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e3ef706893c43dc4721d",
+  "error": ""
+}

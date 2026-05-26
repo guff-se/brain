@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Company marketing page for craft spirits products with no analysis, frameworks, or durable knowledge beyond brand promotion.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0c58f855ad64ca767870",
+  "error": ""
+}

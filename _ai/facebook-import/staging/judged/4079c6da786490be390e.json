@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ephemeral event invite with no durable insight, principle, or analysis—purely logistical promotion for a one-off parade.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4079c6da786490be390e",
+  "error": ""
+}

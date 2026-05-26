@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "work-culture",
+    "consumerism",
+    "productivity"
+  ],
+  "reason": "David Cain's essay gives a durable causal account of the 40-hour week, convenience spending, and engineered dissatisfaction—not a time-bound news item.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "47f36723ff940d251c97",
+  "error": ""
+}

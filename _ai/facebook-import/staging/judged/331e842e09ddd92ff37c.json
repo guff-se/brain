@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "refugee-policy",
+    "media-critique",
+    "western-hypocrisy"
+  ],
+  "reason": "Vox analysis links tabloid rhetoric to anti-refugee policy and deaths, framing durable Western hypocrisy—not only the 2015 news peg.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "331e842e09ddd92ff37c",
+  "error": ""
+}

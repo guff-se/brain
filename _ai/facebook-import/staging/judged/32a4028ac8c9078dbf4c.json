@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "creativity",
+    "psychology",
+    "ernest-becker"
+  ],
+  "reason": "Becker quote frames a durable artist-vs-neurotic mechanism, and title plus named expert outweigh thin promo-heavy metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "32a4028ac8c9078dbf4c",
+  "error": ""
+}

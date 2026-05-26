@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A 2011 appointment news piece on one EU official; the revolving-door angle is thin context, not durable mechanism or analysis worth keeping.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e2e93ddc44f52bbe285f",
+  "error": ""
+}

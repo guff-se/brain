@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Namnbank victory page is time-bound 2009 campaign news and celebration, not durable policy analysis worth keeping as a source note.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4a59374dd8ee5ccd4a98",
+  "error": ""
+}

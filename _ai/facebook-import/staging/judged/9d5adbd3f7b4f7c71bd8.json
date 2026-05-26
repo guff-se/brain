@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch body is unrelated 2025 datacenter/AI copy; URL/title only imply ephemeral 2011 EU filter policy news with no durable article to ingest.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9d5adbd3f7b4f7c71bd8",
+  "error": ""
+}

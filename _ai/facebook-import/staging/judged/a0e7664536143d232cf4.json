@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "bad-science",
+    "evidence",
+    "health-misinformation"
+  ],
+  "reason": "Goldacre explains lasting mechanisms of how health evidence gets distorted—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a0e7664536143d232cf4",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Generic Evernote share with title-only metadata and no discernible topic, analysis, or durable content to preserve.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5f6955e403f1bbd419fe",
+  "error": ""
+}

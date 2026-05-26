@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "trade-policy",
+    "regulation",
+    "corporate-power"
+  ],
+  "reason": "Substantive policy journalism explaining TiSA mechanisms (standstill/ratchet, regulatory caps, privatization, data flows), not just a leak headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c8f468a16fff267bd6fd",
+  "error": ""
+}

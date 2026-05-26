@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and reads as a motivational slogan without a developed mechanism or durable argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c63eb50ed170cfefa475",
+  "error": ""
+}

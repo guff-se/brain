@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "wikileaks",
+    "transparency",
+    "democracy"
+  ],
+  "reason": "Fredrikson develops a sustained argument on leaks, openness, and peace-work criteria—not just 2011 Nobel news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "66358d50eea91c08be30",
+  "error": ""
+}

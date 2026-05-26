@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Direct link to a Tumblr GIF with no article body or durable topic—entertainment image only, not knowledge worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4987d46ae390de8971f3",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.83,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "feminism",
+    "sexual-violence",
+    "accountability"
+  ],
+  "reason": "Contains durable social critique about institutional protection of sex-offending men, accountability, and media framing beyond a time-bound event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8a21321e22f533e749b3",
+  "error": ""
+}

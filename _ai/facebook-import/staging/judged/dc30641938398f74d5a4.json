@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary (~175 chars): one aphoristic generational claim without a reasoning chain—framing beyond the headline, but not enough for 80–199 paired rules.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "dc30641938398f74d5a4",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch is Red Bull portal/nav, not the linked video; even the 2012 1080-skate stunt is promotional sports spectacle, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ee0f6759f953e533cc35",
+  "error": ""
+}

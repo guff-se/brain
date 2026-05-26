@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "marketing",
+    "startups",
+    "growth-hacking"
+  ],
+  "reason": "Substantive 2013 essay on the structural shift from brand marketing to engineering-led growth, with mechanisms, competition logic, and a durable two-path framework—not a news blip or link stub.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ebaffa1c0eb77fa917a5",
+  "error": ""
+}

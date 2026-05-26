@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sexual-violence",
+    "consent",
+    "discourse"
+  ],
+  "reason": "Substantive first-person testimony on coercion, shame, and language gaps, tied to a durable cultural discourse moment—not ephemeral logistics alone.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "53bf620f22ad0c28a14d",
+  "error": ""
+}

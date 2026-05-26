@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "finance",
+    "sovereign-debt",
+    "shadow-banking"
+  ],
+  "reason": "Substantive SvD explainer on hedge funds, CDS incentives, shadow banking, and vulture funds in the Greek crisis—not just breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "44c5073d2976543b6404",
+  "error": ""
+}

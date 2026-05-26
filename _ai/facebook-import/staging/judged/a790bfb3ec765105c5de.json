@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "22 Words listicle URL with no real article body; title implies lightweight pop-culture hot take, not durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a790bfb3ec765105c5de",
+  "error": ""
+}

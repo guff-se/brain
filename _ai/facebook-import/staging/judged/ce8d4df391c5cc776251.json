@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "gmo",
+    "argumentation",
+    "greenpeace"
+  ],
+  "reason": "Substantive critique with mechanism (Amflora starch modification vs pest-resistance), fallacy analysis, and a durable principle about NGO credibility—not a mere news reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ce8d4df391c5cc776251",
+  "error": ""
+}

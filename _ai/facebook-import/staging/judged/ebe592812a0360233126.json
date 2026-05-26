@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A Star Wars one-liner with no stated insight, principle, or topic to build on—social banter, not durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ebe592812a0360233126",
+  "error": ""
+}

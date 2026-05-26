@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "refugee-policy",
+    "migration",
+    "humanitarian-crisis"
+  ],
+  "reason": "Contrasts selective resettlement vs spontaneous arrivals with a clear quantity-over-PR principle, not just a reaction.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "aba116cd18ad9d44dfd2",
+  "error": ""
+}

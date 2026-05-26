@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2012 election-campaign satire and Obama promo with no durable analysis, framework, or insight beyond a dated political moment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "5f1a713fad4fb1530ed6",
+  "error": ""
+}

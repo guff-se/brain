@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical, time-bound coordination with no durable insight and under 200 characters.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7b05c1d1346c612615f8",
+  "error": ""
+}

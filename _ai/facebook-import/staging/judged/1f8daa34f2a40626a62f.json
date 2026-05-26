@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "entrepreneurship",
+    "innovation",
+    "longform"
+  ],
+  "reason": "Wait But Why's multi-part Musk profile is durable explanatory journalism—biography, learning models, and industry context—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1f8daa34f2a40626a62f",
+  "error": ""
+}

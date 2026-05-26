@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "income-inequality",
+    "wealth-concentration",
+    "political-economy"
+  ],
+  "reason": "Sourced chart-driven analysis of structural inequality, perception gaps, and productivity–wage divergence—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "40ed62fc8b07d0f2e9b5",
+  "error": ""
+}

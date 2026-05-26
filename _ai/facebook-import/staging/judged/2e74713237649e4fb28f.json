@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only a SmugMug browser-upgrade stub with no gallery or substantive content to preserve.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2e74713237649e4fb28f",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched body is Göteborg Stad portal promo (biodiversity campaign blurb, activity calendars), not substantive or durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0891cd7bf3de33778ba8",
+  "error": ""
+}

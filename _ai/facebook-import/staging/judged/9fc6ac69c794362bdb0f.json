@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound internship recruitment blurb with no argument or durable insight; under 200 chars and promotional/logistical.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "9fc6ac69c794362bdb0f",
+  "error": ""
+}

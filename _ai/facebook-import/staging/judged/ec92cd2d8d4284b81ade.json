@@ -1,15 +1,11 @@
 {
-  "verdict": "save",
-  "confidence": 0.88,
-  "register_hint": "thinking",
-  "kind_hint": "note",
-  "tags_hint": [
-    "labor-market",
-    "work-evolution",
-    "careers"
-  ],
-  "reason": "Clear principle: the traditional linear career model (4-5 years study → 40 years in one job) is obsolete; Gustaf's stake in how work actually functions now.",
-  "model": "claude-haiku-4-5",
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Sarcastic pushback on a same-day Metro/SACO quote with no developed mechanism—time-bound news reaction, not durable reasoning.",
+  "model": "auto",
   "item_type": "own_text",
   "content_sha": "ec92cd2d8d4284b81ade",
   "error": ""

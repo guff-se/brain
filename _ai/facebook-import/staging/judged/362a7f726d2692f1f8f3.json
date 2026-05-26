@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone sarcastic 2009 EU-policy reaction that cites a document quote without developing a durable argument beyond the headline concern.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "362a7f726d2692f1f8f3",
+  "error": ""
+}

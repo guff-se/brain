@@ -1,15 +1,15 @@
 {
   "verdict": "save",
-  "confidence": 0.87,
+  "confidence": 0.72,
   "register_hint": "thinking",
   "kind_hint": "note",
   "tags_hint": [
-    "digital-rights",
-    "information-power",
-    "democracy"
+    "internet",
+    "democracy",
+    "information-power"
   ],
-  "reason": "Clear principle statement about internet, information control, and power — reveals core values worth preserving even as a fragment.",
-  "model": "claude-haiku-4-5",
+  "reason": "Develops a causal chain—internet as democratic infrastructure, information as power, and information control as a path to societal control—not merely a slogan or mood.",
+  "model": "auto",
   "item_type": "own_text",
   "content_sha": "af0f8c3884f169cfe3f1",
   "error": ""

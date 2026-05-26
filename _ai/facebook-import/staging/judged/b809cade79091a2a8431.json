@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "online-harassment",
+    "gender",
+    "journalism"
+  ],
+  "reason": "SVT Granskarna investigative piece on structural online misogyny toward women in public life — durable topic despite thin description.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "b809cade79091a2a8431",
+  "error": ""
+}

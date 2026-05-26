@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paywalled 2011 DN Debatt headline tied to Reinfeldt and a momentary party-finance dispute—time-bound political commentary, not verifiable durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cf034df0387169074654",
+  "error": ""
+}

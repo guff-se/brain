@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "social-psychology",
+    "status",
+    "influence"
+  ],
+  "reason": "WSJ summary of HBS research on when visible nonconformity boosts perceived status—a reusable social mechanism, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4288593b242ad8f5a47a",
+  "error": ""
+}

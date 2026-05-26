@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "whistleblowing",
+    "accountability",
+    "war-on-terror"
+  ],
+  "reason": "Manning's sentencing statement is a durable primary-source moral argument on conscience, institutional accountability, and the costs of dissent—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "68974f141e815dc73bb8",
+  "error": ""
+}

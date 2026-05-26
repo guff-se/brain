@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "alan-watts",
+    "philosophy",
+    "consciousness"
+  ],
+  "reason": "Title names Alan Watts and a durable life-as-music teaching; thin metadata still signals philosophical substance, not generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "4b523015e7d9de992bc8",
+  "error": ""
+}

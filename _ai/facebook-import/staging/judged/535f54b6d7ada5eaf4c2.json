@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters and only a one-line management maxim with no developed argument, mechanism, or multi-sentence reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "535f54b6d7ada5eaf4c2",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "harm-reduction",
+    "public-health"
+  ],
+  "reason": "Expert debattartikel med mekanismer, jämförande evidens och konkreta skadreduktionsåtgärder — policyanalys som håller efter 2015-statistiken.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5a090269150661a3233e",
+  "error": ""
+}

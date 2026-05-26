@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "leadership-training",
+    "seven-habits"
+  ],
+  "reason": "Primarily a time-bound news story about protests over a specific school program, with only limited durable framework beyond quoted criticisms.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "68d0da6353c8e2f7e9f8",
+  "error": ""
+}

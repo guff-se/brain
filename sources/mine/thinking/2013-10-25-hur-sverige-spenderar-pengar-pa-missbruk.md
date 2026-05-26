@@ -13,9 +13,9 @@ source: "facebook"
 source_id: "fb-1382682834"
 provenance: "extracted"
 lang: "sv"
-tags: [drug-policy, sweden, resource-allocation]
+tags: [drug-policy, harm-reduction, prevention]
 status: "reference"
-ingested: "2026-05-25"
+ingested: "2026-05-26"
 created: "2013-10-25"
 ---
 

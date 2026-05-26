@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "post-irony",
+    "antiracism",
+    "contemporary-art"
+  ],
+  "reason": "Substantive review of Makode Linde’s work with durable analysis of post-irony, racial essentialism in antiracist discourse, and how protest and discomfort function in provocative art.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f06ec10d579488e27d73",
+  "error": ""
+}

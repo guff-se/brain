@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Comedy/pop music promo with storefront and social links only—no durable topic, framework, or substantive description beyond generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "b1f98baac7216dcfb705",
+  "error": ""
+}

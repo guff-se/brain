@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary adds no durable framing beyond endorsement, so it doesn’t merit its own note.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "6265e8c1a8582e416fb2",
+  "error": ""
+}

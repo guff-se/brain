@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "education",
+    "attention",
+    "neuroscience"
+  ],
+  "reason": "It offers a brief causal framing (school mismatches how teens' brains work) rather than just a reaction, even though the external article will also be saved.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "8d11792ba0e180da59b8",
+  "error": ""
+}

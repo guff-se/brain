@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "106-character quip plus Instagram link; no developed claim, mechanism, or durable insight under strict own_text rules.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1fcf4788e26a17f77961",
+  "error": ""
+}

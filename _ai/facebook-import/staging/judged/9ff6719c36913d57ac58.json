@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "automation",
+    "welfare-state",
+    "political-economy"
+  ],
+  "reason": "Guest column with causal megatrend framework on automation, employment, and the future of worker parties—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9ff6719c36913d57ac58",
+  "error": ""
+}

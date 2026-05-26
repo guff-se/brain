@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drone-warfare",
+    "us-foreign-policy",
+    "civilian-casualties"
+  ],
+  "reason": "Substantive op-ed with mechanisms (drone politics, blowback, Pashtunwali) and durable critique of US counterterrorism policy beyond the 2012 election frame.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1ba3cbf54f6fa9b190b5",
+  "error": ""
+}

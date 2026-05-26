@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2015 SVT breaking-news piece on a specific court ruling and imminent fee hikes, not durable analysis or principles worth retaining.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3e124859215448316d46",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "3d-printing",
+    "additive-manufacturing",
+    "manufacturing"
+  ],
+  "reason": "Substantive explainer on additive vs subtractive manufacturing, democratization, and supply-chain economic mechanisms—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "58801839630095fda8f4",
+  "error": ""
+}

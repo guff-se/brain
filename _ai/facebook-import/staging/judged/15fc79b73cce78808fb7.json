@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.66,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "mänskliga-rättigheter",
+    "sport-bojkott",
+    "putin-russia"
+  ],
+  "reason": "It argues for a sports boycott with concrete causal links between state repression, international leverage, and the IOC/societal impact.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "15fc79b73cce78808fb7",
+  "error": ""
+}

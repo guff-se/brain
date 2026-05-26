@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "public-health",
+    "mortality",
+    "data-journalism"
+  ],
+  "reason": "Fetch failed, but the URL is Bloomberg's durable 'How Americans Die' dataview on mortality patterns—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b04e54de71274f1d138b",
+  "error": ""
+}

@@ -1,0 +1,27 @@
+---
+title: "Are Goal-Setting Activities Counter Productive? | The Dreamler Blog"
+summary: "Are Goal-Setting Activities Counter Productive?
+- Feb 17, 2016
+- By Holger Jacobsson
+In the recent blog-post 5 Easy Ways…"
+kind: "article"
+party: "third"
+register: "consumed"
+source: "web"
+source_id: "fb-1456439272"
+url: "https://www.dreamler.com/blog/goal-setting-activities-contra-productive/#.Vs7oSvc588Q.facebook"
+provenance: "extracted"
+enrichment: "ok"
+lang: "en"
+tags: [goal-setting, productivity, project-management]
+status: "reference"
+ingested: "2026-05-26"
+created: "2016-02-25"
+---
+
+Are Goal-Setting Activities Counter Productive? - Feb 17, 2016 - By Holger Jacobsson In the recent blog-post 5 Easy Ways to Set Goals and Objectives that Will Help You Complete Projects, Pawel Grabowski concludes with a few sentences about the no goal approach to project management. His position is traditional. If your project lacks a clearly defined goal – there will be problems. In this blog-post I will take a closer look at the opposite stance: management without goals. A direction within goal setting theory that has been gaining terrain thanks to recent research. But let me begin from a different end. Have you ever traveled somewhat off the beaten path without following a given itinerary? Even those of us who haven’t can probably see that leaving the guidebooks at home while collecting information from fellow travelers and getting in touch with locals might lead to a more authentic and beneficial experience in the end. To set our final goal in advance is a bit like trying to predict the future though we know little about the situations and opportunities that will arise along the way. Flexible and perceptive travelers might end up at a destination they never even heard of before departure. Artists and writers will also confirm that many of their greatest pieces manifested through them without being preceded by narrowing goal setting activities. Some of our greatest experiences in life is, plain and simply, the result of us being able to let go and follow loosely defined intentions, our ideals, vague ideas or sudden flashes of inspiration. Does this relate to project management and goal setting theory? I think It does! In every situation where environmental variables varies over time and random forces will be at play, effective goal setting activities is not as easy as one might think. But in our society goal setting has become somewhat of an obsession. In his article Why Goal Setting Doesn’t Work Ray Williams, summarizes the latest research findings in the field. Its an eye opening read. The following pointers, extracted from his article, are not just recognizable statements that agrees with common sense. They are well researched assumptions that contributes to the field of goal setting theory. 1. Detailed goals can blind people to important aspects of a problem or extraordinary possibilities that sometimes appear, unrelated to the goal. 2. Many times goal setting sets up an unnecessarily sharp dichotomy between 100% success and 99% success. Strict objectives can problematize results of good skills and efforts that doesn’t meet a goal that might have been unrealistic, arbitrarily or irrelevant in retrospect. 3. The effect of not achieving goals or just the fear of not doing it can be demotivating for many co-workers. This is also a common problem for people who try to change their diet and lifestyle and only measure progress through weight goals. They might have done progress in terms of strength and general well being but if the single minded judgment of the scale doesn’t meet the expectations, their incentive to change things for the better might take a serious blow. 4. Goal setting activities can damage organizational culture and promote cheating and misrepresentation of performance. The infamous Ford Pinto has become the classic example of this dangerous goal setting side effect. Ray Williams: “Presented with a goal to build a car “under 2,000 pounds and under $2,000 by 1970, employees overlooked safety testing and designed a car where the gas tank was vulnerable to explosion from rear-end collisions. Fifty-three people died as a result.” 5. When people work simultaneously with many goals they tend to focus on tasks that are comparatively easier to achieve. The really important but difficult tasks might remain for much too long on their to-do list. If you want to dig deeper into the subject I recommend the Harward Buisness School paper: Goals Gone Wild: The Use and Abuse of Goals. Benefits of the no goal school in goal setting theory When we desire what we don’t already have our nervous system is going to produce negative emotions. Buddhists have known this for thousands of years and the contradiction between wanting to improve and being happy with who you are and what you have belong to the core of Buddhist teaching. To achieve mindfulness, that sought after but elusive presence in the moment, you need to learn to love what you do and to accept things the way they are. Just try to do a better job and be a good person! Does this relaxed and appealing attitude to life in general work at the office? James Clear prolific writer on habit formation and performance improvement offers a simple but brilliant way around the potential problems with goal setting activities that seems to correspond with Buddhist wisdom. “If you’re a writer,
+
+*[Content truncated — full text in fetch cache]*
+
+---
+**Gustaf's commentary:** Are goal-setting activities counter productive?

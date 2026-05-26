@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "basic-income",
+    "finland",
+    "politics"
+  ],
+  "reason": "2015 election-polling news with a one-line rhetorical question and no principle, analysis, or durable insight from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "5b2d3aaf44cd4f664a9a",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.91,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "cosmic-perspective",
+    "ego",
+    "science-communication"
+  ],
+  "reason": "Tyson articulates a durable ego–cosmic-scale framework with mechanism and reframing, not time-bound news or thin entertainment metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "c8d727f39f28f6775159",
+  "error": ""
+}

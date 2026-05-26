@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a brief agreement-and-vent reaction with no mechanism or framing beyond the article headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "09336d6f11329ad95fe3",
+  "error": ""
+}

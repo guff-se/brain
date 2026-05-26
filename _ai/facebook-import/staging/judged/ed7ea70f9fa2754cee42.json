@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "neuroscience",
+    "adolescence",
+    "attention"
+  ],
+  "reason": "It explains a durable mechanism (adolescent brain development affecting attention via prefrontal cortex/grey matter) rather than a time-bound event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ed7ea70f9fa2754cee42",
+  "error": ""
+}

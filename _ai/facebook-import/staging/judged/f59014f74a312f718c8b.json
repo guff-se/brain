@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "medicine",
+    "biotechnology",
+    "health"
+  ],
+  "reason": "TED explainer on biological joint-replacement mechanisms is durable educational reference, not time-bound news or banter.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f59014f74a312f718c8b",
+  "error": ""
+}

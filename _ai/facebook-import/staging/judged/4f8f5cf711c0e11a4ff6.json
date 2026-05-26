@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "neoreaction",
+    "political-ideologies",
+    "tech-culture"
+  ],
+  "reason": "Durable explainer of the neoreaction/dark-enlightenment worldview and its links to tech culture and “exit vs voice” governance ideas.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4f8f5cf711c0e11a4ff6",
+  "error": ""
+}

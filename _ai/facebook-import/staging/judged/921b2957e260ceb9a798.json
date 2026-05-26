@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "classroom-technology",
+    "teaching"
+  ],
+  "reason": "Satirical debatt piece with a clear, durable argument about distraction, tool use, and welcoming phones in class—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "921b2957e260ceb9a798",
+  "error": ""
+}

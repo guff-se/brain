@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Episodic 2015 House vote reporting on H.R. 1422; explains a moment in politics more than a durable framework worth a vault note.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "02408390143082deb4e8",
+  "error": ""
+}

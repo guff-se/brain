@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched page is generic SEO/marketing blog content (conference booking, newsletters, filler tech posts), not durable analysis or the parliamentary-voting tool the 2011 URL likely pointed to.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f3ae242bb597deddce83",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "copyright",
+    "free-culture",
+    "intellectual-property"
+  ],
+  "reason": "Title and creator signal a durable copyright/free-culture argument, not generic entertainment, despite thin fetched description.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "faad2e268c4e015966e4",
+  "error": ""
+}

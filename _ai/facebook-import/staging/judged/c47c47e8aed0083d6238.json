@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "creativity",
+    "workplace",
+    "embodiment"
+  ],
+  "reason": "Magazine feature grounds Lunchbeat in researcher mechanisms (contrast, cognitive reset, stress) rather than only 2012 event listings.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c47c47e8aed0083d6238",
+  "error": ""
+}

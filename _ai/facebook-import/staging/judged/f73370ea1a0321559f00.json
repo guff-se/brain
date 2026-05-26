@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "supplements",
+    "evidence-based-medicine",
+    "health"
+  ],
+  "reason": "Durable, regularly-updated synthesis of evidence quality across supplements, useful as a long-term reference for health decision-making.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f73370ea1a0321559f00",
+  "error": ""
+}

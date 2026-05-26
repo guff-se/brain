@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.36,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "surveillance",
+    "sweden",
+    "policing"
+  ],
+  "reason": "The fetched content is only a redirect/migration stub, so there’s no durable analysis to preserve.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7ba28a26bb224b351ee6",
+  "error": ""
+}

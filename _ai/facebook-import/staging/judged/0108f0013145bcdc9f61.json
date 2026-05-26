@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a witty gripe about valkompass framing plus a slogan about impartial journalism, not a developed causal argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0108f0013145bcdc9f61",
+  "error": ""
+}

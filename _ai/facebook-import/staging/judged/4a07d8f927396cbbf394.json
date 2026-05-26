@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf only restates the headline with outrage and no principle or analysis; the share is mainly time-bound 2015 surveillance news.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "4a07d8f927396cbbf394",
+  "error": ""
+}

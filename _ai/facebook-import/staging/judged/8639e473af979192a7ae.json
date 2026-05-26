@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "housing",
+    "urban-planning",
+    "supply-and-demand"
+  ],
+  "reason": "Beyond 2014 SF specifics, it explains how absentee and second-home demand in global cities weakens simple supply-and-demand for local middle-class housing.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8639e473af979192a7ae",
+  "error": ""
+}

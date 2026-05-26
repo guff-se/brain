@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "policing",
+    "criminal-justice",
+    "municipal-fines"
+  ],
+  "reason": "WaPo investigative piece frames Ferguson as a case study in how police forces become revenue-driven collection agencies—a durable institutional pattern, not mere breaking-news recap.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "17c5baefce063c33a686",
+  "error": ""
+}

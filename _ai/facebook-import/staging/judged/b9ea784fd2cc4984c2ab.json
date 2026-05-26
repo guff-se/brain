@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound logistical invite to Burning Pub with no durable insight; under 200 chars and promotional only.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b9ea784fd2cc4984c2ab",
+  "error": ""
+}

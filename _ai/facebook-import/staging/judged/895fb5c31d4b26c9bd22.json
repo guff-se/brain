@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A 2011 SvD series-launch news feature pegged to the Alliance's five-year mark—human-interest vignettes and election-cycle context outweigh the embedded Östberg analysis as durable vault knowledge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "895fb5c31d4b26c9bd22",
+  "error": ""
+}

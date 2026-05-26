@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "privacy",
+    "surveillance",
+    "law-enforcement"
+  ],
+  "reason": "It makes a durable policy mechanism argument that increased police access to communications/traffic data undermines integrity for everyone, using the FRA debate as context.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "baffd9dadf890639a85d",
+  "error": ""
+}

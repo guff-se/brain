@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "nutrition",
+    "health-science",
+    "science-history"
+  ],
+  "reason": "Long-form Atlantic analysis of supplement myths, evidence, and Linus Pauling’s influence—durable mechanisms and history, not a time-bound announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2588f7fb70b8acad3335",
+  "error": ""
+}

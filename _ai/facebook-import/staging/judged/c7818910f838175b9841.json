@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "marriage",
+    "social-norms",
+    "civil-rights"
+  ],
+  "reason": "Nordberg’s essay is durable structural analysis—how marriage equality can reinforce marital normativity and leave the unmarried legally and socially marginalized—not a time-bound news blurb.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c7818910f838175b9841",
+  "error": ""
+}

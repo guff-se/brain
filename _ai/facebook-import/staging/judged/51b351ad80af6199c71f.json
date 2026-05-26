@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Official comedy film trailer and promotional plot blurb—generic entertainment with no durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "51b351ad80af6199c71f",
+  "error": ""
+}

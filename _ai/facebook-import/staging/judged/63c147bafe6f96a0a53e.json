@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Reactive exclamation about an unseen graph with no analysis, principle, or durable substance in the text itself.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "63c147bafe6f96a0a53e",
+  "error": ""
+}

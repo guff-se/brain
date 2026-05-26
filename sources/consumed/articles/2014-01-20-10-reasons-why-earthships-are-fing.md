@@ -1,0 +1,26 @@
+---
+title: "10 Reasons Why EarthShips Are F!#%ing Awesome"
+summary: "Jordan Lejuwaan • • 5 min read
+10 Reasons Why EarthShips Are F!#%ing Awesome
+Earthships are 100% sustainable homes that …"
+kind: "article"
+party: "third"
+register: "consumed"
+source: "wayback"
+source_id: "fb-1390243103"
+url: "http://web.archive.org/web/20260205001607/https://www.highexistence.com/10-reasons-why-earthships-are-fing-awesome/"
+provenance: "extracted"
+enrichment: "wayback"
+lang: "en"
+tags: [sustainability, off-grid-living, architecture]
+status: "reference"
+ingested: "2026-05-26"
+created: "2014-01-20"
+---
+
+Jordan Lejuwaan • • 5 min read 10 Reasons Why EarthShips Are F!#%ing Awesome Earthships are 100% sustainable homes that are both cheap to build and awesome to live in. They offer amenities like no other sustainable building style you have come across. For the reasons that follow, I believe Earthships can actually change the world. See for yourself! 1) Sustainable does not mean primitive When people hear about sustainable, off-the-grid living, they usually picture primitive homes divorced from the comforts of the 21st century. And rightfully so, as most sustainable solutions proposed until now have fit that description. Earthships, however, offer all of the comforts of modern homes and more. I’ll let these pictures do the talking… 2) Free Food Each Earthship is outfitted with one or two greenhouses that grow crops year-round, no matter the climate. This means you can feed yourself with only the plants growing inside of your house. You can also choose to build a fish pond and/or chicken coop into your Earthship for a constant source of meat and eggs. 3) Brilliant Water Recycling Even the most arid of climates can provide enough water for daily use through only a rain-harvesting system. The entire roof of the Earthship funnels rain water to a cistern, which then pumps it to sinks and showers when required. That used ‘grey water’ is then pumped into the greenhouse to water the plants. After being cleaned by the plants, the water is pumped up into the bathrooms for use in the toilets. After being flushed, the now ‘black water’ is pumped to the exterior garden to give nutrients to non-edible plants. 4) Warmth & Shelter The most brilliant piece of engineering in the Earthship is their ability to sustain comfortable temperatures year round. Even in freezing cold or blistering hot climates, Earthships constantly hover around 70° Fahrenheight (22° Celsius). This phenomenon results from the solar heat being absorbed and stored by ‘thermal mass’ — or tires filled with dirt, which make up the structure of the Earthship. The thermal mass acts as a heat sink, releasing or absorbing heat when the interior cools and heats up, respectively. The large greenhouse windows at the front of the house always face south to allow the sun to heat up the thermal mass throughout the daytime. 5) Energy Solar panels on the roof and optional wind turbines provide the Earthship with all of the power it needs. As long as you’re not greedily chewing through electricity like a typical first-world human, you’ll never be short of power. 6) Freedom With all of your basic needs provided for and NO bills each month, you’re free! You don’t have to work a job you hate just to survive. So you can focus your time on doing what you love, and bettering the world around you. Imagine if the entire world was able to focus on doing extraordinary things instead of just making enough to get by. Imagine if even 10% of the world could do this. What would change? 7) Easy to build At a recent Earthship conference in Toronto, Canada, a married couple in their forties shared about how they built a 3-story Earthship by themselves in 3 months. They had never built anything before in their lives and were able to build an Earthship with only the printed plans. They did not hire any help, nor did they use expensive equipment to make the job easier. If one man and one woman can do this in 3 months, anyone can do it. 8) Cheap Earthships are exorbitantly cheaper than conventional houses. If you built it yourself, the most basic Earthships cost as little as $20,000 (Simple Survival model) with the more glamorous model which you’re seeing here, the 2-Bedroom Global Model, costs $70,000 and up, depending on how flashy you want to be with your decorating. With these cost options, Earthships can fit the needs of everyone — from the least privileged to the most worldly. 9) Made of recycled materials Much of the materials used to build Earthships are recycled. For starters, the structure is built with used tires filled with dirt: If there’s one thing we’re not short of on Earth, it’s used tires! There are tire dumps like the one pictured here in every country in the world. There are even places that will pay you by the tire to take them away. The walls (above the tires) are created by placing plastic and glass bottles in concrete. When the Earthship team was in Haiti after the earthquake, they employed local kids to both clean up the streets and provide all of the bottles required for building their Earthship. Plus, they look pretty sexy. 10) Think Different The most powerful thing Earthships do is force people to think differently
+
+*[Content truncated — full text in fetch cache]*
+
+---
+**Gustaf's commentary:** Earthships!!

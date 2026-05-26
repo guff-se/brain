@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is only a logistical pointer to the keynote with no framing, mechanism, or insight beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "3ad22bdc09e8eba8705d",
+  "error": ""
+}

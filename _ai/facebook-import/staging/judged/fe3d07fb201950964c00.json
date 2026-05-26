@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.74,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Resumé trade-press profile pegged to a 2011 journalist-prize nomination; it touches durable themes (#prataomdet, taboo discourse, social media) but reads mainly as time-bound media-industry news rather than lasting analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fe3d07fb201950964c00",
+  "error": ""
+}

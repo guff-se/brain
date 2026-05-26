@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters with no reasoning chain—only a time-bound checkout recap and travel mood, not durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4f99c6a8a35bd8d5650d",
+  "error": ""
+}

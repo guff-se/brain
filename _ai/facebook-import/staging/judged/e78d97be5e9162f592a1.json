@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.74,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Reactive one-liner on a 2015 rate announcement; the saver-pays point follows from negative rates, and #alltärpåhittat hints at skepticism without a developed principle worth compounding.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "e78d97be5e9162f592a1",
+  "error": ""
+}

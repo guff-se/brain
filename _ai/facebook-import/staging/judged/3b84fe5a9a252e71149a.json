@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone sarcastic contrast on 2013 bank-bonus news—no mechanism, principle, or reasoning beyond ironic juxtaposition of totals.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "3b84fe5a9a252e71149a",
+  "error": ""
+}

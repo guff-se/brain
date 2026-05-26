@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and a single rhetorical question—provocative but no developed argument, mechanism, or multi-sentence reasoning chain.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d3d6a913109bf5c57f43",
+  "error": ""
+}

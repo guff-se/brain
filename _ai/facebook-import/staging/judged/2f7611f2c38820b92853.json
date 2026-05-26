@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Short Swedish social sports note with no durable insight, mechanism, or analysis.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "2f7611f2c38820b92853",
+  "error": ""
+}

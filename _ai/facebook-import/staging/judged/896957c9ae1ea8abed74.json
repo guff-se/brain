@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "lgbt-rights",
+    "authoritarianism",
+    "sport-politics"
+  ],
+  "reason": "Substantive open letter with historical parallels, causal argument about legitimizing regimes via sport, and durable principles on politics, human rights, and the IOC—not merely Sochi news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "896957c9ae1ea8abed74",
+  "error": ""
+}

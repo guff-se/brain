@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "global-health",
+    "statistics",
+    "data-visualization"
+  ],
+  "reason": "Rosling TED talk reframes durable global-health trends and statistical literacy, not a time-bound news item.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "564c9e987a3c5237bc20",
+  "error": ""
+}

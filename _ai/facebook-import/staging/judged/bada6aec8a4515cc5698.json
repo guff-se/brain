@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary only restates a 2012 news announcement about the Stratfor leak with no analysis, mechanism, or durable framing from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "bada6aec8a4515cc5698",
+  "error": ""
+}

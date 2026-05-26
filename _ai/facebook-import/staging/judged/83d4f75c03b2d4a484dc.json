@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A three-word reaction to a news moment with no stated principle, mechanism, or analysis—too thin and time-bound to stand alone as durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "83d4f75c03b2d4a484dc",
+  "error": ""
+}

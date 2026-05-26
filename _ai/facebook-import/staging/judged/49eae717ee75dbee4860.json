@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound logistics and a crowd-sourced 'what should I do' ask, with no insight, principle, or analysis worth keeping.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "49eae717ee75dbee4860",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "urban-planning",
+    "global",
+    "women"
+  ],
+  "reason": "DN Debatt title signals a durable structural thesis on urbanization and gendered city demographics, not breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ac046f611c9e9937f10b",
+  "error": ""
+}

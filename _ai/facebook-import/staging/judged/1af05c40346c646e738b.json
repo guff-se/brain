@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Official music-video promo and credits only; generic entertainment with no durable topic or insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "1af05c40346c646e738b",
+  "error": ""
+}

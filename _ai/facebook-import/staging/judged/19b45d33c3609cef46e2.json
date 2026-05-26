@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "possibilianism",
+    "philosophy",
+    "neuroscience"
+  ],
+  "reason": "Named philosophical framework by David Eagleman on science and uncertainty — durable intellectual content, not ephemeral entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "19b45d33c3609cef46e2",
+  "error": ""
+}

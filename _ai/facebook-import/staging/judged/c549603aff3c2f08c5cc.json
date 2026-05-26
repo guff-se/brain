@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "comics",
+    "self-reflection"
+  ],
+  "reason": "The page appears to be a webcomic with mainly reactions and no durable mechanism or analysis to preserve.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c549603aff3c2f08c5cc",
+  "error": ""
+}

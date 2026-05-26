@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a time-bound milestone/news report (Voyager crossing announcement) with limited durable analysis beyond basic explanatory context.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "44521e6f779145b5063d",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "privacy",
+    "copyright",
+    "civil-liberties"
+  ],
+  "reason": "Substantive 2010 op-ed with causal argument on lobby power, anonymity, and surveillance—not a headline or event blurb.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3070303fd90c8ff93692",
+  "error": ""
+}

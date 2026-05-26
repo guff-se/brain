@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "politics",
+    "opposition",
+    "sweden"
+  ],
+  "reason": "Crisp political principle—that backbone exists mainly in opposition—stated via 2015 party examples, not mere event chatter.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1dd99be97b53d872d136",
+  "error": ""
+}

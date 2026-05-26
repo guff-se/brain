@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A one-line teaser for a sneak-preview video is promotional logistics with no durable idea, analysis, or stated principle.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "67759971c79875f0a1bd",
+  "error": ""
+}

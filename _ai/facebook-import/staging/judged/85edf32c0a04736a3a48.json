@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Vimeo short-film share with synopsis and credits only—generic entertainment, no durable ideas or frameworks in the metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "85edf32c0a04736a3a48",
+  "error": ""
+}

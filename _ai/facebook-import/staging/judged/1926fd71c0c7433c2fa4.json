@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only a 404 page with no article body or durable external content to judge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1926fd71c0c7433c2fa4",
+  "error": ""
+}

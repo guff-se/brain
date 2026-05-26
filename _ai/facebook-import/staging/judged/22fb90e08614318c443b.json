@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only kit.se browser-upgrade boilerplate, so there is no article body or substantive metadata to judge for durable value.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "22fb90e08614318c443b",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters with only a local 2015 political gripe and a one-word punchline—no mechanism, framework, or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "dbbcd023ef1c749fa641",
+  "error": ""
+}

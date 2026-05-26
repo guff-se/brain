@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Sensational 2014 crime-tabloid human-interest piece about one arrest, not durable analysis of LARP, mental health, or psychedelics.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a7a8039f31516e292368",
+  "error": ""
+}

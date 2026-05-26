@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched page is vendor SaaS marketing for live/shoppable video commerce, not durable analysis or the original 2010 share.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b85288573a807f9b971b",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "psychology",
+    "leadership",
+    "behavior-change"
+  ],
+  "reason": "HBR essay by Chamorro-Premuzic on change and self-improvement; durable organizational-psychology topic with strong author/venue signal despite a thin excerpt.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "04daaee0deb377400a98",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical favor request to borrow a car; no durable ideas, analysis, or reasoning beyond a time-bound coordination need.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d636bc41a68dd4b4a520",
+  "error": ""
+}

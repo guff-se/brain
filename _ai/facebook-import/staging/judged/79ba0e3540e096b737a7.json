@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a short hot take (names Spectacular Studios, calls it clumsy/embarrassing) with no mechanism or framing beyond the linked headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "79ba0e3540e096b737a7",
+  "error": ""
+}

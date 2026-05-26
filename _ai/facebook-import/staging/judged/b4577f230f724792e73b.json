@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.63,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "art-science",
+    "arts-education",
+    "creativity"
+  ],
+  "reason": "It argues a durable framework about why arts matter, linking art and science through mechanisms of truth and future-making rather than reporting an event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b4577f230f724792e73b",
+  "error": ""
+}

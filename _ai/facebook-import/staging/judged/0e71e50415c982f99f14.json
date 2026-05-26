@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "democracy",
+    "civil-liberties",
+    "surveillance"
+  ],
+  "reason": "Substantive essay on democratic fragility, rights erosion, and surveillance policy with historical mechanisms—not merely 2011 Egypt news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0e71e50415c982f99f14",
+  "error": ""
+}

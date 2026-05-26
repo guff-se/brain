@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Music promo and channel boilerplate only; no durable topic, analysis, or insight beyond generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "5a94a015a8bdddd6a916",
+  "error": ""
+}

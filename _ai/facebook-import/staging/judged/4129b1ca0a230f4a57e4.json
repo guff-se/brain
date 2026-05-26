@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "surveillance",
+    "privacy",
+    "data-retention"
+  ],
+  "reason": "The fetched body is allegorical analysis linking a Grimm tale to escalating surveillance and data retention—not a bare news headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4129b1ca0a230f4a57e4",
+  "error": ""
+}

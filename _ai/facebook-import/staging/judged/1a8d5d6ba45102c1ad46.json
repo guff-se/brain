@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gender-leadership",
+    "corporate-governance",
+    "profitability"
+  ],
+  "reason": "DN Debatt title signals durable opinion analysis on CEO gender and firm performance, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1a8d5d6ba45102c1ad46",
+  "error": ""
+}

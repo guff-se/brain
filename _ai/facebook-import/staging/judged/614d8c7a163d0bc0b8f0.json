@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "digital-identity",
+    "privacy",
+    "governance"
+  ],
+  "reason": "Substantive structural critique of BankID—private ownership, cross-authority traceability, and absent oversight—not a quip or event report.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "614d8c7a163d0bc0b8f0",
+  "error": ""
+}

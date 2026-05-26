@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is a time-bound grant plug (amounts, deadline, apply) with no causal or durable insight beyond logistics and disclosure.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "33e87e3b8cda8f2dd64f",
+  "error": ""
+}

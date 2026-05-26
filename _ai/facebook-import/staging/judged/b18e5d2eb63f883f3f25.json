@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only a time-bound TV promo announcement with no argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b18e5d2eb63f883f3f25",
+  "error": ""
+}

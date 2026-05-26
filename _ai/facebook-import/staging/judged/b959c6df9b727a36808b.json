@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "structural-racism",
+    "media-bias",
+    "romani"
+  ],
+  "reason": "Durable analysis of structural racism via media attention patterns and societal assumptions about whose suffering is treated as abnormal.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b959c6df9b727a36808b",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is only a Dick quote and posthumous-fame trivia, with no framing or argument from Gustaf beyond the Wikipedia headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "e711cc1c087cec289d48",
+  "error": ""
+}

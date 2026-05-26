@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "swedish-politics",
+    "social-democracy",
+    "welfare-privatization"
+  ],
+  "reason": "Guillou’s column ties episodic 2013 scandals to a durable mechanism—revolving-door ex-ministers, capital buying SDP influence, and profit logic in privatized welfare—not just breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e290311d22ec3ef3e9bf",
+  "error": ""
+}

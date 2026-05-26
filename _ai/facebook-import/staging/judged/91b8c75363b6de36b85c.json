@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.84,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "entrepreneurship",
+    "education",
+    "youth"
+  ],
+  "reason": "Title names a durable structural topic (young entrepreneurship, entrepreneurship in school) and Gustaf’s own TEDx talk—not generic entertainment or TEDx boilerplate alone.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "91b8c75363b6de36b85c",
+  "error": ""
+}

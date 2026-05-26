@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "futurism",
+    "transhumanism",
+    "technology-criticism"
+  ],
+  "reason": "Dvorsky's piece unpacks why common futurist terms mislead, with causal reasoning on uploads, the singularity, tech optimism, and immortality—not a news flash or link bait.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "88cb695b9b6aafa61874",
+  "error": ""
+}

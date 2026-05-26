@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "polyamory",
+    "relationships",
+    "non-monogamy"
+  ],
+  "reason": "Substantive essay defining polyamory, contrasting relationship forms, and articulating durable principles about connection, freedom, and negotiated needs beyond monogamy.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7f36de83f2118a6d9049",
+  "error": ""
+}

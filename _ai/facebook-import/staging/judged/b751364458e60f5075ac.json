@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "renewable-energy",
+    "water-scarcity",
+    "climate-policy"
+  ],
+  "reason": "Slate analysis ties Georgetown’s switch to cost, wind/solar complementarity, and the durable water–energy mechanism, not only the 2015 announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b751364458e60f5075ac",
+  "error": ""
+}

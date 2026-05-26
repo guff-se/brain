@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "automation",
+    "economics",
+    "technology"
+  ],
+  "reason": "Economist special-report analysis of the third industrial wave—historical patterns, ICT disruption, labor displacement, and mechanisms—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c476ceceabb004e05142",
+  "error": ""
+}

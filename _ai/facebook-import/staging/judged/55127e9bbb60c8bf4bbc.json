@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A one-line national apology with no stated cause, mechanism, or durable principle—reads as a moment-bound reaction, not vault-worthy insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "55127e9bbb60c8bf4bbc",
+  "error": ""
+}

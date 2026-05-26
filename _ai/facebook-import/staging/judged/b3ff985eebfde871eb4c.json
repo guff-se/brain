@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "143-char single-sentence product gripe about 2009 Facebook feed UX—no mechanism, no multi-sentence argument, not durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b3ff985eebfde871eb4c",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf only endorses the DN piece and quotes its framing—no original analysis, principle, or durable view of his own.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "1f2b20309e370001b9eb",
+  "error": ""
+}

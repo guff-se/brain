@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "harm-principle",
+    "legislation",
+    "moral-panic"
+  ],
+  "reason": "Standalone commentary over 200 chars with a clear harm-versus-disgust mechanism for when law is justified, not just a reaction to the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "4b324928f385b584fe9f",
+  "error": ""
+}

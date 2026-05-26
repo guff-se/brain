@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and a single aphoristic sentence—clever wordplay on 'framtiden' vs the present, but no multi-sentence argument or developed mechanism.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ccb44054a23a809bab27",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a 2010 news reaction plus a slogan about bullies and secrets, not a developed causal argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1b7315c7fff45611007a",
+  "error": ""
+}

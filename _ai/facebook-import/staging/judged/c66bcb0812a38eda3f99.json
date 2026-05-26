@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "education",
+    "policy"
+  ],
+  "reason": "Under 200 characters: one ironic line contrasting petty student-aid sums with systemic collapse, without a developed mechanism or multi-sentence argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c66bcb0812a38eda3f99",
+  "error": ""
+}

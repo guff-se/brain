@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary restates the headline with a sarcastic Egmont-maffia jab and no causal or durable framing beyond a 2013 news hot take.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "64e4d3a6c7306b7c6f66",
+  "error": ""
+}

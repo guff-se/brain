@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Too short and mainly a reaction to an ephemeral comment, with no durable reasoning or mechanism.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "2fd190955fe44a62c05f",
+  "error": ""
+}

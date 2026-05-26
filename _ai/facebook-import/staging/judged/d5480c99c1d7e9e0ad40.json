@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "governance",
+    "ethics",
+    "rules"
+  ],
+  "reason": "Traffic-light metaphor plus a harm test states a durable principle about when rules bind—not mere mood or banter.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d5480c99c1d7e9e0ad40",
+  "error": ""
+}

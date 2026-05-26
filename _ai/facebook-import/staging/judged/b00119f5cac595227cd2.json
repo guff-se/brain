@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "aging",
+    "longevity",
+    "life-stages"
+  ],
+  "reason": "Jane Fonda's TED talk frames added life expectancy as a reimaginable 'third act'—durable life-design insight, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b00119f5cac595227cd2",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare 2011 friend-timeline link with a generic title and no body or commentary—no signal of durable analysis, frameworks, or expertise.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2487745112319fb233d4",
+  "error": ""
+}

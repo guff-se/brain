@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned a modern homepage, not the 2012 segment, and the intended Daily Show clip is time-bound political satire, not durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d8076bf8eb9f856459f3",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "patents",
+    "intellectual-property",
+    "tech-industry"
+  ],
+  "reason": "Wired investigative report on Rockstar Consortium explains patent-hoarding mechanics, corporate structure, and litigation strategy—durable structural context, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8c151aa182a01243894c",
+  "error": ""
+}

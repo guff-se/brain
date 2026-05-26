@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "surveillance",
+    "swedish-politics",
+    "civil-liberties"
+  ],
+  "reason": "Thin activist video metadata about a 2009–2012 FRA/SÄPO policy moment—time-bound news, not durable analysis or a reusable framework.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "63db46f5e8da54f4a9f1",
+  "error": ""
+}

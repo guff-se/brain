@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound grant call-to-action for Borderland art funding with no durable insight beyond apply-by-April-1 logistics.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "205dd5b1e6c27e8690cc",
+  "error": ""
+}

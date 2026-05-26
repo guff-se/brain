@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paywalled DN ledare: fetched body is mostly subscription copy with only one substantive sentence, too thin for a durable consumed article note.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "325679e3d5a963c89483",
+  "error": ""
+}

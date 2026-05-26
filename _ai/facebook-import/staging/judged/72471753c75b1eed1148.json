@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "democracy",
+    "militarism",
+    "civic-discourse"
+  ],
+  "reason": "Sustained argument on how blanket hero-worship of military and police undermines critical democracy and foreign-policy debate—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "72471753c75b1eed1148",
+  "error": ""
+}

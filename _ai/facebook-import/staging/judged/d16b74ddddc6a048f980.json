@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "privacy",
+    "internet-governance",
+    "wikipedia"
+  ],
+  "reason": "2014 news framing, but the piece explains RTBF mechanics and records durable arguments on history, search de-linking, and public record access.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d16b74ddddc6a048f980",
+  "error": ""
+}

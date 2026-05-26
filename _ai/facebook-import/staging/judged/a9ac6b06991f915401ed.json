@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "pseudoscience",
+    "alternative-medicine",
+    "health-misinformation"
+  ],
+  "reason": "Substantive investigative piece on live blood analysis that documents quack diagnostic claims, upselling, and refusal to engage scrutiny—durable beyond the 2014 case.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a9ac6b06991f915401ed",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.96,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [
+    "nostalgia",
+    "mobile-phones"
+  ],
+  "reason": "Short mood/quip about phones on the subway with no durable mechanism, causality, or sustained reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4e4f954eff80e5d4ca16",
+  "error": ""
+}

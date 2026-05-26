@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Satirical celebrity roast with commentary that only echoes the headline—no durable insight, mechanism, or articulated principle from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "33c0390fe3f7ff022408",
+  "error": ""
+}

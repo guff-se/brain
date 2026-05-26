@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: commentary only quotes the headline and adds a sarcastic 'surprise' with no framing, mechanism, or argument beyond the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "04554d4d0714f6d3bf39",
+  "error": ""
+}

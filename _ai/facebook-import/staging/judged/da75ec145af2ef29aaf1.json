@@ -1,15 +1,15 @@
 {
   "verdict": "save",
-  "confidence": 0.95,
+  "confidence": 0.88,
   "register_hint": "thinking",
   "kind_hint": "note",
   "tags_hint": [
-    "tribalism",
-    "polarization",
-    "epistemic-humility"
+    "political-polarization",
+    "discourse",
+    "nuance"
   ],
-  "reason": "Articulates a clear principle about discourse and tribal thinking — prioritizing understanding over victory — with specifics on *why* we default to binary categories instead of nuance. Durable insight into human nature and political behavior.",
-  "model": "claude-haiku-4-5",
+  "reason": "Develops a durable claim about label-based dismissal, left–right myth, and winning over understanding—not a mood quip.",
+  "model": "auto",
   "item_type": "own_text",
   "content_sha": "da75ec145af2ef29aaf1",
   "error": ""

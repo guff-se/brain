@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "lgbt-rights",
+    "russia"
+  ],
+  "reason": "Breaking 2013 event report on arrests and violence at one pride march, not durable analysis or principles beyond the news moment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2942af07e237fcc665dc",
+  "error": ""
+}

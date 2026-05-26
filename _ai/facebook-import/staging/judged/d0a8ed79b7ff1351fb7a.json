@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ironic one-liner about a web comic with no stated insight, principle, or analysis—social humor, not durable knowledge.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "d0a8ed79b7ff1351fb7a",
+  "error": ""
+}

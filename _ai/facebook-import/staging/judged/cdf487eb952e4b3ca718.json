@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "evidence-based-medicine",
+    "homeopathy",
+    "alternative-medicine"
+  ],
+  "reason": "Substantive SVD op-ed on homeopathy, placebo vs evidence, and public-health policy—not a fleeting news blurb.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cdf487eb952e4b3ca718",
+  "error": ""
+}

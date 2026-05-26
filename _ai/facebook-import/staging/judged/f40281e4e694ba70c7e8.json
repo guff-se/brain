@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ung Cancer campaign trailer copy and credits—awareness PSA, not durable analysis or mechanism.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "f40281e4e694ba70c7e8",
+  "error": ""
+}

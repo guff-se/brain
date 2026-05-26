@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "machine-learning",
+    "neural-networks",
+    "artificial-intelligence"
+  ],
+  "reason": "Explains how neural nets learn and visualize features, including the feedback-loop mechanism and interpretability limits—not just a 2015 news peg.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "68febd445ffe84b9f8db",
+  "error": ""
+}

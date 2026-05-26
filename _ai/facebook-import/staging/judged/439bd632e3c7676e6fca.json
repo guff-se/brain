@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "creativity",
+    "education",
+    "learning"
+  ],
+  "reason": "TED talk framing durable ideas—creativity, optimism, and learning from children—not ephemeral news or promo.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "439bd632e3c7676e6fca",
+  "error": ""
+}

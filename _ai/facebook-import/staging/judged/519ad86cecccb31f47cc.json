@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "digital-rights",
+    "intellectual-property"
+  ],
+  "reason": "Doctorow unpacks a concrete policy mechanism (legalized ransomware/active defense) and a durable pattern—IP enforcement tactics aligned with authoritarian and criminal network strategies—not mere headline news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "519ad86cecccb31f47cc",
+  "error": ""
+}

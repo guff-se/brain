@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "digital-culture",
+    "co-creation",
+    "connectivity"
+  ],
+  "reason": "Hyper Island trend analysis on connection, co-creation, and online–offline identity offers durable patterns and reflection, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2c107bd2b926253cd269",
+  "error": ""
+}

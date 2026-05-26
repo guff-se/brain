@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2011 news report on a specific Facebook moderation incident; fetched body is unrelated sidebar content and the title signals time-bound event coverage, not durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b6d886b65bd4b9eca0d2",
+  "error": ""
+}

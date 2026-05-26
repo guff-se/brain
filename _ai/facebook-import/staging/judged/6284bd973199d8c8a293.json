@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "quantum-biology",
+    "dna",
+    "physics"
+  ],
+  "reason": "Substantive science journalism on a mechanistic quantum-biology hypothesis about DNA stability, not ephemeral news or a bare link.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6284bd973199d8c8a293",
+  "error": ""
+}

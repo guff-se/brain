@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "gender",
+    "boys"
+  ],
+  "reason": "Contains durable causal claims about how school structure, feedback, maturation, and gendered expectations affect boys' outcomes beyond the specific Pisa news hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b3e577a3da45f4938ce8",
+  "error": ""
+}

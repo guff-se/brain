@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Advocacy/promotional campaign video about a time-bound surveillance push with no durable framework or substantive analysis in the metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "5c484d1faab9810b6989",
+  "error": ""
+}

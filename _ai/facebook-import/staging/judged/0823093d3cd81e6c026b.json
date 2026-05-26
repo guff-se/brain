@@ -4,11 +4,12 @@
   "register_hint": "thinking",
   "kind_hint": "note",
   "tags_hint": [
+    "criminal-justice",
     "legal-philosophy",
-    "systems-thinking"
+    "institutional-design"
   ],
-  "reason": "Durable critique of reductionist legal frameworks that oversimplify complex human problems into false binaries—a principle-level insight worth keeping.",
-  "model": "claude-haiku-4-5",
+  "reason": "Develops a durable causal claim—that the sick/healthy legal binary is a jurist-made bureaucratic fiction—not just a time-bound reaction to the Breivik trial.",
+  "model": "auto",
   "item_type": "own_text",
   "content_sha": "0823093d3cd81e6c026b",
   "error": ""

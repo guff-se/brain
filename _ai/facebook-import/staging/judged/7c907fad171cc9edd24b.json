@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "game-theory",
+    "education",
+    "cooperation"
+  ],
+  "reason": "Substantive essay on game theory, cooperation vs competition, and pedagogy—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7c907fad171cc9edd24b",
+  "error": ""
+}

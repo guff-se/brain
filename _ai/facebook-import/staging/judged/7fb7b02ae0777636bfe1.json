@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "political-satire",
+    "anti-establishment",
+    "iceland"
+  ],
+  "reason": "Wikipedia case study links crisis backlash to satirical protest politics and how a joke party became governing—not just election results.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7fb7b02ae0777636bfe1",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drone-warfare",
+    "yemen",
+    "civilian-casualties"
+  ],
+  "reason": "Substantive Guardian feature on drone-strike mechanics, misidentification, and lasting civilian harm—not a disposable news blip.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "58d1300ae97038c82e07",
+  "error": ""
+}

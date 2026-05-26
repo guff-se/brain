@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin activist clip about a specific 2012 arrest incident—event outrage, not durable analysis, framework, or structural insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "3c06f0e1c106b98c897f",
+  "error": ""
+}

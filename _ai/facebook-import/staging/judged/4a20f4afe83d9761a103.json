@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.68,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "youtube",
+    "metrics",
+    "viewcount-fraud"
+  ],
+  "reason": "Primarily a time-bound news report about YouTube removing view counts, with limited durable framework or mechanism beyond the incident.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4a20f4afe83d9761a103",
+  "error": ""
+}

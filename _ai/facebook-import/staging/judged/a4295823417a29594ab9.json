@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "bechdel-test",
+    "gender-representation",
+    "film"
+  ],
+  "reason": "Feminist Frequency applies a durable representation framework (Bechdel Test) with analysis and extensions, not ephemeral entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "a4295823417a29594ab9",
+  "error": ""
+}

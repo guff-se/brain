@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "pensions",
+    "self-reliance",
+    "institutional-trust"
+  ],
+  "reason": "Crisp, durable principle: pensions as industrial-era eschatology and a rejection of promised future money in favor of self and kin.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1aa1db36abc27b60ee77",
+  "error": ""
+}

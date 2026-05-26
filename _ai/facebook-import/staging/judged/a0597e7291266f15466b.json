@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "procrastination",
+    "psychology",
+    "behavior"
+  ],
+  "reason": "Tim Urban's long-form essay explains procrastination with durable mental models (monkey, panic monster, dark playground), not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a0597e7291266f15466b",
+  "error": ""
+}

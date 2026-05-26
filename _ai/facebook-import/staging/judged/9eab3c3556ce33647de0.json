@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.7,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "tim-minchin",
+    "religion",
+    "atheism"
+  ],
+  "reason": "The provided content is mostly an upload/merch/premiere intro and the durable philosophical substance (lyrics/argument) isn’t evidenced in the input.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "9eab3c3556ce33647de0",
+  "error": ""
+}

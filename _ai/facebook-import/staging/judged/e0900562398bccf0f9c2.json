@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "digital-economy",
+    "media-economics",
+    "value-exchange"
+  ],
+  "reason": "Named expert talk on durable structural themes—abundance, 'free' culture, and value exchange—not generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "e0900562398bccf0f9c2",
+  "error": ""
+}

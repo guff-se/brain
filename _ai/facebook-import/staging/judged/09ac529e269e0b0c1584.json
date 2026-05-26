@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "labor-market",
+    "aging-workforce",
+    "sweden"
+  ],
+  "reason": "Beyond 2012 survey stats, it explains structural patterns—pension culture, age fixation, and retention strategy debate—that stay relevant for Swedish work-life.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "09ac529e269e0b0c1584",
+  "error": ""
+}

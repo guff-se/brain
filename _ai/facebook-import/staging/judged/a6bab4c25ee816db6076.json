@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "labor-market",
+    "employment-policy",
+    "seniority"
+  ],
+  "reason": "Standalone commentary over 200 chars with a structured causal critique of last-in-first-out rules, not a headline reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "a6bab4c25ee816db6076",
+  "error": ""
+}

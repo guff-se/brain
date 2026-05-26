@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Looks like a consultancy homepage/marketing copy (no durable analysis or substance to preserve).",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a2bc05e9a3eef276858c",
+  "error": ""
+}

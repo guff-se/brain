@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-ethics",
+    "impartiality",
+    "public-broadcasting"
+  ],
+  "reason": "Substantive op-ed on neutrality, moral stance vs. public-service rules, and how balance emerges from many voices—not a fleeting news blurb.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f50e2a9960062afd73a6",
+  "error": ""
+}

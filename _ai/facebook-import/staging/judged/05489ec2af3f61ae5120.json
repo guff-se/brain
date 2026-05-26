@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a time-bound exposé/news report about named individuals’ anonymous hateful comments, with no durable framework or analysis to retain.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "05489ec2af3f61ae5120",
+  "error": ""
+}

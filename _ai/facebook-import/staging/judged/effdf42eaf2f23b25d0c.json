@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "copyright",
+    "intellectual-property",
+    "policy"
+  ],
+  "reason": "Crisp first-person principle—copyright as ongoing constraint and call for total reform—worth keeping as a durable stance despite brevity.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "effdf42eaf2f23b25d0c",
+  "error": ""
+}

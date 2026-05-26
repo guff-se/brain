@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Truncated fetch is only Fathom project teasers with no MacRecipes body or durable analysis—an interactive viz link, not vault-worthy substance.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8d88e96ff2b09153cbc5",
+  "error": ""
+}

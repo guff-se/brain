@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "universal-basic-income",
+    "welfare-policy",
+    "automation"
+  ],
+  "reason": "Substantive op-ed on basic income with causal claims, historical pilots, automation context, and financing logic—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9eab267125739a7e9e90",
+  "error": ""
+}

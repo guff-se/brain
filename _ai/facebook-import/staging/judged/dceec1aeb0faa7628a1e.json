@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "internet-use",
+    "sweden",
+    "education"
+  ],
+  "reason": "The page reads like a general hub/promo for updated internet-habit reports with little enduring mechanism or analysis in the shared content.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "dceec1aeb0faa7628a1e",
+  "error": ""
+}

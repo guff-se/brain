@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.84,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "labor-market",
+    "precarity",
+    "sweden"
+  ],
+  "reason": "Durable, experiential analysis of structural job insecurity and its life consequences rather than time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "740e45f8257dd13d3d65",
+  "error": ""
+}

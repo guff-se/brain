@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "harm-reduction",
+    "public-health"
+  ],
+  "reason": "Substantive op-ed with outcome-based policy critique, causal mechanisms, and concrete reform proposals—not episodic news or promo.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "333d42121fe8598492a1",
+  "error": ""
+}

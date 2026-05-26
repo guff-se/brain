@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland",
+    "burning-man"
+  ],
+  "reason": "Under 200 chars and purely a 2014 registration call-to-action with no reasoning or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "706c70f1deb899524a8d",
+  "error": ""
+}

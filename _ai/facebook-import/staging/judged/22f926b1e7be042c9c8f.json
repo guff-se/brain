@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars with only one aphoristic sentence—a valid probabilistic intuition, but not the multi-sentence causal argument the strict own_text exception requires.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "22f926b1e7be042c9c8f",
+  "error": ""
+}

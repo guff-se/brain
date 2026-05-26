@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "guerrilla-marketing",
+    "media-manipulation",
+    "authenticity"
+  ],
+  "reason": "Sustained feature on Studio Total's stunt-as-storytelling model, media amplification mechanics, and lasting questions about authenticity and public trust—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "88d590aea5be0d095a8e",
+  "error": ""
+}

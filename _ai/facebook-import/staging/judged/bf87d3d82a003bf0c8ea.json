@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone promotional hype for a 2011 conference with no reasoning chain, well under the 200-character standalone threshold.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "bf87d3d82a003bf0c8ea",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland",
+    "burning-man"
+  ],
+  "reason": "Time-bound registration promo under 200 chars with no reasoning or durable insight—default skip for own_text.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "55a8640c45fffd4bb9c2",
+  "error": ""
+}

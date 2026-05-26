@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin design showcase with no analysis, principles, or durable insight—only describes a novelty garment and DIY link.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "351fa8a5a08388211b1f",
+  "error": ""
+}

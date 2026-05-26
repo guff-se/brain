@@ -13,7 +13,7 @@ enrichment: "ok"
 lang: "en"
 tags: [burning-man, spirituality, community]
 status: "reference"
-ingested: "2026-05-24"
+ingested: "2026-05-26"
 created: "2015-09-12"
 ---
 

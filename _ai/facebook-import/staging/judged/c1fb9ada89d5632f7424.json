@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf's note is brief social praise with no analysis; the link is a time-bound event recap whose substance he did not engage.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "c1fb9ada89d5632f7424",
+  "error": ""
+}

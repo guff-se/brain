@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-line endorsement of a comedy sketch about unemployment—entertainment share, not durable analysis or a non-trivial principle.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "e6194478768c483d016a",
+  "error": ""
+}

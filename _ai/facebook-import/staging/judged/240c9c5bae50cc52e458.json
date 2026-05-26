@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.91,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-politics",
+    "post-truth",
+    "polarization"
+  ],
+  "reason": "Roberts explains durable mechanisms—media gatekeeper impotence, asymmetric post-truth politics, and parallel right-wing media infrastructure—not just a time-bound Trump news beat.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "240c9c5bae50cc52e458",
+  "error": ""
+}

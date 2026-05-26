@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "ritual",
+    "overstimulation"
+  ],
+  "reason": "Durable reflective essay framing Burning Man/ceremony as a mechanism for being broken open to stress, overwhelm, and collective modernity.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2787b83d31d4a1cfaf24",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "consumer-culture",
+    "social-inequality",
+    "sociology"
+  ],
+  "reason": "Bauman-style sociological essay on consumer capitalism and defective consumers—frameworks (minefield vs revolution, shopping as identity) that outlast the 2011 riot news hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "dd4be9b695a27d48613b",
+  "error": ""
+}

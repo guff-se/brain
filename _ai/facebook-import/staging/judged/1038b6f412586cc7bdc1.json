@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "physics",
+    "relativity",
+    "time"
+  ],
+  "reason": "NPR explainer on atomic clocks, gravity, and relativity with durable mechanisms—not ephemeral news or a thin share.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1038b6f412586cc7bdc1",
+  "error": ""
+}

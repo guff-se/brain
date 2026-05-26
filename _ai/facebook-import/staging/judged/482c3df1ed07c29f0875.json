@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "online-culture",
+    "accountability",
+    "language"
+  ],
+  "reason": "Durable first-person essay linking everyday forum language to structural racism/sexism and personal accountability, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "482c3df1ed07c29f0875",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A bare 'Watch this!' call-to-action has no durable idea, principle, or commentary to preserve.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0040f923b184823980b5",
+  "error": ""
+}

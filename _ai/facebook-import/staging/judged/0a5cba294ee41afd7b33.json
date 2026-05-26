@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "DN ledare on a Feb 2014 Stockholm landsting valkampanj flap—sharp punditry on hypocrisy and media pile-on, but anchored to that news cycle, not a durable framework.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0a5cba294ee41afd7b33",
+  "error": ""
+}

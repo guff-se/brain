@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched body is a 2015 closure announcement and editorial farewell for Magasinet Neo—time-bound news and institutional reflection, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "149c9c6d27445777db05",
+  "error": ""
+}

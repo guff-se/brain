@@ -9,9 +9,9 @@ source_id: "fb-1359920206"
 fb_url: "http://www.youtube.com/watch?v=4lrdH5_8tZ4"
 provenance: "extracted"
 lang: "sv"
-tags: [consciousness, philosophy, self]
+tags: [consciousness, identity, philosophy-of-mind]
 status: "reference"
-ingested: "2026-05-25"
+ingested: "2026-05-26"
 created: "2013-02-03"
 ---
 

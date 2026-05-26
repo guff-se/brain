@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.73,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "climate-change",
+    "fossil-fuels",
+    "arctic-oil-drilling"
+  ],
+  "reason": "It is primarily an advocacy petition tied to a specific target and moment, with limited durable framework beyond reiterating common climate-and-risk claims.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e58758c33d270c807ff2",
+  "error": ""
+}

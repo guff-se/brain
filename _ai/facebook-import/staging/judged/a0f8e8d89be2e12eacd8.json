@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "child-development",
+    "parenting",
+    "free-play"
+  ],
+  "reason": "SvD column argues a durable mechanism—unstructured play vs overscheduled childhood—with research hooks and class/policy context, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a0f8e8d89be2e12eacd8",
+  "error": ""
+}

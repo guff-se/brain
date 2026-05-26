@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "political-ethics",
+    "institutional-trust",
+    "revolving-door"
+  ],
+  "reason": "Substantive opinion analysis of legal-vs-moral gaps, revolving-door incentives, and why stricter rules are needed when self-regulation erodes public trust—not a time-bound news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "35180ff9cbd876fce889",
+  "error": ""
+}

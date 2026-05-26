@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Under-200-char event invite and logistics with no argument or durable insight; default skip for own_text.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "bebfaad7a86f0b10b73d",
+  "error": ""
+}

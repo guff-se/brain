@@ -8,9 +8,9 @@ source: "facebook"
 source_id: "fb-1334766643"
 provenance: "extracted"
 lang: "sv"
-tags: [legal-philosophy, systems-thinking]
+tags: [criminal-justice, legal-philosophy, institutional-design]
 status: "reference"
-ingested: "2026-05-25"
+ingested: "2026-05-26"
 created: "2012-04-18"
 ---
 

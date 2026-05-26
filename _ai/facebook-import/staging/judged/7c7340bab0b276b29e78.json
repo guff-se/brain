@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Mostly a time-bound announcement and light reaction with no durable reasoning beyond noting the event.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7c7340bab0b276b29e78",
+  "error": ""
+}

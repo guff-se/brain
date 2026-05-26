@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "biohacking",
+    "citizen-science",
+    "diy-biology"
+  ],
+  "reason": "TED talk framing personal biotech and citizen DIY labs as durable ideas about democratizing science, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d01411f1037a474e8177",
+  "error": ""
+}

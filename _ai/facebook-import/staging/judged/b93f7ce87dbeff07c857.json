@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters: a sarcastic one-off consumer gripe about Com Hem billing, not a developed causal claim or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b93f7ce87dbeff07c857",
+  "error": ""
+}

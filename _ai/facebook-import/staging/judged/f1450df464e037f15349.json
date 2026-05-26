@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "internet-freedom",
+    "democracy",
+    "censorship"
+  ],
+  "reason": "Op-ed ties 2011 uprisings to a durable pattern—power holders fear uncontrolled communication and seek subtle or blunt internet control—with causal reasoning beyond the news moment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f1450df464e037f15349",
+  "error": ""
+}

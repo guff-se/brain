@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "social-mobility",
+    "inequality"
+  ],
+  "reason": "Paired commentary only restates the headline with a sarcastic quip and adds no framing, mechanism, or reasoning beyond the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "d4a03b0714dfdb3bd80b",
+  "error": ""
+}

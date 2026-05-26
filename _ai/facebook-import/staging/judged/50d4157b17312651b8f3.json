@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin project-demo metadata for a one-off invention announcement, not durable analysis or reusable insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "50d4157b17312651b8f3",
+  "error": ""
+}

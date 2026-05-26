@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "rhetoric",
+    "war",
+    "politics"
+  ],
+  "reason": "Crisp moral principle about metaphorical 'war' talk in Europe versus respect for people in real armed conflict.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8479496519d35b6b821d",
+  "error": ""
+}

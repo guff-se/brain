@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "digital-rights",
+    "streaming-economics"
+  ],
+  "reason": "Substantial opinion analysis of Pirate Bay, IPRED, and streaming with durable mechanisms on power, enforcement, and cultural distribution—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f37ca95eab1dacd85ed6",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.99,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Title is adult-site SEO spam, not durable analysis; domain likely compromised or share is junk.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "262de9d9047582182db0",
+  "error": ""
+}

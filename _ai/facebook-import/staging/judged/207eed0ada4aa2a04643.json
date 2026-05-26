@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Substantive 2010 news report on a specific 2001–2006 rendition scandal and diplomatic episode, not durable frameworks or principles worth a standalone vault note.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "207eed0ada4aa2a04643",
+  "error": ""
+}

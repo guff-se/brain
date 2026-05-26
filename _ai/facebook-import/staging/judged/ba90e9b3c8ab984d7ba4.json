@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters with only one quip-like sentence—no multi-sentence argument, mechanism, or durable insight beyond a social warning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ba90e9b3c8ab984d7ba4",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched text is a time-bound product-integration notice and app-store links, not durable analysis or a substantive topic description.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "f5f90778aadca65d9c19",
+  "error": ""
+}

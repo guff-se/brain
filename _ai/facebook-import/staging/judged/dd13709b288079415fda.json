@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "courage",
+    "agency",
+    "moral-courage"
+  ],
+  "reason": "A crisp principle about doing necessary dangerous things to remain fully human—signals Gustaf's values even as a quoted aphorism.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "dd13709b288079415fda",
+  "error": ""
+}

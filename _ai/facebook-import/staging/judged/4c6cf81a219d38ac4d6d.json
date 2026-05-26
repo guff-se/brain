@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "world-cup",
+    "brazil",
+    "sports-politics"
+  ],
+  "reason": "Danish documentary on the social and human cost of mega-events is structural analysis, not entertainment or a time-bound reaction.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "4c6cf81a219d38ac4d6d",
+  "error": ""
+}

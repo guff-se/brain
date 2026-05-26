@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "work",
+    "burnout",
+    "political-economy"
+  ],
+  "reason": "Durable, reflective analysis of the work/overwork vs unemployment system dynamic and the value of leisure, beyond time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3b198ad28b3756672e4b",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a one-line mood endorsement with no argument, mechanism, or durable insight beyond linking his blog.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a02c7b2a2603bd11e8ff",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched page is Tidningen Näringslivet promo/rebrand copy, not the 2012 article—no durable analysis, frameworks, or substance.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6cd5743d05ba11a9e93d",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Stand-up comedy excerpt with thin metadata—Goldacre signals science skepticism, but entertainment format offers no durable thesis or analysis to compound.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "48c2f41db0cdb0cef2b5",
+  "error": ""
+}

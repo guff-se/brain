@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "epistemology",
+    "public-discourse",
+    "expertise"
+  ],
+  "reason": "Durable philosophical argument distinguishing opinions from arguable claims and expert vs. amateur discourse, with mechanisms that outlast the 2014 news examples.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "195f90a1d1ee78f935e3",
+  "error": ""
+}

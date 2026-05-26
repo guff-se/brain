@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Robert Fisk op-ed is substantive but anchored to March 2015 Netanyahu-Congress news cycle, so its value is mostly ephemeral event commentary rather than durable framework.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4633c11bd88b3f417000",
+  "error": ""
+}

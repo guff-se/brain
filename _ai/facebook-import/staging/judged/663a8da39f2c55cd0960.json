@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional Flyboard product video and distributor marketing copy, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "663a8da39f2c55cd0960",
+  "error": ""
+}

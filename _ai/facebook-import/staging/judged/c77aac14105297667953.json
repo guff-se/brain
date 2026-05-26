@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "welfare-policy",
+    "labor-market",
+    "swedish-politics"
+  ],
+  "reason": "Axess essay title signals durable analysis of Sweden's arbetslinjen policy, not ephemeral news, despite missing article body.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c77aac14105297667953",
+  "error": ""
+}

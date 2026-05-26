@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2013 SvD policy news reporting a specific EU vote on aviation ETS—time-bound event coverage, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f7c40bc50adb9cf712aa",
+  "error": ""
+}

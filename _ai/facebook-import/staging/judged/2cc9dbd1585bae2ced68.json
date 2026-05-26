@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "anger",
+    "violence",
+    "reframing"
+  ],
+  "reason": "Two-sentence reframe with explicit mechanism—anger handling, not the medium—clear enough to meet the under-200 exception.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "2cc9dbd1585bae2ced68",
+  "error": ""
+}

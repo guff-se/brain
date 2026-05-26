@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Witty two-line irony on a 2012 news item, not a developed claim about religion, evidence, or mechanisms worth retaining.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ff1fa467f1777edf42b1",
+  "error": ""
+}

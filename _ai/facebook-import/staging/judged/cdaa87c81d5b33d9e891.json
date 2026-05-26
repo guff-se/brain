@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch is Aftonbladet TV promo boilerplate, not article substance; title reads as 2014 sensational TV stunt coverage, not durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cdaa87c81d5b33d9e891",
+  "error": ""
+}

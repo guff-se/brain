@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "ai",
+    "writing",
+    "media-literacy"
+  ],
+  "reason": "NYT opinion interactive on telling human from algorithmic writing is durable AI/media-literacy substance, not time-bound news, despite thin fetch.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "98fe82af3cebc52a86f1",
+  "error": ""
+}

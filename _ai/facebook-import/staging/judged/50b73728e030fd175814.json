@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "spirituality",
+    "music",
+    "cultural-criticism"
+  ],
+  "reason": "Lokko’s essay argues a durable thesis—spiritual seeking as core to serious art and faith as artists’ last resort—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "50b73728e030fd175814",
+  "error": ""
+}

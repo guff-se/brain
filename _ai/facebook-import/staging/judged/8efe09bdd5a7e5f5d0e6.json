@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "3d-printing",
+    "digital-fabrication",
+    "design"
+  ],
+  "reason": "It frames a durable “post-digital” mindset shift in fabrication and backs it with concrete mechanisms and examples beyond a time-bound announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8efe09bdd5a7e5f5d0e6",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "work-culture",
+    "consumerism",
+    "labor"
+  ],
+  "reason": "David Cain’s essay ties the 8-hour workday to historical labor reform, productivity paradox, and consumer-economy mechanisms—durable causal analysis, not a time-bound news item.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "505149eaa0122c48a939",
+  "error": ""
+}

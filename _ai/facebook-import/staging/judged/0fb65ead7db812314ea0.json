@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "entrepreneurship",
+    "startups",
+    "accelerators"
+  ],
+  "reason": "Kauffman synthesis on incubator/accelerator effectiveness is durable evidence-based analysis, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0fb65ead7db812314ea0",
+  "error": ""
+}

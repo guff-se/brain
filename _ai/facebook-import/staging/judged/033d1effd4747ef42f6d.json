@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "monarchy",
+    "equality",
+    "sweden"
+  ],
+  "reason": "Crisp ironic stance on hereditary privilege and birth inequality, not mere event chatter.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "033d1effd4747ef42f6d",
+  "error": ""
+}

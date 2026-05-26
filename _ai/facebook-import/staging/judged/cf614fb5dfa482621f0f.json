@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "whistleblowing",
+    "vietnam-war",
+    "government-secrecy"
+  ],
+  "reason": "Wikipedia article on a landmark historical leak with durable analysis of government deception, secrecy, and accountability—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cf614fb5dfa482621f0f",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2011 breaking-news arrest story (UK riots/Facebook posts), not durable analysis; fetch returned only ZDNet category chrome, not article substance.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fd07ee24ddd98c164f52",
+  "error": ""
+}

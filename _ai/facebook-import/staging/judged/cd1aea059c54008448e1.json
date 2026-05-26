@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "government-surveillance",
+    "whistleblowing",
+    "journalism"
+  ],
+  "reason": "Substantial NYT Magazine reporting on Snowden, surveillance programs, and secure journalism—durable civic and historical substance, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cd1aea059c54008448e1",
+  "error": ""
+}

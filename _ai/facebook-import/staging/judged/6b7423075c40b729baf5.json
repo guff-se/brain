@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ephemeral reaction to a 2016 Daily Show moment—no principle, analysis, or durable knowledge beyond social banter.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6b7423075c40b729baf5",
+  "error": ""
+}

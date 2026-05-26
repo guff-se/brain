@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Rhyming social quip about boring historical novels vs modern partying—no mechanism, durable insight, or reasoning chain.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b41faebda1d66e8eb2cf",
+  "error": ""
+}

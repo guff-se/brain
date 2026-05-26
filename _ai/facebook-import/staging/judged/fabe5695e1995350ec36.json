@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gig-economy",
+    "labor-market",
+    "economic-inequality"
+  ],
+  "reason": "The article lays out a durable mechanism for how software/platforms transform jobs into an “ephemeral workforce” and its implications for inequality and mobility.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fabe5695e1995350ec36",
+  "error": ""
+}

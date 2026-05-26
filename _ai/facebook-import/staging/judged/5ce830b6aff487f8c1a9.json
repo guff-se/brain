@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "automation",
+    "labor-market",
+    "workforce-policy"
+  ],
+  "reason": "A durable skeptical stance on mass tech-reskilling as a realistic answer to large-scale displacement, not just a news reaction.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5ce830b6aff487f8c1a9",
+  "error": ""
+}

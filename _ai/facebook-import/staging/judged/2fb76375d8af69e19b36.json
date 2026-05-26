@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "psychiatry",
+    "medicalization",
+    "mental-health"
+  ],
+  "reason": "Substantial expert argument on diagnostic inflation, medicalizing difference, and psychiatry/pharma incentives—durable framework beyond the 2013 DSM-5 news hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2fb76375d8af69e19b36",
+  "error": ""
+}

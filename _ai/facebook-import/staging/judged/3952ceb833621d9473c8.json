@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "investment-funds",
+    "financial-industry",
+    "consumer-protection"
+  ],
+  "reason": "Cervenka's column explains the bluff-fund mechanism, industry incentives, and fiduciary failure—not just a one-off news event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3952ceb833621d9473c8",
+  "error": ""
+}

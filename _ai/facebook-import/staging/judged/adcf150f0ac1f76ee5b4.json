@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical Slack/spreadsheet signup for an event—no durable ideas or reasoning, and under 200 chars.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "adcf150f0ac1f76ee5b4",
+  "error": ""
+}

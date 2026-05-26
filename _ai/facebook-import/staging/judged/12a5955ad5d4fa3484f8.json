@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2015 Expressen exposé on a specific Öckerö property scandal—investigative news tied to named people and dates, not durable analysis or principles worth keeping.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "12a5955ad5d4fa3484f8",
+  "error": ""
+}

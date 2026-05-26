@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only a parked-domain placeholder with no article body, and the generic title gives no durable substance to judge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "95a7b4ee502a65690a8c",
+  "error": ""
+}

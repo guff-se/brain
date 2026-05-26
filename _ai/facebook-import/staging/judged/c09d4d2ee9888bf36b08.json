@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "generational-politics",
+    "sweden",
+    "inequality"
+  ],
+  "reason": "Long-form generational analysis with causal framing, statistics, and structural claims about welfare, labor, and health—not ephemeral news or a link stub.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c09d4d2ee9888bf36b08",
+  "error": ""
+}

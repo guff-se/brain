@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Regional 2015 news about one local façade dispute—event report, not durable analysis or reusable frameworks.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7fb1854d4d10ce139dc4",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin YouTube title is a time-bound protest clip, not durable analysis or a structural topic worth keeping.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "d0db6ec3519fdc842f14",
+  "error": ""
+}

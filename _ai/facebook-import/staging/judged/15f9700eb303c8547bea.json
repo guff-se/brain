@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "intellectual-property",
+    "cognition"
+  ],
+  "reason": "Under 200 characters with a single undeveloped opinion—no multi-sentence argument, mechanism, or causal reasoning beyond calling the idea bizarre.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "15f9700eb303c8547bea",
+  "error": ""
+}

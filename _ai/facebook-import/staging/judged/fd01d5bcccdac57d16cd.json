@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "empathy",
+    "social-change",
+    "rsa"
+  ],
+  "reason": "Named expert RSA talk with a clear framework title on empathy as durable practice, not ephemeral or entertainment content.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "fd01d5bcccdac57d16cd",
+  "error": ""
+}

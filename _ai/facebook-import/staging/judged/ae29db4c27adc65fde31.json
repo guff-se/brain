@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired share only repeats the article's statistic twice with no added framing, mechanism, or argument from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ae29db4c27adc65fde31",
+  "error": ""
+}

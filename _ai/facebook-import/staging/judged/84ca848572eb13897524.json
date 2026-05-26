@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "electromagnetic-radiation",
+    "media-criticism",
+    "telecom"
+  ],
+  "reason": "Dated debate polemic with anecdotal harm claims and telecom alarmism, not rigorous or durable analysis worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "84ca848572eb13897524",
+  "error": ""
+}

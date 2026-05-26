@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "criminal-justice",
+    "compulsory-treatment",
+    "sweden"
+  ],
+  "reason": "Op-ed pairs personal testimony with a durable structural argument about asymmetric mandatory treatment in Swedish kriminalvård versus psychiatric and social tvångsvård.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3bab38f3bf6bd7477935",
+  "error": ""
+}

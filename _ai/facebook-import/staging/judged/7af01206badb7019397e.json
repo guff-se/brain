@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Launch-day news on Model 3 preorder counts—time-bound event reporting with no analysis, principle, or Gustaf commentary.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7af01206badb7019397e",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary only contrasts arbitrary tariff percentages and ends with a quip—no mechanism, principle, or durable argument despite meeting length.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "0db30aed870b73af03ed",
+  "error": ""
+}

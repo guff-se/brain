@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is only a one-line hot take plus a quoted passage—no framing, mechanism, or reasoning beyond reacting to the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "9b9bc4240055909a6ed0",
+  "error": ""
+}

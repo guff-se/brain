@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary: Gustaf's own reflection is ~145 chars, tentative, and does not develop a causal or principled argument beyond quoting the guide and musing that rules may not matter.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "228486c9b176a56b55e7",
+  "error": ""
+}

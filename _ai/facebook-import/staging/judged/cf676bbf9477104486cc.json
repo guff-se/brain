@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "racism",
+    "immigration",
+    "journalism"
+  ],
+  "reason": "Deep investigative narrative on racist harassment and institutional failure (school, police) with lasting relevance beyond the 2010 news event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cf676bbf9477104486cc",
+  "error": ""
+}

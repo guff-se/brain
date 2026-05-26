@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only a crowd-sourcing question—no developed argument, mechanism, or durable insight beyond asking for ideas.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "bb397513533406b1dce4",
+  "error": ""
+}

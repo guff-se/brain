@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "nutrition",
+    "gut-health",
+    "science"
+  ],
+  "reason": "Peer-reviewed trial with durable causal findings on NCGS vs FODMAPs, not ephemeral news or a bare link.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0d94ba84f1ce444e67b6",
+  "error": ""
+}

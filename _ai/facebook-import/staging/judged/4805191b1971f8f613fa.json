@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "immigration-policy",
+    "australia",
+    "refugees"
+  ],
+  "reason": "Time-bound 2014 news report on a viral government poster, not durable analysis of mechanisms or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4805191b1971f8f613fa",
+  "error": ""
+}

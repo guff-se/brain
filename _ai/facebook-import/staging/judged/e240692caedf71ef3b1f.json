@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is only a must-watch plug and Eventbrite invite for a live show—no framing, mechanism, or durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "e240692caedf71ef3b1f",
+  "error": ""
+}

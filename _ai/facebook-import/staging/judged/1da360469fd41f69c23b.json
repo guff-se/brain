@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "refugee-policy",
+    "austerity",
+    "denmark"
+  ],
+  "reason": "Jensen's essay analyzes dehumanizing refugee rhetoric, austerity, and EU politics with durable causal framing, not a disposable news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1da360469fd41f69c23b",
+  "error": ""
+}

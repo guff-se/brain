@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Fetch returned only GDPR boilerplate; URL/title point to a 2014 drug-death statistic, not verifiable durable analysis or mechanism.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e175f78e508e853146a3",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf's comment is only a thank-you with no view or principle; the link is 2015 tabloid news about a celebrity leaving a party, not durable knowledge worth keeping.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "fbcdc1d2cb90f9cadfe1",
+  "error": ""
+}

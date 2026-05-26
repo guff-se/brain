@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "political-philosophy",
+    "economics",
+    "ayn-rand"
+  ],
+  "reason": "A durable ideological argument about value creation, voluntary trade, and the moral framing of wealth (not time-bound news).",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "458f521521ca4729307d",
+  "error": ""
+}

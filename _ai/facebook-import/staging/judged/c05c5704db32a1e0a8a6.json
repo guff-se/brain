@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned Metro category/homepage headlines, not the linked Maker Faire piece; visible text is ephemeral lifestyle/entertainment with no durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c05c5704db32a1e0a8a6",
+  "error": ""
+}

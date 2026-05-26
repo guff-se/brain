@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Short event invite for Makerbeer at Makerspark—logistical, time-bound, no argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a2fe08fd9a196aa75596",
+  "error": ""
+}

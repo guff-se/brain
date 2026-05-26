@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "computing-education",
+    "school-curriculum",
+    "digital-literacy"
+  ],
+  "reason": "Beyond a 2014 policy headline, it explains why computing belongs in school (literacy, power, thinking skills) with durable expert framing from Simon Peyton Jones.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "87bf9b7e762b010992f2",
+  "error": ""
+}

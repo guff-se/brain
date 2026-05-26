@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "monogamy",
+    "social-norms",
+    "relationships"
+  ],
+  "reason": "Standalone commentary over 200 chars: analogical critique, empirical challenge to norm-justification, and a definitional claim about monogamy vs serial partnership.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "3c01823395ebea1e6e74",
+  "error": ""
+}

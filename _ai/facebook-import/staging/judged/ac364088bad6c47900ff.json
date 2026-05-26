@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Viral meme Tumblr with no analysis or durable substance; fetched body is only post dates.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ac364088bad6c47900ff",
+  "error": ""
+}

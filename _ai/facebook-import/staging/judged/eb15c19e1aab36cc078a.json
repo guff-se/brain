@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "free-speech",
+    "constitutional-law",
+    "sweden"
+  ],
+  "reason": "Falkvinge's breakdown of three conditional speech models and why they invert freedom-of-speech principles is durable policy analysis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "eb15c19e1aab36cc078a",
+  "error": ""
+}

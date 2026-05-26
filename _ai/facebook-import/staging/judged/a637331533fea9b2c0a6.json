@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A 2012 Wired news piece centered on one hobbyist's printed receiver and lobby quotes, not durable analysis of mechanisms or policy.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a637331533fea9b2c0a6",
+  "error": ""
+}

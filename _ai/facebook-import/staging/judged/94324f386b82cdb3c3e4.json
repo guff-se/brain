@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "relationships",
+    "values",
+    "personal-development"
+  ],
+  "reason": "Manson essay with durable frameworks on love vs compatibility, respect, and unrealistic relationship expectations—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "94324f386b82cdb3c3e4",
+  "error": ""
+}

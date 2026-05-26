@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "journalism",
+    "media-consolidation",
+    "public-discourse"
+  ],
+  "reason": "Linderborg’s column links click-driven local desk cuts to Bonnier consolidation and democratic discourse, with a concrete mechanism (headline experiment), not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f1c809c88cfa5c7b7880",
+  "error": ""
+}

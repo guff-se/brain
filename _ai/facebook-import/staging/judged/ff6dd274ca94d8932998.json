@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin YouTube metadata—a novelty explainer title with no description signaling durable analysis, framework, or named expertise.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "ff6dd274ca94d8932998",
+  "error": ""
+}

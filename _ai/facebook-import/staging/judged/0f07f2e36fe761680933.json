@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a one-line nudge to apply to Entreprenörsjakten with a link, no argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0f07f2e36fe761680933",
+  "error": ""
+}

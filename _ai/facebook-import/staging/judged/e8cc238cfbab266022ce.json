@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "news",
+    "promotion",
+    "social-story"
+  ],
+  "reason": "A time-bound promotional campaign/news profile with no durable mechanism or lasting insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e8cc238cfbab266022ce",
+  "error": ""
+}

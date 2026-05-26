@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a sarcastic hot take on a 2010 news event with no causal argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6955da8d5d4f4041d41a",
+  "error": ""
+}

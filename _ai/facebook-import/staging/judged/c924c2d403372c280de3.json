@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.83,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Paired commentary that stays a brief market/hot-take reaction without durable mechanism beyond the article headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "c924c2d403372c280de3",
+  "error": ""
+}

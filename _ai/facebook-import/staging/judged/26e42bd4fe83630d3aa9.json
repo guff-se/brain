@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a brief endorsement with no added reasoning or durable framing beyond the article’s premise.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "26e42bd4fe83630d3aa9",
+  "error": ""
+}

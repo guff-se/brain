@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Video metadata is affiliate-marketing spam for a survival guide, not durable analysis or a substantive topic framing.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "95874aa93770a2115bb2",
+  "error": ""
+}

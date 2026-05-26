@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired share: Gustaf only pastes a generator sample line with no added framing, mechanism, or argument beyond the linked tool.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ebfec9666531d270bc62",
+  "error": ""
+}

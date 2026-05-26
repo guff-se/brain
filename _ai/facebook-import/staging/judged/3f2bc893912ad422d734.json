@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man",
+    "gotland"
+  ],
+  "reason": "Under 200 chars and purely a time-bound event invite with no reasoning or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "3f2bc893912ad422d734",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "epistemology",
+    "postmodernism",
+    "public-debate"
+  ],
+  "reason": "DN Debatt op-ed with a durable thesis on postmodern truth relativism and moral foundations; paywall limits body but title, dek, and authors signal substantive analysis, not breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8fde521b466722989d4c",
+  "error": ""
+}

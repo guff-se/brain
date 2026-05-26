@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: ~130 chars state a policy conclusion (economics over safety/storage) without a reasoning chain beyond what the nuclear-pricing article already covers.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7d5abbbb00935b22d414",
+  "error": ""
+}

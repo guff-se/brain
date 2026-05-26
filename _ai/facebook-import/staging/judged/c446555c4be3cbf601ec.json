@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound 2015 news report on a specific UN appointment outrage, not durable analysis or principles worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c446555c4be3cbf601ec",
+  "error": ""
+}

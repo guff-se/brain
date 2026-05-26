@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "patriarchy",
+    "gender",
+    "masculinity"
+  ],
+  "reason": "A crisp, non-trivial claim about patriarchy and gendered oppression that states Gustaf's analytical position, not mere event or banter.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c1bfdf551b0e93091255",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "burning-man",
+    "gifting",
+    "playa-culture"
+  ],
+  "reason": "Video metadata frames a durable explainer on Burning Man's gifting principle and how to understand it, not ephemeral news or generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "395ef4d50dc063640638",
+  "error": ""
+}

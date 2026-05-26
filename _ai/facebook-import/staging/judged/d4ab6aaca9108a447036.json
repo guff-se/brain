@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "entrepreneurship",
+    "resilience",
+    "vulnerability"
+  ],
+  "reason": "Substantive essay on why passion intensifies setback pain, entrepreneurial silence around failure, and a durable five-step coping framework—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d4ab6aaca9108a447036",
+  "error": ""
+}

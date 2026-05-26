@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2015 regional business profile with dated company metrics and success-story journalism, not durable mechanisms or analysis worth keeping as a vault note.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ac130cb4649ef0fea1c4",
+  "error": ""
+}

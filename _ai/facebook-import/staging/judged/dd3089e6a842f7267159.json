@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary (~97 chars) restates the article's grievance with a stat but adds no framing or reasoning beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "dd3089e6a842f7267159",
+  "error": ""
+}

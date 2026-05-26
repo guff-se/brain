@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "forced-labor",
+    "supply-chain",
+    "food-ethics"
+  ],
+  "reason": "Investigative piece maps slavery in Thai fishing to Swedish retail supply chains, corporate due diligence, and systemic accountability—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0d10bc33b586ba8516ee",
+  "error": ""
+}

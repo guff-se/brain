@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Title signals a 2014 news incident (SR halted one interview), not durable analysis or principles visible without the paywalled body.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "07043501789932f98714",
+  "error": ""
+}

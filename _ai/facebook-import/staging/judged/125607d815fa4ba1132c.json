@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional share of Gustaf's own Entreprenörsjakten blog via a Facebook app wrapper with no fetchable article body—only the generic title 'Facebook'.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "125607d815fa4ba1132c",
+  "error": ""
+}

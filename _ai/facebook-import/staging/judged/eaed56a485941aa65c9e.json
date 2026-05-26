@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "housing-policy",
+    "rent-control",
+    "urban-economics"
+  ],
+  "reason": "The title signals a durable causal economic claim about rent control and housing shortages that can remain relevant beyond the news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "eaed56a485941aa65c9e",
+  "error": ""
+}

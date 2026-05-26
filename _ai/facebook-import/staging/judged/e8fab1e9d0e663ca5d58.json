@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on time-bound festival news: brief thanks plus one personal wish, not ≥200 chars of developed mechanism or durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "e8fab1e9d0e663ca5d58",
+  "error": ""
+}

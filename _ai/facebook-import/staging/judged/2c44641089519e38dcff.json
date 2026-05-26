@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drone-warfare",
+    "us-foreign-policy",
+    "human-rights"
+  ],
+  "reason": "Substantive investigative analysis of targeted-killing data, collateral harm, and the gap between official precision claims and outcomes—durable policy and ethics context, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2c44641089519e38dcff",
+  "error": ""
+}

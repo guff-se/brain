@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "wikileaks",
+    "press-freedom",
+    "internet-governance"
+  ],
+  "reason": "Op-ed with durable analysis—Western censorship of Wikileaks, corporate payment blockades as extrajudicial enforcement, media parity, and the tech–politics gap—not just a 2010 news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3b20359238c5d48e41b2",
+  "error": ""
+}

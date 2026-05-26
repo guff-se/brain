@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Indiegogo crowdfunding page is promotional and time-bound fundraising for a specific 2015 project, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "07b361204240e2a302ef",
+  "error": ""
+}

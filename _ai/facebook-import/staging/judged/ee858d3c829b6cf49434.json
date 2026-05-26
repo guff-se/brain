@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.66,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "innovation",
+    "design-research",
+    "innovation-strategy"
+  ],
+  "reason": "Looks like a general aphorism-style checklist about innovation roles rather than durable mechanisms or a deep framework.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ee858d3c829b6cf49434",
+  "error": ""
+}

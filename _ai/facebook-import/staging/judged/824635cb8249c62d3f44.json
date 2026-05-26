@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "wikileaks",
+    "free-speech",
+    "financial-censorship"
+  ],
+  "reason": "Op-ed analysis of payment processors as extrajudicial censorship levers, with mechanisms and precedent beyond a 2011 news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "824635cb8249c62d3f44",
+  "error": ""
+}

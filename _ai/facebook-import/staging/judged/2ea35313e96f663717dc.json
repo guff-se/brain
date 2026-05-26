@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "sweden",
+    "democracy"
+  ],
+  "reason": "Durable, mechanism-oriented analysis of schooling’s shifting social role and incentives (from content to democratic competence, peer orientation, internet-driven learner agency).",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2ea35313e96f663717dc",
+  "error": ""
+}

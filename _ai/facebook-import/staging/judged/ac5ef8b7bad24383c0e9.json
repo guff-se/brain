@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "politics",
+    "healthcare",
+    "activism"
+  ],
+  "reason": "Primarily a time-bound satire/campaign roundup and drink recipes rather than durable mechanisms or sustained analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ac5ef8b7bad24383c0e9",
+  "error": ""
+}

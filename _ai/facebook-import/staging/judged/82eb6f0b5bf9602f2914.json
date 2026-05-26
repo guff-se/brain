@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-line ironic anecdote plus hashtags, not a developed view or principle on patents—mostly a pointer to time-bound satire.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "82eb6f0b5bf9602f2914",
+  "error": ""
+}

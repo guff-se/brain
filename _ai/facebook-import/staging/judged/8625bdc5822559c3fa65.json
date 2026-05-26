@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "The content is mainly a time-bound submission/competition announcement with deadlines and categories, not durable analysis or enduring insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8625bdc5822559c3fa65",
+  "error": ""
+}

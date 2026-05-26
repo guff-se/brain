@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary only restates the headline (YC funding basic-income research) with a praise qualifier—no added framing, mechanism, or reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "5f2279775d7c6b027e44",
+  "error": ""
+}

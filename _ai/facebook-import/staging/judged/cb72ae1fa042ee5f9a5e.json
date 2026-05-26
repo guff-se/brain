@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "middle-class",
+    "political-economy",
+    "inequality"
+  ],
+  "reason": "Moore’s WSJ essay frames durable structural change—from Thatcher/Reagan ‘society of haves’ optimism to middle-class squeeze and lost ideological confidence—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cb72ae1fa042ee5f9a5e",
+  "error": ""
+}

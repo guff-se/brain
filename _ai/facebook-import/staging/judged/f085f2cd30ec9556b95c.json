@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "labor",
+    "capitalism",
+    "precarious-work"
+  ],
+  "reason": "Paulsen kulturdebatt on skitjobben as structural capitalism analysis; durable topic despite paywalled fetch.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f085f2cd30ec9556b95c",
+  "error": ""
+}

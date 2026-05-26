@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.91,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Al Jazeera news piece on a specific 2015 EU labeling decision and same-day diplomatic reactions—event report, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ae004ddc1c07295a268e",
+  "error": ""
+}

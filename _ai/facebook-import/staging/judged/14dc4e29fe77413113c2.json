@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is only a duct-tape quip plus a pointer to his seminar—no mechanism or framing beyond the article headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "14dc4e29fe77413113c2",
+  "error": ""
+}

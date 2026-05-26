@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf's comment is affectionate social banter toward Bard with no analysis or principle; the linked TV clip is incidental retrospective news, not his durable view.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "e4a777398647dc556f70",
+  "error": ""
+}

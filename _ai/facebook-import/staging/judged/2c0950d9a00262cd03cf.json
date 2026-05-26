@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "press-freedom",
+    "whistleblowing",
+    "state-power"
+  ],
+  "reason": "Long-form Hedges–Assange interview on press role, empire retaliation, and corporate totalitarianism—structural analysis beyond 2013 news beats.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2c0950d9a00262cd03cf",
+  "error": ""
+}

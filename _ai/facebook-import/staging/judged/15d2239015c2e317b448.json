@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.83,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "work-graph",
+    "knowledge-work",
+    "organizational-design"
+  ],
+  "reason": "It offers a durable mechanism for why coordination fails (“work about work” and dispersed truth) and proposes a clear framework (“work graph” vs social graph) for designing better systems.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "15d2239015c2e317b448",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "tech-careers",
+    "coding",
+    "labor-market"
+  ],
+  "reason": "A crisp, non-trivial claim about how 'learn to code' no longer maps to employment—a durable stance on skills, jobs, and market saturation worth keeping as Gustaf's view.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "485e873903831017271f",
+  "error": ""
+}

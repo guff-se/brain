@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch is Google's cookie-consent interstitial, not authored content; URL is only a map pointer with no retrievable durable substance.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "32551b54a9ced8f00fa7",
+  "error": ""
+}

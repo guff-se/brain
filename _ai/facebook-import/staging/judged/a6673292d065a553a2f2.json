@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ephemeral 2012 live-coverage preview of a CERN announcement, not durable analysis of the Higgs or physics.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a6673292d065a553a2f2",
+  "error": ""
+}

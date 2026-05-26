@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "nationalism",
+    "identity",
+    "political-values"
+  ],
+  "reason": "A clear, non-trivial principle about nationalism’s psychological effects—worth keeping as Gustaf’s stated civic/political stance.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "21a4f8214c4e864278d9",
+  "error": ""
+}

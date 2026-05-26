@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary only recaps 2016 news and nudges readers toward the article, without Gustaf's own causal framing or durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "44a5c0448139b2220729",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "pharma-ethics",
+    "clinical-trials",
+    "public-health"
+  ],
+  "reason": "Substantive Guardian investigation of Pfizer's Trovan trial during a meningitis epidemic—mechanisms, ethics, and lasting public-health fallout, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5e182427c173ed3c98ab",
+  "error": ""
+}

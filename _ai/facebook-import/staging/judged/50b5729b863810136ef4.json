@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "harm-reduction",
+    "decriminalization"
+  ],
+  "reason": "Substantive Bard op-ed with durable causal framing on why people use drugs and how Swedish zero-tolerance policy fails versus use/abuse distinctions.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "50b5729b863810136ef4",
+  "error": ""
+}

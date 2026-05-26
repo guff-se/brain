@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "education",
+    "creativity",
+    "ken-robinson"
+  ],
+  "reason": "Sir Ken Robinson RSA talk on education paradigms is durable structural analysis, not ephemeral entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "ae47eb8229614ca04a74",
+  "error": ""
+}

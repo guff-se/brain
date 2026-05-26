@@ -1,0 +1,27 @@
+---
+title: "Will 3-D printing launch a new industrial revolution?"
+summary: "Will 3-D printing launch a new industrial revolution?
+Peter Schmitt, an MIT doctoral student, printed a clock in 2009. H…"
+kind: "article"
+party: "third"
+register: "consumed"
+source: "web"
+source_id: "fb-1334566552"
+url: "https://phys.org/news/2012-04-d-industrial-revolution.html"
+author: "Joel N Shurkin"
+provenance: "extracted"
+enrichment: "ok"
+lang: "en"
+tags: [3d-printing, additive-manufacturing, manufacturing]
+status: "reference"
+ingested: "2026-05-26"
+created: "2012-04-16"
+---
+
+Will 3-D printing launch a new industrial revolution? Peter Schmitt, an MIT doctoral student, printed a clock in 2009. He didn't print an image of a clock on a piece of paper. He printed a three-dimensional clock -- an eight-inch diameter plastic timekeeping device with moving gears, hands and counterweights. When he put it up on a wall and pushed the counterweight, it went ticktock. "It wasn't very accurate, but it was a functioning clock," Schmitt said. MIT scientists also would like you to be able to print your own robot. Their vision: Decide what you want it to do, download the design from the Internet, use software to make whatever changes you want and hit "print." Scientists around the world are working on a technology that could go well beyond robots and clocks and turn the world's economy upside-down. It goes by the name of 3-D printing, and some proclaim that it will trigger a new Industrial Revolution. The Atlantic Council, an industry consulting firm based in Washington, D.C., says the technology is "transformational." Those working in the field call it "additive manufacturing." Much of modern manufacturing is by reduction. Manufacturers take blocks of plastic, wood, or metal, and grind and machine away until they get the item they want. All the plastic, wood, or metal that doesn't make it into the item is thrown away, maybe as much as 90 percent wasted. 3-D printing puts down layers of metal powders or plastics as directed by software, just as ink is laid down on paper directed by printer drivers. After each layer is completed, the tray holding the item is lowered a fraction of a millimeter and the next layer is added. Printing continues until the piece is complete. Molten metal is allowed to cool and harden; plastics or metal powders are hardened by heat or ultraviolet light. The ingredients aren't limited to those substances; almost anything that flows can be accommodated, even chocolate. There is little waste, and it is possible to change the object by simply working with the software that drives the printer the way text is changed in a word processor. The end products may be better or possibly more beautiful than current products, the council wrote in a research report. 3-D printing allows designs impossible to make with conventional manufacturing techniques. The first 3-D printer was invented by the American Charles Hull in 1984. The first machines were huge, slow, very expensive, and had limited use. In 2004, Adrian Bowyer, a lecturer at Bath University in England, invented a machine that manufactured 50 percent of its own parts and in 2008, the machine printed itself. There was no real profit to be made in a self-replicating machine so Bowyer put the RepRap in the public domain, "open source" in the lexicon. Anyone could buy this desktop printer for under $400 and adapt it at will to print more copies of itself, or other items. The design keeps improving as people think of better ways to do things, a form of crowd-sourcing, and users share designs online, often for free. Additive manufacturing, meanwhile, became a huge and growing industry. According to Wohler Associates, a Colorado consulting firm, the industry has sustained an annual growth rate of 26.2 percent for more than 20 years and revenues will reach $3 billion by 2016. Every year the technique turns out more complex artifacts, faster and cheaper. The technology is now used to print aircraft landing gears, dresses, car parts, individualized tooth crowns, artificial hips and knees, and more. Scientists are experimenting with human cells to print organs. An Airbus contractor is working on printing an entire aircraft wing using titanium powder. Parts of the fuselage of Boeing's 787 Dreamliner were printed. Printing a robot is far more complicated than building a clock, but researchers at MIT, the University of Pennsylvania and Harvard think the result will "transform manufacturing and … democratize access to robots," according to MIT's Daniela Rus, leader of the project. You could identify a need -- say cleaning up the kitchen floor after a kid spilled lunch -- and design a robot specifically for tasks like that. You would download a design from the Internet, adjust to customize it for your kitchen, and print out exactly the robot you designed, moving parts and all. The researchers already have printed two robots, including one designed to go into contaminated areas and one with a gripper that would help people with disabilities. The technology introduces serious issues for the world economy. Most finished products now are the result of many parts manufactured in various places around the world, coming together for assembling into one product. They are then shipped to customers around the world. With 3-D printing, in theory, the entire product would be made at one
+
+*[Content truncated — full text in fetch cache]*
+
+---
+**Gustaf's commentary:** Probably... yes.
+Ps. I love revolutions. <3

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "This is just a time-bound technical notice about requiring Flash Player, with no durable substance to preserve.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f790a580408d95bef110",
+  "error": ""
+}

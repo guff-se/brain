@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a time-bound, hypey writeup of a specific 2013 TV interview with no durable framework or original analysis beyond quotes.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "674f82bf1e3f7a528e6d",
+  "error": ""
+}

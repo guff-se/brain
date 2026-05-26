@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "public-service",
+    "media-independence",
+    "lobbying"
+  ],
+  "reason": "Full debate op-ed with a sustained argument about structural conflicts between public-service independence and employer-lobby membership, not a time-bound announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5000b6993311b0cd1c3c",
+  "error": ""
+}

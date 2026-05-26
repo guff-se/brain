@@ -10,9 +10,9 @@ source_id: "fb-1347206483"
 fb_url: "http://www.barometern.se/kronika/bevara-den-monogama-normen(3426740).gm"
 provenance: "extracted"
 lang: "sv"
-tags: [relationships, norms, sexuality]
+tags: [monogamy, social-norms, relationships]
 status: "reference"
-ingested: "2026-05-25"
+ingested: "2026-05-26"
 created: "2012-09-09"
 ---
 

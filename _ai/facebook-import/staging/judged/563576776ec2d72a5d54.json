@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "copyright",
+    "pirate-bay",
+    "intellectual-property"
+  ],
+  "reason": "Under 200 chars with only one speculative what-if tied to the time-bound Spectrial; hints at a mechanism but never develops it into durable reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "563576776ec2d72a5d54",
+  "error": ""
+}

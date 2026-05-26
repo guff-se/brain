@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "nobel-prize",
+    "chemistry"
+  ],
+  "reason": "It’s mainly a celebratory, time-bound news/connection post with little durable analysis or mechanism to build on.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b5d7aab4191d24102268",
+  "error": ""
+}

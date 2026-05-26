@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Video metadata is only speaker plus TEDx venue with no topic or description, so durable substance cannot be judged from the share itself.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "84f5f905239e7f1fa9c1",
+  "error": ""
+}

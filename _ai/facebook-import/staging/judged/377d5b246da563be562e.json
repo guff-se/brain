@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Instagram art-post title only—portfolio showcase of a 2014 work, not durable analysis, mechanisms, or explained significance.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "377d5b246da563be562e",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "swedish-politics",
+    "foreign-policy"
+  ],
+  "reason": "A brief, time-bound sarcastic jab at a 2015 Syria-bombing stance—not a durable principle, analysis, or insight worth keeping.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ce0945061363b62f2f42",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "poverty",
+    "migration",
+    "social-hostility"
+  ],
+  "reason": "Substantive long-form reportage on migration, poverty, and everyday abuse—not ephemeral news, but durable human and social insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a08976f687f5ffe2090d",
+  "error": ""
+}

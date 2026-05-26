@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "swedish-politics",
+    "immigration",
+    "populism"
+  ],
+  "reason": "Substantive editorial analysis with historical parallel and a clear mechanism (registration → separation → differential treatment), not just a dated headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1af0a367c3125cd253ed",
+  "error": ""
+}

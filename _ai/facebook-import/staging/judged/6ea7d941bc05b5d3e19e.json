@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "V&A 'Design a Wig' is a playful museum interactive, not durable analysis or ideas worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6ea7d941bc05b5d3e19e",
+  "error": ""
+}

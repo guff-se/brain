@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "elderly-care",
+    "ageing",
+    "public-health"
+  ],
+  "reason": "Primarily reports a one-time UN index ranking without durable analysis or reusable mechanism beyond the event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "79b51a1bbe2619b2ac21",
+  "error": ""
+}

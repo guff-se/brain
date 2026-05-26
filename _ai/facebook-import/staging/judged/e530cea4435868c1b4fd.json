@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched body is a 2011 Kickstarter campaign page (funding stats and UI chrome), not durable analysis—promotional and transactional, not substantive external content.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e530cea4435868c1b4fd",
+  "error": ""
+}

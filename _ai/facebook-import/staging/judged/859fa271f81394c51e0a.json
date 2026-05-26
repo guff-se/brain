@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Explicit test placeholder with no substantive view or insight on systems thinking.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "859fa271f81394c51e0a",
+  "error": ""
+}

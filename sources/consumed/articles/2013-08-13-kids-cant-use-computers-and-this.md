@@ -1,0 +1,25 @@
+---
+title: "Kids can't use computers... and this is why it should worry you"
+summary: "TL;DR? Why not just go watch another five second video of a kitten with its head in a toilet roll, or a 140 character de…"
+kind: "article"
+party: "third"
+register: "consumed"
+source: "web"
+source_id: "fb-1376426734"
+url: "http://coding2learn.org/blog/2013/07/29/kids-cant-use-computers/"
+author: "Marc Scott"
+provenance: "extracted"
+enrichment: "ok"
+lang: "en"
+tags: [digital-literacy, education, technology]
+status: "reference"
+ingested: "2026-05-26"
+created: "2013-08-13"
+---
+
+TL;DR? Why not just go watch another five second video of a kitten with its head in a toilet roll, or a 140 character description of a meal your friend just stuffed in their mouth. "nom nom". This blog post is not for you. The phone rang through to my workroom. It was one of the school receptionists explaining that there was a visitor downstairs that needed to get on the school's WiFi network. iPad in hand I trotted on down to the reception to see a young twenty-something sitting on a chair with a MacBook on her knee. I smiled and introduced myself as I sat down beside her. She handed me her MacBook silently and the look on her face said it all. Fix my computer, geek, and hurry up about it. I've been mistaken for a technician enough times to recognise the expression. 'I'll need to be quick. I've got a lesson to teach in 5 minutes,' I said. 'You teach?' 'That's my job, I just happen to manage the network team as well.' She reevaluated her categorisation of me. Rather than being some faceless, keyboard tapping, socially inept, sexually inexperienced network monkey, she now saw me as a colleague. To people like her, technicians are a necessary annoyance. She'd be quite happy to ignore them all, joke about them behind their backs and snigger at them to their faces, but she knows that when she can't display her PowerPoint on the IWB she'll need a technician, and so she maintains a facade of politeness around them, while inwardly dismissing them as too geeky to interact with. I looked at the MacBook. I had no experience with OSX at the time. Jobs wasn't an idiot though, and displayed proudly in the top right hand corner of the screen was a universally recognisable WiFi symbol. It took me seconds to get the device on the network. I handed back the MacBook and the woman opened up Safari. 'The Internet's not working,' she stated with disdain. I've heard this sentence so many times now from students and staff, that I have a stock reaction. Normally I pull out my mobile phone and pretend to tap in a few numbers. Holding the handset to my ear I say: 'Yes, give me the office of the President of the United States.... NO, I WILL NOT HOLD. This is an emergency.... Hello, Mister President, I'm afraid I have some bad news. I've just been informed that The Internet is not working.' I decided that the young woman would probably not appreciate the sarcasm, and took the MacBook off her so I could add in the county's proxy server settings. I had no idea how to do this on OS X. The county proxy is there to ensure that the staff and students can't access porn on the school network. It also filters for violence, extremism, swearing, social networks, alcohol, smoking, hacking, gaming and streaming video. Ironically, if you were to perform a Google search for "proxy settings OS X", the top results would all be blocked because you used the word 'proxy' and that is a filtered word. 'Do you know where the proxy settings are?' I asked, hopefully. I don't get a response. I might as well have asked her 'Can you tell me how to reticulate splines using a hexagonal decode system so that I can build a GUI in Visual Basic and track an IP Address.' It took me about ten seconds to find and fill in the proxy settings. I handed back her MacBook and she actually closed Safari and reopened it, rather than just refreshing. 'Thanks.' Her gratitude was overwhelming. I was about to leave, when she stopped me. 'PowerPoint's not working'. This probably didn't warrant a phone call to the President of the United States. I'm sure he takes an interest in technological issues, but the breakdown of the World's leading presentation tool would probably be somewhat of a relief to him. At least the NSA wouldn't be losing any more poorly designed slide-shows. I sat back down and once again took possession of her MacBook. The slide she was displaying contained an embedded YouTube video, and as I have said, streaming video is blocked. I tried to explain this to the woman, and she then patronisingly explained that it shouldn't matter as the video was in her PowerPoint and that was running from her USB stick. I didn't argue, it was really not worth my time. Instead I do what I normally do for people and Just make it work. Using my iPad's 3G connection, I set up a hot-spot and download the YouTube video using a popular ripping site and then embed the now local video in her presentation. 'So what do you teach?'
+
+*[Content truncated — full text in fetch cache]*
+
+---
+**Gustaf's commentary:** Kids can't use computers, and you should worry about it :/

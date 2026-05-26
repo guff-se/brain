@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only a Google Drive sign-in page, so there is no article body or durable topic to judge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "35015582873339c307db",
+  "error": ""
+}

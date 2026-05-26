@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.96,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "history",
+    "war",
+    "statistics"
+  ],
+  "reason": "Neil Halloran's acclaimed interactive documentary scales WWII deaths and the postwar decline in conflict—durable historical and mechanistic substance, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5c6abdac00160912bcb7",
+  "error": ""
+}

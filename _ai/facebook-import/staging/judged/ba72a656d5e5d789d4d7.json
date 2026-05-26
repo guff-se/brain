@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a punchy aphorism with wordplay, not a developed causal argument—default skip for own_text.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ba72a656d5e5d789d4d7",
+  "error": ""
+}

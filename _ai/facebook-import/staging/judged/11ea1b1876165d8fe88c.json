@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "The Onion satire clip is comic entertainment, not durable analysis, frameworks, or expertise worth archiving.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "11ea1b1876165d8fe88c",
+  "error": ""
+}

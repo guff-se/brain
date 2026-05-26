@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "entreprenorsjakten"
+  ],
+  "reason": "Under-200-char metric update and cheerleading for a time-bound campaign, with no argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7c26099ef9ff1ccbc1be",
+  "error": ""
+}

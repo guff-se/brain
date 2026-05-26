@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch is paywall marketing only; a 2015 DN ledare title on blasphemy law is timely opinion without retrievable durable analysis to ingest.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0a33e0f108df2b3a4e6b",
+  "error": ""
+}

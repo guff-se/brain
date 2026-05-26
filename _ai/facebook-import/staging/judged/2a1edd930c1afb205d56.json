@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "unaccompanied-minors",
+    "migration",
+    "media-narratives"
+  ],
+  "reason": "Investigative piece with durable mechanisms—dehumanization, myth-driven empathy loss, and systemic neglect of missing refugee children—not only the 2015 incident.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2a1edd930c1afb205d56",
+  "error": ""
+}

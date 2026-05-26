@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only Wimp.com browse/listing chrome, not the linked article—no durable analysis or substance.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d61d7529591b185ac4ce",
+  "error": ""
+}

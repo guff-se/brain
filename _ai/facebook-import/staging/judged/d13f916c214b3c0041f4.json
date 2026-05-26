@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.94,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ephemeral CES 2012 gadget demo video with no analysis, frameworks, or durable insight beyond a product announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d13f916c214b3c0041f4",
+  "error": ""
+}

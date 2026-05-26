@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone share is only a Tim Cook quote with no Gustaf framing, mechanism, or durable reasoning of his own.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "308a9a186b8d9990bead",
+  "error": ""
+}

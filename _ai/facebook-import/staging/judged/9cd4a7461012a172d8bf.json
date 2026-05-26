@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "developmental-psychology",
+    "human-evolution",
+    "cognition"
+  ],
+  "reason": "Named behavioral scientist frames a durable narrative linking decades of developmental psychology research to human cognitive evolution—not generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "9cd4a7461012a172d8bf",
+  "error": ""
+}

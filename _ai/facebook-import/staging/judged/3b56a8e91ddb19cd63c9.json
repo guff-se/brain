@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical open-invite for a work night—no argument, insight, or durable knowledge; under 200 chars default skip.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "3b56a8e91ddb19cd63c9",
+  "error": ""
+}

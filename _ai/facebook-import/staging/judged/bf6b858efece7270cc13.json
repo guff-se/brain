@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "relationships",
+    "marriage",
+    "personal-growth"
+  ],
+  "reason": "Substantive essay reframing marriage, completeness, and soul-mate myths with durable cultural and relational reasoning, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bf6b858efece7270cc13",
+  "error": ""
+}

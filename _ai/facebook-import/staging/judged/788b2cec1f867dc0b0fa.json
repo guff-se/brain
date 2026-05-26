@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "basic-income",
+    "politics"
+  ],
+  "reason": "Paired share: short cheer for MP and a hope that named liberals accept basic income as inevitable, with no framing or causal argument beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "788b2cec1f867dc0b0fa",
+  "error": ""
+}

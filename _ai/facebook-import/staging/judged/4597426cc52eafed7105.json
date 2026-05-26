@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "pensions",
+    "personal-finance",
+    "sweden"
+  ],
+  "reason": "Title and description center a durable structural topic (how pensions work), not episodic entertainment, despite thin 2012 political framing.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "4597426cc52eafed7105",
+  "error": ""
+}

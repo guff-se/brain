@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Same-night pre-party logistics for a club night—time-bound social coordination, no reasoning or durable knowledge; under 200 chars.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b2bd4e1fb538fc0e5079",
+  "error": ""
+}

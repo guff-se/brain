@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "leadership",
+    "workplace-psychology",
+    "punctuality"
+  ],
+  "reason": "Chef.se piece with Silfverskiöld's typology, causal framing of lateness, trait patterns, and manager tradeoffs—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "668f181eedecfd398890",
+  "error": ""
+}

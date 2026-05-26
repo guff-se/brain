@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "swedish-economy",
+    "household-debt",
+    "financial-bubbles"
+  ],
+  "reason": "Substantive macro analysis of Sweden’s debt, housing, and banking risks with bubble-mechanism framing—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "74b8b6ae70d9b040e8e5",
+  "error": ""
+}

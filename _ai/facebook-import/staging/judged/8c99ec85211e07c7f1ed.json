@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "epistemology",
+    "media-criticism",
+    "public-discourse"
+  ],
+  "reason": "Paired commentary reframes the column with a substantive claim—opinion with titles is not truth, and science requires argued evidence—not just agreement with the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "8c99ec85211e07c7f1ed",
+  "error": ""
+}

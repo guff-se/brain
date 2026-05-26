@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2009 BRC panoramic art catalog and shoot notes are event-specific archival footage, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "94999e1e77987b29fe4a",
+  "error": ""
+}

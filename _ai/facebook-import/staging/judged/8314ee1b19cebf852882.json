@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "This is brief Swedish reaction/banter with no durable reasoning or causal mechanism beyond the paired headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "8314ee1b19cebf852882",
+  "error": ""
+}

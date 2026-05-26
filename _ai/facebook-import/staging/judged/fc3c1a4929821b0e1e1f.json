@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "child-development",
+    "parenting",
+    "education"
+  ],
+  "reason": "Opinion column ties free play to creativity and social competence via research and mechanisms—not a time-bound news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fc3c1a4929821b0e1e1f",
+  "error": ""
+}

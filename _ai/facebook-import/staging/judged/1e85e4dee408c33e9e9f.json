@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2014 time-bound festival humor listicle with no durable analysis, mechanisms, or insight beyond entertainment stereotypes.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1e85e4dee408c33e9e9f",
+  "error": ""
+}

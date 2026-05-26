@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "swedish-politics",
+    "representative-democracy",
+    "career-politicians"
+  ],
+  "reason": "Substantive opinion piece with causal analysis of career-politician pipelines, democratic representation deficits, and institutional reform proposals—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6085e0de2ee19ed63438",
+  "error": ""
+}

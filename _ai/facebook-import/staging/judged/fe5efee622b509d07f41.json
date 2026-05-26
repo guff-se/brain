@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "civil-rights",
+    "policing",
+    "investigative-journalism"
+  ],
+  "reason": "Substantive investigative reporting on institutional detention practices, constitutional violations, and routinized abuse—not a fleeting news blip.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fe5efee622b509d07f41",
+  "error": ""
+}

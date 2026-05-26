@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary only excerpts the article's statistics with no added framing, mechanism, or Gustaf's own reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "94cc7b19e0c4a554abba",
+  "error": ""
+}

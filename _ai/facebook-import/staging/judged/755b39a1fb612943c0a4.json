@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gender",
+    "cultural-norms",
+    "relationships"
+  ],
+  "reason": "Krönika med varaktig insikt om skam, singelhet och livsval, avslutad med en tydlig princip om att inte välja det sämre alternativet.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "755b39a1fb612943c0a4",
+  "error": ""
+}

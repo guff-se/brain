@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A brief, time-bound political jab at Miljöpartiet’s hypocrisy—no developed principle, mechanism, or insight worth keeping as a vault note.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "9ca6730c098812b84432",
+  "error": ""
+}

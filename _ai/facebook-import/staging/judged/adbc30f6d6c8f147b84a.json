@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "corporate-governance",
+    "executive-compensation",
+    "swedish-business"
+  ],
+  "reason": "Cervenka's column explains Leo-lagen's origins, mechanisms, and proposed weakening with durable corporate-governance analysis beyond a 2011 news event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "adbc30f6d6c8f147b84a",
+  "error": ""
+}

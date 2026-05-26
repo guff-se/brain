@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired sarcastic hot take on the headline adds no durable framing or causal argument beyond reacting to DN's framing.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "bd557620e0edbdb280a5",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sweden",
+    "loneliness",
+    "independence"
+  ],
+  "reason": "VICE interview with Gandini and Bauman frames a durable causal story—Swedish independence ideology and welfare structures enabling solitude—not festival promo alone.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a0b9968f228da6401060",
+  "error": ""
+}

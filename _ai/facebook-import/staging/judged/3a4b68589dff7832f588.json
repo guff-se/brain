@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [],
+  "reason": "Under 200 characters and it’s mood/social banter with no durable insight or mechanism.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "3a4b68589dff7832f588",
+  "error": ""
+}

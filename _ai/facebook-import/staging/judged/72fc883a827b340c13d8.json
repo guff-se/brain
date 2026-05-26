@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only a loading-page title with no article body, and the URL is time-bound entertainment news about an HBO adaptation, not durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "72fc883a827b340c13d8",
+  "error": ""
+}

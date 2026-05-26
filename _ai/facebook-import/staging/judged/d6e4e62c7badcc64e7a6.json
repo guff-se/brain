@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "science-fiction",
+    "entropy",
+    "artificial-intelligence"
+  ],
+  "reason": "URL and share text identify Asimov's 'The Last Question'—a durable story about entropy, cosmic fate, and human–machine inquiry across deep time.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d6e4e62c7badcc64e7a6",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "93-char slogan with no developed argument; under-200 own_text rule defaults to skip.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6627e078de5ba4840742",
+  "error": ""
+}

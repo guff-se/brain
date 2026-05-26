@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Poetic mood piece in the 200–499 char band with metaphor but no developed causal claim or durable insight beyond expression.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "60385d80406940d5980f",
+  "error": ""
+}

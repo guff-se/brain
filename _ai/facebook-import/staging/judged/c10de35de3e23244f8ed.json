@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A one-line rhetorical question with no stated view, mechanism, or principle—too thin to retrieve as durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c10de35de3e23244f8ed",
+  "error": ""
+}

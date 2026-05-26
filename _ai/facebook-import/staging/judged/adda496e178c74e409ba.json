@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "free-speech",
+    "counter-terrorism",
+    "surveillance"
+  ],
+  "reason": "Guillou's column argues mechanisms—hypocrisy after Charlie Hebdo, how anti-terror and thought-crime laws backfire, and policy alternatives—not mere event coverage.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "adda496e178c74e409ba",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "tax-policy",
+    "economic-growth",
+    "income-inequality"
+  ],
+  "reason": "CRS-backed synthesis on taxes, growth, and inequality with durable policy mechanisms, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f13054c3205db58ae4fb",
+  "error": ""
+}

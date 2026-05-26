@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.74,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "society",
+    "law",
+    "marketing"
+  ],
+  "reason": "The content reads like generic SEO/legal background with promotional material and no durable framework or causal insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b9a7ac4a1d79ca7e2f9a",
+  "error": ""
+}

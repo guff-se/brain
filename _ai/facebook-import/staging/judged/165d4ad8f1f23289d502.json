@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Episodic comedy-news clip with only promo boilerplate and a one-line hook—no durable analysis or mechanism worth a vault note.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "165d4ad8f1f23289d502",
+  "error": ""
+}

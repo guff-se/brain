@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "public-transit",
+    "political-economy",
+    "governance"
+  ],
+  "reason": "Crisp causal pattern—opposing refusals on fares vs taxes produce cuts nobody wanted—reusable beyond the 2015 SL moment.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "344931034f3365a153f8",
+  "error": ""
+}

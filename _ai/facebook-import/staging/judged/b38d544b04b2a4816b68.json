@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: ~90 chars applies the article's labels to Sweden/Burning Man as a provocative link, not developed framing or a reasoning chain.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "b38d544b04b2a4816b68",
+  "error": ""
+}

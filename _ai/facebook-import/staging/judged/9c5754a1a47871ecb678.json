@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "entrepreneurship",
+    "startup-ecosystems",
+    "silicon-valley"
+  ],
+  "reason": "Comparative analysis of Sweden vs Silicon Valley startup ecosystems—funding, talent, policy, culture—offers durable structural insight beyond a time-bound event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9c5754a1a47871ecb678",
+  "error": ""
+}

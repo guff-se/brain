@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Viral stunt/social-experiment clip with no durable framework or analysis in the metadata—generic entertainment, not vault-worthy substance.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "2fb0318c6a3ab163337e",
+  "error": ""
+}

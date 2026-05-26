@@ -1,15 +1,15 @@
 {
   "verdict": "save",
-  "confidence": 0.87,
+  "confidence": 0.62,
   "register_hint": "thinking",
   "kind_hint": "note",
   "tags_hint": [
-    "rhetoric",
+    "media-literacy",
     "interpretation",
-    "cultural-criticism"
+    "political-ethics"
   ],
-  "reason": "Develops a principled argument about how to interpret art (literal vs. metaphorical) and applies it to critique inconsistent moral judgment; non-trivial stance on interpretive honesty and consistency.",
-  "model": "claude-haiku-4-5",
+  "reason": "It builds a multi-sentence causal argument against taking a single lyric literally to justify a boycott, framing a durable interpretive principle.",
+  "model": "auto",
   "item_type": "own_text",
   "content_sha": "3ae554c8bd2ddfbbacb0",
   "error": ""

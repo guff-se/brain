@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2014 SvD news report on one burger-automation prototype—product announcement and figures, not durable mechanisms or analysis worth keeping.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3cdc589c11b00fe0a5f3",
+  "error": ""
+}

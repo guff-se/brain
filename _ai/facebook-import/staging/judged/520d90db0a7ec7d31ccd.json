@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound Olympic sports clip with no durable topic, framework, or analysis—generic viral entertainment metadata only.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "520d90db0a7ec7d31ccd",
+  "error": ""
+}

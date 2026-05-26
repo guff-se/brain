@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only an attributed Huxley quote—no Gustaf argument or framing; own_text default skip for quotes/slogans.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "90c0aeeaeb47b6cbf742",
+  "error": ""
+}

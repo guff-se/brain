@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "artificial-intelligence",
+    "neuroscience",
+    "embodiment"
+  ],
+  "reason": "Science piece explains partial brain emulation, embodiment in cognition, and artificial-pollinator rationale—not only a dated funding announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "706fe49490d123eec9dc",
+  "error": ""
+}

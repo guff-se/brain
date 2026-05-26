@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "mergers-acquisitions",
+    "corporate-governance",
+    "executive-incentives"
+  ],
+  "reason": "Cervenka column builds a durable incentives-and-accountability framework for why M&A routinely destroys value, beyond the 2011 Vattenfall headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "160064506927ff1f2441",
+  "error": ""
+}

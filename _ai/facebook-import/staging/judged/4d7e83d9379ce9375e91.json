@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "yimby",
+    "urban-planning",
+    "housing-density"
+  ],
+  "reason": "It argues a durable urban-planning mechanism (dense mixed city vs car-oriented sprawl) with a clear causal chain, despite being from a political site.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4d7e83d9379ce9375e91",
+  "error": ""
+}

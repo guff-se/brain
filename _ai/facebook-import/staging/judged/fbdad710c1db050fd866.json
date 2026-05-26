@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "intellectual-property",
+    "propaganda"
+  ],
+  "reason": "Durable analysis of institutional messaging shaping kids’ norms around copyright, fair use, and corporate interests.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fbdad710c1db050fd866",
+  "error": ""
+}

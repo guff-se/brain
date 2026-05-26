@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "trade-policy",
+    "political-economy",
+    "globalization"
+  ],
+  "reason": "Substantive Fokus analysis tying Ricardo/comparative advantage to TTIP, regulatory harmonization, market failure, and ISDS—not a fleeting news blurb.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1a166ae9e28c3baf5654",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social banter quoting a compliment about friending on Facebook—no reasoning or durable knowledge, and under 200-char own_text default.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5335d6528d5c1859e244",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "vaccination",
+    "public-health",
+    "science-misinformation"
+  ],
+  "reason": "Explains durable mechanisms—Wakefield fraud, celebrity-driven vaccine refusal, herd immunity, and disease resurgence—not just a 2014 news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d4e47cc5bd8b688a196e",
+  "error": ""
+}

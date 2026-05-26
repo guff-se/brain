@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "surveillance",
+    "privacy",
+    "nsa"
+  ],
+  "reason": "Explains mechanisms and implications of mass surveillance (PRISM) in a way that remains a durable reference beyond the 2013 news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d7c84e5d2e2ff401fc5c",
+  "error": ""
+}

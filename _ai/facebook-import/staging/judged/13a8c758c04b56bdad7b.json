@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A 92-character help question about Facebook UI options—logistical, time-bound, with no argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "13a8c758c04b56bdad7b",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Music video with only production credits and promo links; no durable topic, framework, or insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "d40cab8ccd951b8e8a75",
+  "error": ""
+}

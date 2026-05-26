@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gaming",
+    "game-review",
+    "entertainment"
+  ],
+  "reason": "The fetched content appears to be generic CNET page/navigation rather than durable analysis, making it likely a time-bound product/news item.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8103a2c985a5ec15d1d8",
+  "error": ""
+}

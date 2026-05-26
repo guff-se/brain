@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a build/collab invite with a link, no developed idea, mechanism, or durable argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "06465c8c9d37841e9819",
+  "error": ""
+}

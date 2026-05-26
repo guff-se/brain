@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars with only a TED link and a rhetorical aside—no developed claim or reasoning from Gustaf.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ccec304e7e40b466af84",
+  "error": ""
+}

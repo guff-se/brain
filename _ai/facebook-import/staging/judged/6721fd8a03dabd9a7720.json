@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event invite and logistics (DJ gig at Almedalen); no reasoning or durable knowledge, and under 200-char own_text default.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6721fd8a03dabd9a7720",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Title-only metadata points to a group travel/video clip with no durable framework, analysis, or expert signal.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "d9bef1e3733568322532",
+  "error": ""
+}

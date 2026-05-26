@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a 2011 news report on named congressional staffers taking lobbying jobs, not durable analysis of regulatory capture despite brief revolving-door context.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "76cd396b4977e0b5dfbb",
+  "error": ""
+}

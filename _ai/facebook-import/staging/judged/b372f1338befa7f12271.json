@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Kanal 5 entertainment-news clip about a 2015 political spat; episodic TV humor, not durable analysis or a reusable topic.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "b372f1338befa7f12271",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "public-health",
+    "pandemic-response",
+    "investigative-journalism"
+  ],
+  "reason": "SvD investigation into how political and contractual constraints overrode internal medical dissent during Sweden's 2009 mass vaccination—durable mechanism and accountability reporting, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7786616924031af6e698",
+  "error": ""
+}

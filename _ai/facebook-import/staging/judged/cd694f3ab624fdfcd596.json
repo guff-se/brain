@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "wealth-inequality",
+    "perception-bias",
+    "economics"
+  ],
+  "reason": "Offers a durable explanatory framing about wealth inequality and how perception differs from actual data.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "cd694f3ab624fdfcd596",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "immigration",
+    "open-borders",
+    "economics"
+  ],
+  "reason": "Substantive Atlantic essay with moral and economic arguments, mechanisms, and durable open-borders framing—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0b29cdbb54c6c8e6d93a",
+  "error": ""
+}

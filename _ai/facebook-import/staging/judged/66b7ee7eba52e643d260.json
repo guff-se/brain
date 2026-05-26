@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch is publisher rebranding boilerplate, not the linked 3D/product-development piece—no durable analysis, only institutional promo.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "66b7ee7eba52e643d260",
+  "error": ""
+}

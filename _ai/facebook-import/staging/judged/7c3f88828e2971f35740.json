@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.66,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "digital-microscopy",
+    "maker-education",
+    "citizen-science"
+  ],
+  "reason": "The content provides durable DIY mechanism/how-to for turning a smartphone into a microscopy tool for practical experiments.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "7c3f88828e2971f35740",
+  "error": ""
+}

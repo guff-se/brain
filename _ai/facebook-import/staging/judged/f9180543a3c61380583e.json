@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Short feel-good report on a 7up promo art stunt—no durable analysis, framework, or mechanism beyond describing the installation.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f9180543a3c61380583e",
+  "error": ""
+}

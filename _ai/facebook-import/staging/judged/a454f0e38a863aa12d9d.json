@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned a CBS MoneyWatch news homepage (2026 headlines), not the 2011 Dropbox privacy article—ephemeral breaking-news snippets with no durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a454f0e38a863aa12d9d",
+  "error": ""
+}

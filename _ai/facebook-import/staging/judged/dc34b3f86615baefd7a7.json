@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gmo",
+    "food-retail",
+    "science-communication"
+  ],
+  "reason": "Expert-signed SVD op-ed with causal analysis of GMO labeling, retail CSR, and environmental tradeoffs—not a fleeting news blip.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "dc34b3f86615baefd7a7",
+  "error": ""
+}

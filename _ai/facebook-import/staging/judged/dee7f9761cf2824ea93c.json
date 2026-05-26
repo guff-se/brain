@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gothenburg",
+    "urban-festivals",
+    "grassroots-culture"
+  ],
+  "reason": "Long-form Faktum report on Göteborgskarnevalen vs. municipal festival branding, with interviews and durable analysis of why grassroots city festivals get opposed.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "dee7f9761cf2824ea93c",
+  "error": ""
+}

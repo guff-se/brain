@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": "note",
+  "tags_hint": [
+    "employment-protection",
+    "job-security"
+  ],
+  "reason": "Under-200-char own_text that reads as a question/hot take without a multi-sentence mechanism or durable framework.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "2e24293b6b3b22440429",
+  "error": ""
+}

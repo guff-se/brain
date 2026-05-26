@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.66,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "monetary-policy",
+    "stock-markets",
+    "asset-bubbles"
+  ],
+  "reason": "It’s primarily a 2013 market-news snapshot about record index levels and near-term Fed moves, with only generally applicable (not framework-level) causal commentary.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fdc62d68dfd033128bf9",
+  "error": ""
+}

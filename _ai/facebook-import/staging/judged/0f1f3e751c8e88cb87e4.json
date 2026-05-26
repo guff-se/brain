@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "polyamory",
+    "relationships",
+    "psychology"
+  ],
+  "reason": "Research-backed explainer that debunks structural myths about polyamory with mechanisms and study findings—durable reference, not event news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0f1f3e751c8e88cb87e4",
+  "error": ""
+}

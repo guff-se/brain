@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.74,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "December 2010 breaking-news report on a specific App Store takedown; platform-censorship analysis is secondary to the time-bound WikiLeaks event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "084a6e2d87f6ecae5c05",
+  "error": ""
+}

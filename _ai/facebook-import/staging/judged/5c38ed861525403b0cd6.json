@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and primarily a situational request/complaint without durable reasoning or generalizable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5c38ed861525403b0cd6",
+  "error": ""
+}

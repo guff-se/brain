@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "criminal-justice",
+    "mass-incarceration",
+    "policy"
+  ],
+  "reason": "Title and show signal a substantive explainer on prisons and incarceration, a durable structural topic, not generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "52cd510face088df47e9",
+  "error": ""
+}

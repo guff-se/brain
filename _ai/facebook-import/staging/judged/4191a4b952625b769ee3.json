@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "constitutional-law",
+    "second-amendment",
+    "legal-interpretation"
+  ],
+  "reason": "Explains the prefatory-vs-operative comma reading and how it drove Heller—durable mechanism in constitutional interpretation, not just election news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4191a4b952625b769ee3",
+  "error": ""
+}

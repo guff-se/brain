@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "integral-theory",
+    "philosophy",
+    "spirituality"
+  ],
+  "reason": "Long-form essay explaining Wilber's integral frameworks (AQAL, pre/trans fallacy, transcend-and-include) with durable principles, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bbc1d75e73af04510936",
+  "error": ""
+}

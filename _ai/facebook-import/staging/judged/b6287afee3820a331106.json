@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "entrepreneurship",
+    "stockholm",
+    "startup-ecosystem"
+  ],
+  "reason": "Wired feature explains ecosystem mechanisms—founder networks, small-market testbed, exits, and tax/options barriers—not just a 2011 hotspot list.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b6287afee3820a331106",
+  "error": ""
+}

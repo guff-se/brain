@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "police-accountability",
+    "institutional-power",
+    "investigative-journalism"
+  ],
+  "reason": "UG investigation with durable mechanisms—use of force, institutional self-defense, weak internal probes, and prosecution thresholds—not only a dated incident report.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7dcc59bc0c6c13156151",
+  "error": ""
+}

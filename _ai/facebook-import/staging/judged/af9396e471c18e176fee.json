@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "network-effects",
+    "platform-monopoly",
+    "silicon-valley"
+  ],
+  "reason": "Om Malik’s New Yorker piece explains durable mechanisms—network effects, infrastructure/data flywheels, and market consolidation—not just a one-off startup closure.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "af9396e471c18e176fee",
+  "error": ""
+}

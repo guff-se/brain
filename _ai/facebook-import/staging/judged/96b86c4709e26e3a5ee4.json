@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional request for application testimonials—logistical outreach with no durable ideas, analysis, or reasoning to preserve.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "96b86c4709e26e3a5ee4",
+  "error": ""
+}

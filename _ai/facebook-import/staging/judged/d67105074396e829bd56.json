@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a punchy boundary line on honesty vs. feigned interest, not a developed causal argument worth keeping.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d67105074396e829bd56",
+  "error": ""
+}

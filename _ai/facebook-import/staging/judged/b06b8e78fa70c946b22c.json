@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "organic-food",
+    "sustainability",
+    "food"
+  ],
+  "reason": "Paywalled fetch, but title and SLU professor lede point to durable research analysis of organic-food health and environmental claims, not breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b06b8e78fa70c946b22c",
+  "error": ""
+}

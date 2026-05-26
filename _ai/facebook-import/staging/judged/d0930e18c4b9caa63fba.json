@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "social-media",
+    "loneliness",
+    "psychology"
+  ],
+  "reason": "2010 SvD piece synthesizes research on offline/online friendship, loneliness contagion, and passive vs active SNS use—durable mechanisms, not episodic news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d0930e18c4b9caa63fba",
+  "error": ""
+}

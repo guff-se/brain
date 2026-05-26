@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "foreign-policy",
+    "iran",
+    "imperialism"
+  ],
+  "reason": "Historical overview of U.S.–Iran intervention, the 1953 coup, and blowback—durable causal framing, not ephemeral news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "4db89d6dea7aa3a2fdeb",
+  "error": ""
+}

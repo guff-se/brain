@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Only a reproduced Trump quote with no Gustaf commentary, analysis, or stated principle—time-bound political rhetoric, not durable vault knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "9e0d065a5a49f1a99546",
+  "error": ""
+}

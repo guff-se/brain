@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Short, time-bound social/logistical post about a friend moving and selling belongings with no durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "adf24fc6899e0ab10c9d",
+  "error": ""
+}

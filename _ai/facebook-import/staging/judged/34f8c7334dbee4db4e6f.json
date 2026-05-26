@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "automation",
+    "artificial-intelligence",
+    "future-of-work"
+  ],
+  "reason": "Long-form Wired analysis with historical parallels, mechanisms of AI-driven automation, and durable framing—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "34f8c7334dbee4db4e6f",
+  "error": ""
+}

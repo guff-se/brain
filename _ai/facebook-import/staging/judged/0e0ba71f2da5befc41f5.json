@@ -1,15 +1,11 @@
 {
-  "verdict": "save",
-  "confidence": 0.75,
-  "register_hint": "thinking",
-  "kind_hint": "note",
-  "tags_hint": [
-    "facebook",
-    "relationships",
-    "social-display"
-  ],
-  "reason": "Observational thinking about asymmetric social display as a signal of relationship dynamics — a pattern he's spotted that merits capture.",
-  "model": "claude-haiku-4-5",
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A single observational question about profile photos invites discussion but offers no claim, mechanism, or reasoning worth preserving.",
+  "model": "auto",
   "item_type": "own_text",
   "content_sha": "0e0ba71f2da5befc41f5",
   "error": ""

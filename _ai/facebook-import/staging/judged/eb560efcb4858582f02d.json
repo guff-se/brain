@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Spotify track is a music remix, not durable podcast or analytical content.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "eb560efcb4858582f02d",
+  "error": ""
+}

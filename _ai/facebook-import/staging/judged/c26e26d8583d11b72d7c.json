@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sharing-economy",
+    "collaborative-consumption",
+    "platform-business"
+  ],
+  "reason": "Substantive Fast Company analysis tracing how sharing-economy rhetoric diverged from practice—durable structural critique, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c26e26d8583d11b72d7c",
+  "error": ""
+}

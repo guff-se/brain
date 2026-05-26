@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: one slogan-level claim about jobs disappearing plus author praise, no mechanism or framing beyond the article headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "2d76a266e1f6f63cc916",
+  "error": ""
+}

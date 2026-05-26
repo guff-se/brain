@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone recruitment copy for Entreprenörsjakten—promotional cheerleading with no reasoning, mechanism, or durable insight beyond the video call for project leaders.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ea8f703fa8b2ef0e2e7d",
+  "error": ""
+}

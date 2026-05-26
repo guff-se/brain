@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare share of a generic science-demo video; title signals viral entertainment, not durable analysis or frameworks.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "07e86e0f45dbe5571e0a",
+  "error": ""
+}

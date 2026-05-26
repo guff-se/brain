@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary only restates the headline and applies a label ('value-based leadership') without mechanism or framing beyond a hot take.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "889fa6195ba31fac25d0",
+  "error": ""
+}

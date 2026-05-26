@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "gaming",
+    "m-and-a",
+    "swedish-tech"
+  ],
+  "reason": "Time-bound M&A news report on the 2015 King acquisition with deal terms and stock price context, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "454f07f6caeb9cff9560",
+  "error": ""
+}

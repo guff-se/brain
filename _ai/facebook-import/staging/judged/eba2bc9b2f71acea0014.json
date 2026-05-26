@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars; a two-line aphorism and call to action without mechanism, causality, or developed reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "eba2bc9b2f71acea0014",
+  "error": ""
+}

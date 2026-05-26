@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "bitcoin",
+    "cryptocurrency",
+    "fintech"
+  ],
+  "reason": "Investigative Wired piece on Mt. Gox with causal analysis of management, security, and ecosystem failure patterns that remain reference material beyond the 2014 news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "562d9f5a08dbc00a043e",
+  "error": ""
+}

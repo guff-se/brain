@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Shared-video metadata is promotional and empty; title suggests a 2009 humor sketch about Facebook, not durable analysis or a named framework.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "745997836ad5b2f23c5d",
+  "error": ""
+}

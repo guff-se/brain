@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "public-art",
+    "urban-design",
+    "public-transport"
+  ],
+  "reason": "Guardian piece goes beyond the 2016 opening to explain collaborative design process, ad-free civic infrastructure, and layered station art as durable urban-design reference.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "89e4258cee01db90ce74",
+  "error": ""
+}

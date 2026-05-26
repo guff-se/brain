@@ -1,0 +1,15 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "housing-policy",
+    "political-rhetoric"
+  ],
+  "reason": "Standalone commentary meets length threshold and reframes policy failure as a principle against categorical, ideological dismissal of whole ideas.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "e29180c033796755843d",
+  "error": ""
+}

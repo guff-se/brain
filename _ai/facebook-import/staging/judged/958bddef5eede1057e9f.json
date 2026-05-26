@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "The title signals a time-bound news statistic about drug deaths with no durable framework or mechanism provided.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "958bddef5eede1057e9f",
+  "error": ""
+}

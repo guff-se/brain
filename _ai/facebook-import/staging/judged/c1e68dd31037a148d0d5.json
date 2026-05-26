@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "public-broadcasting",
+    "media-policy"
+  ],
+  "reason": "Paired commentary is a short reminder about TV-licence funding, not developed framing beyond the debate headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "c1e68dd31037a148d0d5",
+  "error": ""
+}

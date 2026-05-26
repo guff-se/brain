@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "journalism",
+    "media-criticism",
+    "polarization"
+  ],
+  "reason": "Gustaf states a durable media-critique principle—programs fuel politikerförakt without self-reflection—and values less polarization and more substantive dialogue.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d59320fc020e29ed03df",
+  "error": ""
+}

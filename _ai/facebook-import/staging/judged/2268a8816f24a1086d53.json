@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and purely promotional hype for a same-night student event—no durable insight, mechanism, or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "2268a8816f24a1086d53",
+  "error": ""
+}

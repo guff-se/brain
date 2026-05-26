@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "This is essentially a music/interactive promo page credits list with no durable analysis or substantive article content.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "429c32795efcb7881d46",
+  "error": ""
+}

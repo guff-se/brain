@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a short insult with no durable reasoning or framing beyond dismissal.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "3ee3a0bbd7f71897e8a4",
+  "error": ""
+}

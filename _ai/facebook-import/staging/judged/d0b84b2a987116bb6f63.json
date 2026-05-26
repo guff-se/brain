@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2012 SVT human-interest news case about one förskola incident, not durable analysis of policy or mechanisms beyond episodic reporting.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d0b84b2a987116bb6f63",
+  "error": ""
+}

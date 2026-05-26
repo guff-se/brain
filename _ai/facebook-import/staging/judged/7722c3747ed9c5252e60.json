@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Comedy sketch share with only promotional premise metadata—no analysis, framework, or durable substance beyond entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "7722c3747ed9c5252e60",
+  "error": ""
+}

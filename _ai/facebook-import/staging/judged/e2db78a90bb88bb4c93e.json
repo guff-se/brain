@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "economy",
+    "finance",
+    "capitalism"
+  ],
+  "reason": "Five-part explainer on money and banking mechanics is structural, pedagogical content—not episodic news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "e2db78a90bb88bb4c93e",
+  "error": ""
+}

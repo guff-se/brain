@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "universal-basic-income",
+    "automation",
+    "political-economy"
+  ],
+  "reason": "Substantive debate essay linking automation, capital–labor decoupling, and UBI as structural policy—not ephemeral news or a headline-only share.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7130ca07b0f50edcfa4e",
+  "error": ""
+}

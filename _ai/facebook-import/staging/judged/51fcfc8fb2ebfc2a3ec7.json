@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only a dated election-day status-donation prompt with a link—promotional, time-bound, no argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "51fcfc8fb2ebfc2a3ec7",
+  "error": ""
+}

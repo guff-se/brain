@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Contemporaneous 2013 Hyperloop announcement explainer—useful mechanics but primarily time-bound news coverage, not durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e7d3cf649a76a5c21268",
+  "error": ""
+}

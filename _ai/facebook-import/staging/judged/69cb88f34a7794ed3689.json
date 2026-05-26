@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "drug-policy",
+    "harm-reduction",
+    "prevention"
+  ],
+  "reason": "Despite being short, it encodes a durable critique of incentive allocation in addiction policy and proposes a principle-level inversion.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "69cb88f34a7794ed3689",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "radicalization",
+    "extremism",
+    "investigative-journalism"
+  ],
+  "reason": "Long-form investigative feature on how families process children joining ISIS—durable human and social analysis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5bd18eb4b2d5148a67bc",
+  "error": ""
+}

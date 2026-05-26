@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "131-char single-sentence aphorism; under 200 with no multi-sentence argument chain, so strict own_text rules default to skip despite a causal distinction.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1268f6e843d0a5b9fe69",
+  "error": ""
+}

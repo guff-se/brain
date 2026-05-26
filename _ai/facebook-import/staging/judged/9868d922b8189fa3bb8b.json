@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A one-line 'was FUN' recap plus a local event listing has no durable insight, principle, or analysis worth keeping.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "9868d922b8189fa3bb8b",
+  "error": ""
+}

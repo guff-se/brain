@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "school-culture",
+    "education-policy"
+  ],
+  "reason": "Atlantic synthesis of Fryer’s charter-school research contrasts resource inputs with culture and practice mechanisms that still inform education debates.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c09e3bd45b947945faf0",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "argumentation",
+    "public-discourse",
+    "logical-fallacies"
+  ],
+  "reason": "Durable essay on how hypocrisy-hunting displaces substantive argument, with reusable examples beyond the 2014 news hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "02e56af3b4c25501149b",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "tax-policy",
+    "income-inequality",
+    "welfare-state"
+  ],
+  "reason": "Data-driven opinion on tax incidence and redistribution with causal claims and policy conclusions, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e8509209fb18207a043a",
+  "error": ""
+}

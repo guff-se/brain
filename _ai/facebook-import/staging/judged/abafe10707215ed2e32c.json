@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "economics",
+    "central-banking",
+    "financial-crisis"
+  ],
+  "reason": "Named economist’s explanatory video on ECB bailout mechanics and bank rescues—durable structural analysis, not event-only news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "abafe10707215ed2e32c",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "brain-computer-interface",
+    "neuroscience",
+    "bioethics"
+  ],
+  "reason": "Substantial Wired feature on BCI history, self-experimentation, and neurotech ethics—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f01bcf01fbf8a5111760",
+  "error": ""
+}

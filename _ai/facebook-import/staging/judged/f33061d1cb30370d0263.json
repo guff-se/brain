@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "religious-freedom",
+    "secularism",
+    "regulation"
+  ],
+  "reason": "Standalone edit develops a principled secularist stance—belief vs accommodation, no religious law, anti-favoritism, remove bureaucratic barriers to voluntary initiatives—beyond a news hot take.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "f33061d1cb30370d0263",
+  "error": ""
+}

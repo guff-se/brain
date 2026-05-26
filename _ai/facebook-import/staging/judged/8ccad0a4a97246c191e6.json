@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "polyamory",
+    "relationships",
+    "consent"
+  ],
+  "reason": "Evergreen explainer of recurring misconceptions and why they reflect mononormative assumptions, with durable framing beyond a news moment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8ccad0a4a97246c191e6",
+  "error": ""
+}

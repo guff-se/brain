@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "child-development",
+    "self-directed-learning"
+  ],
+  "reason": "Peter Gray's structural critique of compulsory schooling—historical origins, psychological harm, and natural learning mechanisms—is evergreen analysis, not news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7bd9d2a85907100f6fa2",
+  "error": ""
+}

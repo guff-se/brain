@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "academic-culture"
+  ],
+  "reason": "A short quip with no durable mechanism, causal analysis, or framework beyond a sarcastic hot take.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "37ff633a7ffa7a72f98b",
+  "error": ""
+}

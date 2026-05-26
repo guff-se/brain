@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "cultural-appropriation",
+    "identity-politics",
+    "media-criticism"
+  ],
+  "reason": "Substantial DN editorial with durable argument on appropriation, interpretive authority, intent, and cultural exchange—not merely a time-bound news item.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0ed11ed821d09661a325",
+  "error": ""
+}

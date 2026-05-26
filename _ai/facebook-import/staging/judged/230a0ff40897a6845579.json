@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Entertainment meme video with no durable topic, framework, or analysis in title or description.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "230a0ff40897a6845579",
+  "error": ""
+}

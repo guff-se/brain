@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "colonial-history",
+    "cultural-identity",
+    "photography"
+  ],
+  "reason": "Photo essay with durable post-colonial framing—forced dress becoming pride, uniform appropriation, and costume as ancestral memory—not mere event coverage.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "044451cfad973f75881b",
+  "error": ""
+}

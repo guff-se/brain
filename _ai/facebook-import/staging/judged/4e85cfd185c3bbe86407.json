@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "intellectual-property",
+    "media-law"
+  ],
+  "reason": "Copyriot piece uses Apjesus as a case study for copyright mechanics, news exceptions, and institutional hypocrisy—not ephemeral meme coverage alone.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4e85cfd185c3bbe86407",
+  "error": ""
+}

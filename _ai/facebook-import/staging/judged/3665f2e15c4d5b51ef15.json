@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "consciousness",
+    "identity",
+    "ecology"
+  ],
+  "reason": "Alan Watts lecture with durable mechanisms—false ego-self, organism–environment unity, and confusing symbols with reality—not time-bound news or thin entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "3665f2e15c4d5b51ef15",
+  "error": ""
+}

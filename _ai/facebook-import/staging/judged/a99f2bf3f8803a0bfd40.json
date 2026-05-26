@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sports-protest",
+    "historical-memory",
+    "solidarity"
+  ],
+  "reason": "Sandahl's column is durable historical analysis of Peter Norman's 1968 solidarity, its career cost, and how history erases forgotten allies—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a99f2bf3f8803a0bfd40",
+  "error": ""
+}

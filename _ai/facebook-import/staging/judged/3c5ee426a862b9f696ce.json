@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "political-inaction",
+    "governance",
+    "sweden"
+  ],
+  "reason": "Original parable names a durable mechanism—known danger met with inaction because acting was too bothersome—beyond headline agreement.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "3c5ee426a862b9f696ce",
+  "error": ""
+}

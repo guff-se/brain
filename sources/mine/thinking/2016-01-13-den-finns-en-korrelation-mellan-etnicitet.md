@@ -5,11 +5,12 @@ kind: "note"
 party: "first"
 register: "thinking"
 source: "facebook"
-source_id: "fb-voice-queue-49"
+source_id: "fb-1452688057"
 provenance: "extracted"
 lang: "sv"
+tags: [logical-consistency, gender, collective-responsibility]
 status: "reference"
-ingested: "2026-05-24"
+ingested: "2026-05-26"
 created: "2016-01-13"
 ---
 

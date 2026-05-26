@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "whistleblowing",
+    "press-freedom",
+    "government-transparency"
+  ],
+  "reason": "Event coverage, but Ellsberg's moral framework on leaks, secrecy, and press freedom is durable analysis worth keeping.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d5e23837f4b7992db454",
+  "error": ""
+}

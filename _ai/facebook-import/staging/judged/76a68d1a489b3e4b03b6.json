@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "work-culture",
+    "sociology",
+    "post-work"
+  ],
+  "reason": "Substantive interview on Roland Paulsen's framework—productivity gains vs. hours worked, ideological 'arbetslinjen,' pretense at work, and reduced work as a social goal—durable sociological analysis, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "76a68d1a489b3e4b03b6",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "internet-culture",
+    "communication",
+    "epistemology"
+  ],
+  "reason": "Wikipedia defines a durable principle about how parody and sincerity blur online—useful reference framework, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2cec48d5bdccdd59ef81",
+  "error": ""
+}

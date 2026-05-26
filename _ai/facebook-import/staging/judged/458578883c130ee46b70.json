@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gender-equality",
+    "feminism",
+    "multiculturalism"
+  ],
+  "reason": "Substantive SVD op-ed linking marriage-law reform to mechanisms of patriarchal polygamy and immigrant women's vulnerability—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "458578883c130ee46b70",
+  "error": ""
+}

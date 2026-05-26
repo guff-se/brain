@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary (~120 chars) offers a crisp TTIP reframe but no developed mechanism beyond a slogan-level hot take, so length and paired rules default to skip.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "9b1f8c36ba96daf8c4a7",
+  "error": ""
+}

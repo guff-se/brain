@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters with only rhetorical hot takes—no mechanism, argument chain, or durable insight beyond dismissing football and gendered coverage.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "047ce10d9bdbea6b526e",
+  "error": ""
+}

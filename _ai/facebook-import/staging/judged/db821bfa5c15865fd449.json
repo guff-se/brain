@@ -1,15 +1,11 @@
 {
-  "verdict": "save",
-  "confidence": 0.95,
-  "register_hint": "consumed",
-  "kind_hint": "clipping",
-  "tags_hint": [
-    "technology-culture",
-    "participation",
-    "passivity"
-  ],
-  "reason": "A timeless principle about how passive consumption via machinery atrophies participatory culture — durable, causal, and reveals Gustaf's intellectual interests.",
-  "model": "claude-haiku-4-5",
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Quote-only post with no Gustaf framing or argument; Huxley's insight, not durable vault material as his own thinking.",
+  "model": "auto",
   "item_type": "own_text",
   "content_sha": "db821bfa5c15865fd449",
   "error": ""

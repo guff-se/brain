@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters and mostly a 2016 festival invite plus build teaser—promotional/logistical, not durable insight or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "15e0516641afd5208e12",
+  "error": ""
+}

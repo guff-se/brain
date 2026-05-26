@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf's line is bare link praise with no reasoning, and the Elite Daily op-ed is time-bound culture-war venting rather than durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "867b3c2652d0b6fe9b16",
+  "error": ""
+}

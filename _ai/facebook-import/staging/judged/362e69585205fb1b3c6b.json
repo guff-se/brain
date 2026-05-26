@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "propaganda",
+    "information-warfare",
+    "sweden"
+  ],
+  "reason": "Substantive analysis of propaganda mechanisms, institutional gaps, and cultural vulnerability—not merely 2014 crisis reporting.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "362e69585205fb1b3c6b",
+  "error": ""
+}

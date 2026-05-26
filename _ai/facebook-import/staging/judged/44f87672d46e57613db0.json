@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2013 court-news recap of Alabama striking an anti-sodomy statute—time-bound event reporting with little mechanism or lasting insight beyond dated legal facts.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "44f87672d46e57613db0",
+  "error": ""
+}

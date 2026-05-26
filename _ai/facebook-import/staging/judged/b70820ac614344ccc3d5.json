@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "conspiracy-theories",
+    "mental-health",
+    "political-commentary"
+  ],
+  "reason": "Standalone edit exceeds 200 chars and states an explicit diagnostic mechanism (clustered fixed beliefs → schizospectrum) rather than a bare reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "b70820ac614344ccc3d5",
+  "error": ""
+}

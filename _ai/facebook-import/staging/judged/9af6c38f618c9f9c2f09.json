@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "non-monogamy",
+    "relationships"
+  ],
+  "reason": "Paired commentary restates an article statistic and adds only a rhetorical dinner-table question—no framing or reasoning beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "9af6c38f618c9f9c2f09",
+  "error": ""
+}

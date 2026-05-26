@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on ephemeral 2014 debate news is a short ironic retort, not durable reasoning about mechanisms or principles.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "5d8e24c03eb1bd214342",
+  "error": ""
+}

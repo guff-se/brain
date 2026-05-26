@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-distribution",
+    "drm",
+    "cultural-criticism"
+  ],
+  "reason": "Beyond the comic rant, the piece argues a durable mechanism—studios and platforms prioritize lock-in and regional walls over actually selling access.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8d01c8606e9ee3ae84e4",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A time-bound weekend volunteer request for a build project, with no durable ideas or principles beyond logistics.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "32225df76ac0f09fbe64",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired share intro and mystery hook only—no mechanism, principle, or framing beyond pointing friends at the Wikipedia story.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7b38678f30a786c4436e",
+  "error": ""
+}

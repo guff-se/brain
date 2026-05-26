@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ephemeral 2013 news anecdote about the horse-meat scandal—event report with no durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "96d4bc1fbe53bf7febed",
+  "error": ""
+}

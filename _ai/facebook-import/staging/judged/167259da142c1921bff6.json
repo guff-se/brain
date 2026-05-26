@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "participatory-governance",
+    "collective-action",
+    "networks"
+  ],
+  "reason": "Documentary on distributed participation, fan-owned organizations, and participatory governance—durable mechanisms and principles, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "167259da142c1921bff6",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [],
+  "reason": "Fetched content is only a redirect/moved notice with no durable analysis or principles to preserve.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "39bf3972cb89d4d032ec",
+  "error": ""
+}

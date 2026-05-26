@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Reactive praise on a 2016 news leak with no analysis, principle, or insight worth preserving.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "8b30ff45c658a513cd2c",
+  "error": ""
+}

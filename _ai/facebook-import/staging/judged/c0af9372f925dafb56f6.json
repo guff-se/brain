@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "alan-watts",
+    "consciousness",
+    "philosophy"
+  ],
+  "reason": "Licensed Alan Watts speech on consciousness and the nature of life—named thinker and durable ideas, not generic entertainment despite motivational packaging.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "c0af9372f925dafb56f6",
+  "error": ""
+}

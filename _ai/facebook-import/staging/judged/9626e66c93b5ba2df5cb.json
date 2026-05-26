@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Viral 2015 meme roundup with embedded pop-science tweets, not durable analysis or a mechanism worth keeping.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9626e66c93b5ba2df5cb",
+  "error": ""
+}

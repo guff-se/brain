@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "education"
+  ],
+  "reason": "Too short and mainly a rhetorical jab at a union campaign with no developed mechanism or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5a616fe3fbb068165435",
+  "error": ""
+}

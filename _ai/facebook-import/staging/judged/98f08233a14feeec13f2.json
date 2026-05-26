@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "In-store product promo and invitation; transactional retail notice, not durable knowledge or analysis.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "98f08233a14feeec13f2",
+  "error": ""
+}

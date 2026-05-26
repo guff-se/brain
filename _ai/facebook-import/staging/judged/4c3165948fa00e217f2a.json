@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "mass-surveillance",
+    "democracy",
+    "privacy"
+  ],
+  "reason": "Substantive debate op-ed on FRA, parliamentary deception, and democratic power shifts—not merely a time-bound news blip.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4c3165948fa00e217f2a",
+  "error": ""
+}

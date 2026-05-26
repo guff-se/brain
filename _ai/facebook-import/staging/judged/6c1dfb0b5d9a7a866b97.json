@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "universal-basic-income",
+    "economics",
+    "future-of-work"
+  ],
+  "reason": "Keynote on UBI with India pilot analysis and work/automation framing — durable policy topic, not entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "6c1dfb0b5d9a7a866b97",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional crowdfunding appeal for a friend with no durable insight; under 200 chars and no reasoning chain.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7f90d73c1f59e46058d0",
+  "error": ""
+}

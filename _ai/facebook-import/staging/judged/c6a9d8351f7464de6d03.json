@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "technology",
+    "communication",
+    "human-connection"
+  ],
+  "reason": "Short essay offers a durable reframe of techno-pessimism—devices as connection tools—with reasoning beyond a headline or hot take.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c6a9d8351f7464de6d03",
+  "error": ""
+}

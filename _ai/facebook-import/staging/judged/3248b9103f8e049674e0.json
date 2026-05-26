@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "cultural-funding",
+    "grants"
+  ],
+  "reason": "Thin institutional posts about grant calls and award decisions—logistical, time-bound announcements, not durable analysis or ideas.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3248b9103f8e049674e0",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sex-work",
+    "human-rights",
+    "policy"
+  ],
+  "reason": "Substantive debate op-ed with mechanisms, evidence, and durable policy framing on decriminalization—not a fleeting news blurb.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f2eb44956356dcb94b96",
+  "error": ""
+}

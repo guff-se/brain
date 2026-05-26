@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf only restates the headline in one line with no perspective or principle; the share is mainly time-bound 2015 security news.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "e009e359f571ee01b055",
+  "error": ""
+}

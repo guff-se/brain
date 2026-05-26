@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "migration",
+    "media-framing",
+    "demographics"
+  ],
+  "reason": "Sandahl’s column moves beyond 2015 news hooks into durable analysis of media dehumanization, the European demographic paradox, and how iconic images encode collective guilt.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6aea35cbb321575a8d35",
+  "error": ""
+}

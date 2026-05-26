@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "role-playing",
+    "participatory-culture",
+    "constructed-reality"
+  ],
+  "reason": "Paired commentary links RPG, invented reality, and open creation to a generational worldview—not just praise for the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "336f4a0e527279d42f00",
+  "error": ""
+}

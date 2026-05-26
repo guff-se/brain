@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Teaser framing for an external 'map' with no principle, analysis, or durable insight in the text itself.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "109ce7f75c7a73548d5d",
+  "error": ""
+}

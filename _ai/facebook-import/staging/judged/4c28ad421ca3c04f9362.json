@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.76,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "participatory-culture",
+    "festivals"
+  ],
+  "reason": "Beyond dated trip logistics, the numbered lessons encode durable playa patterns—pacing, FOMO at scale, autonomy, and navigation—that remain useful reference for Burning Man culture.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4c28ad421ca3c04f9362",
+  "error": ""
+}

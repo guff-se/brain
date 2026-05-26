@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched description is only production credits for a Herngren/Falck comedy short; title does not establish durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "734b66fe6e1d0075a918",
+  "error": ""
+}

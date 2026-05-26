@@ -339,6 +339,17 @@ The bulk pass is long enough that **token-limit failures or session restarts wil
 - Don't delete `staging/fetched_meta/`, `staging/judged/`, or `staging/fetched/` mid-run.
 - Don't manually edit cache files — only the rubric prompt invalidates them logically, and even then, the script doesn't auto-detect it. To force re-judgment of a subset, delete the matching `staging/judged/<sha>.json` files.
 
+### 7.9 Import v2 reset (2026-05-25)
+
+v1 bulk mis-routed link shares (commentary-only `mine/thinking` stubs, fetched articles dropped). Reset:
+
+1. `tools/fb_reset_v1.py` — quarantine `source: facebook` notes, delete `judged/` **save** entries (keep `skip` + `shared_article`/`consumed` saves), archive `run_log.jsonl`.
+2. `fb_bulk.py` v2 — link-share pairing (v2.1): **commentary on a URL → both article+comment save, or neither**; article fail + short comment → skip both; article fail + long comment → standalone thinking only if commentary passes strict rubric; bare link → article only. `own_text` hard-skip <80, strict judge <200; main1/main2 dedupe.
+3. Stricter `fb_judge.py` rubric; `pairing_note: paired|standalone` on commentary judges.
+4. `fb_purge_link_stubs.py` — quarantine thinking notes with `*Shared link:*` but no `→ [[article]]`.
+
+Re-run: `.venv/bin/python tools/fb_bulk.py` (skips stay cached in `judged/`).
+
 ### 7.8 Execution order — what runs next
 1. **Phase 0.5 (done 2026-05-23):** built `tools/fb_fetch.py` (with paywall/youtube/spotify fixes), `tools/fb_judge.py` (atomic, resumable), `tools/fb_dryrun.py`. Produced 100-item dry-run + 30-item calibration sample.
 2. **Phase 1 voice queue:** generate `staging/voice_queue.md`. Wait for your edits.

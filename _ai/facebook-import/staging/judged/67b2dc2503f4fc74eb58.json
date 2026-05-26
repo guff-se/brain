@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.7,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "school-system",
+    "institutional-critique"
+  ],
+  "reason": "Title frames a structural thesis—that schooling is obsolete—not breaking news; DN Insidan essay signal fits durable education analysis despite paywall.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "67b2dc2503f4fc74eb58",
+  "error": ""
+}

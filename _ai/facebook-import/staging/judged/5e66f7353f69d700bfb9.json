@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Time-bound membership deadline logistics with no analysis, mechanism, or durable knowledge beyond a 2015 admin notice.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5e66f7353f69d700bfb9",
+  "error": ""
+}

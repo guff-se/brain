@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "organizational-design",
+    "social-business",
+    "enterprise-transformation"
+  ],
+  "reason": "Substantive framework on a continuum from traditional to connected organizations, with causal reasoning on scale, control, and employee networks—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ba3cfbe7d70326b5444a",
+  "error": ""
+}

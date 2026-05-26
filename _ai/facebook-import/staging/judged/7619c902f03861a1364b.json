@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "intellectual-property",
+    "patents",
+    "entrepreneurship"
+  ],
+  "reason": "Paired commentary but adds a durable institutional critique—IP as bullying, not innovation—with causal claims beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7619c902f03861a1364b",
+  "error": ""
+}

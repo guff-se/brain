@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under-200-character social praise about someone with no reasoning, insight, or durable knowledge beyond banter.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "aa80025abb0d827b4dc1",
+  "error": ""
+}

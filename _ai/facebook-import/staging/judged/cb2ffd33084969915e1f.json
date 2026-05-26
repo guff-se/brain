@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Casual poll on transit etiquette with a generic 'do what you want' stance—social small talk, not durable insight or a non-trivial principle.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "cb2ffd33084969915e1f",
+  "error": ""
+}

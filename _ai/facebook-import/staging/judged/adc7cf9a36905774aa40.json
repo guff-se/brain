@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.84,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "drug-policy",
+    "harm-reduction",
+    "criminalization"
+  ],
+  "reason": "Standalone commentary exceeds 200 chars and reframes deaths via policy that criminalizes help-seeking, not merely reacting to the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "adc7cf9a36905774aa40",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and a single-sentence morning routine tip with no developed argument, framework, or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c48cb49936963b9950b2",
+  "error": ""
+}

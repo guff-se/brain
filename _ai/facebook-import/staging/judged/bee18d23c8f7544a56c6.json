@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "environmental-justice",
+    "oil-industry",
+    "nigeria"
+  ],
+  "reason": "Substantive Guardian investigation on structural oil-pollution inequality, corporate impunity, and double standards—not ephemeral breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bee18d23c8f7544a56c6",
+  "error": ""
+}

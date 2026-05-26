@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.87,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "education",
+    "ai",
+    "learning"
+  ],
+  "reason": "CGP Grey’s title frames a structural critique of schooling and a technology-mechanism claim—durable explainer territory, not news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "cc2eb3453eaad717dffe",
+  "error": ""
+}

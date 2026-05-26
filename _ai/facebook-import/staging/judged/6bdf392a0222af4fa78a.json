@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "fascism",
+    "propaganda",
+    "narrative"
+  ],
+  "reason": "Walden's column maps fascist dramaturgy in The Lion King to how narrative perspective legitimizes violence and community myths—durable cultural-political analysis, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6bdf392a0222af4fa78a",
+  "error": ""
+}

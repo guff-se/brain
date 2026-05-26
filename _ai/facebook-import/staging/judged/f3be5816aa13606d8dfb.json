@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound grant call-out with funding figures and deadline—promotional/logistical, not durable knowledge or a stated principle.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "f3be5816aa13606d8dfb",
+  "error": ""
+}

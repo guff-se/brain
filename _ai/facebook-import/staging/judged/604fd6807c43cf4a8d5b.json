@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-line descriptive label for a Diamandis link with no Gustaf analysis, principle, or interpretive signal—bookmark metadata, not curated knowledge.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "604fd6807c43cf4a8d5b",
+  "error": ""
+}

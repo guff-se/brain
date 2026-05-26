@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "public-health",
+    "sweden"
+  ],
+  "reason": "SvD Debatt op-ed with EU comparative overdose and prevalence data challenging Sweden’s drug-policy success narrative — durable policy analysis, not a news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a7d16d622736781f883d",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "9gag meme caption with no durable analysis—entertainment, not knowledge worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b372869bd1c1b94825a2",
+  "error": ""
+}
