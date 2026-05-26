@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-05-24",
+  "last_ingest": "2026-05-26",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -580,6 +580,32 @@
       "source": "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis",
       "produced": [
         "sources/consumed/articles/your-ceo-is-suffering-from-ai-psychosis.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-26",
+      "kind": "video",
+      "source": "https://www.youtube.com/watch?v=BFU1OCkhBwo",
+      "produced": [
+        "sources/consumed/videos/2025-11-27-ai-expert-here-is-what-the-world-looks-like-in-2-years-tristan-harris.md",
+        "sources/_longform/ai-expert-here-is-what-the-world-looks-like-in-2-years-tristan-harris-transcript.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-26",
+      "kind": "note",
+      "source": "inbox/thoughts/Tankar om AI-psykos.md",
+      "produced": [
+        "sources/mine/thinking/tankar-om-ai-psykos.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-05-26",
+      "kind": "article",
+      "source": "https://en.wikipedia.org/wiki/Sycophancy_(artificial_intelligence)",
+      "produced": [
+        "sources/consumed/articles/sycophancy-artificial-intelligence.md",
+        "sources/mine/thinking/ai-sycophancy-case-studies-for-psychosis-talk.md"
       ]
     }
   ]

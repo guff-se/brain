@@ -1,3 +1,18 @@
+---
+title: "Tankar om AI-psykos"
+summary: "Utkast till föreläsning om hur samhälle, företag och individen drabbas av AI-psykos — med teman som filterbubblor, sycophancy och kapitalets roll i AI-hypen."
+kind: note
+party: first
+register: thinking
+source: manual
+provenance: inferred
+tags: [ai, ai-psychosis, lecture]
+status: fleeting
+ingested: 2026-05-26
+created: 2026-05-26
+updated: 2026-05-26
+---
+
 Idéer...
 Rubrik:
 "Att leva med AI-psykos"
