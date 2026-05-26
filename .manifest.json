@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-05-26",
+  "last_ingest": "2026-05-27",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -629,6 +629,17 @@
         "sources/_longform/we-didnt-ask-for-this-internet-transcript.md"
       ],
       "notes": "Transcript generated via whisper from MP3. Existing stub sources/consumed/podcasts/2026-02-11-we-didnt-ask-for-this-internet.md retained for Gustaf review (bad Spotify scrape)."
+    },
+    {
+      "ingest_date": "2026-05-27",
+      "kind": "article",
+      "party": "third",
+      "source": "inbox/articles/Minds in Crisis AI Impact on Mental Health.md",
+      "source_attachment": "_meta/attachments/articles/Minds in Crisis AI Impact on Mental Health.pdf",
+      "produced": [
+        "sources/consumed/articles/minds-in-crisis-ai-impact-on-mental-health.md"
+      ],
+      "notes": "PDF converted to markdown before ingest. Author: Keith Robert Head. Journal of Mental Health and Clinical Psychology 2025;9(3):34-44."
     }
   ]
 }
