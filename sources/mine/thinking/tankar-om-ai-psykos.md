@@ -24,6 +24,7 @@ Samhället har AI-psykos
 * AI-bubblan av företag som inte tjänar pengar - AI-jättarna subventionerar tokens på affärsmodeller som inte är hållbara. Lovable's omsättning är majoriteten vidareköp av tokens.
 * Våra informationsflöden har tagits över av AI.
 	* Tristan Harris - Olika generationer av AI, filtering -> generative. Den första AI-revolutionen var sociala medier, då vi lät AI filtrera vår information. Den revolutionen förlorade i.
+		* [[ai-expert-here-is-what-the-world-looks-like-in-2-years-tristan-harris-transcript]]
 	* Hur du uppfattar världen styrs av AI idag - detta är ett faktum.
 	* Hur er organisation ser marknaden idag styrs av AI.
 

@@ -607,6 +607,16 @@
         "sources/consumed/articles/sycophancy-artificial-intelligence.md",
         "sources/mine/thinking/ai-sycophancy-case-studies-for-psychosis-talk.md"
       ]
+    },
+    {
+      "ingest_date": "2026-05-26",
+      "kind": "podcast-episode",
+      "party": "third",
+      "source": "inbox/podcasts/we-didnt-ask-for-this-internet.md",
+      "note": "Enriched existing Pocket stub. Audio at _meta/attachments/podcasts/we-didnt-ask-for-this-internet.mp3. Transcript pending.",
+      "produced": [
+        "sources/consumed/podcasts/2026-02-11-we-didnt-ask-for-this-internet.md"
+      ]
     }
   ]
 }
