@@ -617,6 +617,18 @@
       "produced": [
         "sources/consumed/podcasts/2026-02-11-we-didnt-ask-for-this-internet.md"
       ]
+    },
+    {
+      "ingest_date": "2026-05-26",
+      "kind": "podcast-episode",
+      "source": "inbox/podcasts/we-didnt-ask-for-this-internet.md",
+      "source_audio": "_meta/attachments/podcasts/we-didnt-ask-for-this-internet.mp3",
+      "transcription": "mlx-community/whisper-base-mlx",
+      "produced": [
+        "sources/consumed/podcasts/we-didnt-ask-for-this-internet.md",
+        "sources/_longform/we-didnt-ask-for-this-internet-transcript.md"
+      ],
+      "notes": "Transcript generated via whisper from MP3. Existing stub sources/consumed/podcasts/2026-02-11-we-didnt-ask-for-this-internet.md retained for Gustaf review (bad Spotify scrape)."
     }
   ]
 }
