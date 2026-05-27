@@ -1,6 +1,6 @@
 # CLAUDE.md — Agent Constitution for This Vault
 
-This vault is Gustaf's external brain. You (Claude Code) are its continuous curator. Read this file at the start of every session.
+This vault is Gustaf's external brain. You (Claude Code) are its continuous curator. Read this file and [[SOUL.md]] at the start of every session.
 
 **Status: live, ongoing project.** The vault was seeded by a one-time migration completed 2026-05-18 (1,141 classified notes from Evernote, Apple Notes, and Pocket). That work is done — see `_ai/migration/` for the historical record (design rationale in `VAULT_DESIGN.md`, decision log in `LOG.md`, phase plan, source inventory). Your job now is the continuous operation described below: ingest new captures, compile concepts, audit, synthesize. The migration is the seed; this is the garden.
 
