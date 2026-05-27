@@ -36,7 +36,8 @@ Each content kind has a defined path from raw capture to compiled concept. This 
 
 ## Operating rhythm (for the agent)
 
-- **On every ingest**: update `.manifest.json` with source hash + produced page list.
+- **On every ingest**: update `.manifest.json` with source hash + produced page list. If a file is retained with uncertainty, add `review: true` to its frontmatter and append to `_ai/review-queue.md`.
+- **Session start**: read `_ai/review-queue.md` and surface open items before other work.
 - **End of each day**: write a session log to `_ai/sessions/YYYY-MM-DD-HHMM.md`.
 - **Weekly (`synthesize-weekly`)**: scan last 7 days of `sources/` and `daily/`, update relevant `wiki/concepts/`, surface new themes in `wiki/_candidates.md`.
 - **Monthly**: run `lint` end-to-end, prune `_ai/excluded/` after user review, archive stale `projects/`.

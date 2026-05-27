@@ -43,6 +43,7 @@ _meta/
 _ai/
   sessions/                  ← YYYY-MM-DD-HHMM.md, one per agent run
   reports/                   ← lint, dedupe, untagged reports
+  review-queue.md            ← items needing Gustaf's decision; read at session start
   excluded/                  ← duplicates/, stubs/ — quarantined, NEVER delete
   migration/                 ← archived 2026-05 setup: PLAN, LOG, VAULT_DESIGN, INVENTORY, README
 _originals/                  ← placeholder; raw exports not retained (see README)
@@ -64,6 +65,7 @@ source_id: "…"
 provenance: extracted|inferred|ambiguous|mixed
 tags: [kebab-case-tag, …]    # ≤3, prefer existing from _meta/taxonomy.md
 status: project|area|reference|archive|fleeting
+review: true                 # optional — add when file needs Gustaf's decision
 ingested: YYYY-MM-DD
 created: YYYY-MM-DD          # if known
 updated: YYYY-MM-DD          # if known
@@ -103,13 +105,15 @@ Apple Notes and Evernote contain a mix of all four registers. A pasted article i
 ## 4. What to do each session
 
 **At start:**
-1. Read the last entry in `_ai/sessions/`.
-2. Scan `inbox/` for new captures.
-3. Read `.manifest.json` to know what's already been ingested.
+1. Read `_ai/review-queue.md`. If there are open items, surface them to Gustaf before doing anything else.
+2. Read the last entry in `_ai/sessions/`.
+3. Scan `inbox/` for new captures.
+4. Read `.manifest.json` to know what's already been ingested.
 
 **During work:**
 - Update `.manifest.json` when you ingest a new file.
 - Log significant decisions inline in `_ai/sessions/<this-session>.md`.
+- When you retain a file you're uncertain about (duplicate, register ambiguity, borderline stub, superseded note), do two things: (1) add `review: true` to its frontmatter, and (2) append an entry to `_ai/review-queue.md` under `## Open`. Do not rely on the session log alone — Gustaf does not read session logs proactively.
 - If `inbox/` contains unsupported or unexpected file types, do not stop at detection. First try to figure out the correct import path on your own by checking `_meta/pipelines.md`, `_meta/content-kinds.md`, existing note patterns, and available tools. Convert or normalize the file into the vault's expected ingest shape when you can do so safely and traceably. Only surface a blocker when the format truly requires a human decision, external credentials, or a lossy/risky conversion.
 
 **At end:**
@@ -137,9 +141,10 @@ When invoked in this vault, these are the canonical actions:
 
 - `/ingest` — promote `inbox/<kind>/` items into `sources/<kind>/` with frontmatter, provenance, longform split. Updates `.manifest.json`. **After successfully writing the destination file, delete the original from `inbox/` so the subfolder is left empty.** If an inbox item arrives in an unsupported format, treat format handling as part of ingest: inspect the relevant pipeline docs and existing patterns, derive the safest sensible conversion path, and attempt that conversion yourself before declaring the item blocked.
 - `/compile` — scan `sources/` for recurring themes; promote to `wiki/concepts/` when 2-source rule fires; otherwise log to `wiki/_candidates.md`.
-- `/lint` — orphans, broken `[[wikilinks]]`, missing frontmatter, tags outside taxonomy, contradictions. Output to `_ai/reports/lint-YYYY-MM-DD.md`.
+- `/lint` — orphans, broken `[[wikilinks]]`, missing frontmatter, tags outside taxonomy, contradictions. Output to `_ai/reports/lint-YYYY-MM-DD.md`. Also include all files with `review: true` in frontmatter.
 - `/enrich` — fetch missing article bodies (Wayback fallback); fetch book/podcast metadata.
 - `/synthesize-weekly` — pass over last 7 days; update concepts; draft a daily synthesis note.
+- `/review` — show all open items in `_ai/review-queue.md` and all files with `review: true` in frontmatter. For each item, state what decision is needed and propose a default action. Gustaf confirms or overrides; agent executes and marks resolved.
 
 ## 7. Migration provenance (context)
 
