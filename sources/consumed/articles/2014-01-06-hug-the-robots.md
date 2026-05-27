@@ -1,6 +1,6 @@
 ---
 title: "HUG THE ROBOTS"
-summary: "I know it’s trendy to fight the system and cry that we are all becoming slaves of technology, but this attitude overlook…"
+summary: "I know it’s trendy to fight the system and cry that we are all becoming slaves of tech, but this attitude overlook…"
 kind: "article"
 party: "third"
 register: "consumed"
@@ -10,7 +10,7 @@ url: "http://web.archive.org/web/20230521030402/https://hugtherobots.tumblr.com/
 provenance: "extracted"
 enrichment: "wayback"
 lang: "en"
-tags: [technology, communication, human-connection]
+tags: [tech, communication, human-connection]
 status: "reference"
 ingested: "2026-05-26"
 created: "2014-01-06"

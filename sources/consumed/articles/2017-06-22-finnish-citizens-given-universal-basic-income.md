@@ -12,7 +12,7 @@ author: "Ben Chapman"
 provenance: "extracted"
 enrichment: "ok"
 lang: "en"
-tags: [universal-basic-income, incentives, welfare-design]
+tags: [basic-income, incentives, welfare-design]
 status: "reference"
 ingested: "2026-05-25"
 created: "2017-06-22"

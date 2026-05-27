@@ -8,7 +8,7 @@ provenance: extracted
 url: "http://cerasis.com/2014/02/12/3d-printing-and-the-supply-chain/"
 ingested: 2026-05-13
 created: 2015-06-09
-tags: [3dprinting, trends]
+tags: [3d-printing, trends]
 status: reference
 pocket_status: unread
 enrichment: archive

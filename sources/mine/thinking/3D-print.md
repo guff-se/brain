@@ -11,7 +11,7 @@ status: reference
 register: thinking
 kind: note
 party: first
-tags: [3dprinting, ideas]
+tags: [3d-printing, ideas]
 reclassified: 2026-05-18
 classify_reason: "business idea brainstorm bullets"
 classify_confidence: medium

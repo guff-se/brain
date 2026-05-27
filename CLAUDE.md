@@ -94,7 +94,7 @@ Apple Notes and Evernote contain a mix of all four registers. A pasted article i
 ### Tags
 - Lowercase, kebab-case. Diacritics stripped.
 - **Tags must be in English** unless the tag is a brand, show title, or established proper-name headline (for example `pajobbetpodden`, `starke-ledaren`, `skuggsidor`, `manniskor-maskiner-makt`). Preserve source language in note bodies/titles, and keep branded/title tags in their canonical form.
-- 2–3 tags max per note. Use specific over broad.
+- Tag every primary topic; don't tag passing mentions. A short clipping may get 2 tags; a wide-ranging book may get 10+. No hard cap — let the content decide.
 - New tag → write into `_meta/_tag_candidates.md` first. Promote to `taxonomy.md` only after ≥3 notes justify it.
 
 ### Wikilinks

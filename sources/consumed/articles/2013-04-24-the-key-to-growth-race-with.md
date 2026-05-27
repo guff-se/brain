@@ -12,7 +12,7 @@ author: "Erik Brynjolfsson"
 provenance: "extracted"
 enrichment: "ok"
 lang: "en"
-tags: [automation, economics, technology]
+tags: [automation, economics, tech]
 status: "reference"
 ingested: "2026-05-26"
 created: "2013-04-24"

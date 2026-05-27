@@ -11,7 +11,7 @@ author: "Marc Scott"
 provenance: "extracted"
 enrichment: "ok"
 lang: "en"
-tags: [digital-literacy, education, technology]
+tags: [digital-literacy, education, tech]
 status: "reference"
 ingested: "2026-05-26"
 created: "2013-08-13"

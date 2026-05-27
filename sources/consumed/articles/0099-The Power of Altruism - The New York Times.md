@@ -8,7 +8,7 @@ provenance: extracted
 url: "http://www.nytimes.com/2016/07/08/opinion/the-power-of-altruism.html?_r=0"
 ingested: 2026-05-13
 created: 2016-08-09
-tags: [altruism, capitalism, incentive, organizing]
+tags: [altruism, capitalism, incentives, organizing]
 status: reference
 pocket_status: unread
 enrichment: original

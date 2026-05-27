@@ -11,7 +11,7 @@ author: "George Dvorsky"
 provenance: "extracted"
 enrichment: "ok"
 lang: "en"
-tags: [universal-basic-income, automation, future-of-work]
+tags: [basic-income, automation, future-of-work]
 status: "reference"
 ingested: "2026-05-26"
 created: "2015-05-25"

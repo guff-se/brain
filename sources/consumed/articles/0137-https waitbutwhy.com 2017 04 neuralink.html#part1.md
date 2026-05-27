@@ -8,7 +8,7 @@ provenance: extracted
 url: "https://waitbutwhy.com/2017/04/neuralink.html#part1"
 ingested: 2026-05-13
 created: 2017-08-08
-tags: [consciousness, neuro-science]
+tags: [consciousness, neuroscience]
 status: reference
 pocket_status: unread
 enrichment: original

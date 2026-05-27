@@ -12,7 +12,7 @@ author: "Vinay Gupta"
 provenance: "extracted"
 enrichment: "wayback"
 lang: "en"
-tags: [cryptocurrency, regulation, institutional-power]
+tags: [crypto, regulation, institutional-power]
 status: "reference"
 ingested: "2026-05-25"
 created: "2017-12-17"

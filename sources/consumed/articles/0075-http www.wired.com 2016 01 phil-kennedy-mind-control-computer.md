@@ -8,7 +8,7 @@ provenance: extracted
 url: "http://www.wired.com/2016/01/phil-kennedy-mind-control-computer/"
 ingested: 2026-05-13
 created: 2016-01-27
-tags: [brain, neuro-science]
+tags: [brain, neuroscience]
 status: reference
 pocket_status: unread
 enrichment: original

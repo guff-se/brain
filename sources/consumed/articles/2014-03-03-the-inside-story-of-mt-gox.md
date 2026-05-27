@@ -14,7 +14,7 @@ author: "Robert McMillan"
 provenance: "extracted"
 enrichment: "wayback"
 lang: "en"
-tags: [bitcoin, cryptocurrency, fintech]
+tags: [bitcoin, crypto, fintech]
 status: "reference"
 ingested: "2026-05-26"
 created: "2014-03-03"

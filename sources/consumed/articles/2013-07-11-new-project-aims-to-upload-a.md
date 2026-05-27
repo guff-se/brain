@@ -11,7 +11,7 @@ author: "George Dvorsky"
 provenance: "extracted"
 enrichment: "ok"
 lang: "en"
-tags: [artificial-intelligence, neuroscience, embodiment]
+tags: [ai, neuroscience, embodiment]
 status: "reference"
 ingested: "2026-05-26"
 created: "2013-07-11"

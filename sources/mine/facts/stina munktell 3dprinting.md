@@ -1,5 +1,5 @@
 ---
-title: "stina munktell 3dprinting"
+title: "stina munktell 3d-printing"
 source: evernote
 source_id: "Privat:482"
 evernote_notebook: "Privat"
@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: [lecture, 3dprinting]
+tags: [lecture, 3d-printing]
 reclassified: 2026-05-18
 classify_reason: "talk prep notes Munktell"
 classify_confidence: high

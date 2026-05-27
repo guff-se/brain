@@ -13,7 +13,7 @@ author: "Greg Ferenstein"
 provenance: "extracted"
 enrichment: "wayback"
 lang: "en"
-tags: [privacy, history, technology]
+tags: [privacy, history, tech]
 status: "reference"
 ingested: "2026-05-25"
 created: "2017-08-15"

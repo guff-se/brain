@@ -12,7 +12,7 @@ author: "Malin Ekman"
 provenance: "extracted"
 enrichment: "ok"
 lang: "sv"
-tags: [automation, future-of-work, universal-basic-income]
+tags: [automation, future-of-work, basic-income]
 status: "reference"
 ingested: "2026-05-26"
 created: "2014-02-18"

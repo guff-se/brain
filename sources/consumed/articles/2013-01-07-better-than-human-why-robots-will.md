@@ -14,7 +14,7 @@ author: "Wired Staff"
 provenance: "extracted"
 enrichment: "wayback"
 lang: "en"
-tags: [automation, artificial-intelligence, future-of-work]
+tags: [automation, ai, future-of-work]
 status: "reference"
 ingested: "2026-05-26"
 created: "2013-01-07"

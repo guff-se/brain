@@ -11,7 +11,7 @@ author: "Alan Levinovitz"
 provenance: "extracted"
 enrichment: "wayback"
 lang: "en"
-tags: [artificial-intelligence, go, games]
+tags: [ai, go, games]
 status: "reference"
 ingested: "2026-05-26"
 created: "2014-05-12"

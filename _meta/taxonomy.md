@@ -5,7 +5,7 @@ Controlled vocabulary. **Prefer existing tags over creating new ones.** New tags
 ## Rules
 - Lowercase, kebab-case. Diacritics stripped (e.g. `precisionshalsa`, not `precisionshälsa`).
 - Tags must be in English unless the tag is a brand, show title, or established proper-name headline. Preserve source language in note bodies/titles, and keep branded/title tags in their canonical form.
-- 2–3 tags maximum per note.
+- Tag every primary topic; don't tag passing mentions. No hard cap — a clipping may get 2 tags, a wide-ranging book may get 10+.
 - Specific subtopics over broad buckets.
 - New tag → propose in `_tag_candidates.md` first.
 
@@ -18,7 +18,7 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `pajobbetpodden` | 48 |
 | `entreprenorsjakten` | 36 |
 | `future` | 31 |
-| `ai` | 27 |
+| `ai` | 32 |
 | `ai-psychosis` | 3 |
 | `lecture` | 28 |
 | `starke-ledaren` | 12 |
@@ -42,7 +42,7 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `teal` | 5 |
 | `goals` | 5 |
 | `singularity` | 5 |
-| `tech` | 5 |
+| `tech` | 10 |
 | `organizing` | 5 |
 | `corona` | 5 |
 | `grant` | 4 |
@@ -117,7 +117,7 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `self` | 2 |
 | `work` | 2 |
 | `arguing` | 2 |
-| `neuro-science` | 2 |
+| `neuroscience` | 14 |
 | `management` | 2 |
 | `meetings` | 2 |
 | `cities` | 2 |
@@ -163,7 +163,7 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `morality` | 1 |
 | `information` | 1 |
 | `knowledge` | 1 |
-| `3dprinting` | 1 |
+| `3d-printing` | 4 |
 | `engineering` | 1 |
 | `diversity` | 1 |
 | `purpose` | 1 |
@@ -189,7 +189,7 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `happiness` | 1 |
 | `electric-car` | 1 |
 | `altruism` | 1 |
-| `incentive` | 1 |
+| `incentives` | 6 |
 | `authoritarianism` | 1 |
 | `ethics` | 1 |
 | `inequality` | 1 |
@@ -245,7 +245,7 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `ikea` | 5 |
 | `nordic-mens-work` | 4 |
 | `strawbees` | 3 |
-| `crypto` | 3 |
+| `crypto` | 6 |
 | `podcast` | 3 |
 | `mkpnordic` | 3 |
 | `exploring-tech` | 3 |
@@ -265,3 +265,107 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `systems` | 1 |
 | `website` | 1 |
 | `hardware` | 1 |
+| `basic-income` | 9 |
+
+<!-- promoted from candidates 2026-05-27 — vault-wide audit, all ≥3 uses -->
+
+| `surveillance` | 24 |
+| `swedish-politics` | 16 |
+| `gender` | 13 |
+| `neuroscience` | 14 |
+| `drug-policy` | 12 |
+| `copyright` | 12 |
+| `journalism` | 10 |
+| `media-criticism` | 9 |
+| `wealth-inequality` | 9 |
+| `populism` | 8 |
+| `propaganda` | 8 |
+| `future-of-work` | 8 |
+| `epistemology` | 8 |
+| `public-health` | 8 |
+| `silicon-valley` | 7 |
+| `digital-rights` | 7 |
+| `economics` | 7 |
+| `intellectual-property` | 7 |
+| `harm-reduction` | 6 |
+| `consent` | 6 |
+| `political-economy` | 6 |
+| `education-policy` | 6 |
+| `free-speech` | 6 |
+| `immigration` | 6 |
+| `migration` | 6 |
+| `criminal-justice` | 6 |
+| `incentives` | 6 |
+| `crypto` | 6 |
+| `self-leadership` | 6 |
+| `media-literacy` | 5 |
+| `institutional-power` | 5 |
+| `civil-liberties` | 5 |
+| `decision-making` | 5 |
+| `us-foreign-policy` | 5 |
+| `whistleblowing` | 5 |
+| `financial-crisis` | 5 |
+| `wikileaks` | 5 |
+| `public-discourse` | 5 |
+| `tax-policy` | 5 |
+| `business-models` | 5 |
+| `housing-policy` | 5 |
+| `labor-market` | 5 |
+| `gifting` | 5 |
+| `3d-printing` | 4 |
+| `secularism` | 4 |
+| `geopolitics` | 4 |
+| `income-inequality` | 4 |
+| `mental-health` | 4 |
+| `stockholm` | 4 |
+| `internet-freedom` | 4 |
+| `participatory-culture` | 4 |
+| `internet-governance` | 4 |
+| `productivity` | 4 |
+| `internet-culture` | 4 |
+| `polyamory` | 4 |
+| `cognitive-bias` | 4 |
+| `privatization` | 4 |
+| `empathy` | 4 |
+| `gender-equality` | 4 |
+| `innovation` | 4 |
+| `anti-racism` | 4 |
+| `risk-perception` | 3 |
+| `attention` | 3 |
+| `startups` | 3 |
+| `political-rhetoric` | 3 |
+| `investigative-journalism` | 3 |
+| `regulatory-capture` | 3 |
+| `political-philosophy` | 3 |
+| `meritocracy` | 3 |
+| `organizational-culture` | 3 |
+| `foreign-policy` | 3 |
+| `israel-palestine` | 3 |
+| `radicalization` | 3 |
+| `human-rights` | 3 |
+| `patents` | 3 |
+| `accountability` | 3 |
+| `sustainability` | 3 |
+| `file-sharing` | 3 |
+| `gatekeeping` | 3 |
+| `nationalism` | 3 |
+| `organizational-design` | 3 |
+| `press-freedom` | 3 |
+| `racism` | 3 |
+| `meaning-making` | 3 |
+| `corporate-governance` | 3 |
+| `labor-economics` | 3 |
+| `transhumanism` | 3 |
+| `misinformation` | 3 |
+| `gig-economy` | 3 |
+| `spirituality` | 3 |
+| `cultural-criticism` | 3 |
+| `welfare` | 3 |
+| `feminism` | 3 |
+| `institutional-trust` | 3 |
+| `integration` | 3 |
+| `refugees` | 3 |
+| `migration-policy` | 3 |
+| `identity` | 3 |
+| `learning` | 3 |
+| `enshittification` | 2 |

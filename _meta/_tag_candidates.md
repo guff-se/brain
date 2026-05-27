@@ -144,6 +144,133 @@ Tags proposed by classification that need ≥3 uses to graduate to `taxonomy.md`
 - `learning` × 2 new uses — used in: `sources/mine/podcasts/pajobbetpodden-144-johanna-bolin-tingvall-ansvar-for-det-egna-larandet.md`, `sources/mine/podcasts/pajobbetpodden-146-vad-vi-vet-om-manniskor-maskiner-och-makt-sasongsavslutning.md`. Already in taxonomy at count 1 — now ≥3, meets promotion threshold.
 
 <!-- 2026-05-26: added during ingest of Ezra Klein Show podcast -->
-- `enshittification` × 2 — used in: `sources/mine/thinking/2026-02-09-we-didnt-ask-for-this-internet.md` (Gustaf's own reaction note), `sources/consumed/podcasts/we-didnt-ask-for-this-internet.md`. Meets threshold — propose for taxonomy.
+- `enshittification` × 2 — promoted to taxonomy 2026-05-27 (manual override, concept strong enough)
 - `platform-extractivism` × 1 — used in: `sources/mine/thinking/2026-02-09-we-didnt-ask-for-this-internet.md`. Monitor.
 - `internet-politics` × 1 — used in: `sources/mine/thinking/2026-02-09-we-didnt-ask-for-this-internet.md`. Monitor.
+
+<!-- 2026-05-27: vault-wide tag audit — 1000 tags in use not tracked in taxonomy or candidates -->
+<!-- Pending promotions from earlier entries: `self-leadership` ×6+, `learning` ≥3, `identity` ≥3 — promoted to taxonomy.md 2026-05-27 -->
+
+<!-- Promote-ready (≥3 uses in vault, not in taxonomy) — Gustaf to review which to add -->
+- `surveillance` × 24
+- `swedish-politics` × 16
+- `gender` × 13
+- `drug-policy` × 12
+- `neuroscience` × 14 — consolidated from `neuro-science` (retired); now in taxonomy
+- `copyright` × 12
+- `journalism` × 10
+- `media-criticism` × 9
+- `wealth-inequality` × 9
+- `populism` × 8
+- `propaganda` × 8
+- `future-of-work` × 8
+- `epistemology` × 8
+- `public-health` × 8
+- `silicon-valley` × 7
+- `digital-rights` × 7
+- `economics` × 7
+- `intellectual-property` × 7
+- `harm-reduction` × 6
+- `consent` × 6
+- `political-economy` × 6
+- `education-policy` × 6
+- `free-speech` × 6
+- `immigration` × 6
+- `migration` × 6
+- `criminal-justice` × 6
+- `media-literacy` × 5
+- `institutional-power` × 5
+- `civil-liberties` × 5
+- `decision-making` × 5
+- `basic-income` × 9 — consolidated from `universal-basic-income` (retired); now in taxonomy
+- `us-foreign-policy` × 5
+- `whistleblowing` × 5
+- `incentives` × 6 — consolidated from `incentive` (retired); now in taxonomy
+- `financial-crisis` × 5
+- `wikileaks` × 5
+- `public-discourse` × 5
+- `tech` × 10 — consolidated from `technology` (retired); already in taxonomy, count updated
+- `tax-policy` × 5
+- `business-models` × 5
+- `housing-policy` × 5
+- `ai` × 32 — consolidated from `artificial-intelligence` (retired); already in taxonomy, count updated
+- `labor-market` × 5
+- `gifting` × 5
+- `secularism` × 4
+- `geopolitics` × 4
+<!-- `basic-income` canonical resolved above (×9 total, in taxonomy) -->
+- `mental-health` × 4
+- `stockholm` × 4
+- `internet-freedom` × 4
+- `income-inequality` × 4
+- `participatory-culture` × 4
+- `internet-governance` × 4
+- `productivity` × 4
+- `internet-culture` × 4
+- `polyamory` × 4
+- `cognitive-bias` × 4
+- `privatization` × 4
+- `empathy` × 4
+- `gender-equality` × 4
+- `innovation` × 4
+- `anti-racism` × 4
+- `decriminalization` × 3
+- `risk-perception` × 3
+- `attention` × 3
+- `crypto` × 6 — consolidated from `cryptocurrency` (retired); already in taxonomy, count updated
+- `startups` × 3
+- `political-rhetoric` × 3
+- `investigative-journalism` × 3
+- `regulatory-capture` × 3
+- `political-philosophy` × 3
+- `meritocracy` × 3
+- `organizational-culture` × 3
+- `banking` × 3
+- `discrimination` × 3
+- `foreign-policy` × 3
+- `israel-palestine` × 3
+- `radicalization` × 3
+- `human-rights` × 3
+- `patents` × 3
+- `accountability` × 3
+- `sustainability` × 3
+- `file-sharing` × 3
+- `gatekeeping` × 3
+- `nationalism` × 3
+- `organizational-design` × 3
+- `press-freedom` × 3
+- `racism` × 3
+- `meaning-making` × 3
+- `3d-printing` × 4 — consolidated from `3dprinting` (retired); now in taxonomy
+- `corporate-accountability` × 3
+- `marriage` × 3
+- `cosmology` × 3
+- `corporate-governance` × 3
+- `labor-economics` × 3
+- `transhumanism` × 3
+- `media` × 3
+- `media-narrative` × 3
+- `misinformation` × 3
+- `gig-economy` × 3
+- `spirituality` × 3
+- `cultural-criticism` × 3
+- `labor` × 3
+- `welfare` × 3
+- `feminism` × 3
+- `institutional-trust` × 3
+- `language` × 3
+- `integration` × 3
+- `refugees` × 3
+- `migration-policy` × 3
+
+<!-- 2026-05-27: promoted ~95 tags to taxonomy. Deliberately left in candidates (redundant or too narrow): -->
+- `marriage` × 3 — too narrow
+- `cosmology` × 3 — too niche
+- `corporate-accountability` × 3 — redundant with `accountability`
+- `media` × 3 — redundant with `journalism` + `media-criticism`
+- `media-narrative` × 3 — redundant with `media-criticism`
+- `labor` × 3 — too broad; prefer `labor-market` / `labor-economics`
+- `language` × 3 — too broad, no clear concept cluster
+- `decriminalization` × 3 — sub-topic of `drug-policy` / `harm-reduction`
+<!-- `enshittification` × 2 — promoted 2026-05-27 -->
+<!-- 890 tags with 1-2 uses not listed individually. Most are one-off client names, event notes, and facts-register material. Audit against _ai/excluded/ stubs before promoting. -->

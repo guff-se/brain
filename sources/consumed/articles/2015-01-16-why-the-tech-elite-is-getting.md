@@ -13,7 +13,7 @@ author: "Nathan Schneider"
 provenance: "extracted"
 enrichment: "wayback"
 lang: "en"
-tags: [universal-basic-income, automation, silicon-valley]
+tags: [basic-income, automation, silicon-valley]
 status: "reference"
 ingested: "2026-05-26"
 created: "2015-01-16"

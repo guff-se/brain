@@ -11,7 +11,7 @@ guests: ["Cory Doctorow", "Tim Wu"]
 publication: "The New York Times"
 url: "https://open.spotify.com/episode/3AsUwTaCWnbVXwaoVa51kx"
 provenance: extracted
-tags: [internet, economy, power]
+tags: [enshittification, internet, economy, power, digital-rights, platform-extractivism]
 status: reference
 created: "2026-02-06"
 ingested: "2026-05-26"

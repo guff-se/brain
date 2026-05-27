@@ -11,7 +11,7 @@ author: "TEDx Talks"
 provenance: "extracted"
 enrichment: "ok"
 lang: "en"
-tags: [universal-basic-income, economics, rutger-bregman]
+tags: [basic-income, economics, rutger-bregman]
 status: "reference"
 ingested: "2026-05-26"
 created: "2014-11-16"

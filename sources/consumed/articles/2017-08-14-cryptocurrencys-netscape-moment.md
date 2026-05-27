@@ -12,7 +12,7 @@ author: "Elad Gil"
 provenance: "extracted"
 enrichment: "ok"
 lang: "en"
-tags: [cryptocurrency, venture-capital, technology-cycles]
+tags: [crypto, venture-capital, technology-cycles]
 status: "reference"
 ingested: "2026-05-25"
 created: "2017-08-14"

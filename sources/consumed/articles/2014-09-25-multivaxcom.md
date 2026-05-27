@@ -10,7 +10,7 @@ url: "http://www.multivax.com/last_question.html"
 provenance: "extracted"
 enrichment: "ok"
 lang: "en"
-tags: [science-fiction, entropy, artificial-intelligence]
+tags: [science-fiction, entropy, ai]
 status: "reference"
 ingested: "2026-05-26"
 created: "2014-09-25"
