@@ -2,6 +2,7 @@
 title: "Yuval Noah Harari on the Mistake Strongmen Keep Making — Full Transcript"
 kind: transcript
 party: third
+register: consumed
 source: whisper-transcription
 provenance: extracted
 source_audio: "_meta/attachments/podcasts/yuval-noah-harari-on-the-mistake-strongmen-keep-making.mp3"
@@ -15,6 +16,7 @@ created: "2026-05-26"
 ingested: "2026-05-27"
 transcription_model: "mlx-community/whisper-base-mlx"
 language: en
+duration_minutes: 113
 tags: [ai, politics, political-philosophy, nationalism, geopolitics, populism, power, history, israel-palestine, social-media, attention, future, philosophy, religion]
 ---
 
