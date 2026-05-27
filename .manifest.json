@@ -640,6 +640,19 @@
         "sources/consumed/articles/minds-in-crisis-ai-impact-on-mental-health.md"
       ],
       "notes": "PDF converted to markdown before ingest. Author: Keith Robert Head. Journal of Mental Health and Clinical Psychology 2025;9(3):34-44."
+    },
+    {
+      "ingest_date": "2026-05-27",
+      "kind": "podcast-episode",
+      "party": "third",
+      "source": "inbox/podcasts/yuval-noah-harari-on-the-mistake-strongmen-keep-making.md",
+      "source_audio": "_meta/attachments/podcasts/yuval-noah-harari-on-the-mistake-strongmen-keep-making.mp3",
+      "transcription": "mlx-community/whisper-base-mlx",
+      "produced": [
+        "sources/consumed/podcasts/yuval-noah-harari-on-the-mistake-strongmen-keep-making.md",
+        "sources/_longform/yuval-noah-harari-on-the-mistake-strongmen-keep-making-transcript.md"
+      ],
+      "notes": "Raw MP3 normalized out of inbox into _meta/attachments/podcasts/, transcribed locally, then ingested into canonical podcast + transcript notes."
     }
   ]
 }
