@@ -8,6 +8,7 @@ show: "Påjobbetpodden"
 episode_number: 119
 language: sv
 ingested: 2026-05-19
+tags: [pajobbetpodden, starke-ledaren, values, leadership, diversity, inclusion]
 ---
 
 # Transcript: Ishtar Touailat — När värderingar visar vägen

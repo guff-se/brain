@@ -11,7 +11,7 @@ episode_number: 96
 host_role: guest
 host: "Charlotte Kronqvist"
 provenance: extracted
-tags: [lecture, future, philosophy]
+tags: [lecture, future, philosophy, psychology, self-leadership, learning, tech, welfare]
 status: reference
 ingested: 2026-05-19
 transcript: "[[100procentpodden-96-gustaf-tadaa-transcript]]"

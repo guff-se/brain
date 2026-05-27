@@ -8,6 +8,7 @@ show: "Påjobbetpodden"
 episode_number: 117
 language: sv
 ingested: 2026-05-19
+tags: [pajobbetpodden, starke-ledaren, organizing, entrepreneurship, organizational-design, values]
 ---
 
 # Transcript: Hugi Asgeirsson — Finansieringen och ägandets roll i verksamheten

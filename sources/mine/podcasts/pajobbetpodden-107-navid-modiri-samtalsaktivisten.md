@@ -11,7 +11,7 @@ episode_number: 107
 host_role: host
 guest: "Navid Modiri"
 provenance: extracted
-tags: [pajobbetpodden, communication, psychology]
+tags: [pajobbetpodden, communication, psychology, starke-ledaren, empathy, relationships]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-107-navid-modiri-samtalsaktivisten-transcript]]"

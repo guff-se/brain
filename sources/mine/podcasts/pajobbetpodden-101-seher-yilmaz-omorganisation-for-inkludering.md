@@ -11,7 +11,7 @@ episode_number: 101
 host_role: host
 guest: "Seher Yilmaz"
 provenance: extracted
-tags: [pajobbetpodden, organizing, culture]
+tags: [pajobbetpodden, organizing, anti-racism, organizational-culture, diversity, leadership]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-101-seher-yilmaz-omorganisation-for-inkludering-transcript]]"

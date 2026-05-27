@@ -11,7 +11,7 @@ episode_number: 109
 host_role: host
 guest: null
 provenance: extracted
-tags: [pajobbetpodden, starke-ledaren, leadership]
+tags: [pajobbetpodden, starke-ledaren, leadership, masculinity, psychology, values]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-109-vem-ar-den-starke-ledaren-transcript]]"

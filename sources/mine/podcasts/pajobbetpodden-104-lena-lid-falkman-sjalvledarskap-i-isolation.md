@@ -11,7 +11,7 @@ episode_number: 104
 host_role: host
 guest: "Lena Lid Falkman"
 provenance: extracted
-tags: [pajobbetpodden, corona, self-leadership]
+tags: [pajobbetpodden, corona, self-leadership, psychology, future-of-work, trust]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-104-lena-lid-falkman-sjalvledarskap-i-isolation-transcript]]"

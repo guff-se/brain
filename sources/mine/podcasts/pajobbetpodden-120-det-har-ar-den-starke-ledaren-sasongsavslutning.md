@@ -11,7 +11,7 @@ episode_number: 120
 host_role: host
 guest: "Åsa Lundquist Coey"
 provenance: extracted
-tags: [pajobbetpodden, starke-ledaren, leadership]
+tags: [pajobbetpodden, starke-ledaren, leadership, values, organizational-design, authenticity]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-120-det-har-ar-den-starke-ledaren-sasongsavslutning-transcript]]"

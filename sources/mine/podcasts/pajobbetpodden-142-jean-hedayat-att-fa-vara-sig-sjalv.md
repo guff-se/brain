@@ -11,7 +11,7 @@ episode_number: 142
 host_role: host
 guest: "Jean Hedayat"
 provenance: extracted
-tags: [pajobbetpodden, manniskor-maskiner-makt, trust]
+tags: [pajobbetpodden, manniskor-maskiner-makt, trust, organizational-culture, leadership, co-creation]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-142-jean-hedayat-att-fa-vara-sig-sjalv-transcript]]"

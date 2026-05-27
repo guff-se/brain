@@ -8,6 +8,7 @@ show: "Påjobbetpodden"
 episode_number: 120
 language: sv
 ingested: 2026-05-19
+tags: [pajobbetpodden, starke-ledaren, leadership, values, organizational-design, authenticity]
 ---
 
 # Transcript: Det här är den starke ledaren — Säsongsavslutning

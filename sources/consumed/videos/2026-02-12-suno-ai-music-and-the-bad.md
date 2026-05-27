@@ -12,7 +12,7 @@ author: "Adam Neely"
 provenance: "extracted"
 enrichment: "ok"
 lang: "en"
-tags: [ai-music, labor, creativity]
+tags: [ai-music, labor, creativity, copyright, ai, future]
 status: "reference"
 ingested: "2026-05-25"
 created: "2026-02-12"

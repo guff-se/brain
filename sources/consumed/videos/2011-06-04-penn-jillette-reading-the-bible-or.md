@@ -14,6 +14,7 @@ provenance: "extracted"
 enrichment: "ok"
 lang: "en"
 status: "reference"
+tags: [atheism, religion, critical-thinking]
 ingested: "2026-05-24"
 created: "2011-06-04"
 ---

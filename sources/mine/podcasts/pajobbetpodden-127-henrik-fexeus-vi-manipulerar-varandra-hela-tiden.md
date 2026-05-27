@@ -11,7 +11,7 @@ episode_number: 127
 host_role: host
 guest: "Henrik Fexeus"
 provenance: extracted
-tags: [pajobbetpodden, skuggsidor, communication]
+tags: [pajobbetpodden, skuggsidor, communication, psychology, empathy, relationships]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-127-henrik-fexeus-vi-manipulerar-varandra-hela-tiden-transcript]]"

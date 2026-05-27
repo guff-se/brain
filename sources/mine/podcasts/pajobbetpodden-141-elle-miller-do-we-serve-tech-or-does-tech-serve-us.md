@@ -11,7 +11,7 @@ episode_number: 141
 host_role: host
 guest: "Elle Miller"
 provenance: extracted
-tags: [pajobbetpodden, manniskor-maskiner-makt, power]
+tags: [pajobbetpodden, manniskor-maskiner-makt, power, tech, organizational-design, relationships]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-141-elle-miller-do-we-serve-tech-or-does-tech-serve-us-transcript]]"

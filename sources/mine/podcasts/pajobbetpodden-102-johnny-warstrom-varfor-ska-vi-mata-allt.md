@@ -11,7 +11,7 @@ episode_number: 102
 host_role: host
 guest: "Johnny Warström"
 provenance: extracted
-tags: [pajobbetpodden, co-creation, values]
+tags: [pajobbetpodden, organizing, co-creation, values, meetings, startups, facilitation]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-102-johnny-warstrom-varfor-ska-vi-mata-allt-transcript]]"

@@ -11,7 +11,7 @@ episode_number: 132
 host_role: host
 guest: "Maria Fors Brandebo"
 provenance: extracted
-tags: [pajobbetpodden, leadership, skuggsidor]
+tags: [pajobbetpodden, leadership, skuggsidor, management, psychology, organizational-culture]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-132-maria-fors-brandebo-destruktivt-ledarskap-transcript]]"

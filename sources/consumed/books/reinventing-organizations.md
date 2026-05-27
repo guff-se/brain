@@ -10,7 +10,7 @@ author: "Frederic Laloux"
 publisher: "Nelson Parker"
 created: 2014
 ingested: 2026-05-22
-tags: [teal, organizing, leadership]
+tags: [teal, organizing, leadership, self-leadership, organizational-design, organizational-culture, advice-process, consciousness, philosophy, management, entrepreneurship]
 attachment: "Reinventing Organizations.pdf"
 ---
 

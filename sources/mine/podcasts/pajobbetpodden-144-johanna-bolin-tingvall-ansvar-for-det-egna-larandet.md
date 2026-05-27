@@ -11,7 +11,7 @@ episode_number: 144
 host_role: host
 guest: "Johanna Bolin Tingvall"
 provenance: extracted
-tags: [pajobbetpodden, manniskor-maskiner-makt, learning]
+tags: [pajobbetpodden, manniskor-maskiner-makt, learning, organizational-culture, self-leadership, future-of-work]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-144-johanna-bolin-tingvall-ansvar-for-det-egna-larandet-transcript]]"

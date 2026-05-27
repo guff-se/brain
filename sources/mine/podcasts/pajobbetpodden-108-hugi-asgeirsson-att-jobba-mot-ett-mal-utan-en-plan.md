@@ -11,7 +11,7 @@ episode_number: 108
 host_role: host
 guest: "Hugi Asgeirsson"
 provenance: extracted
-tags: [pajobbetpodden, the-borderland, organizing]
+tags: [pajobbetpodden, the-borderland, organizing, self-leadership, advice-process, holacracy]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-108-hugi-asgeirsson-att-jobba-mot-ett-mal-utan-en-plan-transcript]]"

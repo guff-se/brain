@@ -11,7 +11,7 @@ episode_number: 124
 host_role: host
 guest: "Åsa Nilsonne"
 provenance: extracted
-tags: [pajobbetpodden, psychology, skuggsidor]
+tags: [pajobbetpodden, psychology, skuggsidor, consciousness, self-leadership, philosophy]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-124-asa-nilsonne-smartans-kraft-transcript]]"

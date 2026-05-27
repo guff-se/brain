@@ -11,7 +11,7 @@ episode_number: 143
 host_role: host
 guest: "Christian Landgren"
 provenance: extracted
-tags: [pajobbetpodden, manniskor-maskiner-makt, power]
+tags: [pajobbetpodden, manniskor-maskiner-makt, power, open-source, education, digital-rights]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-143-christian-landgren-maktstrukturer-mot-open-source-transcript]]"

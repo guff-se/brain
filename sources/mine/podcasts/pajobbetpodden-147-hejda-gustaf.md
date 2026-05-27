@@ -11,7 +11,7 @@ episode_number: 147
 host_role: host
 guest: null
 provenance: extracted
-tags: [pajobbetpodden, leadership, self-leadership]
+tags: [pajobbetpodden, leadership, self-leadership, skuggsidor, consciousness, relationships]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-147-hejda-gustaf-transcript]]"

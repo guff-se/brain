@@ -11,7 +11,7 @@ episode_number: 129
 host_role: host
 guest: "Sofi Franzén"
 provenance: extracted
-tags: [pajobbetpodden, leadership, skuggsidor]
+tags: [pajobbetpodden, leadership, skuggsidor, entrepreneurship, self-leadership, psychology]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-129-sofi-franzen-att-aldrig-vara-nojd-transcript]]"

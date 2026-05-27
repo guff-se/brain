@@ -11,7 +11,7 @@ author: "The Diary Of A CEO"
 provenance: extracted
 enrichment: ok
 language: en
-tags: [ai-safety, governance, future]
+tags: [ai-safety, governance, future, ai, labor-market, future-of-work, attention, political-economy]
 status: reference
 ingested: 2026-05-26
 created: 2025-11-27

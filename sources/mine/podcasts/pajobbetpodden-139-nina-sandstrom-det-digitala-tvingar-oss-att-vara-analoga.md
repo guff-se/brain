@@ -11,7 +11,7 @@ episode_number: 139
 host_role: host
 guest: "Nina Sandström"
 provenance: extracted
-tags: [pajobbetpodden, manniskor-maskiner-makt, facilitation]
+tags: [pajobbetpodden, manniskor-maskiner-makt, facilitation, learning, co-creation, relationships]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-139-nina-sandstrom-det-digitala-tvingar-oss-att-vara-analoga-transcript]]"

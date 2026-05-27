@@ -8,6 +8,7 @@ show: "Påjobbetpodden"
 episode_number: 121
 language: sv
 ingested: 2026-05-19
+tags: [pajobbetpodden, leadership, relationships]
 ---
 
 # Transcript: Hejdå Kristina

@@ -11,7 +11,7 @@ episode_number: 117
 host_role: host
 guest: "Hugi Asgeirsson"
 provenance: extracted
-tags: [pajobbetpodden, starke-ledaren, organizing]
+tags: [pajobbetpodden, starke-ledaren, organizing, entrepreneurship, organizational-design, values]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-117-hugi-asgeirsson-finansieringen-och-agandets-roll-i-verksamheten-transcript]]"

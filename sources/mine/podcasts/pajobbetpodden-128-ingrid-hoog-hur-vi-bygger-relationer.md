@@ -11,7 +11,7 @@ episode_number: 128
 host_role: host
 guest: "Ingrid Höög"
 provenance: extracted
-tags: [pajobbetpodden, leadership, relationships]
+tags: [pajobbetpodden, leadership, relationships, organizational-culture, co-creation, work]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-128-ingrid-hoog-hur-vi-bygger-relationer-transcript]]"

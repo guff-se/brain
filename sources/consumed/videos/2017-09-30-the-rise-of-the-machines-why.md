@@ -16,6 +16,7 @@ provenance: "extracted"
 enrichment: "ok"
 lang: "en"
 status: "reference"
+tags: [automation, ai, future-of-work, labor-market, tech]
 ingested: "2026-05-25"
 created: "2017-09-30"
 ---

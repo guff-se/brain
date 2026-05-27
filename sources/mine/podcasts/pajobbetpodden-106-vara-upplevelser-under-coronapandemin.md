@@ -11,7 +11,7 @@ episode_number: 106
 host_role: host
 guest: null
 provenance: extracted
-tags: [pajobbetpodden, corona, work]
+tags: [pajobbetpodden, corona, work, future-of-work, digital, trust]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-106-vara-upplevelser-under-coronapandemin-transcript]]"

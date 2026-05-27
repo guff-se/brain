@@ -11,7 +11,7 @@ episode_number: 15
 host_role: guest
 host: "Navid Modiri"
 provenance: extracted
-tags: [lecture, philosophy, psychology]
+tags: [lecture, philosophy, psychology, epistemology, political-philosophy, communication, trust]
 status: reference
 ingested: 2026-05-19
 transcript: "[[hur-kan-vi-15-gustaf-transcript]]"

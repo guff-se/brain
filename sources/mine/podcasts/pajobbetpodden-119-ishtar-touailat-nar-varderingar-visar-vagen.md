@@ -11,7 +11,7 @@ episode_number: 119
 host_role: host
 guest: "Ishtar Touailat"
 provenance: extracted
-tags: [pajobbetpodden, starke-ledaren, values]
+tags: [pajobbetpodden, starke-ledaren, values, leadership, diversity, inclusion]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-119-ishtar-touailat-nar-varderingar-visar-vagen-transcript]]"

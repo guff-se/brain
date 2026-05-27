@@ -8,6 +8,7 @@ show: "Påjobbetpodden"
 episode_number: 118
 language: sv
 ingested: 2026-05-19
+tags: [pajobbetpodden, starke-ledaren, management, leadership, organizational-culture, values]
 ---
 
 # Transcript: Morten Werner — Dåtida och nutida ledarskapsstilar

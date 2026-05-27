@@ -11,7 +11,7 @@ episode_number: 100
 host_role: host
 guest: null
 provenance: extracted
-tags: [pajobbetpodden, entrepreneurship, self-leadership]
+tags: [pajobbetpodden, entrepreneurship, self-leadership, work, productivity]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-100-jubileumsavsnitt-med-gustaf-tadaa-transcript]]"

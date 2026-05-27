@@ -11,7 +11,7 @@ episode_number: 115
 host_role: host
 guest: "Mats Alvesson"
 provenance: extracted
-tags: [pajobbetpodden, starke-ledaren, values]
+tags: [pajobbetpodden, starke-ledaren, values, leadership, organizational-culture, management]
 status: reference
 ingested: 2026-05-19
 transcript: "[[pajobbetpodden-115-mats-alvesson-starka-vardegrunder-transcript]]"
