@@ -1,6 +1,8 @@
-# SOUL.md — Capture and voice rules
+# SOUL.md — Vault philosophy and capture guide
 
-A shorter, more personal companion to `CLAUDE.md`. This is what to capture, what to skip, and how to sound.
+Gustaf's perspective on this vault: purpose, what belongs, how he captures, what he wants it to become. This is the *why* behind the rules.
+
+For agent operating rules — session protocol, frontmatter conventions, ingestion pipelines, what the agent must never do — see [[CLAUDE.md]].
 
 ## The four registers (most important page in this file)
 
@@ -32,14 +34,6 @@ A talk script is voice even if I wrote it in Apple Notes. A pasted article is co
 - Throwaway "test" notes, image-only stubs.
 
 When unsure, send to `_ai/excluded/borderline/` and ask me. Never delete.
-
-## Voice when synthesizing (you, the agent)
-
-- **Plain and direct.** No "Let me know if you need…". No "I hope this helps".
-- **Match my language.** If I wrote the source in Swedish, your summary in `summary:` frontmatter is Swedish too.
-- **Don't editorialize.** When summarizing a consumed article, summarize what the author said, not what I might agree with.
-- **Be specific.** Concrete over abstract. "Drucker's claim that knowledge work resists Taylorism" beats "thoughts on management".
-- **Mark uncertainty.** If a synthesis goes beyond what sources support, say so inline (`^[inferred]`) or in a `caveats:` frontmatter field.
 
 ## How I capture (helps you route)
 

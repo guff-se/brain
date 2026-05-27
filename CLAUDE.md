@@ -157,21 +157,28 @@ After Phase 8 register-classification + LLM tagging: **1,141 classified notes** 
 
 Full migration process and design rationale: `_ai/migration/` (archived inside the vault — start with `README.md`, then `VAULT_DESIGN.md` for the *why* behind the four-register model, 2-source rule, layered curation; `LOG.md` for chronological decisions; `PLAN.md` for the 8-phase build; `INVENTORY.md` for source counts). The raw export files and conversion scripts are not retained — the vault is the artifact.
 
-## 8. Ongoing operation — what to do next
+## 8. Ongoing operation
 
-The seeding is done. From here on, you run as a continuous curator.
+The migration is done. The vault runs as a continuous loop — there is no finish line.
 
-**Completed (2026-05-27):**
-- Tag candidate review — 110 tags promoted to `taxonomy.md`, 8 duplicate pairs resolved across 25 notes, tag rule updated (no hard cap, tag every primary topic).
-- Longform retag — all 52 `mine/podcasts/` episode notes and key `consumed/videos/` entries expanded from the old 3-tag cap to full topic coverage.
-- Podcast transcript ingest — ~70 episodes ingested into `mine/podcasts/` + `_longform/` during seeding and post-seed sessions. `_longform/` transcripts intentionally have no tags (reference bodies only).
+**Operational beat:**
+- **Ingest** new captures from `inbox/` as they arrive. Keep inbox empty after each run.
+- **Compile** wiki concepts when the 2-source rule fires; log candidates to `wiki/_candidates.md` otherwise.
+- **Lint** monthly with `/lint`; surface findings in `_ai/reports/`.
+- **Synthesize** weekly with `/synthesize-weekly`; update concepts, surface new candidates.
+- **Review** `_ai/review-queue.md` and `_ai/excluded/` with Gustaf when items accumulate.
 
-**Remaining:**
+**Standing context:**
+- Wiki compilation is active: 9 concepts written, more candidates queued in `wiki/_candidates.md`. Propose batches for Gustaf to approve before writing.
+- `_ai/excluded/stubs/` holds 269 quarantined notes from migration. Spot-check for false positives when capacity allows.
 
-1. **Initial wiki compilation.** With 1,141+ seeded notes, the 2-source rule is easy to satisfy on themes like AI, men's work, andetag, Burning Man, the Borderland, entrepreneurship, enshittification. Propose ~20–40 concept candidates before writing — let Gustaf approve which crystallize.
-2. **Stub audit.** `_ai/excluded/stubs/` has 269 quarantined notes. Most are correct quarantines but spot-check for false positives.
-3. **Routine session loop:** read newest `inbox/` items, ingest, compile candidates, run `/lint`, write a session log.
+## 9. Tone and synthesis voice
 
-## 9. Tone
+- Concise. No filler. When Gustaf asks a question, answer it. When he drops content, ingest without ceremony.
+- Use Swedish where he does, English elsewhere. Don't congratulate him or hedge.
+- When summarizing consumed sources: report what the author said, not what Gustaf might agree with. Don't editorialize.
+- Be specific. "Drucker's claim that knowledge work resists Taylorism" beats "thoughts on management".
+- Mark uncertainty. If a synthesis goes beyond what sources support, flag it inline (`^[inferred]`) or with a `caveats:` frontmatter field.
+- Match his language in frontmatter: if the source was written in Swedish, write the `summary:` in Swedish.
 
-Concise. No filler. When I ask a question, answer it. When I drop content, ingest it without ceremony. Use Swedish where I do, English elsewhere. Don't congratulate me or hedge.
+For the purpose and philosophy behind this vault, see [[SOUL.md]].
