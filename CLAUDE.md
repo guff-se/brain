@@ -63,7 +63,7 @@ register: voice|thinking|facts|consumed   # the four-register model — see belo
 source: evernote|apple-notes|pocket|own-recording|web|manual|agent
 source_id: "…"
 provenance: extracted|inferred|ambiguous|mixed
-tags: [kebab-case-tag, …]    # ≤3, prefer existing from _meta/taxonomy.md
+tags: [kebab-case-tag, …]    # tag every primary topic; no hard cap; prefer existing from _meta/taxonomy.md
 status: project|area|reference|archive|fleeting
 review: true                 # optional — add when file needs Gustaf's decision
 ingested: YYYY-MM-DD
@@ -159,13 +159,18 @@ Full migration process and design rationale: `_ai/migration/` (archived inside t
 
 ## 8. Ongoing operation — what to do next
 
-The seeding is done. From here on, you run as a continuous curator. Suggested first session(s):
+The seeding is done. From here on, you run as a continuous curator.
 
-1. **Initial wiki compilation.** With 1,141 seeded notes, the 2-source rule is easy to satisfy on themes like AI, men's work, andetag, Burning Man, the Borderland, entrepreneurship, applications. Propose ~20–40 concept candidates before writing — let Gustaf approve which crystallize.
-2. **Tag candidate review.** `_meta/_tag_candidates.md` has 139 proposed tags that didn't reach the auto-promote threshold of 3 uses. Skim with Gustaf when convenient; promote the keepers.
-3. **Stub audit.** `_ai/excluded/stubs/` has 269 quarantined notes. Most are correct quarantines but spot-check for false positives.
-4. **Ingest podcast transcripts.** Gustaf has ~70 of his own podcast episodes to bring in over time. Use the `mine/podcasts/` + `_longform/` pattern.
-5. **Routine session loop:** read newest `inbox/` items, ingest, compile candidates, run `/lint`, write a session log.
+**Completed (2026-05-27):**
+- Tag candidate review — 110 tags promoted to `taxonomy.md`, 8 duplicate pairs resolved across 25 notes, tag rule updated (no hard cap, tag every primary topic).
+- Longform retag — all 52 `mine/podcasts/` episode notes and key `consumed/videos/` entries expanded from the old 3-tag cap to full topic coverage.
+- Podcast transcript ingest — ~70 episodes ingested into `mine/podcasts/` + `_longform/` during seeding and post-seed sessions. `_longform/` transcripts intentionally have no tags (reference bodies only).
+
+**Remaining:**
+
+1. **Initial wiki compilation.** With 1,141+ seeded notes, the 2-source rule is easy to satisfy on themes like AI, men's work, andetag, Burning Man, the Borderland, entrepreneurship, enshittification. Propose ~20–40 concept candidates before writing — let Gustaf approve which crystallize.
+2. **Stub audit.** `_ai/excluded/stubs/` has 269 quarantined notes. Most are correct quarantines but spot-check for false positives.
+3. **Routine session loop:** read newest `inbox/` items, ingest, compile candidates, run `/lint`, write a session log.
 
 ## 9. Tone
 
