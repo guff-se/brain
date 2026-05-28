@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-05-27",
+  "last_ingest": "2026-05-28",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -653,6 +653,18 @@
         "sources/_longform/yuval-noah-harari-on-the-mistake-strongmen-keep-making-transcript.md"
       ],
       "notes": "Raw MP3 normalized out of inbox into _meta/attachments/podcasts/, transcribed locally, then ingested into canonical podcast + transcript notes."
+    },
+    {
+      "ingest_date": "2026-05-28",
+      "kind": "video",
+      "party": "third",
+      "source": "https://youtu.be/wwMAdSqOY2A?si=F6sMGItWS8j4uKin",
+      "transcription": "YouTube captions via youtube-transcript-api",
+      "produced": [
+        "sources/consumed/videos/2026-01-20-attachment-hacking-and-the-rise-of-ai-psychosis.md",
+        "sources/_longform/attachment-hacking-and-the-rise-of-ai-psychosis-transcript.md"
+      ],
+      "notes": "Transcript fetched from published YouTube captions and ingested into canonical video + longform transcript notes."
     }
   ]
 }
