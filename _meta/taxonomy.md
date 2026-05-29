@@ -369,3 +369,4 @@ Sorted by frequency. Counts include only the migration seed; will grow as new co
 | `identity` | 3 |
 | `learning` | 3 |
 | `enshittification` | 2 |
+| `new-talks-2026` | 0 |
