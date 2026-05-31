@@ -21,14 +21,9 @@ Themes surfaced during `/compile` passes that don't yet meet the 2-source rule, 
 - [[Co-creating meaning Borderland talk]] (thinking, 2015) — "Meaning Economy" appears in outline
 - Missing: a consumed source that names or develops the concept independently.
 
-**The Hackable Brain**
-- [[För att kunna hacka människor Harari]] (consumed clipping) — Harari's core argument: you just need to know someone a little better than they know themselves
-- [[Framtidspsykologi - Vad formar en framtidsbild?]] contains the line: "As AI understands us, it affects us. We can't help but adopt to its ideas about us."
-- Missing: a strong first-party voice or thinking note that develops Gustaf's own position on the hackable brain beyond passing reference. Check `Bredband 2 samabrete december 2019` and `Digital Self-Leadership`.
+**The Hackable Brain** → [[the-hackable-brain]]. Anchored in [[Bredband 2 samabrete december 2019]] (voice) + [[Digital Self-Leadership]] (voice) + [[För att kunna hacka människor Harari]] (consumed). Gustaf turns Harari's diagnosis into a leadership question.
 
-**Digital självledarskap**
-- Multiple thinking notes on notification hygiene, attention sovereignty
-- Missing: a developed voice note that frames this as Gustaf's own position, not just tactical advice.
+**Digital självledarskap** → [[digital-sjalvledarskap]]. Anchored in [[Digital Self-Leadership]] (voice, keynote) + [[Bredband 2 samabrete december 2019]] (voice) + [[2000 notifications...]] (thinking) + [[Elon is an AI]] (thinking) + [[Andrew Sullivan: My Distraction Sickness — and Yours]] (consumed).
 
 **Sårbarhet som styrka**
 - [[10 steps to Self-Organization Participatory leadership - book?]] contains the strongest formulation: "If you are not intimately connected with your inner power and your inner bullshit, you WILL infect the organization with your pathology."
