@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social event invitation with no knowledge, ideas, or reasoning — pure logistical banter.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "c4948db013a90cf0da1e",
+  "error": ""
+}

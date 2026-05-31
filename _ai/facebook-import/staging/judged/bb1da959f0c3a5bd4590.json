@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "covid-19",
+    "sweden",
+    "epidemiology"
+  ],
+  "reason": "Article fetch failed (loading-page title only); inferred topic is time-bound early-pandemic COVID death-rate analysis, not durable vault knowledge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bb1da959f0c3a5bd4590",
+  "error": ""
+}

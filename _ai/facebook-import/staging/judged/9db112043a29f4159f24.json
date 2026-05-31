@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical social ask for spirometer access for an art project—no durable insight, reasoning, or framework.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "9db112043a29f4159f24",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "conspiracy-theories",
+    "media-literacy",
+    "mockumentary"
+  ],
+  "reason": "Paywalled teaser plus Jack Werner/DN kultur signal a durable case study in how satirical mockumentary can be mistaken for real conspiracy belief, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "de53677d9e375858e9c1",
+  "error": ""
+}

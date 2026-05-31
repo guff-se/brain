@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "liberal-democracy",
+    "free-will",
+    "yuval-noah-harari"
+  ],
+  "reason": "Paired commentary restates the article's headline thesis and likely quotes Harari, ending in promotional endorsement rather than Gustaf's own framing.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "eae68d4e8b166ba833e6",
+  "error": ""
+}

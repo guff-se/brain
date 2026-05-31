@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "multilevel-marketing",
+    "pyramid-schemes",
+    "consumer-protection"
+  ],
+  "reason": "Last Week Tonight's MLM explainer names a durable structural topic—how pyramid-shaped marketing schemes operate—not ephemeral news or generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "647a933f0b62b4842b46",
+  "error": ""
+}

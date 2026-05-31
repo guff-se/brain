@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.94,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "swedish-politics",
+    "government-formation"
+  ],
+  "reason": "Breaking news report on 2018 coalition negotiations—event-bound procedural coverage with no durable analysis, mechanisms, or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4eac9ce324c461ad7caf",
+  "error": ""
+}

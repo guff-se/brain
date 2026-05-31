@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "political-economy",
+    "inequality",
+    "capitalism"
+  ],
+  "reason": "Title signals durable explanatory content on legal fictions as mechanisms behind wealth, inequality, and crises—not news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "5f1daea1305fc979f36f",
+  "error": ""
+}

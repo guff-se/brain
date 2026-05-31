@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "childrens-music",
+    "cultural-standards",
+    "aesthetics"
+  ],
+  "reason": "Substantive cultural observation with a temporal pattern claim and explicit causal question—not a quip, but thinking material on why children's music tolerates off-key singing.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "075785b835a9f3f4ff7c",
+  "error": ""
+}

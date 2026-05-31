@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under-200-char promotional show announcement with playful slogan but no argument, mechanism, or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ef84c01f332b04cd6f87",
+  "error": ""
+}

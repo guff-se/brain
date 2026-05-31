@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and purely logistical — a time-bound call for filming extras, with no argument, insight, or durable substance.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "f2681d17d3c45adb1007",
+  "error": ""
+}

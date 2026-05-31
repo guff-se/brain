@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Event-space logistics and community questions about occupancy limits, not durable ideas or analysis worth a standalone vault note.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b7d8a681b239d23342aa",
+  "error": ""
+}

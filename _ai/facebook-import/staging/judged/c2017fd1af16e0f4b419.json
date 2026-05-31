@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound local news report on a 2017 measles-exposure incident, not durable analysis or principles beyond generic public-health facts.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c2017fd1af16e0f4b419",
+  "error": ""
+}

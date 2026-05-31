@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Under 200 chars and purely logistical—lottery result plus a +1 ticket ask, with no reasoning or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b287a8b03bb0a519f02e",
+  "error": ""
+}

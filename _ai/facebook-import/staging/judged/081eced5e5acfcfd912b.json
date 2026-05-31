@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "whataboutism",
+    "rhetoric",
+    "propaganda"
+  ],
+  "reason": "Wikipedia article defines a durable rhetorical framework—mechanism, fallacy type, origins, and when counter-accusation may or may not be legitimate—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "081eced5e5acfcfd912b",
+  "error": ""
+}

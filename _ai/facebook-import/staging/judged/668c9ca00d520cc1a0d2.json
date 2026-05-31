@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "refugee-crisis",
+    "politics",
+    "far-right"
+  ],
+  "reason": "Jenny Nordberg’s decade retrospective frames causal chain reactions (Bouazizi, refugee crisis, political reversal)—durable analysis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "668c9ca00d520cc1a0d2",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Asserts UBI is inevitable but offers no mechanism or reasoning—mostly time-bound political speculation plus a Musk quote, not a developed claim.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8db92f9f60a8691b46e4",
+  "error": ""
+}

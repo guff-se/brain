@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Birthday and new-father milestone under 200 chars with no argument, mechanism, or durable insight—personal social update only.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c4accc2f2c28b2b46106",
+  "error": ""
+}

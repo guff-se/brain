@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "bureaucracy",
+    "self-organization",
+    "emergent-behavior"
+  ],
+  "reason": "Paired commentary only restates the headline as a brief rhetorical question with no developed mechanism or framing beyond what the article title already implies.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7441a935c237bcc674c0",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Reaction to a local news event (venue closure) with no mechanism, framework, or durable insight — under 200 chars and fails the causal/analytical threshold.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "dc5a339f38d5e3a2b9b7",
+  "error": ""
+}

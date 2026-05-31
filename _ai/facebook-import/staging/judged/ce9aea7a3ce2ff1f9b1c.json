@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional ANDETAG opening post with thanks and a single atmospheric line, not a developed argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ce9aea7a3ce2ff1f9b1c",
+  "error": ""
+}

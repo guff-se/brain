@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Standalone own_commentary but Gustaf adds zero words of his own — the entire text is Mo Lohaus's Burner's Prayer verbatim; no Gustaf reasoning, framing, or causal claim present.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_commentary",
+  "content_sha": "a35d1fd69f7bc958ccc1",
+  "error": ""
+}

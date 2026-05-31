@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "government-transparency",
+    "crime-statistics",
+    "accountability"
+  ],
+  "reason": "Monkey Cage analysis explains mechanisms—definitional reporting effects, transparency paradox, and comparative accountability—not just the 2017 Sweden news peg.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a2576ea5a2b0298da533",
+  "error": ""
+}

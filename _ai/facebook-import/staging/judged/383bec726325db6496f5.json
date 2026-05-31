@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "cultural-appropriation",
+    "identity-politics",
+    "anti-racism"
+  ],
+  "reason": "Kenan Malik's opinion essay offers durable historical and political analysis of cultural-appropriation debates, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "383bec726325db6496f5",
+  "error": ""
+}

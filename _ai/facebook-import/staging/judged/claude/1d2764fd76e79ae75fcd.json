@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin metadata — just documents that a tuskfish used a tool with no mechanism, framework, or analysis; observation without insight",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_video",
+  "content_sha": "1d2764fd76e79ae75fcd",
+  "error": ""
+}

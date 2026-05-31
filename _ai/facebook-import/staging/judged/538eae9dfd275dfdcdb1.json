@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "privacy",
+    "surveillance",
+    "location-tracking"
+  ],
+  "reason": "Substantive investigative analysis of how the location-data industry works, its regulatory vacuum, and lasting privacy/democratic risks—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "538eae9dfd275dfdcdb1",
+  "error": ""
+}

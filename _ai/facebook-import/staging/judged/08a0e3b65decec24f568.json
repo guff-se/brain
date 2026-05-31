@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "leadership",
+    "gender",
+    "organizational-psychology"
+  ],
+  "reason": "Chamorro-Premuzic's article reframes leadership under-representation through a durable mechanism—confidence over competence in selection—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "08a0e3b65decec24f568",
+  "error": ""
+}

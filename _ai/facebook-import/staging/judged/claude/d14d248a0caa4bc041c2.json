@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "urban-design",
+    "surveillance",
+    "community-trust"
+  ],
+  "reason": "Durable analysis of how security-by-design creates fear rather than safety — mechanism-level argument with field study evidence and structural critique of SBD policy.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "d14d248a0caa4bc041c2",
+  "error": ""
+}

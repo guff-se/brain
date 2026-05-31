@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "digital-art",
+    "nft",
+    "fine-art"
+  ],
+  "reason": "Artwork description is embedded in a time-bound exhibition and auction announcement, making it primarily promotional rather than durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ef39292ae50be027d00f",
+  "error": ""
+}

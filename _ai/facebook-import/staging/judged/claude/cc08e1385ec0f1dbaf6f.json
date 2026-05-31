@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "tech-culture",
+    "transhumanism",
+    "inequality"
+  ],
+  "reason": "Rushkoff's firsthand account of billionaire collapse-prep exposes a durable pattern: how digital-age capitalism converted collective futures into personal escape plans, with clear mechanism and cultural critique that ages well.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "cc08e1385ec0f1dbaf6f",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only one sentence—a reframing slogan about deplatforming/antitrust, not a developed multi-sentence argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8bc78b09197c8f092654",
+  "error": ""
+}

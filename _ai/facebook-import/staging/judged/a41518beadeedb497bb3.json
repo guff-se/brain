@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.76,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "finance",
+    "ethics",
+    "bank"
+  ],
+  "reason": "Luyendijk's DN kulturdebatt frames banking misconduct as systemic moral training, not individual monstrosity—a durable structural thesis despite paywalled fetch.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a41518beadeedb497bb3",
+  "error": ""
+}

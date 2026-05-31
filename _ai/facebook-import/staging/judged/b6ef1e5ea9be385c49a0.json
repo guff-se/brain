@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "SvD news report on a 2019 EU presidency sponsorship controversy—time-bound event coverage, not durable analysis of corporate influence mechanisms.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b6ef1e5ea9be385c49a0",
+  "error": ""
+}

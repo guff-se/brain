@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "nuclear-energy",
+    "sweden-history",
+    "science-history"
+  ],
+  "reason": "Substantive encyclopedic coverage of Sweden's first reactor—technical design, program context, and legacy—not ephemeral news or banter.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "52000ee5faeddf40cc35",
+  "error": ""
+}

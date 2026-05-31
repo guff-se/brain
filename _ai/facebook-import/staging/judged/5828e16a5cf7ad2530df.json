@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "book",
+  "tags_hint": [
+    "metamodernism",
+    "political-philosophy",
+    "politics"
+  ],
+  "reason": "URL slug identifies Hanzi Freinacht's The Nordic Ideology (metamodern politics guide)—durable book signal despite empty Amazon scrape.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5828e16a5cf7ad2530df",
+  "error": ""
+}

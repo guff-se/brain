@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "gig-economy",
+    "remote-work"
+  ],
+  "reason": "Logistical conference promo with a rhetorical question but no developed analysis, mechanism, or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "03af8688b38996555cb6",
+  "error": ""
+}

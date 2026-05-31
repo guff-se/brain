@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "semantics",
+    "language"
+  ],
+  "reason": "Under 200 chars and only poses discussion questions to others—no developed argument, mechanism, or Gustaf's own reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "f4a047ba94d2495ed65a",
+  "error": ""
+}

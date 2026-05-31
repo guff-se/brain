@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "terrorism",
+    "political-violence",
+    "state-power"
+  ],
+  "reason": "Harari's essay offers a durable causal framework—terrorism as theatre that weaponizes disproportionate fear and provokes enemies to misuse their strength—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cfd9c7ad394f90edbbfd",
+  "error": ""
+}

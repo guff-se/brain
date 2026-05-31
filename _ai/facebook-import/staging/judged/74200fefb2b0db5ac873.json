@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "conspiracy-theories",
+    "misinformation",
+    "epistemology"
+  ],
+  "reason": "Description names durable mechanisms—why people believe conspiracies and how to evaluate claims—matching saved LWT explainers on structural topics despite COVID framing and thin promo metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "74200fefb2b0db5ac873",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters and reads as a compact epistemological aphorism, not a developed argument with mechanism or causality.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "af3da86d9cbbb39fe3f2",
+  "error": ""
+}

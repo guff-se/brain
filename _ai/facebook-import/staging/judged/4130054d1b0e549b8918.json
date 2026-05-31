@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "burning-man",
+    "the-borderland",
+    "pricing-incentives"
+  ],
+  "reason": "Develops a causal claim about sell-out certainty killing price discipline, ties it to values conflict and a durable question about Borderland's long-term fate.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4130054d1b0e549b8918",
+  "error": ""
+}

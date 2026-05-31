@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "wealth-inequality",
+    "property-rights",
+    "sweden"
+  ],
+  "reason": "Data-backed comparison that challenges a durable misconception about Sweden's economic model, framed as research notes for a property-rights talk.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6ba88870fe3eb2fe76d7",
+  "error": ""
+}

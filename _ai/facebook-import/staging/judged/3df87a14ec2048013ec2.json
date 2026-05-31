@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "spiritual-abuse",
+    "cult-dynamics",
+    "guru-culture"
+  ],
+  "reason": "Substantive investigative reporting on manipulation, abuse, and organizational patterns in a major tantra school—not ephemeral news or a thin link.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3df87a14ec2048013ec2",
+  "error": ""
+}

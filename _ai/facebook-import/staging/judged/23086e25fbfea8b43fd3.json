@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One 112-char sentence states a factual connection without multi-sentence reasoning or developed mechanism, triggering default skip under strict own_text length rules.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "23086e25fbfea8b43fd3",
+  "error": ""
+}

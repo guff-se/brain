@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: three sentences rename sharing as rental and echo ownership inequality without framing beyond the Sunde headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "cfd3a5d6b04d81f6e3e0",
+  "error": ""
+}

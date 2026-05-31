@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Weekly satirical news clip about Swedish housing crisis — time-bound entertainment, no durable framework or analysis.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_video",
+  "content_sha": "e234252accfa97e14e68",
+  "error": ""
+}

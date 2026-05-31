@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "informed-consent",
+    "biobank-ethics",
+    "purpose-limitation"
+  ],
+  "reason": "Cantwell's column develops durable arguments about retroactive rule changes, consent scope creep, and trust in biobanks—not merely a 2016 policy announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f592bcab59895e2dff96",
+  "error": ""
+}

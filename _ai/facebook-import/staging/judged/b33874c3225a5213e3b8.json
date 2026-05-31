@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "mankind-project",
+    "fatherhood",
+    "rites-of-passage"
+  ],
+  "reason": "Time-bound promotional invitation to tag others for a specific August event, with only brief personal endorsement and no durable insight or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b33874c3225a5213e3b8",
+  "error": ""
+}

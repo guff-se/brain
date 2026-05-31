@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "management-consulting",
+    "mckinsey",
+    "corporate-responsibility"
+  ],
+  "reason": "Substantive structural analysis of how McKinsey's consulting model diffuses accountability, with historical context and expert sourcing—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "051c2628467d0aafd6df",
+  "error": ""
+}

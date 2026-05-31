@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "streaming",
+    "music-industry",
+    "creator-economy"
+  ],
+  "reason": "Research-backed structural analysis of how streaming shifts revenue and attention from new releases to catalogue, with clear economic mechanisms and policy implications.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "30b930bcbdd34b51b6a7",
+  "error": ""
+}

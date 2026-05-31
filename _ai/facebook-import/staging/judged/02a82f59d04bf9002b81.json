@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.94,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin Vimeo teaser promo for Urban Burn 2017—explicitly promotional event marketing with no durable analysis, framework, or insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "02a82f59d04bf9002b81",
+  "error": ""
+}

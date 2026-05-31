@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Well-written personal memoir about revisiting porn sites, but the RGW community observation stays anecdotal without mechanisms or durable analysis worth compounding.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b0caa3dab3e8e11dbd6e",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "psychedelics",
+    "neuroscience",
+    "consciousness"
+  ],
+  "reason": "Feilding’s piece explains entropic-brain theory, imaging findings, therapeutic mechanisms, and prohibition history—durable science and ideas, not a headline or event-only blurb.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "80869e57eb7d944b7820",
+  "error": ""
+}

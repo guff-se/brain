@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One rhetorical quip on Burning Man going mainstream; pasted kindergarten book text is context, not a developed argument or mechanism.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "9612b9b4bb739545a81a",
+  "error": ""
+}

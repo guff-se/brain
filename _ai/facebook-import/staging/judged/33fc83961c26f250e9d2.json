@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "digital-security",
+    "authoritarianism",
+    "surveillance"
+  ],
+  "reason": "Beyond the 2021 Afghanistan news hook, the piece explains durable mechanisms—digital exposure vectors, erase-vs-escape trade-offs, and NGO digital-rights gaps under authoritarian takeover.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "33fc83961c26f250e9d2",
+  "error": ""
+}

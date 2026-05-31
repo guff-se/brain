@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "May 2020 SVT policy news about a specific FHM report and ministerial positions, not durable analysis—the useful legal-history facts are incidental to a time-bound announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "816bf0e8d7c5655594da",
+  "error": ""
+}

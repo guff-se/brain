@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "open-source",
+    "tech-policy",
+    "intellectual-property"
+  ],
+  "reason": "Explains the structural mechanism by which FRAND licensing excludes open source from EU ICT standards—a durable policy and IP analysis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "29926dbc47761208ae4b",
+  "error": ""
+}

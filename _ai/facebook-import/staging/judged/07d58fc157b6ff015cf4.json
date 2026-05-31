@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: ironic three-line refrain points at the Guardian piece without mechanism or framing beyond a sarcastic hot take.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "07d58fc157b6ff015cf4",
+  "error": ""
+}

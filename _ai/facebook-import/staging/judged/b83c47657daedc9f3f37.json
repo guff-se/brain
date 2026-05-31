@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "organic-food",
+    "climate-tradeoffs",
+    "decision-complexity"
+  ],
+  "reason": "Paired commentary that only restates the headline tension and adds a generic 'nothing is simple' reaction, with no framing or reasoning beyond the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "b83c47657daedc9f3f37",
+  "error": ""
+}

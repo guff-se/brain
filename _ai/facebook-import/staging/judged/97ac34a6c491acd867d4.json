@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters with a single-sentence irony observation and no developed argument, mechanism, or causal explanation—default skip per own_text length rules.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "97ac34a6c491acd867d4",
+  "error": ""
+}

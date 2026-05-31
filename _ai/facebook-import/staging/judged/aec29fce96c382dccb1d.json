@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "policing",
+    "drug-policy",
+    "racial-profiling"
+  ],
+  "reason": "Debatt piece ties a 2016 festival case to durable claims about drug-war policing, profiling, and disproportionate security culture—not just event reporting.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "aec29fce96c382dccb1d",
+  "error": ""
+}

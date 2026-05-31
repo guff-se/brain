@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "discovery-learning",
+    "learning-theory"
+  ],
+  "reason": "Substantive Wired essay with a durable framework: industrial learn-then-do schooling vs. discovery-based learning for an uncertain world.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "37418a8870ce0c253d0a",
+  "error": ""
+}

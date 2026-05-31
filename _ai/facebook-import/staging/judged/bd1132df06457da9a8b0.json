@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "identity-politics",
+    "urban-planning",
+    "feminism"
+  ],
+  "reason": "Barth-Kron's column offers durable analysis of how identity-framed urban policy can reify group differences instead of addressing structural causes—a mechanism worth keeping beyond the 2016 snow-plowing news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bd1132df06457da9a8b0",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "ai-safety",
+    "elon-musk",
+    "large-language-models"
+  ],
+  "reason": "Ephemeral tech news reporting Musk's TruthGPT announcement and interview quotes, not durable analysis or frameworks.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c24aee843e70ca83c4b9",
+  "error": ""
+}

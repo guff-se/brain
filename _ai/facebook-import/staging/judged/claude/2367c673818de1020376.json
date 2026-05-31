@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf's own text is a single snarky quip under 80 characters; the rest is a quote from the article, no reasoning chain developed.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_commentary",
+  "content_sha": "2367c673818de1020376",
+  "error": ""
+}

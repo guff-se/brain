@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "CoinMarketCap listing page for a 2021 meme coin—promotional project copy, live price data, and buy links, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9a75b4f647134501e544",
+  "error": ""
+}

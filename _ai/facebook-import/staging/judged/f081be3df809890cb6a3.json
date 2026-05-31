@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone sarcastic hot take on 2016 refugee-news framing—comparative quip, not mechanism or durable insight; reactions to ephemeral coverage do not qualify.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "f081be3df809890cb6a3",
+  "error": ""
+}

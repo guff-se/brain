@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "civic-tech",
+    "democracy",
+    "electoral-systems"
+  ],
+  "reason": "Substantive feature on civic-tech tools, democratic deficits, and mechanisms for scaling participation—not ephemeral election news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "48a166aab870cd2c8e7a",
+  "error": ""
+}

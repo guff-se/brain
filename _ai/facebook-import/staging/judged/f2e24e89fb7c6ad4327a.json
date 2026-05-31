@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "child-development",
+    "trauma",
+    "parenting"
+  ],
+  "reason": "Atlantic piece uses the 2018 border crisis as hook but substantively explains touch, cortisol, and developmental harm mechanisms via expert research—not only episodic news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f2e24e89fb7c6ad4327a",
+  "error": ""
+}

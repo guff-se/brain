@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Music-release promo with poetic liner-note imagery; no durable reasoning, framework, or insight beyond announcing ANDETAG.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c2669ba624397f31fc80",
+  "error": ""
+}

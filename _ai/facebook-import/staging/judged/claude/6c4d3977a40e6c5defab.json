@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a fact-check of a specific 2018 news event — corrects a misleading headline but doesn't develop durable analysis or framework beyond debunking.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "6c4d3977a40e6c5defab",
+  "error": ""
+}

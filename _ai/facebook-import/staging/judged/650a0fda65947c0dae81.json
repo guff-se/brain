@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "intrinsic-motivation",
+    "culture"
+  ],
+  "reason": "Substantive essay framing Burning Man as purposeless 'efficiency third' culture, with durable mechanism-level insight on intrinsic motivation versus utilitarian optimization.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "650a0fda65947c0dae81",
+  "error": ""
+}

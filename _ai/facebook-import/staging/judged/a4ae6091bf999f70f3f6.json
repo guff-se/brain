@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "demographics",
+    "fertility-decline",
+    "economics"
+  ],
+  "reason": "Quartz analysis framing fertility decline through household economics and the shifting economic value of children—a durable causal mechanism, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a4ae6091bf999f70f3f6",
+  "error": ""
+}

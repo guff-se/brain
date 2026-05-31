@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and reads as a slogan/hot take — no developed mechanism or causal chain beyond 'fake culture bad, real culture is made together'.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "2d2b57854a21ab7bb4cf",
+  "error": ""
+}

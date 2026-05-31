@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "vaccine-misinformation",
+    "public-health",
+    "scientific-fraud"
+  ],
+  "reason": "Durable reference on a canonical misinformation case—Wakefield fraud, evidence reviews, and public-health consequences—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8346fe17b0a8c015adb1",
+  "error": ""
+}

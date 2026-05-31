@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "performance",
+    "creative-process",
+    "promotional"
+  ],
+  "reason": "Long but promotional origin-story chronicle for a YouTube release, not durable reasoning or insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "5637654897682154db0b",
+  "error": ""
+}

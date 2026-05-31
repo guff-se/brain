@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "aphantasia",
+    "mental-imagery",
+    "consciousness"
+  ],
+  "reason": "Making Sense episode on aphantasia and mental-imagery research is durable explanatory science, not ephemeral news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "1a46d73e63ec4981be92",
+  "error": ""
+}

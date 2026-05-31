@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "age-discrimination",
+    "labor-market",
+    "pensions"
+  ],
+  "reason": "Paywalled, but title and lede frame a durable structural tension—longer working lives versus persistent age discrimination—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b124e70df04931bff0a9",
+  "error": ""
+}

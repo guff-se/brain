@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A meme/viral entertainment clip with no durable topic, framework, or analysis—generic share, not vault-worthy knowledge.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "79510524be8c52da7153",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: two juxtaposed figures with no argument, mechanism, or durable insight—implicit hot take, time-bound 2017 politics.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "392ea1e664f88d58ded5",
+  "error": ""
+}

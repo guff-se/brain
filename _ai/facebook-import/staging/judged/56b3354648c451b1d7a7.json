@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "satire",
+    "social-justice",
+    "literature"
+  ],
+  "reason": "Canonical Swift satire with enduring analysis of poverty, dehumanization, and ironic social critique—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "56b3354648c451b1d7a7",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "metamodernism",
+    "political-philosophy",
+    "social-class"
+  ],
+  "reason": "Book extract from Hanzi Freinacht developing a durable framework—metamodern aristocracy, transpersonal power, netocrats—not ephemeral news or commentary.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "39c5b4326c5221407b76",
+  "error": ""
+}

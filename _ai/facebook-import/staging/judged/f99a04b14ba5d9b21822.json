@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "digitalisation",
+    "power",
+    "domination"
+  ],
+  "reason": "Standalone commentary is mostly personal regret and event promotion, with no reasoning chain or durable insight from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "f99a04b14ba5d9b21822",
+  "error": ""
+}

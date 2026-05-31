@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "At 157 chars, default skip applies; it is a brief project craft reflection without a developed causal argument or durable framework beyond a poetic line.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5050fc7ce0c7f9e570a1",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Promotional, time-bound event invitation with no reasoning, insight, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "87a12c0f8a62c50bc22e",
+  "error": ""
+}

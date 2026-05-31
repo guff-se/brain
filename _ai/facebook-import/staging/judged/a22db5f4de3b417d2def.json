@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.9,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "military-industrial-complex",
+    "defense-spending",
+    "government-accountability"
+  ],
+  "reason": "Substantive Hartung analysis of Pentagon budget obfuscation, audit failure, and OCO slush-fund mechanics—durable structural critique, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a22db5f4de3b417d2def",
+  "error": ""
+}

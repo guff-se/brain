@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "refugee-crisis",
+    "moria"
+  ],
+  "reason": "Title-only paywall signal is breaking news about a specific humanitarian crisis, not durable analysis, frameworks, or mechanisms worth retaining long-term.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b091cc200e6965714565",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Under 200 characters with no argument or insight—just a warm event/community recommendation, which is promotional and time-bound rather than durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4ef508b879c8abcd4d82",
+  "error": ""
+}

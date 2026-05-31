@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "entrepreneurship",
+    "startups",
+    "venture-capital"
+  ],
+  "reason": "Multi-sentence structural critique with causal mechanism—startups as outsourced R&D shifting risk to workers while concentrating capital—not a quip or mood post.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "032d192327268e44db4a",
+  "error": ""
+}

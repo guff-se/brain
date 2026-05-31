@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.74,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily time-bound business news (2020 Norrsken donation, trial timelines); durable market-failure context is secondary to the event report.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3a6a636b8106f69961e8",
+  "error": ""
+}

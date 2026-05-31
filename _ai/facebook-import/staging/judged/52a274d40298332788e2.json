@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "travel",
+    "burning-man",
+    "san-jose-del-cabo"
+  ],
+  "reason": "A social invitation and travel logistics post with no durable ideas, analysis, or mechanisms worth preserving.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "52a274d40298332788e2",
+  "error": ""
+}

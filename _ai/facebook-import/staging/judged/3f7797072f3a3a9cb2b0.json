@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Headline reads as time-bound tech news about a specific orbital-advertising project, and the fetch returned no article body to suggest durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3f7797072f3a3a9cb2b0",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "wikipedia",
+    "online-communities",
+    "organizational-theory"
+  ],
+  "reason": "Academic analysis of 15 years of Wikipedia data on hierarchy, oligarchy, and norm evolution—durable mechanisms, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c2414e471e8a52c6da85",
+  "error": ""
+}

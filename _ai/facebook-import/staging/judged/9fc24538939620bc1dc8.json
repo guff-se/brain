@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "nonviolent-communication",
+    "communication",
+    "conflict-resolution"
+  ],
+  "reason": "TEDx talk by an NVC trainer on a durable framework—two kinds of honesty and their effects on connection versus conflict—not ephemeral news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "9fc24538939620bc1dc8",
+  "error": ""
+}

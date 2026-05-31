@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical pointer to a project doc with no reasoning, insight, or durable substance beyond sharing instructions.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ef2c3eecbcce0aed293e",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional event-registration page for an MKP Nordic weekend, not durable analysis or a reusable framework.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c1278d631af3d856f3e2",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched content is a Bokus product listing (ISBN, format, availability) with no book description or analysis—purely transactional, not durable knowledge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "378fc6981fac6743af32",
+  "error": ""
+}

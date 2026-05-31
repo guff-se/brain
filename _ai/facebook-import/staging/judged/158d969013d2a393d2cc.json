@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "nuclear-energy",
+    "emissions-trading",
+    "climate-policy"
+  ],
+  "reason": "Beyond the 2019 Ringhals headline, the piece explains durable causal mechanisms—cross-border fossil import substitution and EU ETS reform inflating allowance supply—that make nuclear phase-out can raise net emissions.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "158d969013d2a393d2cc",
+  "error": ""
+}

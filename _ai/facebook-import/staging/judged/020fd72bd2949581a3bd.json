@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "offense-culture",
+    "rhetoric"
+  ],
+  "reason": "Under 200 chars and a single rhetorical quip about offense culture—no developed mechanism, argument, or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "020fd72bd2949581a3bd",
+  "error": ""
+}

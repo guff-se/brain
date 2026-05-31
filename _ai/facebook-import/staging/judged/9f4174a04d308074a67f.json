@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "migration-policy",
+    "integration",
+    "swedish-politics"
+  ],
+  "reason": "Op-ed uses a deportation case to analyze durable systemic mechanisms—formal job-channel rules, court passivity, and perverse integration incentives—not just report a one-off event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9f4174a04d308074a67f",
+  "error": ""
+}

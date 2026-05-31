@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Sarcastic hot take on a 2016 church-policy news item; the institutional-friction point is too thin and event-bound to count as durable reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ef00a5cd7035374b0b99",
+  "error": ""
+}

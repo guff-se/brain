@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched content is SVT Humor promo for a 2019 satire clip; the tax-paradise angle is a headline only, with no mechanism or analysis in the metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "a264108fc32c90074c16",
+  "error": ""
+}

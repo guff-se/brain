@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Pure event statistics with no analysis, mechanism, or insight — just a demographic snapshot of Borderland attendees.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "c0a2f4e9e91211563947",
+  "error": ""
+}

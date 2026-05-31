@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "war-narratives",
+    "american-politics",
+    "political-commentary"
+  ],
+  "reason": "Chris Hayes essay (comic form) on how WWII nostalgia warps moral judgment about the war on terror—mechanism and framing, not a time-bound news item.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1d0a109cfe820385ecfe",
+  "error": ""
+}

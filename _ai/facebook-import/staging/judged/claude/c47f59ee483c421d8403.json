@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.99,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical/social banter about creating an event — no knowledge, reasoning, or durable insight.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "c47f59ee483c421d8403",
+  "error": ""
+}

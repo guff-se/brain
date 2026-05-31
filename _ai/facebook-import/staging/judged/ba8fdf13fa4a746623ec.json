@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "advertising",
+    "democracy",
+    "attention-economy"
+  ],
+  "reason": "Substantive essay with causal mechanisms linking ad markets to platform incentives, manipulation, and democratic harm—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ba8fdf13fa4a746623ec",
+  "error": ""
+}

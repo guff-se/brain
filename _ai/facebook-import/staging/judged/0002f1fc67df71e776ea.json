@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Corridor Digital comedic parody sketch with promotional metadata, not durable analysis of robotics or any substantive topic.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "0002f1fc67df71e776ea",
+  "error": ""
+}

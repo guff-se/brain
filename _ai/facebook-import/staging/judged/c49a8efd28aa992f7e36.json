@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a 2017 news report on Finland launching a UBI pilot—event coverage and light explainer, not durable analysis of mechanisms or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c49a8efd28aa992f7e36",
+  "error": ""
+}

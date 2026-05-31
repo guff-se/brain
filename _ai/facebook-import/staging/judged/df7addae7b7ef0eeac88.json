@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gender-studies",
+    "public-discourse",
+    "academia"
+  ],
+  "reason": "DN Debatt lede by a professor frames enduring criticism of gender studies as misconception-driven and argues for substantive debate on gender, power, and sexuality—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "df7addae7b7ef0eeac88",
+  "error": ""
+}

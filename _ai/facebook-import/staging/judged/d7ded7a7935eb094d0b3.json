@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Alphabetical adjective word list with no analysis, framework, or insight—generic reference filler, not durable knowledge worth curating.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d7ded7a7935eb094d0b3",
+  "error": ""
+}

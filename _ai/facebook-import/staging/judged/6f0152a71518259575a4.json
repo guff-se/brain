@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "ethics",
+    "war",
+    "moral-principles"
+  ],
+  "reason": "Articulates a durable decision principle for moral complexity in war—fewest child deaths as a heuristic—with explicit guilt reasoning, not merely a reactive hot take.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6f0152a71518259575a4",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Event announcement for a leggings workshop — promotional and time-bound, no durable knowledge or insight.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "de5f1d93e65bf400419b",
+  "error": ""
+}

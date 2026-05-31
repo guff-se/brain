@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A short audience poll about a weekly contest prize—social engagement with no durable insight, argument, or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7861e3d2a644c3150f4b",
+  "error": ""
+}

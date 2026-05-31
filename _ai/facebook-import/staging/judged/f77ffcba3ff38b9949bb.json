@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "evolutionary-psychology",
+    "monogamy",
+    "gender-norms"
+  ],
+  "reason": "Substantive essay clarifying anthropological 'enforced monogamy' and arguing a causal link between normative monogamy and reduced male violence, with citations and mechanisms beyond the 2018 news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f77ffcba3ff38b9949bb",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "copyright",
+    "intellectual-property",
+    "digital-rights"
+  ],
+  "reason": "Beyond the headline, Gustaf develops a durable moral framework—copyright as a human-rights violation and copying as a foundational right—rather than merely reacting to the piracy study.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "545bb0880e28fe7eda0c",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "inequality",
+    "taxation"
+  ],
+  "reason": "Paired commentary only restates the IMF headline with no added framing, mechanism, or Gustaf's own analysis.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "a8b340cc3c0326efcf87",
+  "error": ""
+}

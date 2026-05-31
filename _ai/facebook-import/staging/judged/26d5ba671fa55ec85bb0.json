@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "autonomous-weapons",
+    "ai-ethics",
+    "ai-safety"
+  ],
+  "reason": "Slaughterbots is a recognized advocacy piece on lethal autonomous weapons—a durable policy and ethics topic, not generic entertainment, despite minimal fetched metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "26d5ba671fa55ec85bb0",
+  "error": ""
+}

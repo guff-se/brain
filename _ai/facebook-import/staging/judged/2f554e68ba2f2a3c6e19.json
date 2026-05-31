@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "consent",
+    "gender-dynamics",
+    "patriarchy"
+  ],
+  "reason": "Substantive essay on sexual agency, patriarchal scripts, and social-media accountability with durable causal framing beyond the 2018 MeToo moment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2f554e68ba2f2a3c6e19",
+  "error": ""
+}

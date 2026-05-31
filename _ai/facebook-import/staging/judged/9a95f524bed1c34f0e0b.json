@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "vaccination",
+    "public-health",
+    "misinformation"
+  ],
+  "reason": "Wikipedia reference on a durable topic—medical fraud, evidence synthesis, and public-health consequences—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9a95f524bed1c34f0e0b",
+  "error": ""
+}

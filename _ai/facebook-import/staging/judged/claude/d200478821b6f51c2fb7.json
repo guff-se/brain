@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars, no mechanism or causal argument — a sarcastic quip about 'arbetslinjen' with no developed reasoning.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "d200478821b6f51c2fb7",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Promotional event announcement for a specific week in 2016 — logistical and time-bound with no durable knowledge or insight.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "8c15f2b059d41674722f",
+  "error": ""
+}

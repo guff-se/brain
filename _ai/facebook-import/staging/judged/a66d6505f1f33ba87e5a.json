@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "menstrual-products",
+    "sustainability",
+    "consumer-information"
+  ],
+  "reason": "Substantive opinion piece linking market structure, corporate marketing, institutional silence, and environmental/health tradeoffs—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a66d6505f1f33ba87e5a",
+  "error": ""
+}

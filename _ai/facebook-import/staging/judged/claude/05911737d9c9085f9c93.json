@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Recruitment call-out for a specific event — logistical/promotional, no embedded knowledge or reasoning.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "05911737d9c9085f9c93",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Instagram promo for a specific 2020 art installation—event-bound description and venue logistics, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "152349b5183ab4caca93",
+  "error": ""
+}

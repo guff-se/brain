@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "digital-art",
+    "generative-art",
+    "medium-specificity"
+  ],
+  "reason": "Articulates a clear mechanism (screen as mediator blocking presence) and an ongoing creative problem—expressing generative digital art through physical grounding.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "acb45bf64ab33cafe666",
+  "error": ""
+}

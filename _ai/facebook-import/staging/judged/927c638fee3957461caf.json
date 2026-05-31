@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "belonging",
+    "privilege",
+    "responsibility"
+  ],
+  "reason": "Moves past travel recap to privilege, responsibility, and a durable aim to create belonging—not mood alone.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "927c638fee3957461caf",
+  "error": ""
+}

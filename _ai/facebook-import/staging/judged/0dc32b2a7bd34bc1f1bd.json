@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Under-200-char event scene report with no argument, mechanism, or insight—purely time-bound conference attendance.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0dc32b2a7bd34bc1f1bd",
+  "error": ""
+}

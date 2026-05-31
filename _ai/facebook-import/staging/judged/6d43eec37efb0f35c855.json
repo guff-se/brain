@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "technology",
+    "human-nature",
+    "hur-kan-vi"
+  ],
+  "reason": "Title and episode blurb name a durable structural topic—how technology shapes us as humans—with Gustaf as guest, matching other saved Hur kan vi episodes despite thin promo metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "6d43eec37efb0f35c855",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "disinformation",
+    "propaganda",
+    "polarization"
+  ],
+  "reason": "Helmerson’s op-ed explains Kremlin/RT polarization mechanics with a concrete case study, not just a dated news event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ab3a95289b04ac97da78",
+  "error": ""
+}

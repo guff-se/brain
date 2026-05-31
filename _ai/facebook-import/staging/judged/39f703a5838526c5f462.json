@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education-policy",
+    "digital",
+    "learning"
+  ],
+  "reason": "DN Ledare op-ed on children, ed-apps, and gamified learning is cultural analysis with lasting relevance, not breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "39f703a5838526c5f462",
+  "error": ""
+}

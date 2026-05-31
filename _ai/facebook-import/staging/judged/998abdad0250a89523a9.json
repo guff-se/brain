@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Direct link to a GIF with no article body, meaningful title, or Gustaf commentary—nothing durable to preserve as a note.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "998abdad0250a89523a9",
+  "error": ""
+}

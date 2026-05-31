@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "free-speech",
+    "campus-culture",
+    "stress-psychology"
+  ],
+  "reason": "Haidt and Lukianoff develop a durable causal argument distinguishing acute vs chronic stress and critiquing the 'words are violence' syllogism—not ephemeral campus news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a6c86d97e373252f99ad",
+  "error": ""
+}

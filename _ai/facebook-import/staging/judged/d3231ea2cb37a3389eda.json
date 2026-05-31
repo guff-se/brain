@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "the-borderland",
+    "burning-man",
+    "illutron"
+  ],
+  "reason": "Substantive origin narrative tracing how Illutron's 2011 Afterburn causally led to The Borderland, Nordic Camp, and Nordic burner unification—not merely a promotional shout-out.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d3231ea2cb37a3389eda",
+  "error": ""
+}

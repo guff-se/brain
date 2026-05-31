@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound volunteer call for studio teardown; logistical coordination with no durable ideas or analysis.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d989b9c18a59b60e9323",
+  "error": ""
+}

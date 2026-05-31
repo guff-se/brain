@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "racism",
+    "reverse-racism",
+    "systemic-racism"
+  ],
+  "reason": "Named Aamer Rahman routine on reverse racism—title signals durable structural analysis of power and prejudice, not generic comedy or time-bound news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "62523b799a8ab7233664",
+  "error": ""
+}

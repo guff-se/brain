@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Purely transactional subscription/payment instructions for Stugan — no durable knowledge or insights.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "2db367ab3c6df402b8dc",
+  "error": ""
+}

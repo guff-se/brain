@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.76,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "May 2016 DN kronika pegged to Åsa Romson; title hints at schadenfreude analysis but paywall leaves no body and it reads as news-cycle pile-on punditry, not a generalizable framework.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "674c4d0ba01fa129bb15",
+  "error": ""
+}

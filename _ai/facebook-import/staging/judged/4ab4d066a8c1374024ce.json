@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Shared-article fetch failed with no body—title only reports the site was unavailable, so there is no external content to judge for durable substance.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4ab4d066a8c1374024ce",
+  "error": ""
+}

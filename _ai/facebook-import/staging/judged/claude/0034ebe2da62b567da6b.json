@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Event announcement for a Stockholm Burning Man Week gathering — logistical and promotional, no durable knowledge or reasoning.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "0034ebe2da62b567da6b",
+  "error": ""
+}

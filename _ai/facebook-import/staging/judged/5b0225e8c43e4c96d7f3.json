@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode: Gustaf only reposts a long first-person quote from the piece with no framing, mechanism, or view of his own.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "5b0225e8c43e4c96d7f3",
+  "error": ""
+}

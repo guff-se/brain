@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "criminal-justice",
+    "incarceration",
+    "evidence-based-policy"
+  ],
+  "reason": "Multi-sentence argument links punitive incarceration to populism, emotional revenge, and displaced evidence—not a mood quip.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "20c11e529f997c5ef318",
+  "error": ""
+}

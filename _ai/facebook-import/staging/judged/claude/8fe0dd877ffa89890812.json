@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "conflict-resolution",
+    "deep-democracy",
+    "transformation"
+  ],
+  "reason": "Named expert (Myrna Lewis) presenting the Deep Democracy framework on conflict as a mechanism for learning and transformation — durable structural topic.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_video",
+  "content_sha": "8fe0dd877ffa89890812",
+  "error": ""
+}

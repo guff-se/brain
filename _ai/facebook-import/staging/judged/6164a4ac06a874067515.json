@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "liberalism",
+    "free-will",
+    "political-philosophy"
+  ],
+  "reason": "Harari's essay offers durable analysis of liberalism's crisis, free will as myth, and how bio-computing power threatens democratic agency—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6164a4ac06a874067515",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "voice",
+  "kind_hint": "note",
+  "tags_hint": [
+    "contract-law",
+    "debt",
+    "legal-philosophy"
+  ],
+  "reason": "Polished essay-length argument against absolute pacta sunt servanda, with mechanisms (trust, uninformed consent, changed circumstances) and a durable principle about permanence versus change.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0bf0798333b2467e8e59",
+  "error": ""
+}

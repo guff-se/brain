@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "far-right",
+    "political-economy",
+    "inequality"
+  ],
+  "reason": "Reports academic research with a durable causal mechanism — economic precarity and austerity drive far-right voting more than direct exposure to immigration — a finding that generalizes well beyond the 2018 Swedish election.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "485a8b05f953db5acb0c",
+  "error": ""
+}

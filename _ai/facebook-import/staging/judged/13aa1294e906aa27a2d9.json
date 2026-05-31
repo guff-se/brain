@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "progress",
+    "negativity-bias",
+    "abundance"
+  ],
+  "reason": "Diamandis's data-backed progress framework and negativity-bias mechanism are durable analysis, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "13aa1294e906aa27a2d9",
+  "error": ""
+}

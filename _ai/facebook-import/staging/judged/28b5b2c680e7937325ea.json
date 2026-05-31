@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "mankind-project",
+    "mens-work"
+  ],
+  "reason": "Board-member course promotion with signup CTA and event logistics, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "28b5b2c680e7937325ea",
+  "error": ""
+}

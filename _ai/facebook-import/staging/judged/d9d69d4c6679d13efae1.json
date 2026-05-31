@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "decentralised-organising",
+    "self-management",
+    "organisational-design"
+  ],
+  "reason": "Evergreen curated index of public organisational handbooks and governance patterns, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d9d69d4c6679d13efae1",
+  "error": ""
+}

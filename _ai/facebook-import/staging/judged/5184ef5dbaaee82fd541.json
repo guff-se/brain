@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "authenticity",
+    "technology",
+    "organizational-culture"
+  ],
+  "reason": "Despite the vote solicitation, the post develops durable claims about vulnerability, authenticity at work, and technology pushing us toward fuller humanity.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5184ef5dbaaee82fd541",
+  "error": ""
+}

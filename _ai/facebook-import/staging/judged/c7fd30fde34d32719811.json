@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional, time-bound conference invitation with logistics and signup link—no durable reasoning or insight from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "c7fd30fde34d32719811",
+  "error": ""
+}

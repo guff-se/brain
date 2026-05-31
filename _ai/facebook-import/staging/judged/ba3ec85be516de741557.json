@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "philanthropy",
+    "inequality",
+    "democracy"
+  ],
+  "reason": "Substantive investigative analysis of billionaire philanthropy as performative power, with mechanisms (tax relief, conditional pledges, political funding) that outlast the Notre Dame news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ba3ec85be516de741557",
+  "error": ""
+}

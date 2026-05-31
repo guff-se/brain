@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "colonialism",
+    "slavery",
+    "reparations"
+  ],
+  "reason": "Substantive long-form analysis of how Britain compensated slave owners via public debt until 2015 and the enduring institutional legacies of colonial slavery.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a656ebe46bba78630880",
+  "error": ""
+}

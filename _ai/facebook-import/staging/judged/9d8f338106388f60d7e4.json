@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional, time-bound ticket announcement with no reasoning or durable knowledge—default skip under 200 chars.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "9d8f338106388f60d7e4",
+  "error": ""
+}

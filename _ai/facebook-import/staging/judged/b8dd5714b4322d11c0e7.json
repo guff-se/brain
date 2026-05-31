@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "far-right-populism",
+    "brazilian-politics",
+    "comparative-politics"
+  ],
+  "reason": "WaPo Outlook perspective framing comparative populist-authoritarian politics and social consequences, not merely election news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b8dd5714b4322d11c0e7",
+  "error": ""
+}

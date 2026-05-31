@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "copyright",
+    "information-theory",
+    "life"
+  ],
+  "reason": "At 118 chars under the 200-char threshold; first line is an aphorism and the second is a slogan with no developed reasoning linking replication to copyright.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d17145f6294da191b000",
+  "error": ""
+}

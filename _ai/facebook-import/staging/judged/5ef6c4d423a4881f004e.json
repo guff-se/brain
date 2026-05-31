@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "mlm",
+    "multilevel-marketing"
+  ],
+  "reason": "Paired commentary is a share-and-tag prompt plus a hot take, with no reasoning or framing beyond the video title.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "5ef6c4d423a4881f004e",
+  "error": ""
+}

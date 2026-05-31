@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "urban-planning",
+    "civic-architecture",
+    "collaborative-innovation"
+  ],
+  "reason": "Named expert on civic architecture and democratizing cities—durable structural themes, not news or banter, despite thin page blurb.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "29100834eea80e534fd1",
+  "error": ""
+}

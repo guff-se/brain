@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "finite-infinite-games",
+    "philosophy",
+    "frameworks"
+  ],
+  "reason": "Wikipedia distills Carse's enduring finite-vs-infinite games framework and theatrical/dramatic distinction—durable philosophy-of-living content, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fecd2e297f9418d8705c",
+  "error": ""
+}

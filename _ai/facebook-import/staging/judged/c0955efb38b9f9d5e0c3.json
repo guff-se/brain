@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "precarious-work",
+    "cooperative-economics",
+    "labor-organizing"
+  ],
+  "reason": "Feature reportage with durable material on equal-pay collectives, precarious labor mechanisms (SMS employment vs union), and critique of social-enterprise branding—not just quirky color.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c0955efb38b9f9d5e0c3",
+  "error": ""
+}

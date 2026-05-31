@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical event invite with no argument or insight; under 200 chars and purely promotional.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "68f16003e925cc5f8ea2",
+  "error": ""
+}

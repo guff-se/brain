@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Eurostat excess-mortality page is time-bound surveillance reporting (monthly death counts and country snapshots), not durable analysis, frameworks, or causal insight worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ffdf3d2a8aeed44a096c",
+  "error": ""
+}

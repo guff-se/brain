@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "copyright",
+    "freedom-of-expression",
+    "labor-unions"
+  ],
+  "reason": "Sarcastic May Day post still states a durable structural claim about copyright law prioritizing corporate profit over speech and shifting burden of proof onto the speaker.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d98217fabbca7303dd8d",
+  "error": ""
+}

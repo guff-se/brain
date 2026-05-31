@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Personal New Year greeting and imminent family announcement—social, time-bound, with no reasoning or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8e11406a1de339cdbe8a",
+  "error": ""
+}

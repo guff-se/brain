@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "ai-governance",
+    "machine-learning",
+    "explainability"
+  ],
+  "reason": "Weinberger's essay develops a durable framework on the explainability–accuracy tradeoff in ML and argues for democratic optimization goals plus value constraints instead of full algorithmic transparency.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bd1174b986def1a90360",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "privacy",
+    "surveillance",
+    "data-retention"
+  ],
+  "reason": "Paired commentary is mostly endorsement and article summary; the Swedish policy aside is a brief political claim without developed reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "3b18b16de05662beddbb",
+  "error": ""
+}

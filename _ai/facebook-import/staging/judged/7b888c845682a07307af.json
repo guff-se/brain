@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Logistical membership marketplace post with no analysis, framework, or durable knowledge beyond coordinating buyers and sellers.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7b888c845682a07307af",
+  "error": ""
+}

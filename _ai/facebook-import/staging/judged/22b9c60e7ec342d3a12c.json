@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "critical-theory",
+    "political-rhetoric",
+    "podcasts"
+  ],
+  "reason": "Paired commentary: thematic tags and Trump quote tease the episode but add no causal framing; the rest is personal enthusiasm, not durable reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "22b9c60e7ec342d3a12c",
+  "error": ""
+}

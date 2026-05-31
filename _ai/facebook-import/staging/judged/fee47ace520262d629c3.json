@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched body is a video page shell with no stats or analysis—only a headline, a generic teaser, and 2016 election framing.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fee47ace520262d629c3",
+  "error": ""
+}

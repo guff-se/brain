@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "burning-man",
+    "decommodification",
+    "commercialization"
+  ],
+  "reason": "Standalone commentary exceeds 200 chars and develops a durable principle question—whether decommodification should exempt creative industries and how community leaders should be held accountable.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "9b01d9ae971ebcc8b269",
+  "error": ""
+}

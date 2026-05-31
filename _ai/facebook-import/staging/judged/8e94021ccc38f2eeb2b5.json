@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "geopolitics",
+    "propaganda",
+    "authoritarianism"
+  ],
+  "reason": "Named historian Snyder on Western myths that obscured Putin's aims—durable explanatory analysis of blind spots and mechanisms, not episodic news.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "8e94021ccc38f2eeb2b5",
+  "error": ""
+}

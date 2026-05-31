@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only states a surprising fact plus outcome—no mechanism, principle, or reasoning chain from Gustaf.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a2d20a0cd086a5105e23",
+  "error": ""
+}

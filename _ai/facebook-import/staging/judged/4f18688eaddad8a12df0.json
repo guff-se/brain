@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Timely news report on France’s 2019 Article 15 rollout and Google’s response, not durable analysis of platform–publisher economics.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4f18688eaddad8a12df0",
+  "error": ""
+}

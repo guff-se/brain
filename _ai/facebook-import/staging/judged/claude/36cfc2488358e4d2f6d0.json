@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.99,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical coordination message with no embedded knowledge or reasoning.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "36cfc2488358e4d2f6d0",
+  "error": ""
+}

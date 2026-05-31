@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "ai-in-education",
+    "homework",
+    "education-equity"
+  ],
+  "reason": "Reframes AI homework help as democratizing an existing parental privilege, with a causal claim about long-opaque authorship—not a hot take.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c01a719891679b5f5bd3",
+  "error": ""
+}

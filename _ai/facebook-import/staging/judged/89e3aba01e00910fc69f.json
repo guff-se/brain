@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "political-economy",
+    "marxism",
+    "libertarianism"
+  ],
+  "reason": "The comic’s explanatory text is a durable thought experiment on property, surplus value, and voluntary exchange under monopoly—mechanism-rich philosophy, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "89e3aba01e00910fc69f",
+  "error": ""
+}

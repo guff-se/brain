@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "participatory-culture",
+    "burning-man",
+    "silicon-valley"
+  ],
+  "reason": "Gradvall's essay frames participatorisk kultur as a durable cultural mechanism, linking Burning Man, Swedish festivals like Borderland, and Silicon Valley's tool-not-content philosophy beyond a single news event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d6980fdee8f759fd3e94",
+  "error": ""
+}

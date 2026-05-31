@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound promotional invite to the final Zoom competition episode, with logistics and signup—no durable insight or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8887f0f78ff3e9599a95",
+  "error": ""
+}

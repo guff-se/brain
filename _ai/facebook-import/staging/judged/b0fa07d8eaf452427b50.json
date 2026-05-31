@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "contextomy",
+    "political-rhetoric",
+    "misquotation"
+  ],
+  "reason": "Evergreen analysis of how Franklin's quote was stripped of its tax-and-defense context and repurposed for ideological campaigns, including the mechanism of contextomy.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b0fa07d8eaf452427b50",
+  "error": ""
+}

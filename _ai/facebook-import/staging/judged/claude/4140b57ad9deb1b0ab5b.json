@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "eu-copyright",
+    "upload-filters",
+    "internet-policy"
+  ],
+  "reason": "Campaign/advocacy homepage reporting a legislative outcome — time-bound news event with no durable analytical framework or mechanism explanation.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "4140b57ad9deb1b0ab5b",
+  "error": ""
+}

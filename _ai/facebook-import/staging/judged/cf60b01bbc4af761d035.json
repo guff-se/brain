@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "improv",
+    "character-development",
+    "status-dynamics"
+  ],
+  "reason": "Reusable improv/acting exercise with a clear status framework (1–10 scale, embodied practice, scene switching) that teaches durable social-power dynamics beyond a one-off event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cf60b01bbc4af761d035",
+  "error": ""
+}

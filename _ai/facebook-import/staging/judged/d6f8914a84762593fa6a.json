@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "fourth-turning",
+    "political-polarization",
+    "narcissism"
+  ],
+  "reason": "Well over 200 chars of causal framing—Fourth Turning, Bannon's apocalyptic narrative, and narcissism-as-vehicle—not merely a hot take on impeachment headlines.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "d6f8914a84762593fa6a",
+  "error": ""
+}

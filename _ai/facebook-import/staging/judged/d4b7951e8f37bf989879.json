@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "advertising",
+    "human-agency",
+    "media-policy"
+  ],
+  "reason": "Beyond the headline, Gustaf develops a durable agency-vs-manipulation principle and two concrete policy mechanisms (delivery-point ad taxation, public-space prohibition).",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "d4b7951e8f37bf989879",
+  "error": ""
+}

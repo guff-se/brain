@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "yemen-conflict",
+    "humanitarian-crisis",
+    "food-security"
+  ],
+  "reason": "Investigative longform on famine mechanisms, systematic targeting of food production, and coalition strategy—not ephemeral headline news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6649e5a9607494b59657",
+  "error": ""
+}

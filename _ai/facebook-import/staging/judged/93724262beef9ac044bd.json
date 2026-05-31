@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is mostly promotional logistics (training dates, early-bird deadline); the personal fatherhood claim names importance without explaining mechanism or insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "93724262beef9ac044bd",
+  "error": ""
+}

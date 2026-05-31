@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch yielded only a cookie-consent page, so there is no durable article body—just a time-bound 2022 TV4 episode link about a then-current political financing expose.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3a89d7d7a94af2c218a5",
+  "error": ""
+}

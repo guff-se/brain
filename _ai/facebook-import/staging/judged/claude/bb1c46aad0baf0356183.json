@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Music single release announcement with no durable knowledge or analysis — purely promotional/transactional metadata.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_video",
+  "content_sha": "bb1c46aad0baf0356183",
+  "error": ""
+}

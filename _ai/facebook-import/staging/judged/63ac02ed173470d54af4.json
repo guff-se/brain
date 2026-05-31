@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland",
+    "larp",
+    "leadership"
+  ],
+  "reason": "Promotional program recruitment with application deadline and share request, not durable insight or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "63ac02ed173470d54af4",
+  "error": ""
+}

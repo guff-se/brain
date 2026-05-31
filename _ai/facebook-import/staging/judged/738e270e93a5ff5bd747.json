@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "pajobbetpodden",
+    "ledarskap"
+  ],
+  "reason": "Paired podcast promo that only announces topics and guest—no framing, mechanism, or insight beyond the episode headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "738e270e93a5ff5bd747",
+  "error": ""
+}

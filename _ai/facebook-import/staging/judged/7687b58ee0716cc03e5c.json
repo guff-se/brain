@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Broadway musical clip shared as entertainment; no durable analysis, framework, or insight beyond generic pop-culture viewing.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "7687b58ee0716cc03e5c",
+  "error": ""
+}

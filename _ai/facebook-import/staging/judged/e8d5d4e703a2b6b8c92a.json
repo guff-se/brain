@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Election-day endorsement for a named candidate; honest campaign-skepticism is thin and mostly relational, not durable mechanism or insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e8d5d4e703a2b6b8c92a",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and purely logistical — a broker referral request plus a time-bound Makerspark sale announcement with no reasoning or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "79510f2e2a4b3de5ceae",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "surveillance",
+    "ethics",
+    "entrepreneurship"
+  ],
+  "reason": "Standalone commentary on a time-bound event sponsorship—a rhetorical brand-association jab with no developed reasoning, mechanism, or durable insight beyond signaling disapproval.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "229f77fed9d97af64ec9",
+  "error": ""
+}

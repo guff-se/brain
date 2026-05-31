@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Event logistics and social call-to-action for a silent disco signup — no durable knowledge or insight.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "5dab74d1c3415b720898",
+  "error": ""
+}

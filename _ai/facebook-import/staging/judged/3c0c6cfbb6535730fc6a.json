@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "education-policy",
+    "swedish-politics",
+    "folkpartiet"
+  ],
+  "reason": "Paywalled DN headline is time-bound policy news about a minister's proposal, not durable analysis or a reusable framework.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3c0c6cfbb6535730fc6a",
+  "error": ""
+}

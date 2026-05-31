@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "swedish-financial-crisis",
+    "financial-crises",
+    "economic-history"
+  ],
+  "reason": "Wikipedia article with durable analysis of causes, mechanisms, and systemic patterns behind Sweden's 1990–1994 bank and real-estate crisis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3175a9b1f5c3a0d5a412",
+  "error": ""
+}

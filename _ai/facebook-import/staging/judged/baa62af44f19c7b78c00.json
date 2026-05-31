@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional endorsement of a family member's coaching with no reasoning or durable insight; under 200 chars triggers default skip.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "baa62af44f19c7b78c00",
+  "error": ""
+}

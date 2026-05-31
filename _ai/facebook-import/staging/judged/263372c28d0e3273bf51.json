@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "democracy",
+    "political-analysis",
+    "swedish-media"
+  ],
+  "reason": "Lena Andersson column on democracy threatened from within is durable analysis, not breaking news; title, author, and opening thesis suffice despite paywall-truncated body.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "263372c28d0e3273bf51",
+  "error": ""
+}

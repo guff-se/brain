@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "tax-policy",
+    "wealth-inequality",
+    "land-value-tax"
+  ],
+  "reason": "Paired commentary adds a structured four-perspective framework on capital vs labor taxation with causal reasoning, not just a reaction to the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "3dbcf977d49a7ebe431a",
+  "error": ""
+}

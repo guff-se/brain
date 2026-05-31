@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Landing page is promotional copy about obtaining the book and slide deck, not substantive analysis of deceptive design patterns.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d61afe7e8fd51da53c0a",
+  "error": ""
+}

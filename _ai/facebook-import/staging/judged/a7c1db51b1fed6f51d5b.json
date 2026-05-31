@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "etymology",
+    "witchcraft",
+    "gender-politics"
+  ],
+  "reason": "Wikipedia article with durable etymological, historical, and gender-politics analysis of how 'witch' evolved across folklore, persecution, and modern reclamation.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a7c1db51b1fed6f51d5b",
+  "error": ""
+}

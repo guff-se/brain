@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "political-analysis",
+    "nihilism",
+    "populism"
+  ],
+  "reason": "Lisa Magnusson’s signed column advances a durable analytical thesis (alternativhögern as nihilism, not primarily racism/fascism), not episodic news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9365ade6354c3d1ecb6d",
+  "error": ""
+}

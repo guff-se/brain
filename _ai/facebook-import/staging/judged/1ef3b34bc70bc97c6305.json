@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "big-data",
+    "psychometrics",
+    "political-microtargeting"
+  ],
+  "reason": "Investigative piece that explains how Facebook psychometrics and Cambridge Analytica's data-driven targeting work—mechanisms and principles that remain relevant beyond the 2016–17 news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1ef3b34bc70bc97c6305",
+  "error": ""
+}

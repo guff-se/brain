@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "racism",
+    "public-discourse",
+    "migration"
+  ],
+  "reason": "Krönika that rejects minimization language around lethal violence against a homeless EU migrant and frames racism as structural discourse, not a fleeting news recap.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "074bf97d6fffa7cc1751",
+  "error": ""
+}

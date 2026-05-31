@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "social-inequality",
+    "public-policy"
+  ],
+  "reason": "Standalone mode: Gustaf's own text is well under 200 characters and is a sarcastic reaction to time-bound local news, not developed causal reasoning worth keeping.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "4399fb685f762681d0ad",
+  "error": ""
+}

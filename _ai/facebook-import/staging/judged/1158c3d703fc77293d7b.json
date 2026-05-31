@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "immersive-art",
+    "textile-art",
+    "andetag"
+  ],
+  "reason": "Under 200 chars of poetic sensory fragments with no argument, mechanism, or durable insight—reads as an art-experience caption, not knowledge worth preserving.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1158c3d703fc77293d7b",
+  "error": ""
+}

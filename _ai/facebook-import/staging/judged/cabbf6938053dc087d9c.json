@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "hackathons",
+    "precarious-work",
+    "labor"
+  ],
+  "reason": "Substantive Wired report on Zukin's sociological framework treating hackathons as co-optation rituals and unpaid precarious labor—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cabbf6938053dc087d9c",
+  "error": ""
+}

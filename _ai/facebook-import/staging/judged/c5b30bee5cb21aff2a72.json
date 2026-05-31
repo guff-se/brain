@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "disaster-relief",
+    "political-ideology",
+    "federalism"
+  ],
+  "reason": "Keillor's op-ed articulates a recurring structural tension—small-government rhetoric versus disaster-driven reliance on federal aid—rather than merely reporting Harvey as news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c5b30bee5cb21aff2a72",
+  "error": ""
+}

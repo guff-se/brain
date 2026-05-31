@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.91,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on time-bound welfare-policy news is a short hypocrisy quip (~180 chars) without mechanism, principle, or durable reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ef5d64c3cd42d85a2039",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.65,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "language",
+    "gender",
+    "self-reflection"
+  ],
+  "reason": "Develops a coherent principled argument — not just a hot take — questioning whether gender-specific pejoratives are structurally consistent, with comparative examples and a self-aware nuance in the PS.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "95deb1efa67411508c70",
+  "error": ""
+}

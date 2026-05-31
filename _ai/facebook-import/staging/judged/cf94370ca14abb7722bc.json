@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "secularism",
+    "education",
+    "religion"
+  ],
+  "reason": "Under 200 characters: one rhetorical consistency question, not a multi-sentence argument with mechanism or durable framing.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "cf94370ca14abb7722bc",
+  "error": ""
+}

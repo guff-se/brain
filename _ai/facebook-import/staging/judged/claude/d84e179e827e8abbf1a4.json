@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Interesting philosophical question but posed as a rhetorical quote/meme without Gustaf developing the argument or mechanism — no causal chain or framework, just a provocation.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "d84e179e827e8abbf1a4",
+  "error": ""
+}

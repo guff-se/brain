@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "eu-copyright",
+    "internet-freedom",
+    "platform-regulation"
+  ],
+  "reason": "First-person analytical account of the Article 13 vote that goes beyond news reporting — documents the mechanism by which MEPs delegitimized citizen opposition as corporate astroturfing, the structural logic forcing upload filters, and the escalation pattern from copyright to terrorism content; durable as a case study in internet regulation politics.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "8db29865348c70d72cc1",
+  "error": ""
+}

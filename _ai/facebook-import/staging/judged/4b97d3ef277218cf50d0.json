@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Sarcastic 2016 party-politics quip with ironic juxtaposition but no developed argument, mechanism, or durable insight beyond a time-bound hot take.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4b97d3ef277218cf50d0",
+  "error": ""
+}

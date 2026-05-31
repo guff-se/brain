@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "management-consulting",
+    "authoritarianism",
+    "corporate-ethics"
+  ],
+  "reason": "Substantial NYT investigation into how elite consulting legitimizes authoritarian regimes—a durable structural critique with mechanisms, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a0d0cb6b25509f237bbe",
+  "error": ""
+}

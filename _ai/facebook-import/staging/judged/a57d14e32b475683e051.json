@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright-policy",
+    "open-access",
+    "eu-regulation"
+  ],
+  "reason": "Substantive policy analysis of Article 11's mechanisms, CC/open-access harm, and Germany/Spain precedents—durable beyond the 2018 trilogue news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a57d14e32b475683e051",
+  "error": ""
+}

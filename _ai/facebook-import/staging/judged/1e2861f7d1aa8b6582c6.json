@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paywalled DN headline is a time-bound local news report about a fire at planned refugee housing, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1e2861f7d1aa8b6582c6",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "philosophy",
+    "political-philosophy",
+    "capitalism"
+  ],
+  "reason": "Title names Slavoj Žižek as primary speaker on a structural philosophical topic (tulip mania/desire/ideology), not generic entertainment or incidental soundtrack.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "9ff7e03b1318760cfa96",
+  "error": ""
+}

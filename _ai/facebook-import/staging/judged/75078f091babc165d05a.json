@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "relative-age-effect",
+    "talent-selection",
+    "youth-sports"
+  ],
+  "reason": "Wikipedia article explaining a durable, mechanism-rich bias in youth sport and academia—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "75078f091babc165d05a",
+  "error": ""
+}

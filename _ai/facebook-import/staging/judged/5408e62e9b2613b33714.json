@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "disaster-capitalism",
+    "brexit",
+    "political-finance"
+  ],
+  "reason": "Investigative analysis of donor–hedge-fund links and £8bn no-deal short positions frames a durable disaster-capitalism mechanism, not just Brexit news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5408e62e9b2613b33714",
+  "error": ""
+}

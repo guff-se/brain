@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "cannabis-legalization",
+    "drug-policy",
+    "us-politics"
+  ],
+  "reason": "Beyond the 2016 election hook, the piece explains durable mechanisms—polling shift, federal–state conflict, and recurring pro-legalization arguments (health vs criminalization, prohibition costs, regulated markets).",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e4214e75ea6f2a732188",
+  "error": ""
+}

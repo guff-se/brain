@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is mostly a reaction to time-bound local press coverage plus operational media-team priorities and a Discord CTA, without durable mechanism or insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "d711761f490a37827ca1",
+  "error": ""
+}

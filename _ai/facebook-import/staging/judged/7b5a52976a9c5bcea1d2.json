@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional album-launch plea for streams and playlist adds—logistical fan outreach with no reasoning, insight, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7b5a52976a9c5bcea1d2",
+  "error": ""
+}

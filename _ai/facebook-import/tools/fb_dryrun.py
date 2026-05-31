@@ -14,7 +14,7 @@ PROJECT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 
 from fb_fetch import fetch, classify_domain, domain_of  # noqa
-from fb_judge import judge, TokenLimitError, is_token_limit_message  # noqa
+from fb_judge import judge, TokenLimitError, is_token_limit_message, configure_judge, judge_backend_label  # noqa
 
 STAGING = os.path.join(PROJECT, 'staging')
 JSONL = os.path.join(STAGING, 'all_posts.jsonl')
@@ -159,10 +159,11 @@ def process(bucket, row):
     return out
 
 
-def main(n=100):
+def main(n=100, *, backend=None, model=None):
+    configure_judge(backend=backend, model=model)
     rows = load_rows()
     items = sample(rows)
-    print(f'sampled {len(items)} items; processing with 6 workers...')
+    print(f'sampled {len(items)} items; processing with 6 workers ({judge_backend_label()})...')
     results = []
     limit_hit = False
     ex = cf.ThreadPoolExecutor(max_workers=6)
@@ -250,4 +251,11 @@ def main(n=100):
 
 
 if __name__ == '__main__':
-    main()
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument('-n', type=int, default=100)
+    ap.add_argument('--backend', choices=['cursor', 'claude'],
+                    default=os.environ.get('FB_JUDGE_BACKEND', 'cursor'))
+    ap.add_argument('--model', default=os.environ.get('FB_JUDGE_MODEL') or None)
+    args = ap.parse_args()
+    main(args.n, backend=args.backend, model=args.model)

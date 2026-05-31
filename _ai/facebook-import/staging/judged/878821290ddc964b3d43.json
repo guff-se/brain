@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "burning-man",
+    "parenting",
+    "community-culture"
+  ],
+  "reason": "Mini-documentary metadata points to durable social analysis—history, benefits, and structural challenges of raising kids in counterculture community—not generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "878821290ddc964b3d43",
+  "error": ""
+}

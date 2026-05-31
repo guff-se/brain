@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is mostly emotional lament, an undeveloped Sweden counterfactual, and a borrowed Harvard quote—no Gustaf-specific mechanism or framing beyond the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "d16be5d728c1070cbbf6",
+  "error": ""
+}

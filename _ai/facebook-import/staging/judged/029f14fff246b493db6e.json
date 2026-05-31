@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "disinformation",
+    "social-media",
+    "platform-design"
+  ],
+  "reason": "Martínez's Wired piece analyzes structural mechanisms—group messaging, encryption, network effects, word-of-mouth at scale—that make WhatsApp weaponizable, beyond the time-bound Brazil election news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "029f14fff246b493db6e",
+  "error": ""
+}

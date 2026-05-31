@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "ayurveda",
+    "alternative-medicine",
+    "traditional-medicine"
+  ],
+  "reason": "Encyclopedic reference on Ayurveda's history, core principles (doshas, eight components), and modern scientific critique—durable topic, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "493e7c4e0d816e4ff4d5",
+  "error": ""
+}

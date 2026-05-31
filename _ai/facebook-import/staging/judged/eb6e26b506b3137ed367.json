@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Comedy sketch clip (satirical entertainment) with no durable analysis, framework, or explanatory substance beyond the performance itself.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "eb6e26b506b3137ed367",
+  "error": ""
+}

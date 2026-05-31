@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "automation",
+    "software-development",
+    "productivity"
+  ],
+  "reason": "xkcd’s theory-vs-reality frame captures a durable mechanism—automation often shifts work into coding, debugging, and maintenance rather than eliminating it.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f9b04cccaebb7a26d9c2",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "precautionary-principle",
+    "covid-policy",
+    "rhetoric"
+  ],
+  "reason": "Develops a durable conceptual critique—mislabeling lockdowns as 'precautionary'—with reasoning beyond a time-bound hot take.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "aa119f78c965b2d40bdf",
+  "error": ""
+}

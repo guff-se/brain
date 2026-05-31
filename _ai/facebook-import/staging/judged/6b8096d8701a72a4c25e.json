@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: one slogan-level claim plus a rhetorical question, no mechanism or developed argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6b8096d8701a72a4c25e",
+  "error": ""
+}

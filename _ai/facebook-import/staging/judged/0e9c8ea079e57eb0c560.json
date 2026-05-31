@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "scientific-method",
+    "epistemology",
+    "philosophy-of-science"
+  ],
+  "reason": "Wikipedia article on how scientific inquiry works—falsifiability, hypothesis testing, and centuries of epistemological debate—is durable reference material, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0e9c8ea079e57eb0c560",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sovereign-debt",
+    "fiscal-policy",
+    "sweden"
+  ],
+  "reason": "von Seth DN column frames a structural paradox—ultra-low Swedish sovereign debt in a low-rate bond-policy era—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a120f4d6a1370200e543",
+  "error": ""
+}

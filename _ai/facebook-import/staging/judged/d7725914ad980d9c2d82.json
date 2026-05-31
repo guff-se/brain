@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Official obituary and time-bound death announcement; tribute and biographical remembrance, not durable analysis, frameworks, or mechanisms.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d7725914ad980d9c2d82",
+  "error": ""
+}

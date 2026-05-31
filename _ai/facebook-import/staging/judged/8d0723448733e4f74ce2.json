@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "fact-based-debate",
+    "progress-narrative",
+    "hans-rosling"
+  ],
+  "reason": "Norberg's kulturdebatt piece frames a durable principle—fact-based debate vs caricatured attacks on Rosling's nuance—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8d0723448733e4f74ce2",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "policing",
+    "nightlife",
+    "sweden"
+  ],
+  "reason": "Opinion piece with a durable pattern argument—recurring police shutdowns of dance events, debunked safety myths, and international contrast—not just a one-off 2017 festival notice.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "aae35f2519e1c736d5c9",
+  "error": ""
+}

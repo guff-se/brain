@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "gerontocracy",
+    "governance",
+    "institutional-change"
+  ],
+  "reason": "Under 200 characters with default skip; one causal line about gerontocracy and rapid change but no developed mechanism beyond assertion and slogan.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c48d882b5b62e8aed55c",
+  "error": ""
+}

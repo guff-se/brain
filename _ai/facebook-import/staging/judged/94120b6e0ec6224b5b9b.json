@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "jordan-peterson",
+    "slavoj-zizek",
+    "political-discourse"
+  ],
+  "reason": "Marche's review goes beyond event recap to analyze durable patterns—enemy-defined public intellectuals, shared pessimism, obsolete capitalism/Marxism framing, and why rage fills a vacuum when no one has answers.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "94120b6e0ec6224b5b9b",
+  "error": ""
+}

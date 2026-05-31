@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Under 200 chars and purely logistical—membership recruitment with a deadline, no ideas or analysis worth preserving.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e6a2d001bf3aa691799d",
+  "error": ""
+}

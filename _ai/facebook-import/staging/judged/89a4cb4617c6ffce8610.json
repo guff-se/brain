@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "streaming-industry",
+    "media-economics",
+    "netflix"
+  ],
+  "reason": "Title and hook frame structural streaming-industry analysis (collapse thesis, Sandvine, Paramount case), not generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "89a4cb4617c6ffce8610",
+  "error": ""
+}

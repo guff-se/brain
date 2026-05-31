@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound advocacy piece on ongoing EU Chat Control legislation—describes proposal scope but offers no durable analysis, mechanisms, or principles beyond current news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f0107910fda8ec1615af",
+  "error": ""
+}

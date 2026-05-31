@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "witch-trials",
+    "swedish-history",
+    "legal-history"
+  ],
+  "reason": "Wikipedia article on a landmark pre-1668 Swedish witch trial with durable historical mechanisms—persecution practices, legal process, and social causality—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6dbd663d13b228493a01",
+  "error": ""
+}

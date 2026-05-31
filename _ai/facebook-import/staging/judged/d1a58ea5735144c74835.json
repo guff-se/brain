@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Reactive 2017 media-frustration with one headline-distortion claim; thin hot take on a specific HD incident, not durable analysis worth keeping.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d1a58ea5735144c74835",
+  "error": ""
+}

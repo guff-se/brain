@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Personal milestone and sale announcement expressing pride, with no mechanism, analysis, or durable insight beyond the event.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a00791c988ba4efe6840",
+  "error": ""
+}

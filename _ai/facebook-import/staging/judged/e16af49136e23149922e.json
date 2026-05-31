@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional event page for a specific 2023 MKP training weekend—logistics, pricing, and refund policies with no durable ideas or analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e16af49136e23149922e",
+  "error": ""
+}

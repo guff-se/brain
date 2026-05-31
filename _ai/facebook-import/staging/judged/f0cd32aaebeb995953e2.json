@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin event footage of a 2019 album premiere at Burning Man—entertainment news with no analysis, framework, or durable insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "f0cd32aaebeb995953e2",
+  "error": ""
+}

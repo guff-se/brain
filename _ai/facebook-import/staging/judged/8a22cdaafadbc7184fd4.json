@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: tonight's lecture announcement plus a garden wordplay quip, no mechanism or durable argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8a22cdaafadbc7184fd4",
+  "error": ""
+}

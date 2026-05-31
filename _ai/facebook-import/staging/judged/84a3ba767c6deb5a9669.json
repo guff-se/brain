@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional share of a personal Mac app with a download link; no durable ideas, mechanisms, or analysis beyond announcing pride in a side project.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "84a3ba767c6deb5a9669",
+  "error": ""
+}

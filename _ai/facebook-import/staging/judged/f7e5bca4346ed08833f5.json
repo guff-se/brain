@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "healthcare-system",
+    "social-insurance",
+    "institutional-dysfunction"
+  ],
+  "reason": "Debate piece with durable structural analysis of how non-medical case workers adjudicate sick pay, creating systemic costs and perverse incentives for doctors.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f7e5bca4346ed08833f5",
+  "error": ""
+}

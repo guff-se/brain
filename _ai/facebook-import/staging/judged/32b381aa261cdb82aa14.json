@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "us-politics",
+    "presidential-elections"
+  ],
+  "reason": "Under 200 chars with no developed argument—just a time-bound hot take on the Trump–Ukraine scandal and 2020 candidates.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "32b381aa261cdb82aa14",
+  "error": ""
+}

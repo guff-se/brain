@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Amazon product page with no retrievable content — only boilerplate, cannot judge the book's substance.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "3f604e4e25fb8608d5c2",
+  "error": ""
+}

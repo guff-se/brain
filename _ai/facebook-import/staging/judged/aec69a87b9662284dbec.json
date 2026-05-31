@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "86-char own_text is a two-sentence hot take with no mechanism, causality, or reasoning chain — default skip under strict length rules.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "aec69a87b9662284dbec",
+  "error": ""
+}

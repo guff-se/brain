@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "chat-control",
+    "encryption",
+    "mass-surveillance"
+  ],
+  "reason": "Expert-backed analysis of why EU Chatcontrol claims about court orders and E2EE scanning are technically and legally false—durable policy and cryptography substance beyond the 2023 interview hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e666b43e4629250f8a19",
+  "error": ""
+}

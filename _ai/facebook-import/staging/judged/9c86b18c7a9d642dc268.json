@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-literacy",
+    "misinformation",
+    "journalism"
+  ],
+  "reason": "Durable Atlantic analysis that explains a Pew finding through mechanisms—TV news exposure, talk radio, cable news, and the erosion of fact/opinion boundaries over decades.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9c86b18c7a9d642dc268",
+  "error": ""
+}

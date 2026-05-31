@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional apartment sublet offer with fixed dates and logistics — no durable ideas or analysis.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "db1bd2af07b407e355e0",
+  "error": ""
+}

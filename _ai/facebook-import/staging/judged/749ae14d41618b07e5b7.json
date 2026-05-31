@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "open-web",
+    "social-media",
+    "platform-monopolies"
+  ],
+  "reason": "Derakhshan's essay analyzes the structural irony of Facebook's bridge rhetoric versus how walled platforms displaced the open, democratizing blogosphere—a durable causal argument from a credible web-activism perspective.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "749ae14d41618b07e5b7",
+  "error": ""
+}

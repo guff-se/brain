@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "At 190 characters the default skip applies; the two-sentence quip offers a sharp but undeveloped media-criticism observation tied to a time-bound figure rather than a durable argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b0cddce2ebaecc86c4f1",
+  "error": ""
+}

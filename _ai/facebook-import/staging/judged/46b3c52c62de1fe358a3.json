@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland",
+    "participatory-culture",
+    "leave-no-trace"
+  ],
+  "reason": "Promotional rally for reading the event Survival Guide—logistical reminders without Gustaf's reasoning; durable substance lives in the linked wiki, not this post.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "46b3c52c62de1fe358a3",
+  "error": ""
+}

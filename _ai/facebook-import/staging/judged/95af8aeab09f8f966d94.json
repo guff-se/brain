@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Time-bound BYOS party invite with DJ schedule and house rules—promotional event copy, not durable ideas or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "95af8aeab09f8f966d94",
+  "error": ""
+}

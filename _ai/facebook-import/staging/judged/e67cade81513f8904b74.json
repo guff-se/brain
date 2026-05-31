@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "nft",
+    "web3"
+  ],
+  "reason": "Promotional, time-bound NFT whitelist announcement with pricing and a link—no durable insight or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e67cade81513f8904b74",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "neoliberalism",
+    "loneliness",
+    "mental-health"
+  ],
+  "reason": "Substantive Monbiot essay linking neoliberal individualism to social isolation via mechanisms, neuroscience, and public-health evidence—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "50ff696f3302c9b5be35",
+  "error": ""
+}

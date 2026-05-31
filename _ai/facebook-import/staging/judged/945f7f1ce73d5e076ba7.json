@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "automation",
+    "future-of-work"
+  ],
+  "reason": "Paired commentary is a one-sentence restatement of the headline with no mechanism, analysis, or framing beyond the article's premise.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "945f7f1ce73d5e076ba7",
+  "error": ""
+}

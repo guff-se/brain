@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Quoted or composed song-style lyrics with no analytical framing — a creative/emotional expression, not durable knowledge or arguable claim.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "700d52fc6f63e01d029a",
+  "error": ""
+}

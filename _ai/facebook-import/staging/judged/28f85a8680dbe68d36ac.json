@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "refugees",
+    "sweden",
+    "immigration-policy"
+  ],
+  "reason": "Carl Bildt's opinion analysis on Swedish refugee policy—expert-authored, structural topic with historical context, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "28f85a8680dbe68d36ac",
+  "error": ""
+}

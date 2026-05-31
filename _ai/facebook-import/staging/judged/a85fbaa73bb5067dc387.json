@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional workshop testimonial and 10/10 feedback stats with no reasoning, mechanism, or durable insight beyond self-marketing.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a85fbaa73bb5067dc387",
+  "error": ""
+}

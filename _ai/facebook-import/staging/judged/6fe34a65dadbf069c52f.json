@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "covid-19",
+    "pandemic-origins",
+    "zoonotic-disease"
+  ],
+  "reason": "PNAS perspective with durable mechanistic argument on SARS-CoV-2 origins, lab-leak fallacies, and spillover patterns—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6fe34a65dadbf069c52f",
+  "error": ""
+}

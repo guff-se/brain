@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "press-freedom",
+    "democracy",
+    "authoritarianism"
+  ],
+  "reason": "Ola Larsmo op-ed frames journalist purges as democratic erosion and EU silence as enabling authoritarianism—durable analysis despite thin paywalled fetch.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e5f0c29c111bafaf0517",
+  "error": ""
+}

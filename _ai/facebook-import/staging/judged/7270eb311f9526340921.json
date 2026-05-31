@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary mostly repeats the headline and adds one rhetorical question about absent US actors without mechanism, analysis, or framing beyond the article's cover-up angle.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7270eb311f9526340921",
+  "error": ""
+}

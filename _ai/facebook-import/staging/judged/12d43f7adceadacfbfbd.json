@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "land-value-tax",
+    "georgism",
+    "economics"
+  ],
+  "reason": "Wikipedia article explains a durable policy framework—LVT mechanics, Georgism, efficiency, and incidence—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "12d43f7adceadacfbfbd",
+  "error": ""
+}

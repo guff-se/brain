@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man",
+    "community-organizing"
+  ],
+  "reason": "Time-bound logistical call for weekend hosts in 2019, not durable knowledge or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ed9805fb160be97f6604",
+  "error": ""
+}

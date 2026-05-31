@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "antiracism",
+    "contemporary-art",
+    "swedish-politics"
+  ],
+  "reason": "Substantive opinion piece on who may use racial slurs in art, safe-space norms, and antiracist strategy—not merely a 2017 Bokmässan news recap.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2df19a8508138a7d1dc5",
+  "error": ""
+}

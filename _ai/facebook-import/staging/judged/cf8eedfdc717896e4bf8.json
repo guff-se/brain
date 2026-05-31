@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "enshittification",
+    "platform-monopoly",
+    "tech-regulation"
+  ],
+  "reason": "Ezra Klein episode with Cory Doctorow and Tim Wu on platform extraction and enshittification—named-expert structural analysis of why the internet degraded, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "cf8eedfdc717896e4bf8",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "internet-culture",
+    "online-discourse",
+    "epistemology"
+  ],
+  "reason": "Wikipedia explains a durable mechanism—how parody and extremism blur without intent markers—with historical context and extensions beyond breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fd4a2fd32ddebdb27724",
+  "error": ""
+}

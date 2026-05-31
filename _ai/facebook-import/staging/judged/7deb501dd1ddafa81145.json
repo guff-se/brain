@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "raspberry-pi",
+    "linux",
+    "system-administration"
+  ],
+  "reason": "Official reference docs explaining boot-time startup via rc.local, with systemd caveats and root/forking mechanics—durable technical knowledge, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7deb501dd1ddafa81145",
+  "error": ""
+}

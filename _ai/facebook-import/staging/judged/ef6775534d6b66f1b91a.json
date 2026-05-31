@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone promo for a reaction video—engagement bait and poll-style questions, no developed argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ef6775534d6b66f1b91a",
+  "error": ""
+}

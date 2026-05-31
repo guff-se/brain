@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "open-access",
+    "academic-publishing",
+    "public-funding"
+  ],
+  "reason": "Title frames a durable structural question—publicly funded research vs. paywalled access—not ephemeral news, and TED/Erica Stone signal substantive analysis of the publishing system.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "488709a82fc29547f4ec",
+  "error": ""
+}

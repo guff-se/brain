@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "urban-rural-divide",
+    "political-correctness",
+    "social-norms"
+  ],
+  "reason": "Multi-sentence causal analysis of how urban in-group codes and PC etiquette exclude small-town voices — durable mechanism, not a hot take or event report.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "9cfcad4c8cd255b36b23",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "universal-basic-income",
+    "economic-policy",
+    "welfare-policy"
+  ],
+  "reason": "Economist policy analysis on UBI pilots, political momentum, and funding trade-offs — a durable structural topic beyond the 2020 news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "55e9d9efe036235191c0",
+  "error": ""
+}

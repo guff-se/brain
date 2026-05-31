@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "urban-design",
+    "public-space",
+    "advertising"
+  ],
+  "reason": "Durable case study on how removing outdoor advertising revealed hidden urban realities — favelas, illegal housing, crumbling infrastructure — with transferable lessons about visibility, public space, and the unintended functions of commercial signage.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "512f0b0392faccef6601",
+  "error": ""
+}

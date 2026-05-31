@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "mens-work",
+    "mkp-nordic"
+  ],
+  "reason": "Promotional, time-bound retreat announcement with no analysis, mechanism, or durable insight beyond inviting people to an event.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6d088ba27e9559f2a5bb",
+  "error": ""
+}

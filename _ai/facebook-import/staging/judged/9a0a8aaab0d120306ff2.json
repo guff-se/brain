@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional album-release announcement with streaming CTAs and no reasoning, framework, or durable insight beyond the launch itself.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "9a0a8aaab0d120306ff2",
+  "error": ""
+}

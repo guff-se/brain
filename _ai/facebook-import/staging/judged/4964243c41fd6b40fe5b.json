@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "revisionist-history",
+    "contracts",
+    "intellectual-property"
+  ],
+  "reason": "Revisionist History episode title frames a structural contract/publishing analysis—not generic entertainment—and matches vault precedent for Gladwell's durable mechanism-driven episodes.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "4964243c41fd6b40fe5b",
+  "error": ""
+}

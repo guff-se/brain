@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "altruism",
+    "behavioral-economics",
+    "moral-motivation"
+  ],
+  "reason": "Brooks develops a durable economic-vs-moral lens framework with causal examples (incentive crowding, institutional design) rather than time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6c51d8b011759525ad22",
+  "error": ""
+}

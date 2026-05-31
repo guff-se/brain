@@ -1,0 +1,12 @@
+{
+  "verdict": "src/app/features/users/actions/update.spec.ts",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional event announcement and invitation with logistics only, no durable ideas or analysis.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c91d55089afb4176747b",
+  "error": ""
+}

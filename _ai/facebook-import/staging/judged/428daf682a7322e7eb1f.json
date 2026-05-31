@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "european-competitiveness",
+    "mega-mergers",
+    "industrial-policy"
+  ],
+  "reason": "Standalone commentary is a verbatim Economist excerpt with no original framing, mechanism, or argument from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "428daf682a7322e7eb1f",
+  "error": ""
+}

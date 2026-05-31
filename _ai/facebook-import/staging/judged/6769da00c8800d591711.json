@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily time-bound Borderland logistics—requesting advice on a specific 2018 travel reimbursement—rather than durable reasoning; the Advice Process framework belongs on the linked wiki page, not this post.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6769da00c8800d591711",
+  "error": ""
+}

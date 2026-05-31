@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "burning-man",
+    "spirituality",
+    "community"
+  ],
+  "reason": "Thin metadata, but the title frames durable cultural-spiritual analysis of Burning Man from a named speaker rather than event news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "fecdfd2ba7e29e8b761d",
+  "error": ""
+}

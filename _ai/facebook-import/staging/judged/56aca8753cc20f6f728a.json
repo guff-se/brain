@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "business-ethics",
+    "corporate-governance",
+    "artificial-intelligence"
+  ],
+  "reason": "Expert interview on in-house philosophers, AI/social-algorithm ethics, and purpose-driven leadership—durable analysis, not a time-bound news hit.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "56aca8753cc20f6f728a",
+  "error": ""
+}

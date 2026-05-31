@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Instagram reel with only the generic title 'Instagram' and no body or description—no durable topic, analysis, or substance to preserve.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c8591c6a34e06ddc3ec2",
+  "error": ""
+}

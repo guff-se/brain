@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "neuroscience",
+    "brain-death",
+    "bioethics"
+  ],
+  "reason": "Substantive science journalism on BrainEx and restored pig-brain cellular activity, with durable implications for brain-death definitions, organ donation, and neuro research methods.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b2c8a5f93a2032b6d55c",
+  "error": ""
+}

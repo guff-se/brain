@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "masculinity",
+    "gender-norms",
+    "media-influence"
+  ],
+  "reason": "Freinacht's essay uses the Gillette controversy as a durable lens on masculinity, norm formation, media effects, and culture-war hypersensitivity, with mechanisms and empirical support—not mere news reaction.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b5d78232ea490247b17e",
+  "error": ""
+}

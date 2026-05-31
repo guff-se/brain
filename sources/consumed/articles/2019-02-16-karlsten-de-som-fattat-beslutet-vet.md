@@ -1,0 +1,28 @@
+---
+title: "Karlsten: De som fattat beslutet vet knappt vad de har röstat på"
+summary: "Svenska Socialdemokraterna röstade till exempel ner att undanta “parodi, satir och memes” från reglerna om ett “internet…"
+kind: "article"
+party: "third"
+register: "consumed"
+source: "web"
+source_id: "fb-1550271626"
+url: "https://www.breakit.se/artikel/15415/emanuel-karlsten-de-som-fattat-odesbeslutet-om-internet-vet-knappt-vad-de-har-rostat-pa?fbclid=IwAR3i-9WJOJ-Qrak-Jqou7-pfDsgAQWSs8kTlbWRxelLh9rYIXEgIQClmkY0"
+author: "Breaking Media AB"
+provenance: "extracted"
+enrichment: "ok"
+lang: "sv"
+tags: [eu-policy, tech-regulation, copyright]
+status: "reference"
+ingested: "2026-05-30"
+created: "2019-02-16"
+---
+
+Svenska Socialdemokraterna röstade till exempel ner att undanta “parodi, satir och memes” från reglerna om ett “internetfilter”. Vilket är märkligt, eftersom det redan är tillåtet enligt svensk lag. I efterhand meddelade Socialdemokraterna att det var ett misstag. Och ja, det var över 250 tillägg (det är extremt många) och voteringen gick mycket snabbt, så det är möjligt att Socialdemokraterna gjorde ett misstag. Misstag eller ej, förslaget godkändes av Europaparlamentet (med stöd av både svenska S och Fi). En person som var särskilt lättad var Axel Voss. Det är han, som förslagets föredragande, drivit det genom de stormar av hundratusentals protester från medborgare runt om i Europa. Under onsdagseftermiddagen vandrade han genom parlamentets korridorer och gav high fives, fick kramar och ryggdunkar. Hela hans person tycktes annorlunda, som att tio ton lyfts från hans axlar. Kanske är det därför han har garden nere när vi möts. Det är bara jag och en holländsk journalist som söker upp honom i korridorerna i Strasbourg och den holländske journalisten skakar mest på huvudet åt mina kritiska frågor. Det tycks få Voss att intressera sig ännu mer för vad jag frågar. Han försöker förklara att han inte alls känner sig manipulerad av Facebook, trots att hans kollegor nyss rasat över “manipulationen” från Facebook (på grund av alla massmejl) under en presskonferens. Voss säger att det nu är dags att arbeta, att han nu tillsammans med Ministerrådet och EU-kommissionen ska hitta lösningar på alla detaljer, alla problem. "Hjälp mig gärna!", säger han. Det är lite förvirrande alltihop, han har ju precis fått en rad beslut i knät som han måste förhålla sig till? Vill han ha hjälp - nu? Av vem? Jag frågar honom om ett av de problematiska besluten, ett förslag som tolkats som ett fotoförbud på sportevent. Förslaget har gått helt under radarn i debatten, först i veckan nådde det allmänheten. I korthet går det ut på att inte ens privatpersoner får filma en fotbollsmatch eller en ridtävling. Voss avfärdar förslaget när jag tar upp det. “Ja, det var lite av ett misstag av JURI-utskottet, någon la det som ett tillägg, ingen har varit medveten om det....” Jag försöker bryta in, säga att tillägget ju redan är godtaget, parlamentet har bundit honom att arbeta med det? Vad menar han? “Det fanns med idag? Var det också med idag?”, säger Voss förvånat. En assistent bryter in, bekräftar, men förklarar att det inte är så farligt, att allt är uppblåst. Att förslaget främst syftar till att på något sätt reglera bettingbolagen som sänder sport på nätet (lyssna ljudfilen i botten av artikeln). Men Voss tyckte ju nyss att det var ett misstag? “Jag visste inte att det var i förslaget, så jag måste ta tag i det nu”, säger Voss. Han menar att det är något som måste “hanteras”. “Ja, självklart, jag antar att varken kommissionen eller ministerrådet kommer ha med det här i deras förslag”, säger Voss. Assistenten bryter in igen, säger att det är så här det fungerar, i triloger kan saker rätas ut. Men är inte det vad man gör i utskottet, räta ut saker, diskuterar dem? Voss bryter in igen. “På grund av tidspressen koncentrerade vi oss på annat. Så vi är överraskade att det här fanns med i texten, och nu får vi diskutera det”. Det är häpnadsväckande. Det är proffspolitiker som gjort ett av karriärens mest betydande beslut, både för sig själva och för Europa, men de vet knappt vad de röstat igenom. Ja, EU:s byråkrati har en inbyggd seghet, som fortfarande gör att förslaget kan modifieras, men Voss har ett uppdrag av parlamentet att driva de här frågorna, som de står. Och ändå vill han nu göra motsatsen? Det är spektakulärt, men också väldigt talande för hur detta direktiv tagits fram. De som driver och beslutat om det vet knappt vad de röstat på, eller vilka effekter det kan få. LYSSNA PÅ VOSS FÖRVIRRING KRING VAD HAN RÖSTAT IGENOM: Rättelse: I en tidigare version av texten skrev vi att journalisten som stod bredvid Emanuel Karlsten under intervjun var tysk. Breakit har i efterhand fått reda på att personen är holländsk. Vi ber om ursäkt för misstaget.
+
+---
+**Gustaf's commentary:** “På grund av tidspressen koncentrerade vi oss på annat. Så vi är överraskade att det här fanns med i texten, och nu får vi diskutera det”.  - Ansvarig politiker om lagen han precis drivit igenom.
+
+I ett par år har jag och många andra skrikit och skrikit utan att någon lyssnat. EU är på väg att skjuta internet i huvudet och de som driver dessa korrupta lagar erkänner att de själva inte har någon aning om vad de sysslar med.
+Vi går mot en värld styrd av ett fåtal företag som med hjälp av AI kommer kontrollera vad som får och inte får sägas. Det kanske visar sig att de där EU kritikerna inte var så tokiga ändå.
+
+Edit: Gammal artikel, nu har det blivit ännu värre: Den där artikeln är från september och det har eskalerat ännu mer nu. https://www.bahnhof.se/press/press-releases/2019/02/14/eu-nytt-artikel-11-13-har-forvarrats-en-sista-gang

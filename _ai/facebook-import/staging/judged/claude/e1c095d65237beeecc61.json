@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "millennials",
+    "leadership",
+    "social-media"
+  ],
+  "reason": "Named expert (Simon Sinek) presenting a durable framework on generational workplace behavior with causal mechanisms (dopamine, parenting, instant gratification) — not a news item.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_video",
+  "content_sha": "e1c095d65237beeecc61",
+  "error": ""
+}

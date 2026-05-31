@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "welfare-privatization",
+    "entrepreneurship",
+    "public-sector"
+  ],
+  "reason": "Paired commentary is a moral hot take condemning asset-flipping as corruption, without causal analysis or framing beyond what the headline already implies.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "96c1ce40b2cba57df576",
+  "error": ""
+}

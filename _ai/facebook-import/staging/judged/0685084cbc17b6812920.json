@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "philosophy",
+    "critical-theory",
+    "dialectic"
+  ],
+  "reason": "Episode title prominently names the dialectic as a philosophical framework—not generic entertainment—and mp3 is available for ingest.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "0685084cbc17b6812920",
+  "error": ""
+}

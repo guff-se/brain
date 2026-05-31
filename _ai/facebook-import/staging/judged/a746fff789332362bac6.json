@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "participatory-art",
+    "burn-culture",
+    "creative-process"
+  ],
+  "reason": "Paired commentary articulates a durable principle—participatory creation over consumable quality—with causal framing, not just a podcast plug.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "a746fff789332362bac6",
+  "error": ""
+}

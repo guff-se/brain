@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "meritocracy",
+    "cultural-institutions",
+    "network-culture"
+  ],
+  "reason": "Op-ed develops a durable causal claim—abuse impunity in Swedish culture/media stems from crony networks elevating mediocrity over talent, not from worship of genius.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "447d79c589aa991cc432",
+  "error": ""
+}

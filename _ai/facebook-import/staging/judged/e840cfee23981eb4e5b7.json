@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2016 campaign snapshot of party votes on asylum limits—useful only before that election, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e840cfee23981eb4e5b7",
+  "error": ""
+}

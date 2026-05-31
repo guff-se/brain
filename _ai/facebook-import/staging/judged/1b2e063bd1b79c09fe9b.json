@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on ephemeral Moria crisis news offers vivid juxtaposition but no durable mechanism or principle beyond the event.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "1b2e063bd1b79c09fe9b",
+  "error": ""
+}

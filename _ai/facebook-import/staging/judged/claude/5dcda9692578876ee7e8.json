@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "meditation",
+    "psychology",
+    "ego"
+  ],
+  "reason": "Journalistic news report framing a single study; the counterintuitive finding is interesting but the durable insight is fully captured in the headline — the article body likely adds no mechanism beyond what a study summary would provide.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "5dcda9692578876ee7e8",
+  "error": ""
+}

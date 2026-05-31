@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Administrative 2021 Borderland board nomination announcement—who stayed, who left, lottery outcome—with no durable reasoning; governance rationale lives in the linked Talk post, not here.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "44fcd7011dac65eccdb7",
+  "error": ""
+}

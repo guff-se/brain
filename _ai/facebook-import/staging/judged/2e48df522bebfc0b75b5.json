@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "animal-behavior",
+    "electrostatics",
+    "science-journalism"
+  ],
+  "reason": "Ed Yong explains a durable biological mechanism—spider ballooning via atmospheric electric fields—with causal reasoning, experimental evidence, and historical context.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2e48df522bebfc0b75b5",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.84,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "inequality",
+    "taxation",
+    "economic-policy"
+  ],
+  "reason": "Despite 2017 UK political framing, the piece centers on durable IMF empirical findings that progressive taxation can reduce inequality without harming growth, with mechanisms and decades-long tax-rate trends worth retaining.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7bbe575f20c0a3e5e288",
+  "error": ""
+}

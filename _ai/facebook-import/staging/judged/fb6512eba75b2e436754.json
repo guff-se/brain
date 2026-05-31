@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "data-retention",
+    "privacy",
+    "rule-of-law"
+  ],
+  "reason": "Op-ed explains EU court limits on surveillance and why Swedish data retention misreads person-based rights—not just a 2019 news flare-up.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fb6512eba75b2e436754",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "electric-vehicles",
+    "subsidies",
+    "transport-policy"
+  ],
+  "reason": "Data-driven investigation of subsidy–leasing arbitrage and cross-border EV export, with mechanisms and market effects beyond a one-off news item.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3a77be1a8a813a9bdd06",
+  "error": ""
+}

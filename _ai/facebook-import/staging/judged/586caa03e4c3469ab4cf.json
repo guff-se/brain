@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "misinformation",
+    "digital-literacy",
+    "generational-differences"
+  ],
+  "reason": "Paywalled DN kultur essay by Ahlström on a durable pattern—older relatives' screen-driven misinformation—not a time-bound news event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "586caa03e4c3469ab4cf",
+  "error": ""
+}

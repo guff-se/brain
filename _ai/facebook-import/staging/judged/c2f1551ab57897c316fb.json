@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "iot",
+    "embedded-hardware"
+  ],
+  "reason": "E-commerce product listing with specs and features only—promotional/transactional, not durable knowledge or analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c2f1551ab57897c316fb",
+  "error": ""
+}

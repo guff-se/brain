@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "emf",
+    "radiation-safety",
+    "public-health"
+  ],
+  "reason": "Government agency topic landing page with elementary EMF definitions and institutional scope, not substantive analysis or durable insight worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a425a247ad66b8cd38bb",
+  "error": ""
+}

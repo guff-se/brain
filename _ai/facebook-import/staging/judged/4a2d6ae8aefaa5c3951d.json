@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "cultural-policy",
+    "intellectual-property"
+  ],
+  "reason": "Opinion analysis with durable mechanisms—state-funded copyright industry narrative, industry power over public culture, and democratic critique—not ephemeral budget news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4a2d6ae8aefaa5c3951d",
+  "error": ""
+}

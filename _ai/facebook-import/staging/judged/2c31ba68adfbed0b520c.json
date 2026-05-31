@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "confirmation-bias",
+    "motivated-reasoning",
+    "political-psychology"
+  ],
+  "reason": "Economist summary of experimental evidence that people forgo money to avoid opposing viewpoints — durable mechanism on belief formation, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2c31ba68adfbed0b520c",
+  "error": ""
+}

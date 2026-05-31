@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ephemeral 2020 viral-news roundup of Twitter mockery, not durable analysis of politics, culture, or fandom beyond the obvious punchline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "00b0f12b9ca833415e84",
+  "error": ""
+}

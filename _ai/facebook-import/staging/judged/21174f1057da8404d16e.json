@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.91,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound Pizzagate conspiracy roundup from alternative media, not durable analysis or a framework worth preserving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "21174f1057da8404d16e",
+  "error": ""
+}

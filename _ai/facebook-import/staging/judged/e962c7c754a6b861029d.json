@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Under-200-char social banter about a lottery result with no argument, mechanism, or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e962c7c754a6b861029d",
+  "error": ""
+}

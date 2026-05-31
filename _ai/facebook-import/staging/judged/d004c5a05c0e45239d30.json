@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "climate-change",
+    "corporate-accountability",
+    "climate-justice"
+  ],
+  "reason": "Heglar’s systemic accountability framing and Carbon Majors emissions data are durable mechanism-level climate analysis, despite dated Trump-era news appended.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d004c5a05c0e45239d30",
+  "error": ""
+}

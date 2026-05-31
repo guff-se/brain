@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "opioid-crisis",
+    "pharmaceutical-industry",
+    "corporate-accountability"
+  ],
+  "reason": "Investigative profile tracing how Purdue's OxyContin marketing and misbranding built Sackler wealth—durable causal history of the opioid crisis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bdd74bf728092137263f",
+  "error": ""
+}

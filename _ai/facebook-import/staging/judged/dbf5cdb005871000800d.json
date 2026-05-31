@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is mostly a recommendation and article quote; the brief privilege note adds no substantive framing or reasoning beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "dbf5cdb005871000800d",
+  "error": ""
+}

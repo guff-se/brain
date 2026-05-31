@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound promotional announcement for a live event with signup and broadcast logistics, not durable knowledge or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "2547212594ebf285e8f6",
+  "error": ""
+}

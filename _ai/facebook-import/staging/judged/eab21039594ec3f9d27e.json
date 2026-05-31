@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "public-procurement",
+    "municipal-services",
+    "privatization"
+  ],
+  "reason": "Standalone reaction to time-bound SL bus-procurement news—a rhetorical hot take on tendering vs in-house ops, not durable reasoning worth keeping without the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "eab21039594ec3f9d27e",
+  "error": ""
+}

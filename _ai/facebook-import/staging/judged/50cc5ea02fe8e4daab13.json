@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Episodic Last Week Tonight recap of Trump’s first year; metadata is promotional only and offers no durable analysis, framework, or insight beyond time-bound news commentary.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "50cc5ea02fe8e4daab13",
+  "error": ""
+}

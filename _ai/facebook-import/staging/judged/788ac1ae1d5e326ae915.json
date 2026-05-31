@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Personal birth announcement and social invitation—time-bound life event with no reasoning, insight, or durable knowledge worth curating.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "788ac1ae1d5e326ae915",
+  "error": ""
+}

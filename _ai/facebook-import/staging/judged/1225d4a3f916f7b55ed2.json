@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "authoritarianism",
+    "human-rights",
+    "xinjiang"
+  ],
+  "reason": "Primary-source investigative reporting that explains the mechanisms, causality, and bureaucratic organization of China's Xinjiang detention campaign—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1225d4a3f916f7b55ed2",
+  "error": ""
+}

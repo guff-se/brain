@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paywalled DN party-leader interview with only a news lede—time-bound Swedish migration politics, not durable analysis or frameworks.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e7b81c696cb4246cbd55",
+  "error": ""
+}

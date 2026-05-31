@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "authoritarianism",
+    "geopolitics",
+    "propaganda"
+  ],
+  "reason": "Named expert (Masha Gessen) analyzing Putin's ideological worldview—a durable structural topic, not episodic news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "19a893b964ed6930a8df",
+  "error": ""
+}

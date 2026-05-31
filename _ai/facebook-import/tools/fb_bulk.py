@@ -14,7 +14,7 @@ Usage:
   python tools/fb_bulk.py              # run everything
   python tools/fb_bulk.py --status     # show progress counts
   python tools/fb_bulk.py --year 2016  # only process one year (for testing)
-  python tools/fb_bulk.py --dry-run    # fetch+judge but don't write to sources/
+  python tools/fb_bulk.py --judge-backend claude  # use Claude Code CLI instead of Cursor
 """
 from __future__ import annotations
 import argparse, json, os, re, sys, datetime, unicodedata, hashlib, threading
@@ -32,7 +32,8 @@ sys.path.insert(0, HERE)
 from fb_fetch import fetch, classify_domain, domain_of  # noqa
 from fb_judge import (  # noqa
     judge, TokenLimitError, is_token_limit_message, is_retriable_judge_error,
-    load_cached_judgement, judgement_cache_path,
+    load_cached_judgement, judgement_cache_path, configure_judge, judge_backend_label,
+    judge_model,
 )
 
 # Global stop flag — set when a token limit is detected. Workers check this
@@ -751,11 +752,18 @@ def main():
                     help='Only apply existing judged/ cache (no agent calls). Skips uncached rows.')
     ap.add_argument('--year', type=int, help='Only process this year')
     ap.add_argument('--workers', type=int, default=2)
+    ap.add_argument('--judge-backend', choices=['cursor', 'claude'],
+                    default=os.environ.get('FB_JUDGE_BACKEND', 'cursor'),
+                    help='LLM judge CLI (default: cursor, or FB_JUDGE_BACKEND)')
+    ap.add_argument('--judge-model', default=os.environ.get('FB_JUDGE_MODEL') or None,
+                    help='Model alias/name (default: auto for cursor, claude-haiku-4-5 for claude)')
     ap.add_argument('--limit', type=int, help='Cap total rows (for testing)')
     ap.add_argument('--retry-errors', action='store_true',
                     help='Also re-attempt non-retriable judge-errors (e.g. no-json). '
                          'Limit/CLI judge-errors retry automatically.')
     args = ap.parse_args()
+
+    configure_judge(backend=args.judge_backend, model=args.judge_model)
 
     if args.status:
         show_status()
@@ -791,7 +799,8 @@ def main():
     rows = _sort_rows_for_work(rows)
     todo_n = len(rows) - resume_n
 
-    print(f'Processing {len(rows)} rows with {args.workers} workers'
+    print(f'Processing {len(rows)} rows with {args.workers} workers '
+          f'({judge_backend_label()}, model={judge_model()})'
           + (' [DRY RUN]' if args.dry_run else '')
           + (' [CACHE ONLY]' if args.cache_only else '')
           + (' [RETRY ALL ERRORS]' if _retry_errors else '') + '...')
@@ -825,7 +834,7 @@ def main():
                     token_limit_hit = True
                     limit_detail = str(e)
                     _stop.set()
-                    print('\n⚠️  Cursor agent usage/session limit reached. Stopping gracefully.')
+                    print(f'\n⚠️  {judge_backend_label()} usage/session limit reached. Stopping gracefully.')
                     print('   Re-run `python tools/fb_bulk.py` to resume — judged items are cached.')
                     if limit_detail:
                         print(f'   ({limit_detail[:200]})')
@@ -839,7 +848,7 @@ def main():
                         token_limit_hit = True
                         limit_detail = str(e)
                         _stop.set()
-                        print('\n⚠️  Cursor agent usage/session limit reached. Stopping gracefully.')
+                        print(f'\n⚠️  {judge_backend_label()} usage/session limit reached. Stopping gracefully.')
                         print('   Re-run `python tools/fb_bulk.py` to resume — judged items are cached.')
                     res = {'status': 'token-limit-stop',
                            'ts': row.get('ts'), 'date': row.get('date'),
@@ -872,7 +881,7 @@ def main():
                     token_limit_hit = True
                     limit_detail = res.get('error', '')
                     _stop.set()
-                    print('\n⚠️  Cursor agent usage/session limit reached. Stopping gracefully.')
+                    print(f'\n⚠️  {judge_backend_label()} usage/session limit reached. Stopping gracefully.')
                     print('   Re-run `python tools/fb_bulk.py` to resume — judged items are cached.')
                 continue
 
@@ -909,7 +918,7 @@ def main():
             print(f'   Cancelled {cancelled} queued tasks.')
 
     if token_limit_hit:
-        print(f'\nStopped early after {processed} completed tasks — agent limit. Re-run to resume.')
+        print(f'\nStopped early after {processed} completed tasks — {judge_backend_label().lower()} limit. Re-run to resume.')
         sys.exit(2)  # distinguish from success; safe to re-run
     else:
         print('\nDone.')

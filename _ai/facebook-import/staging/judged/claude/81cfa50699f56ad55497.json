@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "market-liberalism",
+    "public-sector",
+    "ideological-consistency"
+  ],
+  "reason": "Develops a coherent logical argument about the double standard in market-liberal critique of public sector spending, with clear mechanism: if markets are efficient, they'd eliminate wasteful private-sector events too — so the public sector should be allowed the same tools.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "81cfa50699f56ad55497",
+  "error": ""
+}

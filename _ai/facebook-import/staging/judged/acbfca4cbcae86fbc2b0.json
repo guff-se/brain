@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "public-sector",
+    "use-it-or-lose-it",
+    "perverse-incentives"
+  ],
+  "reason": "Develops a clear causal critique of end-of-year budget spending norms and the perverse incentive that surpluses reduce next year's allocation.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "acbfca4cbcae86fbc2b0",
+  "error": ""
+}

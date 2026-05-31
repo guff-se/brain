@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "personality-testing",
+    "organizational-psychology",
+    "pseudoscience"
+  ],
+  "reason": "Durable critique of DISC/MBTI with causal mechanism (fundamental attribution error explains their appeal) and evidence-based alternative (shared goals over personality sorting) — not just news, a reusable argument.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "f065c6239d584f479e95",
+  "error": ""
+}

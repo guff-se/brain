@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "swedish-politics",
+    "integration",
+    "public-opinion"
+  ],
+  "reason": "Data-driven debatt analysis using SOM surveys to challenge assumptions about 'Swedish values,' comparing immigrants and SD supporters on institutional trust and gender equality—durable sociological framing beyond the news hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c7d695f325ac93b63bfc",
+  "error": ""
+}

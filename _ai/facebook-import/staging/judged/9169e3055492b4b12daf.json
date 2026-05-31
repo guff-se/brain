@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sharing-economy",
+    "platform-capitalism",
+    "rhetoric"
+  ],
+  "reason": "URL title and How We Get To Next signal durable structural critique of sharing-economy rhetoric; fetched body was site navigation, not the article.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9169e3055492b4b12daf",
+  "error": ""
+}

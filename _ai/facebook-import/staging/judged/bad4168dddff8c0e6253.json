@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "swedish-politics",
+    "moderaterna",
+    "satire"
+  ],
+  "reason": "Under 200 characters and reads as sarcastic hot take on a time-bound political moment, not a developed argument with mechanism or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "bad4168dddff8c0e6253",
+  "error": ""
+}

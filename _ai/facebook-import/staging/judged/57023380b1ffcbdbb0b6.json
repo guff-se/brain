@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "media-perception",
+    "crime-statistics",
+    "sweden"
+  ],
+  "reason": "Paired commentary only paraphrases the article's core claim (violence down vs perceived increase, media gap) with no added framing or Gustaf's own analysis.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "57023380b1ffcbdbb0b6",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "covid-19",
+    "pandemic-policy"
+  ],
+  "reason": "Time-bound SVT news report on Tegnell's press-conference speculation about summer 2021 festivals, with no durable analysis or principles beyond situational COVID planning.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "eb8f3195f6634c00317a",
+  "error": ""
+}

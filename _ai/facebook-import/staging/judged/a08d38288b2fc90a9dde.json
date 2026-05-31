@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars with no argument—just excited social announcement about an NFT Christmas gift and hype hashtags.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a08d38288b2fc90a9dde",
+  "error": ""
+}

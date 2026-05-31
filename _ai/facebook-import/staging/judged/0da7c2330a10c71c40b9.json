@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gender-equality",
+    "bodily-autonomy",
+    "integration"
+  ],
+  "reason": "Substantive debate piece arguing durable principles—bodily autonomy, norm criticism, and democratic participation—rather than merely reporting the 2016 handshake controversy.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0da7c2330a10c71c40b9",
+  "error": ""
+}

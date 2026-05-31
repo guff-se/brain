@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "turkey",
+    "erdogan",
+    "politics"
+  ],
+  "reason": "Under 200 characters with no developed argument—time-bound reaction to the 2016 coup attempt, ambivalent hot take ending in a quip.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "91cd8ba7ba78e00beb3f",
+  "error": ""
+}

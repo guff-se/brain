@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "philosophy",
+    "empathy",
+    "andy-weir"
+  ],
+  "reason": "Andy Weir's 'The Egg' is a durable philosophical thought experiment on empathy and interconnectedness, not generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "1c0c20df27fb9ee81e46",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "populism",
+    "political-strategy",
+    "opposition-dynamics"
+  ],
+  "reason": "Zingales draws a structural Berlusconi/Italy parallel to derive durable principles about how personality-focused opposition backfires against populists — the mechanism (Pavlovian reaction generating sympathy for the target) generalizes beyond the 2016 moment.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "62ceb14744b0dfdec87c",
+  "error": ""
+}

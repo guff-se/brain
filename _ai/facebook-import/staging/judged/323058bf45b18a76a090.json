@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "china-economics",
+    "sovereign-debt",
+    "infrastructure"
+  ],
+  "reason": "Title and Economics Explained channel signal durable structural analysis of China's systemic debt and infrastructure overinvestment, not ephemeral entertainment or event-only news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "323058bf45b18a76a090",
+  "error": ""
+}

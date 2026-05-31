@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": "article",
+  "tags_hint": [
+    "education-policy",
+    "charter-schools",
+    "sweden"
+  ],
+  "reason": "Paywalled DN news headline reporting a new study finding, not durable analysis or mechanisms—the substantive reasoning lives in Gustaf's separate commentary, not this article stub.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "addf4f41d46d3a2a2315",
+  "error": ""
+}

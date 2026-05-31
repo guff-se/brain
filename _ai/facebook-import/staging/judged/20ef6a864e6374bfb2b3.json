@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "monetary-policy",
+    "banking",
+    "economic-inequality"
+  ],
+  "reason": "DN Debatt piece argues a durable mechanism—bank lending as money creation outpacing GDP—and links it to inequality and structural reform, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "20ef6a864e6374bfb2b3",
+  "error": ""
+}

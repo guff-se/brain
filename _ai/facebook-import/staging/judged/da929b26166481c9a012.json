@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "universal-basic-income",
+    "social-insurance",
+    "welfare-bureaucracy"
+  ],
+  "reason": "Gustaf frames a detailed Försäkringskassan clawback case as systemic evidence for non-means-tested basic income over bureaucratic sick-leave rules.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "da929b26166481c9a012",
+  "error": ""
+}

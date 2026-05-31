@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is a time-bound vote-and-share plea with company mission copy, not Gustaf's durable reasoning or insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "92fa28d30a9e2544d946",
+  "error": ""
+}

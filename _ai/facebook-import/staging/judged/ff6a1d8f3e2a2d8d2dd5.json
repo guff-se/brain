@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "jordan-peterson",
+    "populism",
+    "political-philosophy"
+  ],
+  "reason": "Žižek's Lacanian analysis of Peterson's appeal and the symmetric pathologies of populism and PC liberalism is durable mechanism-level political theory, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ff6a1d8f3e2a2d8d2dd5",
+  "error": ""
+}

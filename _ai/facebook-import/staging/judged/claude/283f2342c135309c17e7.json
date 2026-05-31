@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Under 200 chars, purely promotional/logistical announcement with no argument or insight.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "283f2342c135309c17e7",
+  "error": ""
+}

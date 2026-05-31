@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "tax-policy",
+    "wealth-inequality",
+    "swedish-politics"
+  ],
+  "reason": "SNS Konjunkturråd DN Debatt on structural capital, inheritance, and property tax reform addresses durable inequality mechanisms, not ephemeral news, despite paywall.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1a327268759d4d6a7b31",
+  "error": ""
+}

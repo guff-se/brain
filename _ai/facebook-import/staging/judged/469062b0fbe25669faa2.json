@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "press-ethics",
+    "journalistic-standards",
+    "media-accountability"
+  ],
+  "reason": "Åsa Linderborg's opinion piece analyzes mechanisms of press-ethics erosion, naming rules, and inconsistent media standards—durable principles framed by but not reducible to the 2017 #MeToo news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "469062b0fbe25669faa2",
+  "error": ""
+}

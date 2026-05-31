@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin Vimeo promo for a personal Burning Man tour vlog—event logistics, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "0b9782e07dad0b1401d9",
+  "error": ""
+}

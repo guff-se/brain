@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Title indicates a 2018 YouGov poll news item about AfS support—time-bound political reporting, not durable analysis; fetched body is unrelated Metro homepage listings, not article content.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d7275532648c1edbac5c",
+  "error": ""
+}

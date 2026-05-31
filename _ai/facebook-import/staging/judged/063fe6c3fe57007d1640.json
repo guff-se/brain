@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical event promotion asking for invites—no durable ideas, analysis, or reasoning beyond a time-bound announcement.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "063fe6c3fe57007d1640",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "alan-watts",
+    "zen",
+    "sincerity"
+  ],
+  "reason": "Alan Watts names a durable serious-vs-sincere distinction with causal imagery, worth keeping as a quote excerpt despite thin repackaged video metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "b5042020f92a70a71ba5",
+  "error": ""
+}

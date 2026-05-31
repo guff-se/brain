@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "democracy",
+    "brexit",
+    "referendum"
+  ],
+  "reason": "Rogoff's argument about referendum thresholds and democratic legitimacy is structural analysis that outlasts the 2016 Brexit moment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "505c3f81968c2239a34b",
+  "error": ""
+}

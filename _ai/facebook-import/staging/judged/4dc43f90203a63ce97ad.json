@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Manufacturer product page with promotional copy about workwear tights, not durable knowledge or analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4dc43f90203a63ce97ad",
+  "error": ""
+}

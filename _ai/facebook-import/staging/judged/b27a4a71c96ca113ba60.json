@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "crime-statistics",
+    "public-perception",
+    "sweden"
+  ],
+  "reason": "Data-driven column contrasting Brå/NTU trends with public belief—durable mechanism (perception vs recorded crime), not just a news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b27a4a71c96ca113ba60",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "technological-progress",
+    "stagnation",
+    "anti-edenism"
+  ],
+  "reason": "Thiel's substantive essay links theology, Malthusian constraints, and cultural pessimism to argue that technological progress is ethically necessary—not ephemeral news or banter.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2b674b830b1e0f653e7f",
+  "error": ""
+}

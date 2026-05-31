@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "right-to-repair",
+    "e-waste",
+    "copyright"
+  ],
+  "reason": "Case study with durable mechanisms—how copyright valuation and restore-disc rules punish refurbishment and e-waste reduction despite near-zero disc value.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ed1031225cb82b94999f",
+  "error": ""
+}

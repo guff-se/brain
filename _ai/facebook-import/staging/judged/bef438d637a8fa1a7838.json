@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "preference-falsification",
+    "social-change",
+    "social-norms"
+  ],
+  "reason": "Paired commentary distills Sunstein’s mechanisms—preference falsification, latent agreement, and abrupt change—not a headline reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "bef438d637a8fa1a7838",
+  "error": ""
+}

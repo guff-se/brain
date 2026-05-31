@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters with no argument or mechanism—only enthusiasm and a link to a talk spreadsheet.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7c4edb9391ef2472b565",
+  "error": ""
+}

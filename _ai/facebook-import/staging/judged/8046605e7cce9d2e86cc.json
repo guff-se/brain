@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "economic-inequality",
+    "elite-impunity",
+    "swedish-politics"
+  ],
+  "reason": "Kronikan bygger en varaktig klass- och maktanalys (ojämlikhet, elitbrott, hyckleri kring bidrag) kring 2019-skandaler, inte bara nyhetsnotis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8046605e7cce9d2e86cc",
+  "error": ""
+}

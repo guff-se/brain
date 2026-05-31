@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "The title names a durable concept (tu quoque), but the fetched body is only promotional shop/share copy with no explanation of the fallacy.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8059c25a9fac892a0022",
+  "error": ""
+}

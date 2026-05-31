@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Viral novelty song with thin uploader promo text—no durable topic, framework, or analysis worth archiving.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "3109b3edc4d8a26b9561",
+  "error": ""
+}

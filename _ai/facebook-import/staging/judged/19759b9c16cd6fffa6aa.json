@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "atelje-stugan",
+    "blivande",
+    "community"
+  ],
+  "reason": "A time-bound volunteer recruitment for studio cleanup—logistical and event-specific, with no durable ideas, analysis, or reasoning worth preserving.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "19759b9c16cd6fffa6aa",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "mens-work",
+    "mankind-project"
+  ],
+  "reason": "Mostly an MKP training-weekend signup page (dates, price, logistics) with promotional copy and a generic mature-masculinity excerpt, not durable standalone analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "eb1be4760c0fe43f029b",
+  "error": ""
+}

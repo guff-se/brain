@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical event announcement about a collaborative art build with no reasoning, insight, or durable knowledge beyond time-bound social activity.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "857bf631612632210235",
+  "error": ""
+}

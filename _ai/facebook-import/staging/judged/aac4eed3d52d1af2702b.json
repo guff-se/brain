@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "mental-math",
+    "mathematics",
+    "problem-solving"
+  ],
+  "reason": "Step-by-step mental-math framework with durable digit-pattern rules and worked examples, not time-bound news or banter.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "aac4eed3d52d1af2702b",
+  "error": ""
+}

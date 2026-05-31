@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.71,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "swedish-politics",
+    "sverigedemokraterna",
+    "political-strategy"
+  ],
+  "reason": "Thin metadata, but title/author and description signal durable structural analysis of SD's rise by party representatives—not generic entertainment or breaking news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "aeada66e482f514009bc",
+  "error": ""
+}

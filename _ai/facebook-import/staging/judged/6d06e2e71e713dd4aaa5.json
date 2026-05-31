@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man",
+    "community-building",
+    "music"
+  ],
+  "reason": "Time-bound travel update and friend album promo that lists topics to discuss but offers no developed reasoning, insight, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6d06e2e71e713dd4aaa5",
+  "error": ""
+}

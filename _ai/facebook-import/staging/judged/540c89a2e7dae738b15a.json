@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "welfare-privatization",
+    "swedish-politics",
+    "regulatory-capture"
+  ],
+  "reason": "Paywalled, but title and lede frame a durable structural investigation—decades of public-to-private wealth transfer, tax-funded welfare conglomerates, and whether lobbying power blocks regulation—not ephemeral breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "540c89a2e7dae738b15a",
+  "error": ""
+}

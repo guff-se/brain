@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "pajobbetpodden",
+    "organizational-design",
+    "remote-work"
+  ],
+  "reason": "Promotional teaser for a podcast episode that names topics without developing Gustaf's own reasoning or mechanisms.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "dd7fd3819e28a9b25d16",
+  "error": ""
+}

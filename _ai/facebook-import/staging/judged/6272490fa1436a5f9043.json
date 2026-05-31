@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "mental-load",
+    "gender-equality",
+    "household-labor"
+  ],
+  "reason": "Introduces the durable 'mental load' framework and the manager-vs-worker mechanism behind unequal household labor, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6272490fa1436a5f9043",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin promotional metadata for a comedy-news segment; no substantive analysis in the fetch, and Last Week Tonight crypto coverage is time-bound entertainment rather than durable knowledge.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "abd2546edee268d7bdec",
+  "error": ""
+}

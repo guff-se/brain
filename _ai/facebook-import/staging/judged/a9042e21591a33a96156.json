@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "rentier-capitalism",
+    "inequality",
+    "liberal-democracy"
+  ],
+  "reason": "Martin Wolf's structural analysis of rentier capitalism, inequality, and finance as drivers of democratic decline is durable explanatory framework, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a9042e21591a33a96156",
+  "error": ""
+}

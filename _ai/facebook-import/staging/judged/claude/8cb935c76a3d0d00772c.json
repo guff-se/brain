@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars with no mechanism or reasoning — a one-liner reaction to a news moment, not durable knowledge.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "8cb935c76a3d0d00772c",
+  "error": ""
+}

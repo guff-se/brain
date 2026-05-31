@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Title frames immediate post–Oct 7 Gaza-war policy debate, not a named expert, framework, or structural analysis—and metadata is too thin to override that.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "0cb356a70185b3fd1b13",
+  "error": ""
+}

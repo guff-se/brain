@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "psychometrics",
+    "microtargeting",
+    "surveillance-capitalism"
+  ],
+  "reason": "Landmark investigative scoop explaining how the personality-test app harvested friend-graph data, built psychographic models, and weaponized them for political targeting—mechanisms that remain canonical beyond the March 2018 news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "745419108fabe02440a5",
+  "error": ""
+}

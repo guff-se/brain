@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "consumer-culture",
+    "marketing",
+    "environment"
+  ],
+  "reason": "Sandahl's column explains the status-marketing and framing mechanisms behind bottled water—a durable critique of consumer capitalism, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "67740401cfdc266589b9",
+  "error": ""
+}

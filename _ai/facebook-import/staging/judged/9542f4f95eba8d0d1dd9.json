@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "revisionist-history",
+    "behavioral-economics",
+    "institutional-design"
+  ],
+  "reason": "Gladwell episode on lottery-system reform is durable mechanism analysis; fetch is thin but the URL slug and author signal are enough.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9542f4f95eba8d0d1dd9",
+  "error": ""
+}

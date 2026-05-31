@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "AliExpress product listing with no article body or analysis—purely transactional shopping, not durable knowledge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a7c58c66f051b2959a78",
+  "error": ""
+}

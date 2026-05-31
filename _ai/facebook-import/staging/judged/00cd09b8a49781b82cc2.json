@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary mostly restates the Cambridge Analytica headline and asks open ethical questions without a reasoning chain or mechanism beyond what the article already frames.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "00cd09b8a49781b82cc2",
+  "error": ""
+}

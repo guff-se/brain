@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "hybrid-work",
+    "remote-work",
+    "management"
+  ],
+  "reason": "Paired commentary adds a causal mechanism—unacknowledged desire for physical presence as ownership—not just agreement with the article headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "908f70b5beef713bc5d6",
+  "error": ""
+}

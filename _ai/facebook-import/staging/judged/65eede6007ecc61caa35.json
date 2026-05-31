@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "democracy",
+    "populism",
+    "authoritarianism"
+  ],
+  "reason": "Freedom House's annual Freedom in the World analysis offers durable, mechanism-rich assessment of democratic backsliding, populism, and autocratic trends—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "65eede6007ecc61caa35",
+  "error": ""
+}

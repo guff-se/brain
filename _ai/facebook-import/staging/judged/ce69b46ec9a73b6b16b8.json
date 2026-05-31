@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "cultural-appropriation",
+    "imperialism",
+    "cultural-ownership"
+  ],
+  "reason": "Multi-sentence causal argument reframing appropriation debates via ownership/imperialism—not a quip or event reaction.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ce69b46ec9a73b6b16b8",
+  "error": ""
+}

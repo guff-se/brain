@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical ask to borrow a 4G modem about delayed fiber at the summer cottage — no reasoning, insight, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6979a7e875958901abcd",
+  "error": ""
+}

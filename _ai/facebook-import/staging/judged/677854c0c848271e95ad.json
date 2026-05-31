@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "future-of-work",
+    "post-work",
+    "automation"
+  ],
+  "reason": "Substantive long-form analysis of post-work politics, automation, and the structural failures of employment—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "677854c0c848271e95ad",
+  "error": ""
+}

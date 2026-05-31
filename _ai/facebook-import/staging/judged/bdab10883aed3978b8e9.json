@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is only a DN share tag plus pasted review text, with no ≥200 characters of Gustaf's own reasoning or durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "bdab10883aed3978b8e9",
+  "error": ""
+}

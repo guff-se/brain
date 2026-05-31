@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only a contact-seeking question about token sales in Swedish law—logistical, no argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4219ff7deb06f4a51faf",
+  "error": ""
+}

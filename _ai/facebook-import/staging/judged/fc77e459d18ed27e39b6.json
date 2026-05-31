@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "identity-politics",
+    "polarization",
+    "ezra-klein"
+  ],
+  "reason": "Verbatim Ezra Klein excerpt with no Gustaf commentary—durable substance belongs in a consumed book/clipping note, not own_text.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "fc77e459d18ed27e39b6",
+  "error": ""
+}

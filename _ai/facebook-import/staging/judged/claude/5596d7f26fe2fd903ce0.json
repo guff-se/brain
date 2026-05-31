@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "News mention of e-krona with a social tag — no analysis, mechanism, or durable reasoning; under 200 chars.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "5596d7f26fe2fd903ce0",
+  "error": ""
+}

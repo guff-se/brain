@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired thank-you and praise only—no framing, mechanism, or reasoning beyond the linked story.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "f2ee732791bc1f2cdddc",
+  "error": ""
+}

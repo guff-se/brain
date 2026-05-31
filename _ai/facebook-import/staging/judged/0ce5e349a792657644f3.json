@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "data-privacy",
+    "platform-surveillance",
+    "digital-markets-act"
+  ],
+  "reason": "Substantive investigative report documenting LinkedIn's covert browser scanning, inferred sensitive data categories, competitor espionage, and DMA compliance evasion — durable mechanisms and regulatory analysis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0ce5e349a792657644f3",
+  "error": ""
+}

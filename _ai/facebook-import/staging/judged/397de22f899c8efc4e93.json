@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "nuclear-power",
+    "energy-policy",
+    "environmentalism"
+  ],
+  "reason": "TEDx talk by a named policy expert on a durable structural topic—rethinking nuclear power and environmental progress—not ephemeral news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "397de22f899c8efc4e93",
+  "error": ""
+}

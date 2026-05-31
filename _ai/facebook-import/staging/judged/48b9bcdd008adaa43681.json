@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound political news about a 2022 TV4 investigation and party tactics, not durable analysis of mechanisms or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "48b9bcdd008adaa43681",
+  "error": ""
+}

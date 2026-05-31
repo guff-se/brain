@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a short generalized hot take (ignorance vs lying) without mechanism or framing beyond the linked ChatControl headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "c7007dab575ffa3b5b63",
+  "error": ""
+}

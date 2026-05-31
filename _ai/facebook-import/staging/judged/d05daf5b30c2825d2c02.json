@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a course promo—dates, price, and call to share—with teaser questions but no developed reasoning or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d05daf5b30c2825d2c02",
+  "error": ""
+}

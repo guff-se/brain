@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "apple",
+    "product-design",
+    "tech-industry"
+  ],
+  "reason": "Substantive analysis of Apple's port/dongle strategy with historical context, Jobs-vs-Cook leadership contrast, and causal claims about design philosophy and accessory revenue—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "452f0e24cdf9f2d28fab",
+  "error": ""
+}

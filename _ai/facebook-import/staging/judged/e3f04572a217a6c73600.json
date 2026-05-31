@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "bitcoin",
+    "cryptocurrency",
+    "financial-fraud"
+  ],
+  "reason": "Byrne develops a durable legal-mechanistic framework ('Nakamoto Scheme') comparing Ponzi, pyramid, and crypto incentives—not ephemeral price commentary.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e3f04572a217a6c73600",
+  "error": ""
+}

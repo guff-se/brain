@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound Aftonbladet exhibition review describing a specific temporary AR/textile show, with no durable analysis, frameworks, or mechanisms beyond event reporting.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "07935d91801f334a6f37",
+  "error": ""
+}

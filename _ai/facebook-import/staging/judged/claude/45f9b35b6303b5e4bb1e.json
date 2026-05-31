@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "83-char aphorism — pithy observation about politics as vote-trading, no mechanism or causal argument developed",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "45f9b35b6303b5e4bb1e",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "eu-policy",
+    "tech-regulation",
+    "copyright"
+  ],
+  "reason": "Karlsten's on-the-ground interview documents a durable governance pattern—EU lawmakers passing complex internet rules without understanding amendments—not only the 2019 vote headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b56ce58ff4992ca82060",
+  "error": ""
+}

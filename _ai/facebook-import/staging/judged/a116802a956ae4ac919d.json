@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a brief announcement that New Yorker covered the party, with no framing, reasoning, or insight beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "a116802a956ae4ac919d",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "facebook",
+    "antitrust",
+    "platform-power"
+  ],
+  "reason": "Links his show framing on what Facebook monopolizes and antitrust risk to a concrete platform-expansion example, not just the 2018 news hook.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ef5a6a1063f138afbea0",
+  "error": ""
+}

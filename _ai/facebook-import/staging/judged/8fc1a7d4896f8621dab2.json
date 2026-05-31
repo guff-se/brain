@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "toxic-masculinity",
+    "gender-politics",
+    "commercial-culture"
+  ],
+  "reason": "Paired commentary is only endorsement and a long quote from the article author—no independent framing or reasoning from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "8fc1a7d4896f8621dab2",
+  "error": ""
+}

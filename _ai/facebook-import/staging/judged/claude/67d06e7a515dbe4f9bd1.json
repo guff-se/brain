@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "burning-man",
+    "radical-participation",
+    "vulnerability"
+  ],
+  "reason": "A full attributed text by Mo Lohaus — durable manifesto-level philosophy about applying Burning Man's gifting, presence, and emotional openness to daily life; rich in principle and mechanism, not ephemeral.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "67d06e7a515dbe4f9bd1",
+  "error": ""
+}

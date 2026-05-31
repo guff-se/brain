@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "colead",
+    "burning-man",
+    "community-organizing"
+  ],
+  "reason": "Time-bound logistical housing appeal for a May 2019 event with no reasoning, insight, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e44199999ec629327d14",
+  "error": ""
+}

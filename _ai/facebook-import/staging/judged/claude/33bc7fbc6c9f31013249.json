@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.99,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social coordination message with no knowledge, argument, or durable insight.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "33bc7fbc6c9f31013249",
+  "error": ""
+}

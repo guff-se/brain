@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "refugees",
+    "migration",
+    "per-capita"
+  ],
+  "reason": "A one-line per-capita comparison on time-bound Vatican refugee news, not a developed argument with mechanism or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "2fe9cfc8875a248ebe72",
+  "error": ""
+}

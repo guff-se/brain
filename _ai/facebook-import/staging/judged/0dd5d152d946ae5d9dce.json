@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily promotional event recruitment with a brief personal endorsement, not developed insight about why the experience matters or what was learned.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0dd5d152d946ae5d9dce",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.84,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gm-crops",
+    "agriculture",
+    "food-policy"
+  ],
+  "reason": "Secondary report of a 21-year economic and environmental analysis of GM maize with mechanisms, quantified outcomes, and durable policy context—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1ede31e1f4de199f9615",
+  "error": ""
+}

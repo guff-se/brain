@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "covid-19",
+    "zoonotic-spillover",
+    "pandemic-origins"
+  ],
+  "reason": "Holmes lays out evidence-based mechanisms for market spillover versus lab leak, with durable reasoning on origins and zoonotic transmission.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "757fb8925ffb91a889a7",
+  "error": ""
+}

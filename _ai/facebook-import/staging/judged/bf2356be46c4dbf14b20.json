@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "learning-styles",
+    "education",
+    "cognitive-science"
+  ],
+  "reason": "Veritasium explainer debunks the learning-styles myth with Willingham and peer-reviewed evidence—a durable education/cognition topic, not entertainment or news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "bf2356be46c4dbf14b20",
+  "error": ""
+}

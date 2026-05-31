@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional video metadata for a specific immersive art installation—descriptive marketing copy with no durable analysis, framework, or insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "9aad667d7ede388b30ac",
+  "error": ""
+}

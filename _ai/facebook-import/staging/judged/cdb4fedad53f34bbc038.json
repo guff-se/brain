@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "public-finance",
+    "municipal-debt",
+    "market-liquidity"
+  ],
+  "reason": "Substantive paired commentary that reframes the headline with a causal liquidity mechanism—under-borrowing can shrink the municipal bond market and make future crisis borrowing harder.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "cdb4fedad53f34bbc038",
+  "error": ""
+}

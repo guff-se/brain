@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paywalled TT headline is a time-bound celebrity award announcement, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6e583fb190a2ebcd8667",
+  "error": ""
+}

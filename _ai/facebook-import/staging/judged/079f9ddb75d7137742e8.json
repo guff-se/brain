@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Contemporary 2016 SVT political news on Miljöpartiet leadership moves; event-bound reporting, not durable analysis or principles worth retaining.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "079f9ddb75d7137742e8",
+  "error": ""
+}

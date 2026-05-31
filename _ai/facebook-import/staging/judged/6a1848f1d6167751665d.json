@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Short logistical ask to tag journalists for press RSVAs, plus pasted time-bound exhibition promo—not durable knowledge or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6a1848f1d6167751665d",
+  "error": ""
+}

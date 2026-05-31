@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "academic-freedom",
+    "gender-studies",
+    "higher-education"
+  ],
+  "reason": "Butler interview separates quota mechanics from academic freedom and gender-in-curriculum principles—durable beyond the 2017 Lund dispute.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bd3dc984256a7a45e0b2",
+  "error": ""
+}

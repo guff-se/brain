@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "84-char event vignette with no argument, mechanism, or durable insight—default skip under strict own_text rules.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "589aabfc4180c55e432a",
+  "error": ""
+}

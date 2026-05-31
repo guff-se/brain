@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education",
+    "finland",
+    "phenomenon-based-learning"
+  ],
+  "reason": "Pasi Sahlberg's expert analysis explains enduring mechanisms of Finnish schooling—decentralization, phenomenon-based learning, and curriculum design—not just a dated news correction.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7b4dc238501ea5776e0f",
+  "error": ""
+}

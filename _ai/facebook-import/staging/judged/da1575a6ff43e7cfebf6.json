@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paywall-thin fetch with almost no body; the visible hook ties to a specific sculpture controversy, not durable analysis you can ingest.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "da1575a6ff43e7cfebf6",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "taxation",
+    "property-rights",
+    "political-philosophy"
+  ],
+  "reason": "Aeon essay with durable philosophical analysis of desert, entitlement, and property rights as foundations for tax morality—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e051795942f4d57f0afe",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "public-discourse",
+    "media-criticism",
+    "epistemic-humility"
+  ],
+  "reason": "Beyond the 2016 Kahn hook, Gustaf articulates durable norms for engaging complex issues: problematize deeply, reject headline outrage and word-policing, and listen to understand rather than attack.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "030628c0f69663da32e4",
+  "error": ""
+}

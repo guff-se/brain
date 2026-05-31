@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is mostly a Strannegård excerpt plus a brief agree-and-frame line—no Gustaf reasoning beyond what the DN article already says.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "1986f3395e740f5a5bf0",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "New Yorker Daily Shouts satire on screen-time parenting—clever humor, not durable analysis, frameworks, or insights worth retaining.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ff9df1e1ede4a3c520d5",
+  "error": ""
+}

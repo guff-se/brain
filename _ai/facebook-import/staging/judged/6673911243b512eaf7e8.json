@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "probability",
+    "statistics",
+    "coincidence"
+  ],
+  "reason": "Hand's improbability principle is a durable statistical framework explaining why rare-seeming events are expected, with clear mechanisms rather than anecdote alone.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6673911243b512eaf7e8",
+  "error": ""
+}

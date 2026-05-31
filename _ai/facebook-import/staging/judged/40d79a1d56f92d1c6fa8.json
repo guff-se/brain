@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch captured Google's cookie interstitial, not the map; a location pin has no durable ideas or analysis worth keeping.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "40d79a1d56f92d1c6fa8",
+  "error": ""
+}

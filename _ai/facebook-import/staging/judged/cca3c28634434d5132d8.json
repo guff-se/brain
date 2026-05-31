@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "law-and-morality",
+    "ethics",
+    "social-accountability"
+  ],
+  "reason": "Develops a durable distinction between legal compliance and moral legitimacy, with separate mechanisms for state punishment versus social sanction.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "cca3c28634434d5132d8",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "public-health",
+    "harm-reduction",
+    "substance-use"
+  ],
+  "reason": "Peer-reviewed synthesis comparing alcohol and cannabis harms (mortality, addiction, cancer, driving) — durable public-health framing, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1c1fe302c051790779f0",
+  "error": ""
+}

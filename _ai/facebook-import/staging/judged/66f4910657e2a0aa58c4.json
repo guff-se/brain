@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "conspiracy-theories",
+    "misinformation",
+    "skepticism"
+  ],
+  "reason": "Encyclopedic reference on a persistent conspiracy theory—its claims, origins, spread, and scientific refutation—offers durable context on misinformation mechanisms, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "66f4910657e2a0aa58c4",
+  "error": ""
+}

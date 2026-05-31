@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Feb 2019 Breakit news on a specific EU copyright vote and Sweden's last-minute flip—useful context then, not durable analysis or principles worth a vault note.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5321697226cea954413a",
+  "error": ""
+}

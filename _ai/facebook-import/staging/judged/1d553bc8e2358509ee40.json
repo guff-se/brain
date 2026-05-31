@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "income-inequality",
+    "economics",
+    "economic-policy"
+  ],
+  "reason": "Leonhardt's Piketty/Saez/Zucman-backed analysis frames a durable structural shift in who captures growth, with historical comparison and policy mechanisms—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1d553bc8e2358509ee40",
+  "error": ""
+}

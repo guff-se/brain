@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "electric-vehicles",
+    "battery-technology",
+    "technology-forecasting"
+  ],
+  "reason": "Debate article with durable analysis of battery cost curves, disruptive innovation, and why official EV forecasts systematically lag exponential tech change.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8686f4aada9c57bdf485",
+  "error": ""
+}

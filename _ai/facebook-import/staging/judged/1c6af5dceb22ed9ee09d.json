@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "banking-sector",
+    "household-debt",
+    "economic-policy"
+  ],
+  "reason": "Cervenka’s column explains mechanisms—debt growth vs GDP, policy incentives, and bank profitability—not just Q3 2023 earnings news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1c6af5dceb22ed9ee09d",
+  "error": ""
+}

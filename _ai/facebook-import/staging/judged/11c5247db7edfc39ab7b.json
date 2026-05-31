@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "performance-advertising",
+    "marketing-attribution",
+    "digital-marketing"
+  ],
+  "reason": "Rand Fishkin's analysis of incrementality vs attribution—Airbnb case, attribution parable, and platform incentive structures—is durable marketing/mechanism content, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "11c5247db7edfc39ab7b",
+  "error": ""
+}

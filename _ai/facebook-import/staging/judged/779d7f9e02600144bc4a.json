@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "authority",
+    "ethics",
+    "rule-following"
+  ],
+  "reason": "Under 200 chars with only a single aphoristic claim—no multi-sentence argument or causal mechanism.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "779d7f9e02600144bc4a",
+  "error": ""
+}

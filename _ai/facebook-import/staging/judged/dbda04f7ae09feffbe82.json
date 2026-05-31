@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical volunteer sign-up request with no reasoning, insight, or durable knowledge beyond coordinating a spreadsheet.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "dbda04f7ae09feffbe82",
+  "error": ""
+}

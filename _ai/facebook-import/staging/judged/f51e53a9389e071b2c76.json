@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "relative-age-effect",
+    "child-development",
+    "educational-equity"
+  ],
+  "reason": "Substantial causal argument linking birth month, school-entry age, gender development gaps, and class inequality in redshirting—not a personal update or link share.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "f51e53a9389e071b2c76",
+  "error": ""
+}

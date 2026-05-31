@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical exhibition announcement and invitation with no durable reasoning about smart textiles, AR, or underlying mechanisms.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "41ab022fea9a319d4986",
+  "error": ""
+}

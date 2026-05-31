@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "cybersecurity",
+    "wifi-security",
+    "krack"
+  ],
+  "reason": "Live, time-bound breaking-news coverage of the 2017 KRACK disclosure—CVE lists and vendor updates, not durable analysis of mechanisms or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "509e8e0a7d1b30571d34",
+  "error": ""
+}

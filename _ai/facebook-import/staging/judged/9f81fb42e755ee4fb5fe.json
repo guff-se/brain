@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a time-bound recruitment announcement for a 2019 leadership program; the brief self-organization framing is rhetorical setup, not developed durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "9f81fb42e755ee4fb5fe",
+  "error": ""
+}

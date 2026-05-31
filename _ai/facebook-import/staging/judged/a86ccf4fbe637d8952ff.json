@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "values",
+    "commodification",
+    "burning-man"
+  ],
+  "reason": "Links commodified cause-marketing to performative values via a clear principle—that ethics must be lived daily, not displayed once a year.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a86ccf4fbe637d8952ff",
+  "error": ""
+}

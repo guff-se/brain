@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound news report of a specific Bromma hospital privatization vote during COVID-19, not durable analysis or principles worth retaining.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d61191606fcb94613a57",
+  "error": ""
+}

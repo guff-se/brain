@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "83-char quip juxtaposes web, Vatican, and Burning Man with no argument, mechanism, or explanation—fails strict under-200 own_text rules.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "99bf9bbd8dbaa9c42d0a",
+  "error": ""
+}

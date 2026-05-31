@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "historical-jesus",
+    "biblical-scholarship",
+    "historiography"
+  ],
+  "reason": "Substantive encyclopedic overview of historical-Jesus scholarship, source criticism, and scholarly consensus — durable reference material, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "275998ae7813fa3180af",
+  "error": ""
+}

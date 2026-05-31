@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "gender-politics",
+    "epistemology",
+    "individual-freedom"
+  ],
+  "reason": "Over 200 chars with a linked chain—influencer epistemics, freedom paradox, academia as knowledge source, and state non-interference on identity—not only mood or agreement.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "eb9e1dc2fcc54f919341",
+  "error": ""
+}

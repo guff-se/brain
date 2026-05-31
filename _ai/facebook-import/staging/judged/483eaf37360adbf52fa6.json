@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone promo for a specific 2017 gig (time, venue, price, tickets) with no reasoning or durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "483eaf37360adbf52fa6",
+  "error": ""
+}

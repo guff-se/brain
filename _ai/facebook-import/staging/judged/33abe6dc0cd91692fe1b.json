@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "education-policy",
+    "market-transparency",
+    "free-schools"
+  ],
+  "reason": "Gustaf unpacks the court ruling's mechanism, exposes the contradiction between market logic and secrecy, and argues a durable principle that free markets require transparency and strong regulation.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "33abe6dc0cd91692fe1b",
+  "error": ""
+}

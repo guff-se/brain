@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.94,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "drag-race-sverige",
+    "entertainment"
+  ],
+  "reason": "Promotional Instagram caption with photo credits and show hashtags; no analysis, frameworks, or durable substance.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "607b8293c04e06e05a43",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "september-11",
+    "war-on-terror",
+    "conspiracy-theories"
+  ],
+  "reason": "Substantive external analysis summarizing dissenting expert claims, collapse-mechanism arguments, and post-9/11 geopolitical framing—not a thin anniversary headline or pure reaction.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ef9ece48a1b3416296f4",
+  "error": ""
+}

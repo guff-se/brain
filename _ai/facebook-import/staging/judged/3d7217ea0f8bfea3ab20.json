@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "cryptocurrency",
+    "regulation",
+    "blockchain"
+  ],
+  "reason": "Gupta's framework on regulatory inevitability, privacy vs surveillance tradeoffs, and industrial adoption requirements offers durable mechanism-level analysis beyond the 2018 ICO news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3d7217ea0f8bfea3ab20",
+  "error": ""
+}

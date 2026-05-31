@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "tech-addiction",
+    "research-methodology",
+    "moral-panic"
+  ],
+  "reason": "Substantive Wired analysis of tech-addiction claims, expert debate, and methodological limits—durable framework beyond 2018 news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ffb4b6bd499c02214cca",
+  "error": ""
+}

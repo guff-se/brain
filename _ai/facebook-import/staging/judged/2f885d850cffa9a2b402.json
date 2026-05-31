@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "emotional-regulation",
+    "media-consumption",
+    "personal-responsibility"
+  ],
+  "reason": "Multi-paragraph argument with a clear causal claim—that anger toward news reflects internal disposition and projection, not the news itself—worth preserving as durable psychological framing.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "2f885d850cffa9a2b402",
+  "error": ""
+}

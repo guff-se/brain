@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on time-bound 2018 government-formation news that restates poll figures and ends with an undeveloped aphorism, not durable mechanism or analysis.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "02a70e574e8c7f583d9e",
+  "error": ""
+}

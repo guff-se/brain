@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "global-governance",
+    "global-challenges-foundation"
+  ],
+  "reason": "A time-bound 2017 news announcement about a prize competition, not durable analysis of governance mechanisms or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ca8a2c14c37d5f0525d9",
+  "error": ""
+}

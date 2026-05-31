@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "socioeconomic-status",
+    "substance-use",
+    "public-health"
+  ],
+  "reason": "Peer-reviewed study with durable findings on how childhood SES relates differently to smoking versus alcohol and marijuana use, including mechanisms and prevention implications.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7f9afaace83cbd133b93",
+  "error": ""
+}

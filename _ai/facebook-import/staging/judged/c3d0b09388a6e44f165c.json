@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound promotional reminder about early-bird exhibition tickets and logistics, with no durable knowledge or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c3d0b09388a6e44f165c",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "adult-development",
+    "welfare-policy",
+    "lifelong-learning"
+  ],
+  "reason": "DN Debatt title signals durable policy analysis on adult development and societal challenges, not breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f67713bed7e0980ad6fe",
+  "error": ""
+}

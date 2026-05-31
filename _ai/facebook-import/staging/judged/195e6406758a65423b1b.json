@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "crime-statistics",
+    "migration-politics",
+    "media-myths"
+  ],
+  "reason": "Long-form analysis separating rape categories, reporting bias, and demographic base rates—durable mechanism-level argument, not episodic news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "195e6406758a65423b1b",
+  "error": ""
+}

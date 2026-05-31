@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "net-neutrality",
+    "media-policy",
+    "zero-rating"
+  ],
+  "reason": "Beyond the 2016 Telia headline, the piece explains zero rating, EU net-neutrality rules, and why preferential carrier deals distort media competition—durable mechanism, not only event reporting.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1da1f5b22bee3afc789d",
+  "error": ""
+}

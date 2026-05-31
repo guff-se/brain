@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Logistical community governance post about a specific policy proposal — no durable reasoning beyond the procedural context of one event's membership rules.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "c60af8d51ee4483a54b6",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Thin metadata with no description; title names a performance/art piece at The Borderland 2016, not a durable topic, framework, or named insight.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_video",
+  "content_sha": "8d20f12ecd49e05ac765",
+  "error": ""
+}

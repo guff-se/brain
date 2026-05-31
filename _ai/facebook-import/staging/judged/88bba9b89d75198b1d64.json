@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "finnish-education",
+    "education-reform",
+    "phenomenon-based-learning"
+  ],
+  "reason": "Pasi Sahlberg's expert analysis explains how Finnish phenomenon-based learning and decentralized curriculum governance actually work, correcting durable misconceptions about scrapping subjects.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "88bba9b89d75198b1d64",
+  "error": ""
+}

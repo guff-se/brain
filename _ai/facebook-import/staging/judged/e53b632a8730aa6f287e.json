@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "facial-recognition",
+    "ai-regulation",
+    "algorithmic-accountability"
+  ],
+  "reason": "Substantive Wired reporting on durable AI governance themes—regulatory principles, bias, privacy, and algorithmic accountability—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e53b632a8730aa6f287e",
+  "error": ""
+}

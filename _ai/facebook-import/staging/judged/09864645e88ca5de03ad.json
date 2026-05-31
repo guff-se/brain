@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "social-media",
+    "misinformation",
+    "digital-wellbeing"
+  ],
+  "reason": "Develops a durable cross-generational argument with causal claims (misinformation, scams, role-model effects) and collective-responsibility framing that goes well beyond reacting to the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "09864645e88ca5de03ad",
+  "error": ""
+}

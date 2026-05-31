@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "surveillance",
+    "data-retention",
+    "mission-creep"
+  ],
+  "reason": "Under 200 chars with only a vague promise-vs-outcome contrast and a rhetorical question—no developed mechanism or reasoning chain beyond a thin hot take on a time-bound policy moment.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "f80f9efcfbc7ff00b482",
+  "error": ""
+}

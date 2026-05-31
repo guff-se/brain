@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "pedagogy",
+    "gamification",
+    "education"
+  ],
+  "reason": "Paired commentary adds causal reframing—exam cramming as the same points-without-retention mechanism, and teacher interruption vs. reflection—beyond quoting the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "c87fa5f3d8a2ae62e3a1",
+  "error": ""
+}

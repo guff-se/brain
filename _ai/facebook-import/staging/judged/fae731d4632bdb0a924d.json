@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "public-sector-procurement",
+    "software-development",
+    "government-digitalization"
+  ],
+  "reason": "Satirical but mechanism-rich checklist of recurring failure patterns in public software procurement—durable critique, not event-bound banter.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "fae731d4632bdb0a924d",
+  "error": ""
+}

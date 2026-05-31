@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "ukraine-war",
+    "geopolitics",
+    "peter-englund"
+  ],
+  "reason": "Paywalled DN piece, but title and lede signal durable historian-led analysis (Putin as rational actor in a mad system), not breaking-news filler.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e8fc8521f447ac44466f",
+  "error": ""
+}

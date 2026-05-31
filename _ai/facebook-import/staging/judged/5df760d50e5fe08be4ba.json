@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "psychology",
+    "communication",
+    "defensiveness"
+  ],
+  "reason": "Educational video with durable mechanisms and named techniques (defensiveness, identity, productive disagreement), not ephemeral news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "5df760d50e5fe08be4ba",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "politics",
+    "democracy",
+    "institutional-design"
+  ],
+  "reason": "Title names a recognized expert and durable structural topics—minority rule, voting rights, democracy—not generic entertainment or time-bound news.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "55e096439a9db252ed76",
+  "error": ""
+}

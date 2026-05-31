@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "swedish-education",
+    "education-policy",
+    "school-equity"
+  ],
+  "reason": "Investigative but time-bound 2023 policy news with snapshot statistics and current political debate, not a durable framework or analysis that outlasts the moment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2418e88cc0fcb29ad91d",
+  "error": ""
+}

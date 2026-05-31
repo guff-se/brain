@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2018 tech-news roundup of a specific GAN demo with light speculation, not durable analysis or mechanisms worth retaining over better sources.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "dbab0bfbd738b998f1f7",
+  "error": ""
+}

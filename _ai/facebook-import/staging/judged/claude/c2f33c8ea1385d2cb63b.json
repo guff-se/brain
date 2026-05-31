@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and poses a question without developing any argument, mechanism, or causal claim.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "c2f33c8ea1385d2cb63b",
+  "error": ""
+}

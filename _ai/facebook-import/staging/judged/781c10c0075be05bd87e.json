@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "harm-reduction",
+    "public-health"
+  ],
+  "reason": "Cantwell’s column explains HAT mechanisms, measured outcomes, and Sweden–Switzerland policy contrast—durable policy analysis, not a one-off news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "781c10c0075be05bd87e",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "implicit-bias",
+    "cognitive-bias",
+    "self-awareness"
+  ],
+  "reason": "Multi-sentence first-person account links a concrete bias episode to categorization as a human mechanism and an awareness-based response—not a quip or event-only post.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d95ca10da9355dc3efb9",
+  "error": ""
+}

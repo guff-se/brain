@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "pension",
+    "deferred-gratification",
+    "industrial-society"
+  ],
+  "reason": "Paired commentary still adds a causal frame—pension as industrial deferred-reward mythology that trades present life for an illusory endpoint—not just a clip reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "c35f528e611a0adec618",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "demographics",
+    "fertility",
+    "population-decline"
+  ],
+  "reason": "Lancet-backed analysis of a structural global demographic shift, with causal drivers and long-run societal implications beyond a one-off news event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f08c855aed3da4239ace",
+  "error": ""
+}

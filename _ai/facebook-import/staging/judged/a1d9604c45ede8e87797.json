@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "self-control",
+    "psychology",
+    "habits"
+  ],
+  "reason": "Substantive synthesis of research on willpower myths, temptation avoidance, and habit-based self-control—durable mechanisms, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a1d9604c45ede8e87797",
+  "error": ""
+}

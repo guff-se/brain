@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Time-bound logistical post—camp location, ride request, and hangout coordination—with no durable ideas, analysis, or reasoning worth preserving.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b60f011daad818690e7e",
+  "error": ""
+}

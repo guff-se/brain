@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary; Gustaf's own text is a single intro sentence — the body is a direct quote from the article author, not Gustaf's reasoning.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_commentary",
+  "content_sha": "8ea5936a08dc01055f97",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional exhibition invite with project description but no reasoning, mechanism, or durable insight—and under 200 characters in standalone commentary mode.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "173858f144a226f5d582",
+  "error": ""
+}

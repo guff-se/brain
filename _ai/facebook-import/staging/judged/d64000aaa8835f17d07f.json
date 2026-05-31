@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and purely an event recap of installing LEDs on an art project, with no mechanism, insight, or reasoning worth preserving.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d64000aaa8835f17d07f",
+  "error": ""
+}

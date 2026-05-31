@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "leadership",
+    "pajobbetpodden",
+    "starke-ledaren"
+  ],
+  "reason": "Promotional podcast plug with a borrowed principle and teaser question, not Gustaf's own developed argument or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4472eb5e82bb6fe1624c",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is only a paywall workaround plus pasted article text—no Gustaf framing, argument, or insight beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ba7f2703227361d8b173",
+  "error": ""
+}

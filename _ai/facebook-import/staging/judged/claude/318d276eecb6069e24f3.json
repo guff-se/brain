@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched content is Bahnhof's current commercial homepage, not the 2016 press release — the actual article body is unavailable and cannot be evaluated.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "318d276eecb6069e24f3",
+  "error": ""
+}

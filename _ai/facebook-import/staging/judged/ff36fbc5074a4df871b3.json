@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "state-capture",
+    "management-consulting",
+    "south-africa"
+  ],
+  "reason": "LRB long-form essay tracing how McKinsey and peer firms structurally enabled Gupta-era state capture—durable causal analysis, not a time-bound announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ff36fbc5074a4df871b3",
+  "error": ""
+}

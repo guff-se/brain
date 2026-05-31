@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound political news report on KD's 2019 cannabis policy shift, with no durable analysis, mechanisms, or principles beyond the announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1a15aafb8e0450cd3c6b",
+  "error": ""
+}

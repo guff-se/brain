@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "spotify",
+    "music-industry",
+    "ghost-artists"
+  ],
+  "reason": "Harper's investigative piece on Spotify's ghost-artist phenomenon and label playlist manipulation is structural, mechanism-focused journalism with lasting relevance.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0cc1b4710bae7f39d62c",
+  "error": ""
+}

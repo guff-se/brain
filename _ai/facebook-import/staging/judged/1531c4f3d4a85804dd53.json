@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "ethnic-nationalism",
+    "political-rhetoric",
+    "swedish-politics"
+  ],
+  "reason": "Beyond reacting to the headline, Gustaf decodes nationalist 'values' rhetoric as ethnic essentialism—a reusable causal claim about blood, birthright, and a 20-year PK veneer slipping.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "1531c4f3d4a85804dd53",
+  "error": ""
+}

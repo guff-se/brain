@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "universal-basic-income",
+    "platform-economics",
+    "social-media"
+  ],
+  "reason": "Paywall blocks the body, but the title signals durable FT analysis linking platform economics to basic income—not breaking news or promotion.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "40e759117680fd2a0887",
+  "error": ""
+}

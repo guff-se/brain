@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and a single witty line—hints at greenwashing/plastic rebranding but lacks the multi-sentence causal argument required to override the default skip.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1b6bb05cf4a263dfdf22",
+  "error": ""
+}

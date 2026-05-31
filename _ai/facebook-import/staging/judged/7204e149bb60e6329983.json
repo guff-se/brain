@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Mostly a time-bound project launch (sale dates, live site, credits) with promotional tone; the NFT–textile origin story is anecdotal, not durable reasoning or a reusable framework.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7204e149bb60e6329983",
+  "error": ""
+}

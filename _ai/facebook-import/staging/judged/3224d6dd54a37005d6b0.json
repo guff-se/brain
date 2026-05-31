@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "academic-publishing",
+    "open-access",
+    "commodification"
+  ],
+  "reason": "Insider analysis of how APC-driven open-access publishing (MDPI/Sustainability) inflates volume, extracts free academic labor, and erodes quality—durable structural critique, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3224d6dd54a37005d6b0",
+  "error": ""
+}

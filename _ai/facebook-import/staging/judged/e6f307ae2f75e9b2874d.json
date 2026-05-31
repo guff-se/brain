@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "2016 opinion piece tied to a specific political scandal and figure, not durable analysis; truncated fetch is mostly ads with little substantive body.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e6f307ae2f75e9b2874d",
+  "error": ""
+}

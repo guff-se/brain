@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "internet-freedom",
+    "platform-power",
+    "eu-policy"
+  ],
+  "reason": "Standalone commentary well over 200 chars with a clear causal mechanism: upload-filter mandates → market consolidation to a handful of platforms → pre-publication censorship infrastructure; structural argument transcends the specific 2018 legislation.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_commentary",
+  "content_sha": "1289ea42e2fc59084ee3",
+  "error": ""
+}

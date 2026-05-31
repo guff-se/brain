@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "deforestation",
+    "meat-industry",
+    "greenwashing"
+  ],
+  "reason": "Builds a causal chain (JBS → political capture → deregulation → fires) and adds a non-obvious Swedish consumer angle beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "690aee362dbbdbc6fc0d",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on ephemeral 2019 Trump/Kelly news is a one-line authoritarian-rhetoric quip, not ≥200 chars of durable reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "54800340f0e652aacf77",
+  "error": ""
+}

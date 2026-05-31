@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Generic Airbnb homepage/referral link with no article body or durable insight—purely promotional/transactional.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f75cd08316bb610bf653",
+  "error": ""
+}

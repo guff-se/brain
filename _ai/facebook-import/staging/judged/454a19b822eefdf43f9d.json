@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional logistical request to spread an exhibition invite—no durable ideas, analysis, or reasoning worth preserving.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "454a19b822eefdf43f9d",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound Snopes debunk of a viral Steve Jobs deathbed hoax—useful rumor correction and biographical footnotes, but no durable frameworks or mechanisms beyond standard myth-busting.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7a830b77a4b69d536add",
+  "error": ""
+}

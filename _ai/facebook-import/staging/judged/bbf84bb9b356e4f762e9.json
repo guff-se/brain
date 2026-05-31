@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Promotional Burning Man montage with gear Q&A and vibe copy; Alan Watts is soundtrack metadata, not substantive philosophy or analysis.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "bbf84bb9b356e4f762e9",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "mysticism",
+    "altered-consciousness",
+    "religious-experience"
+  ],
+  "reason": "Wikipedia reference on religious ecstasy across traditions—durable encyclopedic coverage of mechanisms, history, and cross-cultural patterns in mystical experience.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "33664080af27826c7304",
+  "error": ""
+}

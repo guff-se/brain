@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "frankfurt-school",
+    "critical-theory",
+    "culture-industry"
+  ],
+  "reason": "Substantive interview on Frankfurt School critical theory, the culture industry, and mass media as political mechanism—durable intellectual history, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "125b510b6a2a5309029d",
+  "error": ""
+}

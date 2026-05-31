@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on an ephemeral 2023 Twitter/BBC labeling row—a factual aside plus a symmetry quip, not durable reasoning or a reusable framework.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "fc7df7d017a7fccb897d",
+  "error": ""
+}

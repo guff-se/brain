@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "climate-change",
+    "meat-production",
+    "agriculture"
+  ],
+  "reason": "Evergreen Wikipedia synthesis of causal mechanisms and structural impacts (GHG, land use, feed efficiency, deforestation) — durable reference, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "77f87704b6376eaa3afe",
+  "error": ""
+}

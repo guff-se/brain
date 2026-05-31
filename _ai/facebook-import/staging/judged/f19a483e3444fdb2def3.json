@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a time-bound 2016 Almedalen protest report with an advocacy manifesto, not durable analysis or reusable insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f19a483e3444fdb2def3",
+  "error": ""
+}

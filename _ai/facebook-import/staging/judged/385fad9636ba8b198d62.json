@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "economic-incentives",
+    "reciprocity",
+    "intrinsic-motivation"
+  ],
+  "reason": "Develops a causal mechanism—economic incentives reframing prosocial cooperation as selfish cost-benefit calculation—beyond the article headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "385fad9636ba8b198d62",
+  "error": ""
+}

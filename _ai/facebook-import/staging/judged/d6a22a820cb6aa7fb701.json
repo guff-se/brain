@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "benefit-corporation",
+    "corporate-governance",
+    "kickstarter"
+  ],
+  "reason": "Substantive case study of PBC vs C-Corp governance, fiduciary duty, and purpose-driven company design—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d6a22a820cb6aa7fb701",
+  "error": ""
+}

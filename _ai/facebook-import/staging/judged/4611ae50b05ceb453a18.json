@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "birth-seasonality",
+    "chronobiology",
+    "relative-age-effect"
+  ],
+  "reason": "Wikipedia synthesis of durable research on birth-season correlations with health, cognition, and academic relative-age effects—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4611ae50b05ceb453a18",
+  "error": ""
+}

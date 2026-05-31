@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "natural-monopolies",
+    "infrastructure",
+    "market-failure"
+  ],
+  "reason": "Standalone commentary exceeds 200 chars and articulates a durable principle—private monopolies on physically constrained infrastructure cannot be free markets and should be publicly managed—not merely a reaction to the 2023 electricity news.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "45cdf1a3b09fee2156f8",
+  "error": ""
+}

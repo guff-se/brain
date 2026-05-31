@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sustainable-business",
+    "business-model-canvas",
+    "stockholm-resilience-centre"
+  ],
+  "reason": "Documents a durable nine-step Sustainable Business Canvas framework with clear methodology, use cases, and hypothesis-driven process—not ephemeral news or mere promotion.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3dee4d14d6ffc878e54b",
+  "error": ""
+}

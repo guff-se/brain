@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is podcast intro copy, not Gustaf's framing or reasoning beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "01f8ad7cc95a01f4763c",
+  "error": ""
+}

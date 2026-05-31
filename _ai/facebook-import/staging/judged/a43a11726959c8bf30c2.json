@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "remote-work",
+    "management",
+    "labor-relations"
+  ],
+  "reason": "Substantive structural analysis of remote work, employment power dynamics, and middle-management dysfunction—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a43a11726959c8bf30c2",
+  "error": ""
+}

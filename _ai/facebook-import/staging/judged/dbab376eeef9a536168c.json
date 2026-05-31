@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "digital-attention",
+    "notifications",
+    "education-policy"
+  ],
+  "reason": "Substantive critique of classroom phone bans—argues for teaching notification literacy and consent over prohibition, with a durable attention-economy framing beyond the 2019 news hook.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "dbab376eeef9a536168c",
+  "error": ""
+}

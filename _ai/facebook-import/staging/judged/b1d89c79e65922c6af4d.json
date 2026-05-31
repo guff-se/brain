@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional event announcement for an MKP father–son program—logistics and referrals, not durable reasoning or insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "b1d89c79e65922c6af4d",
+  "error": ""
+}

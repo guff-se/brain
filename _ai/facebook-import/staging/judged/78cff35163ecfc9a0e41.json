@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Short logistical ask for champagne sponsorship at a vernissage—transactional, not durable knowledge or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "78cff35163ecfc9a0e41",
+  "error": ""
+}

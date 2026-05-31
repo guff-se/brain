@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "social-media",
+    "platform-criticism"
+  ],
+  "reason": "Under 200 chars with no causal argument—only a rhetorical question and frustrated hot take about Messenger ads, not durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5a665f0b10b7a80aa41d",
+  "error": ""
+}

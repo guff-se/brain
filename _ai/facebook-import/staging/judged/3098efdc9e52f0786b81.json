@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "climate-policy",
+    "economics",
+    "transportation"
+  ],
+  "reason": "Wonkblog analysis of a durable policy mechanism—gas taxes vs fuel-economy standards—with an empirical effectiveness claim, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3098efdc9e52f0786b81",
+  "error": ""
+}

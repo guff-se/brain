@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "cooking",
+    "recipes",
+    "craft"
+  ],
+  "reason": "Pépin's clip states a durable principle—recipes are non-repeatable processes and the cook should grasp the underlying idea and treat the recipe as a departure point.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "23a870438646ab807ee3",
+  "error": ""
+}

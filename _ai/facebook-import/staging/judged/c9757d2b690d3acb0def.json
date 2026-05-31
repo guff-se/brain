@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Portfolio homepage listing exhibitions and textile artworks—promotional showcase with no durable ideas, analysis, or substantive article content.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c9757d2b690d3acb0def",
+  "error": ""
+}

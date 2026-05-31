@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched body is a GitHub README—deploy/config steps for a Slack invite utility, not durable analysis, frameworks, or insight worth curating.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f3ccbf2717bdedd4c481",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "sociocracy",
+    "organizational-design",
+    "agile"
+  ],
+  "reason": "Named expert (James Priest, S3 co-developer) presenting a named durable framework (Sociocracy 3.0) at a practitioner conference — clear structural topic worth keeping.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_video",
+  "content_sha": "85b9f725b009fe3d1082",
+  "error": ""
+}

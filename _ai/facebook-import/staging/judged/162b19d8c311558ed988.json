@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "electronic-music",
+    "drug-policy",
+    "policing"
+  ],
+  "reason": "Beyond the 2017 raid, the piece analyzes recurring police targeting of electronic music, profiling, and quota-driven narcotics enforcement as structural patterns.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "162b19d8c311558ed988",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "monetary-economics",
+    "banking",
+    "financial-crisis"
+  ],
+  "reason": "Coursera syllabus describes a durable INET/Mehrling course on money, banking hierarchies, and post-2008 monetary theory—not ephemeral news or mere link bait.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3c45e5879d3362498444",
+  "error": ""
+}

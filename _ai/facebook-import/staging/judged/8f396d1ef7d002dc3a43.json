@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "disinformation",
+    "influence-operations",
+    "polarization"
+  ],
+  "reason": "Investigative piece explaining durable mechanisms of foreign influence ops and media amplification, not only 2018 election news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8f396d1ef7d002dc3a43",
+  "error": ""
+}

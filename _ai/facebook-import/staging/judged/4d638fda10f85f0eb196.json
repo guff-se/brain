@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "swedish-politics",
+    "moderates",
+    "asylum-policy"
+  ],
+  "reason": "Under 200 chars; a rhetorical jab at Moderaterna's 2017 policies with no mechanism, argument chain, or durable insight beyond time-bound partisan commentary.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4d638fda10f85f0eb196",
+  "error": ""
+}

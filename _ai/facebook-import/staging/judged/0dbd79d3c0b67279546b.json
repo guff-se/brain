@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "streaming",
+    "netflix",
+    "media-industry"
+  ],
+  "reason": "Thin YouTube metadata offers only a 2019 collapse headline and links; no substantive analysis in the fetch, no expert signal, and the rest is credits and sponsor boilerplate.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "0dbd79d3c0b67279546b",
+  "error": ""
+}

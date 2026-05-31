@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "psychedelics",
+    "consciousness",
+    "michael-pollan"
+  ],
+  "reason": "Named expert (Michael Pollan) on psychedelics and society—a durable cultural and therapeutic topic, not episodic news or generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "f00e8ca4346956308916",
+  "error": ""
+}

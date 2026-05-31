@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-industry",
+    "corporate-governance",
+    "journalism"
+  ],
+  "reason": "Investigative analysis ties Stampen's collapse to leveraged expansion, ad-platform shift, and owner/executive extraction—not just a dated bankruptcy headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "97097558f8d066206949",
+  "error": ""
+}

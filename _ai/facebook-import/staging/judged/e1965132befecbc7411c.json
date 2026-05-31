@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "criminal-justice",
+    "youth-sentencing",
+    "recidivism"
+  ],
+  "reason": "Paywalled lede still signals durable research-backed policy analysis on how youth imprisonment affects criminal careers, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e1965132befecbc7411c",
+  "error": ""
+}

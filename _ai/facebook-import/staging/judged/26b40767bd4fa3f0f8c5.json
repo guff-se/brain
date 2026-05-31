@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "risk-perception",
+    "terrorism",
+    "public-policy"
+  ],
+  "reason": "Paired commentary merely restates Norberg's headline and signals agreement, without mechanism, framing, or reasoning beyond the article.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "26b40767bd4fa3f0f8c5",
+  "error": ""
+}

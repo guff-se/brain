@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "spotify",
+    "music-streaming",
+    "music-industry"
+  ],
+  "reason": "Harper's long-form investigation of Spotify ghost artists and playlist economics is durable structural analysis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cf66c7d9cb117030a3d0",
+  "error": ""
+}

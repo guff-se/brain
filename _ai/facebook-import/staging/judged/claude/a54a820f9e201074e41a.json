@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound Swedish political opinion piece noting positive statistics in a pre-election context — no durable framework or mechanism, just a snapshot counter-narrative to media pessimism.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "a54a820f9e201074e41a",
+  "error": ""
+}

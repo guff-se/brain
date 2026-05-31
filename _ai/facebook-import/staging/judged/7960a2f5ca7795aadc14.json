@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "misinformation",
+    "propaganda",
+    "media-literacy"
+  ],
+  "reason": "Forbes piece explains durable mechanisms—uncertainty, documentary aesthetics, ethos/pathos/logos—not only the 2020 Plandemic moment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7960a2f5ca7795aadc14",
+  "error": ""
+}

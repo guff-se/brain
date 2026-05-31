@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on a 2017 #MeToo news flare-up: Gustaf's own words are a brief ironic reaction to Heimerson's quote, not durable reasoning or mechanism.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "1c09a196bc188bb32612",
+  "error": ""
+}

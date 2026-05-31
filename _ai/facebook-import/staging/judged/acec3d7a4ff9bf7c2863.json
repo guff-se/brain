@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on a time-bound impeachment news moment—admiration and respect, not mechanism, principle, or durable analysis.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "acec3d7a4ff9bf7c2863",
+  "error": ""
+}

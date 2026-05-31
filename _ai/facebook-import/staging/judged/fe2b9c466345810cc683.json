@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary on 2016 breaking news: a brief due-process objection without mechanism or framing beyond the article's legal-policy angle.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "fe2b9c466345810cc683",
+  "error": ""
+}

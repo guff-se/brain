@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical social request for office/studio space tips with no reasoning, insight, or durable content.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "f1b8e8cba9c5b2c66de2",
+  "error": ""
+}

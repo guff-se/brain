@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Wikipedia reference article on the House of Lords — encyclopedic background, not durable analysis or insight Gustaf developed or engaged with.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "242c823784733dac3b47",
+  "error": ""
+}

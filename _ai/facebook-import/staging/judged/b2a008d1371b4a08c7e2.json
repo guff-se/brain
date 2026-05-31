@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired mode requires commentary that adds real framing; this is a short humorous quip, not analysis or mechanism.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "b2a008d1371b4a08c7e2",
+  "error": ""
+}

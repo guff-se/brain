@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "academic-writing",
+    "higher-education",
+    "incentives"
+  ],
+  "reason": "Clear claim about perverse academic-writing incentives, backed by a concrete anecdote that shows mechanism (length pressure → filler → reward).",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "bd82edd694118bc381b5",
+  "error": ""
+}

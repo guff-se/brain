@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "free-speech",
+    "deplatforming",
+    "public-discourse"
+  ],
+  "reason": "Ezra Klein–Yascha Mounk episode on the Harper's Letter and speech/safety tradeoffs is substantive, named-expert analysis of a durable structural debate, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "4cbd9a9e2615b3a89bdc",
+  "error": ""
+}

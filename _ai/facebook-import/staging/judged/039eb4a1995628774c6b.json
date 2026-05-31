@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "propaganda",
+    "historiography",
+    "image-crafting"
+  ],
+  "reason": "Wikipedia article with durable historical analysis on propaganda, competing causal explanations, and the gap between Hitler's public ascetic image and contested private behavior.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "039eb4a1995628774c6b",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "privacy",
+    "platform-accountability",
+    "social-media"
+  ],
+  "reason": "Tufekci's structural chronicle of repeated privacy failures and apology cycles offers durable analysis of platform accountability, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3a4f4bba4006c4005fed",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "poes-law",
+    "internet-culture",
+    "online-discourse"
+  ],
+  "reason": "Named, durable framework explaining how parody and sincerity blur online—a mechanism worth retaining for media literacy and discourse analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e759eb256d53806cdb2e",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Wildlife clip title only — no durable framework, expert insight, or structural topic in the metadata.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_video",
+  "content_sha": "5c6c1d4f52c537d8b834",
+  "error": ""
+}

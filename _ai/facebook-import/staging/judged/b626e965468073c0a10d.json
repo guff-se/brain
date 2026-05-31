@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "123-char rhetorical quip about headline tropes; under 200-char own_text default with no multi-sentence argument or mechanism.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b626e965468073c0a10d",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "isaiah-berlin",
+    "pluralism",
+    "philosophy"
+  ],
+  "reason": "Thin Overcast shell, but the episode title names Isaiah Berlin and pluralism—a durable philosophical framework worth retaining as a consumed podcast reference.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3d2e2b8b31ed31793654",
+  "error": ""
+}

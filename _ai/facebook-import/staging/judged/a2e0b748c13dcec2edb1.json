@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "automation",
+    "gender",
+    "masculinity"
+  ],
+  "reason": "Penny's essay links automation to gendered labor, masculinity, and care work with durable structural analysis beyond 2017 news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a2e0b748c13dcec2edb1",
+  "error": ""
+}

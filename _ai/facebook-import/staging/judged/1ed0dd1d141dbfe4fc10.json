@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "tourism",
+    "product-bundling",
+    "travel-industry"
+  ],
+  "reason": "Wikipedia reference with durable definitions, bundling mechanism, and industry history—not ephemeral news or a thin link.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1ed0dd1d141dbfe4fc10",
+  "error": ""
+}

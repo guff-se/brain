@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.94,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone promotional recommendation for friends' dinner-event business—logistical endorsement with no durable reasoning, frameworks, or insights.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "194a2a1a8f21363dd400",
+  "error": ""
+}

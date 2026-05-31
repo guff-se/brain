@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "politics",
+    "religion",
+    "sweden"
+  ],
+  "reason": "Partisan hot take expressing personal disrespect toward KD voters with a shallow Jesus-hypocrisy jab, not durable reasoning or insight worth preserving.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1b90d5c9b37015586f73",
+  "error": ""
+}

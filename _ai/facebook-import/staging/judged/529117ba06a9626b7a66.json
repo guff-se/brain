@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare Reddit link share with no Gustaf commentary and fetch metadata reduced to the generic title 'Reddit'—likely a chart snapshot, not durable analysis or explanatory insight worth a standalone note.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "529117ba06a9626b7a66",
+  "error": ""
+}

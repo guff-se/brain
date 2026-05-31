@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "BurnerMap is a logistical camp-mapping tool for Burning Man, not durable analysis or ideas worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c910e2c512ddff993373",
+  "error": ""
+}

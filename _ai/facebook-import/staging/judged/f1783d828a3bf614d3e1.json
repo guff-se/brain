@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ephemeral 2019 political vent about Ebba Busch Thor; a thin rhetoric critique is drowned out by personal attack and emotional hyperbole, not durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "f1783d828a3bf614d3e1",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "free-will",
+    "cognitive-flexibility",
+    "hur-kan-vi"
+  ],
+  "reason": "Title and description name durable topics—free will and practicing simultaneous contradictory thinking—not generic entertainment, despite thin metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "6a3b02fb5e8a3faf1055",
+  "error": ""
+}

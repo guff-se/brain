@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "urban-policy",
+    "street-food",
+    "regulatory-barriers"
+  ],
+  "reason": "Op-ed explains durable mechanisms—how municipal street-food rules filter out small vendors, class/immigration subtext, and irony of cities chasing 'creative' food economies after destroying them—not just a 2016 permit dispute.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0b44594e0ec531897189",
+  "error": ""
+}

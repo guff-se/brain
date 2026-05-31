@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical promo for an upcoming Facebook Live with no argument, insight, or durable content beyond the event announcement.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e890457ebcffa10fe3e9",
+  "error": ""
+}

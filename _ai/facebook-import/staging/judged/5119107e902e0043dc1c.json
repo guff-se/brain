@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "covid-19",
+    "herd-immunity",
+    "public-health-policy"
+  ],
+  "reason": "Time-bound June 2020 news report on case counts and a contemporaneous Tegnell/Linde policy quote exchange, not durable analysis of mechanisms or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5119107e902e0043dc1c",
+  "error": ""
+}

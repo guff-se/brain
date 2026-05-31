@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "behavioral-economics",
+    "social-coordination",
+    "conversation"
+  ],
+  "reason": "Durable behavioral-economics analysis of why small talk persists, how social coordination rules shift norms, and a parallel mechanism applied to email culture.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "eeb8cd0f843b1711a1a5",
+  "error": ""
+}

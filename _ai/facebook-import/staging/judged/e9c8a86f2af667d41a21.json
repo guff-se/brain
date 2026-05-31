@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "david-foster-wallace",
+    "irony",
+    "cultural-criticism"
+  ],
+  "reason": "Title names Wallace's durable framework on irony as a cultural problem; thin metadata rule applies despite promotional-only description.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "e9c8a86f2af667d41a21",
+  "error": ""
+}

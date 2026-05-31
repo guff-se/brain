@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "climate-policy",
+    "tax-policy",
+    "political-economy"
+  ],
+  "reason": "Paywalled DN op-ed by a named environmental scientist on green tax shifting as neoliberal climate policy and populist backlash—durable structural analysis, not breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9656d20cd504962dc8b3",
+  "error": ""
+}

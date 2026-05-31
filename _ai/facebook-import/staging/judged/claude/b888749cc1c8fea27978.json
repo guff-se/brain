@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "nationalism",
+    "welfare-state",
+    "populism"
+  ],
+  "reason": "Durable essay with clear analytical frameworks: the welfare-state vs. market-state legitimacy contract, the 'migration of the sacred' from church to nation to individual, and populism as existentialist response to lost shared narratives — not news reporting.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "b888749cc1c8fea27978",
+  "error": ""
+}

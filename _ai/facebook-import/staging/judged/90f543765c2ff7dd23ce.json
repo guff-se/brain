@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "capitalism",
+    "metamodernism"
+  ],
+  "reason": "Paired commentary that only echoes the article's Socratic teaser questions without Gustaf's own analysis or framing beyond the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "90f543765c2ff7dd23ce",
+  "error": ""
+}

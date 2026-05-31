@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "pajobbetpodden",
+    "leadership",
+    "inclusion"
+  ],
+  "reason": "Standalone commentary is a biographical anecdote plus podcast promo with no reasoning, framework, or durable insight beyond announcing the interview.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ba789aad4c12ba991356",
+  "error": ""
+}

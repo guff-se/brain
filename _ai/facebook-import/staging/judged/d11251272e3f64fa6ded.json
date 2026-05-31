@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "colorism",
+    "beauty-standards",
+    "media-representation"
+  ],
+  "reason": "First-person essay with durable analysis of colorism, beauty-industry norms, and how advertising outrage strips context—not just a news recap of the Dove controversy.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d11251272e3f64fa6ded",
+  "error": ""
+}

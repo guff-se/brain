@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "journalism",
+    "public-accountability",
+    "education-policy"
+  ],
+  "reason": "Standalone commentary exceeds 200 characters and adds institutional causality plus a durable claim that journalism should drive change, not only observe from the sidelines.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "48598d196b98a73dd102",
+  "error": ""
+}

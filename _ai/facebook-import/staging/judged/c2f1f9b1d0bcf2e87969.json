@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "privacy",
+    "corporate-incentives",
+    "platform-economics"
+  ],
+  "reason": "Stross offers durable causal analysis—Apple's privacy stance as strategic outcome of Apple Pay, cash deployment, and risk-management incentives—not ephemeral FBI news coverage.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c2f1f9b1d0bcf2e87969",
+  "error": ""
+}

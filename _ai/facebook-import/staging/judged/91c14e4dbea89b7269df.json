@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "state-violence",
+    "civil-liberties"
+  ],
+  "reason": "Under 200 chars with only rhetorical framing and a provocative question—no developed causal argument or durable insight beyond reacting to a film.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "91c14e4dbea89b7269df",
+  "error": ""
+}

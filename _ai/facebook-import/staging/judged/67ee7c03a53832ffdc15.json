@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.76,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "internet-governance",
+    "platform-economics",
+    "media-criticism"
+  ],
+  "reason": "Episode title signals structural critique of how the internet evolved—not ephemeral news or generic entertainment, and mp3 is available for enrichment.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "67ee7c03a53832ffdc15",
+  "error": ""
+}

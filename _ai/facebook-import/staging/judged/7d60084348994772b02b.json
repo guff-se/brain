@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "surveillance",
+    "authoritarianism",
+    "privacy"
+  ],
+  "reason": "Analytical CNN report comparing state surveillance mechanisms during COVID and the risk they persist beyond the crisis, not a bare event notice.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7d60084348994772b02b",
+  "error": ""
+}

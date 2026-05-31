@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "bioenergy",
+    "climate-policy",
+    "forestry"
+  ],
+  "reason": "DN investigative lede on biofuel policy, Estonian forest loss for Swedish heating, and industry rest-product claims — durable structural climate/energy reporting, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c7c7022a27990b6b03ff",
+  "error": ""
+}

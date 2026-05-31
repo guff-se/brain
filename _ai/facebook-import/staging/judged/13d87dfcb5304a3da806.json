@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "excess-mortality",
+    "epidemiology",
+    "covid-19"
+  ],
+  "reason": "Authoritative OWID reference explaining excess mortality measurement, P-scores, and methodological limits—durable statistical concepts, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "13d87dfcb5304a3da806",
+  "error": ""
+}

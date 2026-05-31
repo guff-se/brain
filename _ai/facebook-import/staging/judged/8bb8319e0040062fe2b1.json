@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "self-control",
+    "psychology",
+    "desire"
+  ],
+  "reason": "Paired commentary develops a clear alternative framework—honesty and pride in one's will versus restraining for hypothetical futures—not just agreement with the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "8bb8319e0040062fe2b1",
+  "error": ""
+}

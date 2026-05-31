@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "school-segregation",
+    "education-policy",
+    "sweden"
+  ],
+  "reason": "DN Debatt lede frames a durable structural analysis—parallel school systems, nationwide segregation, and counterintuitive findings on the Nyköpingsmodellen—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "554593eea345bcc411f1",
+  "error": ""
+}

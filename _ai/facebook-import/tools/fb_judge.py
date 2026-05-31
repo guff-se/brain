@@ -46,32 +46,51 @@ _TOKEN_LIMIT_SIGNALS = (
     'overloaded',
     '429',
     'resets ',             # "resets 10am (Europe/Stockholm)" on session limit
+    'likely usage/session/credits',  # exit 1 with empty CLI capture
 )
+
+# Infrastructure glitches — retry the item, do not stop the bulk run.
+_TRANSIENT_ERROR_SIGNALS = (
+    'cli-config.json',
+    'enoent:',
+    'enotfound',
+    'econnreset',
+    'econnrefused',
+    'etimedout',
+    'getaddrinfo',
+    'socket hang up',
+    'fetch failed',
+    'eai_again',
+)
+
+
+def is_transient_agent_error(text: str) -> bool:
+    """True if *text* looks like a retryable CLI/network/filesystem glitch."""
+    if not text:
+        return False
+    low = text.lower()
+    return any(sig in low for sig in _TRANSIENT_ERROR_SIGNALS)
 
 
 def is_token_limit_message(text: str) -> bool:
     """True if *text* looks like an agent usage/session/rate/credit limit (not a generic bug)."""
-    if not text:
+    if not text or is_transient_agent_error(text):
         return False
     low = text.lower()
-    if any(sig in low for sig in _TOKEN_LIMIT_SIGNALS):
-        return True
-    # Bulk run logged thousands of these when the CLI exited 1 with empty capture.
-    if ('agent exited 1' in low or 'claude exited 1' in low
-            or 'cursor agent exited 1' in low):
-        return True
-    return False
+    return any(sig in low for sig in _TOKEN_LIMIT_SIGNALS)
 
 
 def is_retriable_judge_error(error: str) -> bool:
     """True if a prior judge-error should be retried on the next bulk run.
 
-    Almost all logged failures are empty ``agent exited 1`` (or legacy ``claude exited 1``)
-    from session/credit limits (before TokenLimitError stopped the run). Retry after reset.
+    Retriable: usage/session limits (after reset), transient CLI/network errors,
+    empty ``agent exited 1`` (legacy limit heuristic).
 
     Non-retriable: model returned prose instead of JSON (missing content in prompt) — rare.
     """
     if not error or not error.strip():
+        return True
+    if is_transient_agent_error(error):
         return True
     if is_token_limit_message(error):
         return True
@@ -94,16 +113,118 @@ STAGING = os.path.join(PROJECT, 'staging')
 CACHE = os.path.join(STAGING, 'judged')
 os.makedirs(CACHE, exist_ok=True)
 
-MODEL = os.environ.get('FB_JUDGE_MODEL', 'auto')
+BACKEND = os.environ.get('FB_JUDGE_BACKEND', 'cursor').lower()
+MODEL = os.environ.get('FB_JUDGE_MODEL', '')
 CURSOR_BIN = os.environ.get(
     'CURSOR_BIN',
     shutil.which('cursor') or '/usr/local/bin/cursor',
 )
+CLAUDE_BIN = os.environ.get(
+    'CLAUDE_BIN',
+    shutil.which('claude') or os.path.expanduser('~/.local/bin/claude'),
+)
+
+_DEFAULT_MODEL = {'cursor': 'auto', 'claude': 'claude-haiku-4-5'}
 
 
-def _call_agent(system: str, user: str, timeout: int = 90) -> str:
+def configure_judge(*, backend: str | None = None, model: str | None = None) -> None:
+    """Set judge backend/model for this process. Call once from fb_bulk / fb_dryrun."""
+    global BACKEND, MODEL
+    prev_backend = BACKEND
+    if backend is not None:
+        backend = backend.lower()
+        if backend not in ('cursor', 'claude'):
+            raise ValueError(f'unknown judge backend: {backend!r} (use cursor or claude)')
+        BACKEND = backend
+    if model:
+        MODEL = model
+    elif not MODEL:
+        MODEL = _DEFAULT_MODEL[BACKEND]
+    elif backend is not None and prev_backend != BACKEND and MODEL == _DEFAULT_MODEL.get(prev_backend):
+        MODEL = _DEFAULT_MODEL[BACKEND]
+    os.makedirs(_cache_dir(), exist_ok=True)
+
+
+def judge_backend() -> str:
+    return BACKEND
+
+
+def judge_model() -> str:
+    _ensure_configured()
+    return MODEL
+
+
+def judge_backend_label() -> str:
+    return 'Claude' if BACKEND == 'claude' else 'Cursor agent'
+
+
+def _cache_dir() -> str:
+    """Cursor keeps the legacy flat judged/ layout; Claude uses judged/claude/."""
+    if BACKEND == 'cursor':
+        return CACHE
+    return os.path.join(CACHE, BACKEND)
+
+
+def _ensure_configured() -> None:
+    if not MODEL:
+        configure_judge()
+
+
+def _handle_subprocess(name: str, proc: subprocess.CompletedProcess[str]) -> str:
+    stdout = proc.stdout or ''
+    stderr = proc.stderr or ''
+    combined = stdout + stderr
+    out_stripped = stdout.strip()
+    err_stripped = stderr.strip()
+    combined_stripped = (out_stripped + err_stripped).strip()
+    limit_prefix = 'Claude limit' if name == 'claude' else 'Agent limit'
+
+    if proc.returncode != 0:
+        detail = (combined_stripped or f'exit {proc.returncode}')[:500]
+        if (is_transient_agent_error(combined)
+                or is_transient_agent_error(stdout)
+                or is_transient_agent_error(stderr)):
+            raise RuntimeError(f'{name} exited {proc.returncode}: {detail}')
+        if (is_token_limit_message(combined)
+                or is_token_limit_message(stdout)
+                or is_token_limit_message(stderr)):
+            raise TokenLimitError(f'{limit_prefix} (exit {proc.returncode}): {detail}')
+        if proc.returncode == 1 and not combined_stripped:
+            raise TokenLimitError(
+                f'{limit_prefix} (exit 1, no output — likely usage/session/credits): {detail}'
+            )
+        raise RuntimeError(f'{name} exited {proc.returncode}: {detail}')
+
+    if name == 'cursor agent':
+        stdout_has_verdict = '"verdict"' in stdout
+        if not stdout_has_verdict and is_token_limit_message(stderr):
+            raise TokenLimitError(f'{limit_prefix} (exit 0, stderr): {err_stripped[:500]}')
+    elif is_token_limit_message(combined):
+        raise TokenLimitError(f'{limit_prefix} (exit 0): {combined_stripped[:500]}')
+    return stdout
+
+
+def _call_claude(system: str, user: str, timeout: int = 90) -> str:
+    """Invoke `claude -p` non-interactively. Uses OAuth from keychain."""
+    cmd = [
+        CLAUDE_BIN, '-p',
+        '--model', MODEL,
+        '--append-system-prompt', system,
+        '--disable-slash-commands',
+        '--strict-mcp-config', '--mcp-config', '{"mcpServers":{}}',
+        '--disallowedTools', 'Bash,Edit,Write,Read,Glob,Grep,Agent,Task,WebFetch,WebSearch',
+    ]
+    try:
+        proc = subprocess.run(
+            cmd, input=user, capture_output=True, text=True, timeout=timeout,
+        )
+    except subprocess.TimeoutExpired:
+        raise RuntimeError(f'claude timed out after {timeout}s')
+    return _handle_subprocess('claude', proc)
+
+
+def _call_cursor(system: str, user: str, timeout: int = 90) -> str:
     """Invoke `cursor agent -p` non-interactively (--mode ask, JSON-only rubric)."""
-    # Cursor agent does not read stdin when a prompt argv is set; pass one combined prompt.
     prompt = f'{system}\n\n---\n\n{user}'
     cmd = [
         CURSOR_BIN, 'agent', '-p',
@@ -118,31 +239,17 @@ def _call_agent(system: str, user: str, timeout: int = 90) -> str:
         proc = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
     except subprocess.TimeoutExpired:
         raise RuntimeError(f'cursor agent timed out after {timeout}s')
+    return _handle_subprocess('cursor agent', proc)
 
-    stdout = proc.stdout or ''
-    stderr = proc.stderr or ''
-    combined = stdout + stderr
-    out_stripped = stdout.strip()
-    err_stripped = stderr.strip()
-    combined_stripped = (out_stripped + err_stripped).strip()
 
-    if proc.returncode != 0:
-        detail = (combined_stripped or f'exit {proc.returncode}')[:500]
-        if (is_token_limit_message(combined)
-                or is_token_limit_message(stdout)
-                or is_token_limit_message(stderr)):
-            raise TokenLimitError(f'Agent limit (exit {proc.returncode}): {detail}')
-        # CLI often returns exit 1 with no piped output when session/credits are exhausted.
-        if proc.returncode == 1 and not combined_stripped:
-            raise TokenLimitError(
-                f'Agent limit (exit 1, no output — likely usage/session/credits): {detail}'
-            )
-        raise RuntimeError(f'cursor agent exited {proc.returncode}: {detail}')
-    # Only check for limit signals on exit 0 if stdout doesn't look like a valid response.
-    stdout_has_verdict = '"verdict"' in stdout
-    if not stdout_has_verdict and is_token_limit_message(stderr):
-        raise TokenLimitError(f'Agent limit (exit 0, stderr): {err_stripped[:500]}')
-    return stdout
+def _call_llm(system: str, user: str, timeout: int = 90) -> str:
+    _ensure_configured()
+    if BACKEND == 'claude':
+        return _call_claude(system, user, timeout=timeout)
+    return _call_cursor(system, user, timeout=timeout)
+
+
+configure_judge()
 
 
 RUBRIC = """You are curating Gustaf's external brain (an Obsidian vault). He is importing 20 years of his own Facebook posts and the links he shared.
@@ -248,7 +355,7 @@ _hash_item = hash_item  # backward compat
 
 
 def judgement_cache_path(item_type: str, payload: dict) -> str:
-    return os.path.join(CACHE, hash_item(item_type, payload) + '.json')
+    return os.path.join(_cache_dir(), hash_item(item_type, payload) + '.json')
 
 
 def load_cached_judgement(item_type: str, payload: dict) -> Optional[Judgement]:
@@ -270,8 +377,9 @@ def judge(item_type: str, payload: dict, *, retries: int = 2) -> Judgement:
       date: ISO date
       fetched_text: extracted body of the URL
     """
+    _ensure_configured()
     sha = hash_item(item_type, payload)
-    cache_path = os.path.join(CACHE, sha + '.json')
+    cache_path = judgement_cache_path(item_type, payload)
     if os.path.exists(cache_path):
         with open(cache_path) as f:
             return Judgement(**json.load(f))
@@ -295,7 +403,7 @@ def judge(item_type: str, payload: dict, *, retries: int = 2) -> Judgement:
     last_err = ''
     for attempt in range(retries + 1):
         try:
-            raw = _call_agent(RUBRIC, user_msg)
+            raw = _call_llm(RUBRIC, user_msg)
             data = _parse_json(raw)
             j = Judgement(
                 verdict=data.get('verdict', 'skip'),
@@ -316,7 +424,9 @@ def judge(item_type: str, payload: dict, *, retries: int = 2) -> Judgement:
             last_err = f'{type(e).__name__}: {e}'
             if is_token_limit_message(last_err) or is_token_limit_message(str(e)):
                 raise TokenLimitError(last_err) from e
-            time.sleep(1.5 * (attempt + 1))
+            # Transient CLI races / network blips — backoff a bit longer before retry.
+            delay = 2.5 * (attempt + 1) if is_transient_agent_error(last_err) else 1.5 * (attempt + 1)
+            time.sleep(delay)
 
     if is_token_limit_message(last_err):
         raise TokenLimitError(last_err)
@@ -340,6 +450,13 @@ def _parse_json(raw: str) -> dict:
 
 
 if __name__ == '__main__':
-    import sys
-    payload = {'text': sys.argv[1] if len(sys.argv) > 1 else 'hej hej grattis på födelsedagen'}
+    import argparse
+    ap = argparse.ArgumentParser(description='Test the durability judge on one item.')
+    ap.add_argument('text', nargs='?', default='hej hej grattis på födelsedagen')
+    ap.add_argument('--backend', choices=['cursor', 'claude'],
+                    default=os.environ.get('FB_JUDGE_BACKEND', 'cursor'))
+    ap.add_argument('--model', default=os.environ.get('FB_JUDGE_MODEL') or None)
+    args = ap.parse_args()
+    configure_judge(backend=args.backend, model=args.model)
+    payload = {'text': args.text}
     print(json.dumps(asdict(judge('own_text', payload)), indent=2, ensure_ascii=False))

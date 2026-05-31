@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "burning-man",
+    "community-culture",
+    "gift-economy"
+  ],
+  "reason": "Canonical, durable framework of ten cultural principles with explicit ethos and mechanisms—not time-bound news or promotional fluff.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fedb35ddc09cb824e214",
+  "error": ""
+}

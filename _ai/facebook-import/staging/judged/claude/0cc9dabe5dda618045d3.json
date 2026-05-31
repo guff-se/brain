@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "automation",
+    "future-of-work"
+  ],
+  "reason": "Data journalism piece whose value is the chart (not capturable as text); the meta-point that automation job-loss studies wildly disagree is noted but not explained mechanistically, and the article adds no durable framework beyond the observation itself.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "0cc9dabe5dda618045d3",
+  "error": ""
+}

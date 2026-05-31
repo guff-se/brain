@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone share is only The Onion quote with no Gustaf framing, mechanism, or durable insight beyond ephemeral satire.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7ab41c31b4572e2e592c",
+  "error": ""
+}

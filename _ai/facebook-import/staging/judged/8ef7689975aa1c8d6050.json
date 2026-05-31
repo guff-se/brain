@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin promotional org profile from an event directory—marketing copy about Strawbees, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8ef7689975aa1c8d6050",
+  "error": ""
+}

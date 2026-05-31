@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is event-tied (Barrett hearings, Lee tweet), offers a commonplace civics claim plus open questions without causal development, and the podcast line is referral-only—not framing beyond the episode.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "b4723dc38969abe5266e",
+  "error": ""
+}

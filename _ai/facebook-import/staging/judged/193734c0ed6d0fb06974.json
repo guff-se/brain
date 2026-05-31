@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "opioid-crisis",
+    "medical-marijuana",
+    "public-health"
+  ],
+  "reason": "NPR synthesis of JAMA studies on marijuana–opioid substitution, mechanisms, and risk–benefit limits—durable policy and epidemiology, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "193734c0ed6d0fb06974",
+  "error": ""
+}

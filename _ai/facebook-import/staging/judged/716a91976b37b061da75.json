@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "epistemic-humility",
+    "institutional-trust",
+    "complex-systems"
+  ],
+  "reason": "Long, structured essay on uncertainty, limits of simple cross-country inference, and democratic expert institutions—durable reasoning beyond a COVID headline.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "716a91976b37b061da75",
+  "error": ""
+}

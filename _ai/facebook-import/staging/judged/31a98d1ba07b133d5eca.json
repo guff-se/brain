@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "incel-culture",
+    "internet-culture",
+    "online-radicalization"
+  ],
+  "reason": "Substantive explainer on 4chan, /r9k/, and incel ideology with historical context and causal framing—not merely a news report on the Toronto attack.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "31a98d1ba07b133d5eca",
+  "error": ""
+}

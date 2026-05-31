@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Only paywall/subscription page was fetched; the title points to time-bound wage-gap news, not durable analysis without the article body.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d6c9546b5278b0449fe6",
+  "error": ""
+}

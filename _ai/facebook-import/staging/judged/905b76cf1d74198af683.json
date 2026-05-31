@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "digital-nervous-system",
+    "technology-society",
+    "human-machine-entanglement"
+  ],
+  "reason": "Named talk on a durable framework—human–technology entanglement and institutional implications—not generic entertainment, despite thin promo-style metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "905b76cf1d74198af683",
+  "error": ""
+}

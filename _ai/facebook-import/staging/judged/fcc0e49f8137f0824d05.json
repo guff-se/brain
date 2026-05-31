@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.76,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "arms-trade",
+    "ethics",
+    "foreign-policy"
+  ],
+  "reason": "Sarcasm plus quoted excuse lead to a clear policy principle—selective arms-export morality is undermined by hindsight defenses, implying either total abstention or accepted complicity.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "fcc0e49f8137f0824d05",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional volunteer recruitment for NWTA landing-page help with no reasoning, framework, or durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "1dba5319730b57c306a3",
+  "error": ""
+}

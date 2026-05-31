@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "stockholm",
+    "culture-innovation",
+    "burning-man"
+  ],
+  "reason": "Long standalone commentary with a clear mechanism claim linking free urban culture to innovation (Burning Man/Silicon Valley), not just outrage at the 2019 rave-policing story.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "5079525a7f5a18b9f8d3",
+  "error": ""
+}

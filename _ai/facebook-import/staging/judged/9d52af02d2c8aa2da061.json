@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "eu-policy",
+    "telecoms",
+    "copyright"
+  ],
+  "reason": "Reuters breaking-news report on upcoming 2016 EU reform proposals—time-bound policy announcement, not durable analysis or enduring insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9d52af02d2c8aa2da061",
+  "error": ""
+}

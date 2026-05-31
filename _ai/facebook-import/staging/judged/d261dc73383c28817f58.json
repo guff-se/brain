@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is under 200 characters of Gustaf's own reasoning—a brief reflective note on technological progress over a lifetime, prompted by ephemeral COVID-era news, without mechanism or durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "d261dc73383c28817f58",
+  "error": ""
+}

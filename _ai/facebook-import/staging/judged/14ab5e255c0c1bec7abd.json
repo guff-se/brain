@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "pajobbetpodden",
+    "starke-ledaren",
+    "leadership"
+  ],
+  "reason": "Named expert (Andreas Miller/Ledarna) on a structural leadership topic—leader as society-bearer, sustainability, and manager conditions—not episodic news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "14ab5e255c0c1bec7abd",
+  "error": ""
+}

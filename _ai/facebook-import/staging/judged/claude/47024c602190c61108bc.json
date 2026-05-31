@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "alternative-medicine",
+    "cancer",
+    "evidence-based-medicine"
+  ],
+  "reason": "Durable mechanism-driven finding: alt-medicine correlates with worse cancer survival not because it actively harms, but because users disproportionately refuse conventional treatment — a psychologically and policy-relevant causal claim from a JAMA Oncology study.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "47024c602190c61108bc",
+  "error": ""
+}

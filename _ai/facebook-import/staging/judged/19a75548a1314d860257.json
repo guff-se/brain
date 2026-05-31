@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "information-warfare",
+    "wikileaks",
+    "transparency"
+  ],
+  "reason": "Substantive analysis of Assange's 'Conspiracy as Governance' framework—secrecy tax, organizational paralysis, and selective leaking—offers durable insight into information warfare beyond the 2016 news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "19a75548a1314d860257",
+  "error": ""
+}

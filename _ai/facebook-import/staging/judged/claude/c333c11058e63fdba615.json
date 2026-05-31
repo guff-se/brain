@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.65,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "drone-warfare",
+    "security",
+    "asymmetric-threats"
+  ],
+  "reason": "News-pegged piece using the Maduro attack to gesture at offense-defense asymmetry in drone security — the structural observations are valid but underdeveloped; not a framework piece worth preserving over a more analytical treatment of the same theme.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "c333c11058e63fdba615",
+  "error": ""
+}

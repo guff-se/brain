@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "pajobbetpodden",
+    "starke-ledaren",
+    "leadership"
+  ],
+  "reason": "Named leadership expert on a durable theme (vulnerability as strength, crisis leadership, authenticity); full audio available and substance extends beyond a generic share.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "9d7279b395ce7623368c",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "catholic-church",
+    "institutional-hypocrisy",
+    "book-review"
+  ],
+  "reason": "DN book review of Martel's sociological study of Vatican clergy sexuality and embedded institutional hypocrisy—durable structural analysis, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b7225604b69709c7fd57",
+  "error": ""
+}

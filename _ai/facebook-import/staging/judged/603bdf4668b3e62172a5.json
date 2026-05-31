@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "critical-minerals",
+    "supply-chain-ethics",
+    "battery-supply-chain"
+  ],
+  "reason": "Substantive investigative report linking EV/battery demand to cobalt extraction mechanisms, labor conditions, and corporate supply chains in DRC—durable structural analysis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "603bdf4668b3e62172a5",
+  "error": ""
+}

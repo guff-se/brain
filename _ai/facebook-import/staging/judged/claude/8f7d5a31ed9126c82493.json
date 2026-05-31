@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf's 'commentary' is a verbatim paste of the article lede — no added framing, reasoning, or perspective beyond the article itself.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_commentary",
+  "content_sha": "8f7d5a31ed9126c82493",
+  "error": ""
+}

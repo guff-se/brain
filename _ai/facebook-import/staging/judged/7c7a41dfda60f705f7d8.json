@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.8,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "banking",
+    "financial-crisis",
+    "regulation"
+  ],
+  "reason": "Title frames causal analysis of regulatory failure behind SVB—a structural banking-regulation case study, not a bare event announcement.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "7c7a41dfda60f705f7d8",
+  "error": ""
+}

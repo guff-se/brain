@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "native-advertising",
+    "journalism",
+    "media-ethics"
+  ],
+  "reason": "Title names a structural media-ethics topic (editorial vs. advertising); Last Week Tonight segments on this theme are durable explanatory content, not generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "9dccb69d64a515239bfa",
+  "error": ""
+}

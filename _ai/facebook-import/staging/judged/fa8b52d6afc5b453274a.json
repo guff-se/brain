@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gender",
+    "consent",
+    "male-socialization"
+  ],
+  "reason": "Substantive personal essay linking coercion, complicity, and gendered violence through narrative vignettes—not ephemeral news or promotion.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fa8b52d6afc5b453274a",
+  "error": ""
+}

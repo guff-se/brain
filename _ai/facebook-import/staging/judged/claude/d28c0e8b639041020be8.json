@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars, no argument or mechanism — just a playful reaction pointing to an external demo.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "d28c0e8b639041020be8",
+  "error": ""
+}

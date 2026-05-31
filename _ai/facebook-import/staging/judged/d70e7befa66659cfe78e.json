@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "philosophy",
+    "higher-education",
+    "alasdair-macintyre"
+  ],
+  "reason": "Episode title names MacIntyre and a durable structural critique of the modern university, which qualifies despite generic show-level metadata.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "d70e7befa66659cfe78e",
+  "error": ""
+}

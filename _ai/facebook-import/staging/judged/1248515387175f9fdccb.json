@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a time-bound 2017 Stockholm event preview and promotional roundup, not durable analysis of Burning Man or co-creation beyond brief quotes.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1248515387175f9fdccb",
+  "error": ""
+}

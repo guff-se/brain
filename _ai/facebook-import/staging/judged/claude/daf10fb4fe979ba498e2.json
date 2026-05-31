@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "This is a quoted excerpt from an external article with a link — Gustaf adds no commentary or reasoning of his own.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "daf10fb4fe979ba498e2",
+  "error": ""
+}

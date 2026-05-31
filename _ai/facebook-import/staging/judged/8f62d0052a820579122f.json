@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Festival short-film credits and Dr. Seuss/Burning Man mashup are cultural entertainment, not durable analysis or frameworks.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "8f62d0052a820579122f",
+  "error": ""
+}

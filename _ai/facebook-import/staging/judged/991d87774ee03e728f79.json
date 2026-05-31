@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "attention-economy",
+    "persuasive-technology",
+    "social-media"
+  ],
+  "reason": "Classic Guardian investigation of attention-economy mechanics, habit-forming product design, and insider causal critique—durable framework-level analysis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "991d87774ee03e728f79",
+  "error": ""
+}

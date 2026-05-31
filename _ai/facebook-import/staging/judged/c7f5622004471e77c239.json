@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Primarily a 2018 science-news report on a single meta-analysis, with only brief embedded mechanism detail—not durable analysis or a framework worth keeping over the underlying study.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c7f5622004471e77c239",
+  "error": ""
+}

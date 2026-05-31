@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional recap of a podcast episode and feedback solicitation—no embedded argument, mechanism, or durable insight in the post itself.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0ad249666b44639f66cb",
+  "error": ""
+}

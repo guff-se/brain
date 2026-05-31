@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound promotional announcement for an NFT auction—logistical details and links, no durable reasoning or insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "9afbef5e447e4f663096",
+  "error": ""
+}

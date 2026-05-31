@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Under 200 chars and purely a time-bound signup reminder with a link—promotional/logistical, no argument or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "28824af852e14752f2d4",
+  "error": ""
+}

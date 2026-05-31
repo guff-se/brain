@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars with no developed mechanism—asserts a 2016 election hot take (Hillary lost, protest the DNC) without explaining why or durable principles.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "470f7d3537e1c6283d1f",
+  "error": ""
+}

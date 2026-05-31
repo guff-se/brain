@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "covid-19",
+    "public-health",
+    "who"
+  ],
+  "reason": "March 2020 CNN news report of a provisional WHO briefing on masks—time-bound pandemic coverage, not durable analysis or principles worth keeping.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d45e7c62fc0eecf87461",
+  "error": ""
+}

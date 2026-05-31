@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only Google's cookie consent boilerplate, and the underlying share appears to be a paywall-remover browser extension—a utility link, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "4884b2ba8a671d3c8e73",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "social-media",
+    "surveillance",
+    "facebook"
+  ],
+  "reason": "Paired commentary is a single pull-quote restating the article's thesis with no added framing, mechanism, or Gustaf-specific reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "86488f0db6b04f45dc5e",
+  "error": ""
+}

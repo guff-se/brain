@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.76,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "values-signaling",
+    "corporate-ethics",
+    "institutional-hypocrisy"
+  ],
+  "reason": "Standalone commentary exceeds 200 chars and states a durable causal claim—values treated as PR rather than lived principle predictably produce hypocrisy—beyond mere reaction to the hotel scandal.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "eca351d2f28b390e0c3a",
+  "error": ""
+}

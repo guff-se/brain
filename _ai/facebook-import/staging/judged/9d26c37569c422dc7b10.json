@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only juxtaposes a 2016 Tesla sales snapshot against an EIA forecast—time-bound observation without mechanism, principle, or developed argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "9d26c37569c422dc7b10",
+  "error": ""
+}

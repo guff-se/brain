@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Short promotional invite to a dated student exhibition with no analysis or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "970f06a932f7f9881fd0",
+  "error": ""
+}

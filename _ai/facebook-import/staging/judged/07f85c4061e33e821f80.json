@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on time-bound EU news; Gustaf's own text is ~165 chars—mostly a quoted excerpt plus one security line and a hot take, below the 200-char reasoning threshold.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "07f85c4061e33e821f80",
+  "error": ""
+}

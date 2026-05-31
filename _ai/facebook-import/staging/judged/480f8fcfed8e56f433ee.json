@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars with only a rhetorical slogan and a google pointer—no causal argument, mechanism, or durable insight beyond 'listen to research'.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "480f8fcfed8e56f433ee",
+  "error": ""
+}

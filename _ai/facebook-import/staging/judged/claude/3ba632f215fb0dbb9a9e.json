@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Music track, not a podcast — no durable knowledge, ideas, or frameworks.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_podcast",
+  "content_sha": "3ba632f215fb0dbb9a9e",
+  "error": ""
+}

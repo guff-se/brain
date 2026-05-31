@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "platform-strategy",
+    "media-industry",
+    "startup-disruption"
+  ],
+  "reason": "Uses the 2016 Storytel–Norstedts deal to argue a durable platform pattern—distribution control drives vertical integration into content—and what incumbents risk if they ignore startups.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a85e44f034c220a6a301",
+  "error": ""
+}

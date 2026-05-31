@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound news reaction to a specific trial outcome with sarcasm, no developed argument about mechanisms, principles, or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ff55d41df6d7b76135a9",
+  "error": ""
+}

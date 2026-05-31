@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin promo for a weekly satire clip on 2019 news; comedy format and metadata lack durable analysis or framework worth archiving.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "8e032421d1752e130961",
+  "error": ""
+}

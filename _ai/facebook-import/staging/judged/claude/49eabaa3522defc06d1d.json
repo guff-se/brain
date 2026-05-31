@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional call-to-action inviting people to join a Slack; no durable knowledge or reasoning, purely logistical.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_commentary",
+  "content_sha": "49eabaa3522defc06d1d",
+  "error": ""
+}

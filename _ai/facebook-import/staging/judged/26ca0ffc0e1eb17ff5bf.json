@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "biblical-scholarship",
+    "historical-method",
+    "media-literacy"
+  ],
+  "reason": "Carey’s essay explains why the ‘lost gospel’ claim fails—known text, decoding fallacy, evidence standards—not just that another hoax dropped.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "26ca0ffc0e1eb17ff5bf",
+  "error": ""
+}

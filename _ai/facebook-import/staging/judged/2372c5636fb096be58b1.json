@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-ethics",
+    "disinformation",
+    "psychiatry"
+  ],
+  "reason": "SVT investigation explains durable mechanisms—press-release laundering, source confusion, and harm from amplified anti-psychiatry disinformation—not only the 2017 TT–KMR event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2372c5636fb096be58b1",
+  "error": ""
+}

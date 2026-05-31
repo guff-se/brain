@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "psychedelics",
+    "addiction-treatment",
+    "neuroscience"
+  ],
+  "reason": "Substantive science journalism on psychedelic-assisted addiction treatment with historical context, proposed neural mechanisms, trial data, and a skeptical counterpoint—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "294ccf2fe2116baa1342",
+  "error": ""
+}

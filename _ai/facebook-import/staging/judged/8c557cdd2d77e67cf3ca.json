@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Under 200 chars: a witty one-liner on mainstreaming, not a developed causal claim or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8c557cdd2d77e67cf3ca",
+  "error": ""
+}

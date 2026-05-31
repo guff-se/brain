@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin YouTube event promo for a dated 2019 live recording—guest list and booking links, no durable ideas or analysis in the metadata itself.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "8042e975a861d90e7221",
+  "error": ""
+}

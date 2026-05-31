@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gambling-industry",
+    "effective-altruism",
+    "moral-responsibility"
+  ],
+  "reason": "Substantive profile exploring enduring tensions—harm-industry profits, entrepreneur guilt, and effective-altruism math—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "555047166f3502a29935",
+  "error": ""
+}

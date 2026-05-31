@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "self-awareness",
+    "gratitude",
+    "emotional-regulation"
+  ],
+  "reason": "Reflective own_text with a clear causal chain—mirrored worry on the subway, recognition that expression is chosen, reframing toward gratitude and agency—not mere mood or banter.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "25ecb7463f2a545a7574",
+  "error": ""
+}

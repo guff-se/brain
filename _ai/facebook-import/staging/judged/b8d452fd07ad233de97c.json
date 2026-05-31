@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "liberal-democracy",
+    "pandemic-policy",
+    "sweden"
+  ],
+  "reason": "Substantive first-person analysis of Sweden's COVID approach as a liberal-democratic principle—individual responsibility vs command, long-game policy, and emergency-power trade-offs—not mere breaking-news reporting.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b8d452fd07ad233de97c",
+  "error": ""
+}

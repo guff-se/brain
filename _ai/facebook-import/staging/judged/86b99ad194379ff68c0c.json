@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.84,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "policing",
+    "drug-policy",
+    "priorities"
+  ],
+  "reason": "Juxtaposes festival crime stats with police deployment logic to argue a durable point about misaligned enforcement priorities, not just report a 2016 event.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "86b99ad194379ff68c0c",
+  "error": ""
+}

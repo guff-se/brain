@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man",
+    "the-borderland",
+    "carbon-footprint"
+  ],
+  "reason": "Promotional, time-bound event logistics and sign-up call with no explanation of how offsets work or any durable reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "004fd9cac9beffac3e65",
+  "error": ""
+}

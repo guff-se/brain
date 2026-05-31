@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "skepticism",
+    "science-criticism",
+    "medical-overtreatment"
+  ],
+  "reason": "Horgan develops a durable hard-vs-soft-targets framework for skepticism, with causal critique of tribal blind spots in physics, medicine, and institutions.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f0d132f2a9d4186776d9",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary on ephemeral 2016 Alliance election news—rhetorical questions and a brief freedom-vs-loyalty quip, not developed reasoning or durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "b5e8c85d1a7e1bb0ecad",
+  "error": ""
+}

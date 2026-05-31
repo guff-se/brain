@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is mostly speaker promo and lead-seeking; the one aphorism is undeveloped and the rest is logistical, not durable reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "b641d2bf3bb40ad614e8",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "generational-politics",
+    "political-commentary",
+    "climate-politics"
+  ],
+  "reason": "Andreas Magnussons krönika utvecklar en bestående generationsanalys med kausal inramning, inte bara en nyhet eller reaktion.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c6889e7006a0150c11a2",
+  "error": ""
+}

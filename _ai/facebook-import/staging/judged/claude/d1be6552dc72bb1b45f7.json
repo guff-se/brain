@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.99,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social coordination post seeking volunteers for a shift — no knowledge, reasoning, or durable insight.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "d1be6552dc72bb1b45f7",
+  "error": ""
+}

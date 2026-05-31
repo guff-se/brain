@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "debate-culture",
+    "civil-discourse",
+    "digital-stress"
+  ],
+  "reason": "Hansson's essay offers durable analysis of debate mechanics, fear-driven cognition online, and reflection versus reactive discourse—not merely 2017 news references.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5ff0825e2e9ff3a93b9a",
+  "error": ""
+}

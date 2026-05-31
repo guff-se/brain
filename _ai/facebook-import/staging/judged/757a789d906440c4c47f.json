@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional opening announcement and ticket sales pitch with no reasoning, insight, or durable knowledge beyond a time-bound event.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "757a789d906440c4c47f",
+  "error": ""
+}

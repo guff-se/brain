@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "alexander-bard",
+    "network-society",
+    "digital-philosophy"
+  ],
+  "reason": "Named expert (Alexander Bard) discussing a specific philosophical book on power and network society — durable topic even with thin metadata.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_video",
+  "content_sha": "78e727f0be067b0075c2",
+  "error": ""
+}

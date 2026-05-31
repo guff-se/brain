@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "public-art",
+    "art-appropriation",
+    "corporate-marketing"
+  ],
+  "reason": "Nuanced cultural analysis of how Fearless Girl recontextualizes Charging Bull, distinguishing guerrilla art from corporate advertising and exploring durable questions of appropriation and meaning in public space.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c2dbb3d1c84a3ae108ed",
+  "error": ""
+}

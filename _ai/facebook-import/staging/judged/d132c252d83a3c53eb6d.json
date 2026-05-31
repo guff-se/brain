@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "stadium-subsidies",
+    "sports-business",
+    "public-finance"
+  ],
+  "reason": "Substantive analysis of how the NFL used public subsidies and relocation leverage over two decades—not ephemeral game news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d132c252d83a3c53eb6d",
+  "error": ""
+}

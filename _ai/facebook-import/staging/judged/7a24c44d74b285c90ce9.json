@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Restates a poll statistic with sarcastic 'Yay.' and source links but adds no mechanism, analysis, or durable insight of Gustaf's own.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7a24c44d74b285c90ce9",
+  "error": ""
+}

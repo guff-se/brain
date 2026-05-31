@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "climate-change",
+    "fossil-fuels",
+    "energy-policy"
+  ],
+  "reason": "Economist briefing analyzes ExxonMobil's growth strategy against climate constraints—a durable structural case study, not a time-bound news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "16a284572fc963b604d8",
+  "error": ""
+}

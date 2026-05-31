@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars with default skip; one mechanistic claim about vote-whipping is outweighed by a provocative hot take tied to ephemeral 2016 'Riksdagsskolket' news, not a developed argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "217e7a7b09c08356160f",
+  "error": ""
+}

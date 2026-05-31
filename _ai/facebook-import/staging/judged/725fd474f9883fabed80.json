@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.91,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "swedish-governance",
+    "public-health-policy",
+    "institutional-design"
+  ],
+  "reason": "Analytical explainer of Sweden's expert-led agencies, constitutional limits, and behavioral rationale for COVID strategy—institutional mechanisms that outlast the pandemic moment.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "725fd474f9883fabed80",
+  "error": ""
+}

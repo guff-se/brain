@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.86,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "pajobbetpodden",
+    "skuggsidor",
+    "leadership"
+  ],
+  "reason": "Guest-recruitment promo for Spring 2021 Skuggsidor season—time-bound CTA with show-copy questions, not standalone durable thinking; the theme is already covered in vault podcast episodes.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "72e7301923675e65ad98",
+  "error": ""
+}

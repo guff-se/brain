@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "masculinity",
+    "gender-roles",
+    "mental-health"
+  ],
+  "reason": "Op-ed with a durable mechanism claim—outdated masculinity norms, emotional illiteracy, and absent cultural conversation for boys—not merely a shooting news recap.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "279ff53120079d603a1f",
+  "error": ""
+}

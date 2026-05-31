@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional invitation to a one-time online event with registration logistics—no durable ideas, analysis, or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8abaf75f4cb878ebc9c7",
+  "error": ""
+}

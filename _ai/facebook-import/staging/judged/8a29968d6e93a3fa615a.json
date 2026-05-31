@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "clipping",
+  "tags_hint": [
+    "source-reliability",
+    "wikipedia",
+    "media-literacy"
+  ],
+  "reason": "The archived RfC debate articulates durable principles about when tabloid sources fail encyclopedic reliability across science, politics, and BLP—not merely a procedural outcome.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8a29968d6e93a3fa615a",
+  "error": ""
+}

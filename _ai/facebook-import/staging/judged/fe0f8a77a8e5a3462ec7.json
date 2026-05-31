@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "92-char sarcastic one-liner with no developed argument, mechanism, or reasoning chain — default skip under strict own_text length rules.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "fe0f8a77a8e5a3462ec7",
+  "error": ""
+}

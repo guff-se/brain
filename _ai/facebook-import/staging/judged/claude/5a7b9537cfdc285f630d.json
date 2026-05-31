@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "urban-design",
+    "advertising",
+    "public-space"
+  ],
+  "reason": "Concrete case study with durable mechanisms: removing billboards from São Paulo revealed hidden social problems (favelas, sweatshops), illustrating how visual pollution can mask social reality — a genuinely surprising causal finding with policy and attention-economy implications.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "5a7b9537cfdc285f630d",
+  "error": ""
+}

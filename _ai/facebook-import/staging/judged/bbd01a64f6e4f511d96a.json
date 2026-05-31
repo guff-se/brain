@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "education",
+    "sleep",
+    "school-policy"
+  ],
+  "reason": "At 109 chars it hits the under-200 default skip: one asserted finding plus a rhetorical question, with no multi-sentence mechanism or reasoning chain.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "bbd01a64f6e4f511d96a",
+  "error": ""
+}

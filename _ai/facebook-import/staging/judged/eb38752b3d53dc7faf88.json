@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "pension",
+    "retirement-policy",
+    "sweden"
+  ],
+  "reason": "Thin metadata, but title and description name a durable structural topic—Swedish pension and retirement-age policy—with an educational explainer rather than ephemeral news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "eb38752b3d53dc7faf88",
+  "error": ""
+}

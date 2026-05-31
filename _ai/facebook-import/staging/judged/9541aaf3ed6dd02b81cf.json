@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "conspiracy-theories",
+    "epistemology",
+    "chaos"
+  ],
+  "reason": "Verbatim Alan Moore quote with no Gustaf framing; durable insight belongs in a consumed clipping of the source, not as own_text/thinking.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "9541aaf3ed6dd02b81cf",
+  "error": ""
+}

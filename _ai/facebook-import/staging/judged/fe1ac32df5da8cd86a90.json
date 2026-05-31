@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "nocebo-effect",
+    "psychosomatic-medicine",
+    "pseudoscience"
+  ],
+  "reason": "Durable reference on EHS covering scientific consensus, provocation-study evidence, and nocebo/psychosomatic mechanisms—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fe1ac32df5da8cd86a90",
+  "error": ""
+}

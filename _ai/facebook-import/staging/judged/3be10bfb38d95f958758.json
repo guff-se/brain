@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "seo",
+    "guerrilla-marketing",
+    "wikipedia"
+  ],
+  "reason": "Title signals a durable marketing/SEO case study (Wikipedia manipulation for search rankings), not ephemeral news, despite unusable fetched body.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3be10bfb38d95f958758",
+  "error": ""
+}

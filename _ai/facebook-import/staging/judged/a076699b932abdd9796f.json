@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "excess-mortality",
+    "public-health",
+    "epidemiology"
+  ],
+  "reason": "OWID reference page explains the durable mechanism of excess mortality versus confirmed COVID counts, including indirect pandemic deaths and baseline methodology.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a076699b932abdd9796f",
+  "error": ""
+}

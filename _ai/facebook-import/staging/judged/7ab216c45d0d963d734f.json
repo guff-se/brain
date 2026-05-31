@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.91,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "youth-unemployment",
+    "labor-market",
+    "demographics"
+  ],
+  "reason": "Substantive analysis decomposing falling youth unemployment into demographic cohort effects versus job creation, with methodological critique and gender/education causality.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7ab216c45d0d963d734f",
+  "error": ""
+}

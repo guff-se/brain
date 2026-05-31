@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "fintech",
+    "consumer-debt",
+    "banking"
+  ],
+  "reason": "Unpacks Bynk’s debt-only model into a structural claim about how financial identity gets defined—more mechanism than hot take.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "99b44f2ab21ed401ebec",
+  "error": ""
+}

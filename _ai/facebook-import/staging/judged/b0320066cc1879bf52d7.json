@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is a one-line reaction plus a 2019 copyright-law paste note; the Economist excerpt is external copy, not Gustaf's durable reasoning.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "b0320066cc1879bf52d7",
+  "error": ""
+}

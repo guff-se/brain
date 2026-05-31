@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "conspiracy-theories",
+    "structural-engineering",
+    "misinformation"
+  ],
+  "reason": "Substantive science journalism explaining WTC collapse mechanisms and systematically debunking truther claims with NIST findings and expert testimony—durable explanatory reference, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3d9ef41ec30ea6da6956",
+  "error": ""
+}

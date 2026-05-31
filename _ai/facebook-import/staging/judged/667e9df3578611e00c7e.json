@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paywalled DN local news about a 2019 trend in illegal forest raves—event reporting, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "667e9df3578611e00c7e",
+  "error": ""
+}

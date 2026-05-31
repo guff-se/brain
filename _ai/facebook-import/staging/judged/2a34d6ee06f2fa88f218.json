@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "government-transparency",
+    "secrecy",
+    "swedish-politics"
+  ],
+  "reason": "Under 200 chars: a quoted institutional excuse plus a sarcastic one-liner, with no developed argument or durable insight from Gustaf.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "2a34d6ee06f2fa88f218",
+  "error": ""
+}

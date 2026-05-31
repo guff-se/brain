@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone mode on failed CNN news clip; text is mostly outrage and restatement of the report, with only brief generic claims about trade obscuring dictatorship—not enough durable mechanism or principle.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "319ec1046d35854a4473",
+  "error": ""
+}

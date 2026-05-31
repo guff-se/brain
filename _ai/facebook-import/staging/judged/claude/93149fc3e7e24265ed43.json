@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Witty observation and wordplay but no mechanism, causality, or reasoning chain — quip not argument.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "93149fc3e7e24265ed43",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned Bahnhof marketing/FAQ, not the press release; the URL itself points to a time-bound 2018 news announcement, not durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5d689e17a7d766c846a6",
+  "error": ""
+}

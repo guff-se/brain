@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "retail",
+    "private-equity",
+    "debt"
+  ],
+  "reason": "Substantive Bloomberg analysis explaining retail distress via LBO debt, refinancing risk, and structural oversupply—not just episodic closure news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b11dc2f17e1608d93c5e",
+  "error": ""
+}

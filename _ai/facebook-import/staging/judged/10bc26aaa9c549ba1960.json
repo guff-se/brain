@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters with no developed causal argument—situational anecdote and duct-tape metaphor, not durable reasoning on distance education.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "10bc26aaa9c549ba1960",
+  "error": ""
+}

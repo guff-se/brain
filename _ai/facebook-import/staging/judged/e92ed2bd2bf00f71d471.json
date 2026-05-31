@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "masculinity",
+    "gender-norms",
+    "media-influence"
+  ],
+  "reason": "Freinacht's essay uses the Gillette controversy as a lens for durable mechanisms—how ads shape gender attitudes, backlash hypersensitivity, and norm propagation—with empirical and sociological framing beyond the news event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e92ed2bd2bf00f71d471",
+  "error": ""
+}

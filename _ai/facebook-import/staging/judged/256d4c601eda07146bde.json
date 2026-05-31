@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "radicalization",
+    "swedish-politics",
+    "public-debate"
+  ],
+  "reason": "Krönika som explicit söker orsaksmekanismer bakom radikalisering av svenska debattörer — mönster- och principanalys, inte nyhetshändelse.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "256d4c601eda07146bde",
+  "error": ""
+}

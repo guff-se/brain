@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "95-char endorsement of someone else's idea with no reasoning, mechanism, or durable insight beyond agreement.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "de3d1a372f0151bf7991",
+  "error": ""
+}

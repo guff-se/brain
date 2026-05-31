@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "email-deliverability",
+    "domain-names",
+    "startups"
+  ],
+  "reason": "Case study with quantified impacts and causal mechanisms on how cheap TLDs hurt email/SMS deliverability, firewall access, and brand trust, plus a durable TLD selection framework.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a6ebea819599c5773076",
+  "error": ""
+}

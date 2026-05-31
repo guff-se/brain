@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Charming tech-history anecdote about the first Google Doodle, but it narrates a fun origin story without analysis, mechanisms, or insights durable enough for the vault.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3501bab6976091657978",
+  "error": ""
+}

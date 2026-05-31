@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is entirely a pull-quote from the article (Hysén's words, not Gustaf's); no framing, mechanism, or reasoning added by Gustaf.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_commentary",
+  "content_sha": "feb3046c978df9164aa8",
+  "error": ""
+}

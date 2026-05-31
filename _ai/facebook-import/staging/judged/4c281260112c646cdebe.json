@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "interactive-art",
+    "creative-coding",
+    "physical-computing"
+  ],
+  "reason": "Explains a transferable maker workflow—sequential LED capture, brightest-point extraction, coordinate mapping, and software effects—not just a project announcement.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4c281260112c646cdebe",
+  "error": ""
+}

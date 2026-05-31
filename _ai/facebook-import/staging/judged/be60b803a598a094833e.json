@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "psychometrics",
+    "microtargeting",
+    "surveillance-capitalism"
+  ],
+  "reason": "Landmark investigative piece explaining the mechanism chain from Big Five psychometrics and Facebook likes to Cambridge Analytica's political microtargeting—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "be60b803a598a094833e",
+  "error": ""
+}

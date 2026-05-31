@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "cultural-policy",
+    "arts-funding",
+    "inequality"
+  ],
+  "reason": "Op-ed uses a 2016 news hook to analyze durable structures—artist stipends, minister income guarantees, class hypocrisy, and who 'deserves' state support.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c26652d0480bdf8047d0",
+  "error": ""
+}

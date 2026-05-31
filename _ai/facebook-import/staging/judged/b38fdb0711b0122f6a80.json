@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "religious-schools",
+    "child-agency",
+    "secularism"
+  ],
+  "reason": "Standalone commentary exceeds 200 chars and extends the dress-code doubt into a principled claim about children's agency versus predetermined religious schooling, with friskolor context—not just a headline reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "b38fdb0711b0122f6a80",
+  "error": ""
+}

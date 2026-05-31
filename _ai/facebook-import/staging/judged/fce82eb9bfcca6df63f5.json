@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "public-persona",
+    "expectations",
+    "authenticity"
+  ],
+  "reason": "Develops a causal pattern—being cast as inspiring invites pedestalization and later disappointment when reality diverges from projection—not mere mood or thanks.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "fce82eb9bfcca6df63f5",
+  "error": ""
+}

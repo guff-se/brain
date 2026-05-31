@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is mainly time-bound recruitment and warm endorsement of NWTA, not durable reasoning or mechanisms worth a vault note.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7b3776bb822a1fe1b753",
+  "error": ""
+}

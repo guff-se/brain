@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "housing-market",
+    "urban-planning",
+    "policy-analysis"
+  ],
+  "reason": "Lisa Magnusson's column offers durable structural analysis of Swedish housing scarcity, who profits from it, and why common policy fixes miss the root cause.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9a6b60ac9dc9145c7f93",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Gustaf only relays a news-tied quote with no added reasoning; the self-realization line is third-party color on an ephemeral 2019 incident.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c61d01115c4bcf6f1cdd",
+  "error": ""
+}

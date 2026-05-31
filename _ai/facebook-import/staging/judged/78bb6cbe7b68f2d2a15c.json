@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "charisma",
+    "authenticity",
+    "media-performance"
+  ],
+  "reason": "Beyond visceral skepticism, Gustaf questions his own perception and adds a causal frame—camera/regi vs. claimed presence—that makes charisma advice worth revisiting.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "78bb6cbe7b68f2d2a15c",
+  "error": ""
+}

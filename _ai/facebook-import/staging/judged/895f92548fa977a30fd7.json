@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.84,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "labor-migration",
+    "trade-unions",
+    "migration-policy"
+  ],
+  "reason": "SvD investigation explains how Swedish work-permit law empowers unions and can block or endanger migrants—not just a one-off news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "895f92548fa977a30fd7",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "file-sharing",
+    "piracy"
+  ],
+  "reason": "Under 200 characters and a cheerleading hot take with no mechanism, argument, or durable insight beyond endorsing TPB.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "3f849b7ecc6f16197429",
+  "error": ""
+}

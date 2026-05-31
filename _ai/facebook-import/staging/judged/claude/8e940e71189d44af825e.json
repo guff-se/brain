@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "politics",
+    "swedish-politics",
+    "manifesto"
+  ],
+  "reason": "Generic political manifesto with high-level values (freedom, sustainability, collaboration) but no analytical framework, causal mechanism, or durable insight — aspirational rhetoric without substance to build on.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "8e940e71189d44af825e",
+  "error": ""
+}

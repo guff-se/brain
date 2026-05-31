@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.99,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Social birthday photo caption with no knowledge, reasoning, or durable content.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "a35d48665651c4a01d3b",
+  "error": ""
+}

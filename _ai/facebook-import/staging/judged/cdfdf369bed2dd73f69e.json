@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "bureaucracy",
+    "organizational-dynamics",
+    "institutional-capture"
+  ],
+  "reason": "A durable causal claim about how bureaucracies self-capture—mission-focused actors lose influence to those serving the institution itself.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "cdfdf369bed2dd73f69e",
+  "error": ""
+}

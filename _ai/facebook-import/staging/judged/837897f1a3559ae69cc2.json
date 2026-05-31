@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "metaverse",
+    "product-market-fit",
+    "venture-capital"
+  ],
+  "reason": "Title and visible framing argue a durable mechanism—investor-driven metaverse/NFT hype vs actual user demand—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "837897f1a3559ae69cc2",
+  "error": ""
+}

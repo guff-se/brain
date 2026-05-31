@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "secularization",
+    "political-extremism",
+    "nihilism"
+  ],
+  "reason": "Develops a causal framework linking secularization, spiritual disorientation, and twin antidemocratic movements—substantive reasoning beyond the article headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ca7d7366223c8bea0fbf",
+  "error": ""
+}

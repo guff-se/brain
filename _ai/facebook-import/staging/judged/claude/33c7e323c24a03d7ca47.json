@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "surveillance",
+    "china",
+    "social-control"
+  ],
+  "reason": "Primary-source WSJ reporting on China's social credit system with concrete mechanism detail — how blacklists work, what behaviors trigger penalties, political drivers — durable analysis of a structural governance technology that remains highly relevant.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "33c7e323c24a03d7ca47",
+  "error": ""
+}

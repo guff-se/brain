@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "demographics",
+    "population-decline",
+    "aging-societies"
+  ],
+  "reason": "Substantive demographic analysis linking fertility decline, aging societies, and conflict/peace mechanisms—not merely war news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5355503832ba4ca80051",
+  "error": ""
+}

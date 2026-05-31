@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drm",
+    "dmca",
+    "platform-control"
+  ],
+  "reason": "EFF policy analysis links removing the analog jack to software gatekeeping, DRM pressure, and DMCA §1201—durable mechanisms beyond the 2016 iPhone news hook.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "843a9d33d4960ec95d9b",
+  "error": ""
+}

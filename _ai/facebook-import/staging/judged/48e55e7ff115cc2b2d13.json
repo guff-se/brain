@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "income-inequality",
+    "ceo-compensation"
+  ],
+  "reason": "Standalone mode: Gustaf's own text is a ~42-character sarcastic quip with no reasoning; quoted stats restate the headline without mechanism or durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "48e55e7ff115cc2b2d13",
+  "error": ""
+}

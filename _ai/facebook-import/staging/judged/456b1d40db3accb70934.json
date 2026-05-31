@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "pajobbetpodden",
+    "starke-ledaren",
+    "leadership"
+  ],
+  "reason": "Season-opener episode title frames a durable leadership archetype question with mp3 available—not ephemeral news or generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "456b1d40db3accb70934",
+  "error": ""
+}

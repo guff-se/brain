@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a brief hot take (audit claim + 'violent fraud') that restates the headline without added framing, mechanism, or analysis.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "5f55342cf9c5d347efdd",
+  "error": ""
+}

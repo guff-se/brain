@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin product landing copy for a Google admin tool with no analysis, framework, or durable insight beyond a promotional tagline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8b550f2e37a8ebe13ef1",
+  "error": ""
+}

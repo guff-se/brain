@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "reaction-video",
+    "alexander-bard",
+    "hur-kan-vi"
+  ],
+  "reason": "Reaction-video description is promotional and episodic—no durable analysis, framework, or reasoning beyond inviting comments on Bard's rhetoric.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "6db819ae30fa92226fdd",
+  "error": ""
+}

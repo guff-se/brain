@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paywalled fetch left only promo text and a one-line local 2019 Nacka festival teaser, not the editorial’s actual analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5ed4e44bd395af54545d",
+  "error": ""
+}

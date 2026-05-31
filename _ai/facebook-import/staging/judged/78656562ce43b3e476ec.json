@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone hiring pitch for a content-creator role—logistical and promotional, with no causal reasoning or durable insight despite meeting length.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "78656562ce43b3e476ec",
+  "error": ""
+}

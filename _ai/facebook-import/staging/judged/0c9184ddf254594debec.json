@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "privilege",
+    "polyamory",
+    "feminism"
+  ],
+  "reason": "Substantive first-person essay linking lived stigma to privilege mechanics, defensive majority rhetoric, and scaled empathy—not ephemeral news or link-bait.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0c9184ddf254594debec",
+  "error": ""
+}

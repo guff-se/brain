@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary restates the article's availability-heuristic thesis with a topical immigration example but adds no distinct insight beyond what the Wired piece already covers.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "416d38f5db5606c775bd",
+  "error": ""
+}

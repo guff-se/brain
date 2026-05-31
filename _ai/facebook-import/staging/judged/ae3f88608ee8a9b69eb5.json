@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "surveillance-capitalism",
+    "platform-power",
+    "facebook"
+  ],
+  "reason": "Beyond the 2019 scandal, the piece explains durable mechanisms—competitive intelligence via research apps, growth-at-any-cost culture, and a pattern of public privacy promises versus private rule-breaking.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ae3f88608ee8a9b69eb5",
+  "error": ""
+}

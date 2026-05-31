@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fiore quote with no Gustaf argument; his only line is where he saw it in a feed-blocker app.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "397ede2eef199b4c43c7",
+  "error": ""
+}

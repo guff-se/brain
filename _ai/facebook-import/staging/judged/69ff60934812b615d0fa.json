@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "future-of-work",
+    "collaborative-economy",
+    "slow-living"
+  ],
+  "reason": "A 2016 HuffPost trend-listicle with inspirational tone and surface observations on work, sharing economy, and wellness—no durable mechanism, framework, or analysis worth preserving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "69ff60934812b615d0fa",
+  "error": ""
+}

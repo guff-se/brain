@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "misinformation",
+    "quote-attribution",
+    "technology-and-society"
+  ],
+  "reason": "Substantive fact-check tracing a fabricated Einstein quote, explaining how tech-anxiety memes spread and contrasting them with his documented views on mechanization and ethics.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "70396bcc545b03b8f00c",
+  "error": ""
+}

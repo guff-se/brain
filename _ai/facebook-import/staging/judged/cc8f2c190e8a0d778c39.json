@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned Google's cookie-consent interstitial, not article content; the original Maps link likely pointed to a place, not durable knowledge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cc8f2c190e8a0d778c39",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "labor-market",
+    "flexicurity",
+    "employment-protection"
+  ],
+  "reason": "Adds policy framing beyond the headline—research-backed claim, Hartz/flexicurity comparisons, and LAS reform as a causal first step.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "881b472e5d1894ef39a4",
+  "error": ""
+}

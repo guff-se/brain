@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.76,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "storytelling",
+    "emotion",
+    "this-american-life"
+  ],
+  "reason": "Distinctive This American Life episode on why art and narrative trigger tears—causal analysis of emotional mechanism, not ephemeral news or generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "1fde592043ae2530486c",
+  "error": ""
+}

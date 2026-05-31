@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "startup-ecosystem",
+    "big-tech",
+    "venture-capital"
+  ],
+  "reason": "Substantive 2017 thesis on why post-smartphone tech favors incumbents over garage startups, with mechanisms (capital, data, platform scale) rather than event reporting.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "577591144bfabda8a12d",
+  "error": ""
+}

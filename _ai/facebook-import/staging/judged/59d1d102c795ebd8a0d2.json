@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "copyright",
+    "free-culture",
+    "intellectual-property"
+  ],
+  "reason": "Title and author signal a durable free-culture argument about copying vs. theft, not ephemeral news or generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "59d1d102c795ebd8a0d2",
+  "error": ""
+}

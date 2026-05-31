@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "swedish-politics",
+    "political-ethics",
+    "welfare-state"
+  ],
+  "reason": "Standalone commentary over 200 chars draws a structural parallel (benefit retention via non-salary income) and a mechanism/principle claim, not just outrage at the headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "70f11a170067b3f71575",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional event announcement for a solo show with ticket logistics and a discount code—no durable ideas, analysis, or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8fccffbd31c6b8346e03",
+  "error": ""
+}

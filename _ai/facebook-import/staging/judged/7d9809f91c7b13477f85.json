@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "drug-policy",
+    "cannabis",
+    "stigma"
+  ],
+  "reason": "Standalone commentary exceeds 200 chars and develops a causal policy argument—generational harm comparison, legalization trajectory, and Sweden's stigma-as-contagion mechanism—not a fleeting news reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7d9809f91c7b13477f85",
+  "error": ""
+}

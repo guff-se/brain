@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "rural-depopulation",
+    "immigration-politics",
+    "political-satire"
+  ],
+  "reason": "Sarcastic but develops a causal chain—historical population vs growth, anti-immigration branding, and continued depopulation—that goes beyond a reactive hot take.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d561074836ab7c0ae068",
+  "error": ""
+}

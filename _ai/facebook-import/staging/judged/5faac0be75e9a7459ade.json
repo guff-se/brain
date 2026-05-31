@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-literacy",
+    "moral-panic",
+    "source-criticism"
+  ],
+  "reason": "Durable analysis of how adult moral panics about viral youth 'challenges' spread without primary sources, with reusable heuristics beyond the 2021 incident.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5faac0be75e9a7459ade",
+  "error": ""
+}

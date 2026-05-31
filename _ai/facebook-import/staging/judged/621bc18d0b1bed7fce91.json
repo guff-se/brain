@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "revisionist-history",
+    "podcast",
+    "malcolm-gladwell"
+  ],
+  "reason": "Podcast homepage catalog and promos, not a specific episode or coherent durable piece of content.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "621bc18d0b1bed7fce91",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "terrorism",
+    "security-theatre",
+    "yuval-noah-harari"
+  ],
+  "reason": "Paired commentary is a long verbatim excerpt from the Harari article with no original framing or analysis by Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "f41becf929b145f239ae",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical NYC trip announcement and art-community networking ask with no reasoning, insight, or durable knowledge beyond promoting a friend's project.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "1c7f91ed2c1c41d9ac6f",
+  "error": ""
+}

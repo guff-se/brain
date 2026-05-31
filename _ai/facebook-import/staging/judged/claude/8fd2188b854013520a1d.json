@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars with no mechanism or causal argument — states an observation without developing it into a principle or framework.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "8fd2188b854013520a1d",
+  "error": ""
+}

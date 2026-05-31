@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "press-freedom",
+    "media-consolidation",
+    "democracy"
+  ],
+  "reason": "Long-form structural analysis of how billionaire-owned platforms and media capitulate to political power, with mechanisms and patterns beyond breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "1073ffda329ce4d6fd3b",
+  "error": ""
+}

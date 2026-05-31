@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "living-wage",
+    "collective-bargaining",
+    "labor-economics"
+  ],
+  "reason": "Substantive comparative analysis of how Danish collective bargaining and social structures enable fast-food living wages versus the US low-wage model, with mechanisms and expert counterarguments—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "341a2d8b356ff54e6af3",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "logical-fallacies",
+    "critical-thinking",
+    "media-bias"
+  ],
+  "reason": "Stable reference on a named reasoning fallacy with mechanism, examples, and durable relevance beyond the 2017 share date.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "232cfbdebf0b110c7d58",
+  "error": ""
+}

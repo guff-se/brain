@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.9,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Operational group coordination about listing camp projects and volunteer needs, not durable knowledge or a reasoning chain.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "096f40fa0564e2a63330",
+  "error": ""
+}

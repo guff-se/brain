@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "democracy",
+    "voting-rights",
+    "civic-policy"
+  ],
+  "reason": "Standalone commentary over 200 chars with a clear symmetry argument about voting competence by age, not a news reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "d34db53e6ac771cba3da",
+  "error": ""
+}

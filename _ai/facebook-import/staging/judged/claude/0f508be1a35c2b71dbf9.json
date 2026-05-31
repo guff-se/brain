@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "decriminalization",
+    "portugal-model"
+  ],
+  "reason": "Defines and distinguishes decriminalization/legalization/depenalization with durable conceptual clarity, and cites empirical evidence from Portugal's 2001 reform — substantive beyond the 2018 election hook.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "0f508be1a35c2b71dbf9",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "corporate-governance",
+    "crisis-bailouts",
+    "shareholder-responsibility"
+  ],
+  "reason": "Develops owner-vs-taxpayer responsibility in crises and concrete tradeoffs in conditioning corporate aid, beyond a headline reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "51a469b6e4bf0c5aac32",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.91,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "pseudoscience",
+    "scientific-integrity",
+    "media-literacy"
+  ],
+  "reason": "Multi-paragraph critique of staged corporate 'science' with clear incentive-mechanism reasoning, separate from the ephemeral IKEA stunt.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "3a625746641a40947290",
+  "error": ""
+}

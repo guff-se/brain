@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "consent",
+    "wage-labor",
+    "political-economy"
+  ],
+  "reason": "Extends a consent slogan into a substantive chain about wage labor, coercion, and planned economy—not a hot take.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8ca1665410161a48f08c",
+  "error": ""
+}

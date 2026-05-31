@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-ethics",
+    "journalism",
+    "crime-reporting"
+  ],
+  "reason": "Roland Paulsen's kulturdebatt critique of morbid crime-media speculation and missing accountability is durable analysis, not a time-bound event notice.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a7f761592214b832aa4b",
+  "error": ""
+}

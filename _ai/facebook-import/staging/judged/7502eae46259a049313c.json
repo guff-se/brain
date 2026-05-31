@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone share of a Sanders op-ed pull quote with no Gustaf framing or causal reasoning—save the article if durable, not this excerpt.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7502eae46259a049313c",
+  "error": ""
+}

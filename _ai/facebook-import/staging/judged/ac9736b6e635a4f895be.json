@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "drug-policy",
+    "harm-reduction",
+    "public-policy"
+  ],
+  "reason": "Kurzgesagt policy explainer frames why the drug war failed and cites structural mechanisms (balloon effect, four pillars)—durable analysis, not news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "ac9736b6e635a4f895be",
+  "error": ""
+}

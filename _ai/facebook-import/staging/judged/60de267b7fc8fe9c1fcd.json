@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "higher-education",
+    "sweden",
+    "covid-19"
+  ],
+  "reason": "August 2020 DI ledare on cancelling högskoleprovet amid COVID—policy opinion tied to that moment, not durable mechanisms or analysis worth keeping.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "60de267b7fc8fe9c1fcd",
+  "error": ""
+}

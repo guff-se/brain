@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sharing-economy",
+    "platform-capitalism",
+    "gig-economy"
+  ],
+  "reason": "Sunde's op-ed analyzes platform intermediation, labor classification, and welfare-state erosion with durable causal claims, not a time-bound news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "24e6b2584a24c8d46012",
+  "error": ""
+}

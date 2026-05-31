@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "arms-exports",
+    "saudi-arabia",
+    "human-rights"
+  ],
+  "reason": "News-triggered but makes a durable structural claim—Swedish/SAAB arms sales to Saudi Arabia contradict human-rights recognition—not just event reporting.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "2ae976162441158d3ba9",
+  "error": ""
+}

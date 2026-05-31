@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "disinformation",
+    "political-media",
+    "social-media"
+  ],
+  "reason": "Substantive Atlantic reporting on disinformation mechanics—micro-targeting, alternate information ecosystems, and 'censorship through noise'—with durable relevance beyond the 2020 election.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7d132ec94edfb7438b22",
+  "error": ""
+}

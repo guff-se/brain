@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "BuzzFeed clickbait title and promo-heavy metadata; the one deepfake line hints at a durable topic but doesn't constitute substantive external content worth archiving.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "7ad8adbb758996e8c40c",
+  "error": ""
+}

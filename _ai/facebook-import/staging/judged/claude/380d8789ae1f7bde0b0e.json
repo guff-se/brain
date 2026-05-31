@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.75,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "hanzi-freinacht",
+    "psychological-development",
+    "political-philosophy"
+  ],
+  "reason": "Gustaf develops a durable causal argument — psychological development as prerequisite for all other societal goals — grounded in Freinacht's framework, not just a report of who he voted for.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "380d8789ae1f7bde0b0e",
+  "error": ""
+}

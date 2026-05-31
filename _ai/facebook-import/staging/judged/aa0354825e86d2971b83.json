@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "platform-monopoly",
+    "social-media",
+    "startup-ecosystem"
+  ],
+  "reason": "Durable structural analysis of Facebook's copy-acquire strategy and its chilling effect on social startup innovation, with mechanisms (Onavo, feature cloning) beyond time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "aa0354825e86d2971b83",
+  "error": ""
+}

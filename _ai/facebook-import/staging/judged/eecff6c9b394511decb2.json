@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright",
+    "piracy",
+    "media-economics"
+  ],
+  "reason": "Embeds durable empirical findings on piracy displacement and how policy actors selectively use evidence, not just a time-bound announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "eecff6c9b394511decb2",
+  "error": ""
+}

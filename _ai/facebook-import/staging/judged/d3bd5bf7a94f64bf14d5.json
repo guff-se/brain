@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "civic-architecture",
+    "urban-planning",
+    "collaborative-innovation"
+  ],
+  "reason": "Conference talk by a named expert on democratizing cities, civic architecture, and reframing real estate as civic value—durable structural themes, not entertainment or news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "d3bd5bf7a94f64bf14d5",
+  "error": ""
+}

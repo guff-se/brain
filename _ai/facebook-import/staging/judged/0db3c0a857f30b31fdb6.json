@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "eu-copyright-directive",
+    "platform-liability",
+    "internet-governance"
+  ],
+  "reason": "Beyond Jan 2019 trilogue news, Karlsten clearly explains the mechanisms and downstream effects of Articles 13, 11, and 12a—durable structural analysis of EU internet regulation.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0db3c0a857f30b31fdb6",
+  "error": ""
+}

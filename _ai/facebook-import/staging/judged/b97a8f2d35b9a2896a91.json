@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "cryptocurrency",
+    "venture-capital",
+    "technology-cycles"
+  ],
+  "reason": "Elad Gil's structured framework comparing crypto adoption to the Netscape/IPO moment, with multiple causal mechanisms (store-of-value, protocol expansion, ICO funding, market cycles), is durable analytical content beyond a 2017 news spike.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b97a8f2d35b9a2896a91",
+  "error": ""
+}

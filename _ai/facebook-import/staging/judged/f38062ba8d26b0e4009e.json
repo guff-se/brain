@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "criminal-justice",
+    "incarceration",
+    "public-spending"
+  ],
+  "reason": "Beyond the 2017 headline stat, the piece explains durable mechanisms—fixed-cost prison systems, rising staff ratios, and a harder inmate mix after reforms—that make per-capita costs rise even as populations fall.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "f38062ba8d26b0e4009e",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "brazil",
+    "politics",
+    "last-week-tonight"
+  ],
+  "reason": "Ephemeral 2018 election satire with thin promo metadata—time-bound news commentary, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "a1ececc1ac069878af01",
+  "error": ""
+}

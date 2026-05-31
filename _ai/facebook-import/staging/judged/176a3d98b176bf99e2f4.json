@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Guardian nature news about a 2018 endangered-species listing—colorful biology trivia and conservation context, but no durable analysis, framework, or insight beyond a time-bound announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "176a3d98b176bf99e2f4",
+  "error": ""
+}

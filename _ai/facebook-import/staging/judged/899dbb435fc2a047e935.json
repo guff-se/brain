@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "welfare-systems",
+    "social-trust",
+    "public-administration"
+  ],
+  "reason": "Analogi och principiell kostnad–nytto-argument om övervakning kontra tillit i bidragssystem, inte bara reaktion eller stämning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "899dbb435fc2a047e935",
+  "error": ""
+}

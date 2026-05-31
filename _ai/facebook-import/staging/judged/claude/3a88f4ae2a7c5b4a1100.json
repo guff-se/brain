@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "voice",
+  "kind_hint": "note",
+  "tags_hint": [
+    "the-borderland",
+    "ritual",
+    "community"
+  ],
+  "reason": "Polished authored ceremonial text in Gustaf's literary voice — a ceremony script that reflects his creative practice and values around gifting culture and collective ritual at The Borderland.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "3a88f4ae2a7c5b4a1100",
+  "error": ""
+}

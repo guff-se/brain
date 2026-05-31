@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Short comedy sketch using Burning Man as a punchline, not durable analysis or cultural insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "d9615834ed95d85b5dff",
+  "error": ""
+}

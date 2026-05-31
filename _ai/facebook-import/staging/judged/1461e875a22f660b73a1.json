@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "political-branding",
+    "doublespeak",
+    "swedish-politics"
+  ],
+  "reason": "Standalone commentary exceeds 200 chars and develops a clear principle—respecting policy disagreements while rejecting Orwellian rebranding—rather than merely reacting to the news hook.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "1461e875a22f660b73a1",
+  "error": ""
+}

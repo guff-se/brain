@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "ai-ethics",
+    "religion",
+    "satire"
+  ],
+  "reason": "Playful ChatGPT prompt-and-output parody with no original reasoning, mechanism, or durable insight from Gustaf.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "f94a2f6fbb9469d20bfc",
+  "error": ""
+}

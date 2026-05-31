@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "leadership",
+    "gaming",
+    "sourcing"
+  ],
+  "reason": "Logistical call for interview subjects for a report—no durable insight, argument, or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7a7a2a8c0358d6f79f76",
+  "error": ""
+}

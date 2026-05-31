@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "facilitation",
+    "curiosity",
+    "nyfikenhetsleken"
+  ],
+  "reason": "Full step-by-step facilitation framework with durable principles (genuine curiosity, timing, trust-the-process)—substantive methodology, not promo or event chatter.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c595dd15e6872f6f9765",
+  "error": ""
+}

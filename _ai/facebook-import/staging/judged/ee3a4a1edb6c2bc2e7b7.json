@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "drug-policy",
+    "criminal-justice",
+    "sweden"
+  ],
+  "reason": "BRÅ-backed analysis of 20 years of coerced drug testing—policy mechanisms, false-suspicion rates, youth/geographic disparities, and expert critique of Swedish prohibition enforcement—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ee3a4a1edb6c2bc2e7b7",
+  "error": ""
+}

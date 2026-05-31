@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland",
+    "participatory-culture",
+    "community"
+  ],
+  "reason": "Polished gratitude and experiential reflection on one year's event, without causal analysis, principles, or insight beyond documenting how Borderland felt.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d6a23546f15f4c008f68",
+  "error": ""
+}

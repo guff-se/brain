@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "automation",
+    "future-of-work",
+    "technological-unemployment"
+  ],
+  "reason": "Kurzgesagt explainer on structural differences in information-age automation, with cited labor-market research—not entertainment or time-bound news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "a9e8b8f94cd050c471e0",
+  "error": ""
+}

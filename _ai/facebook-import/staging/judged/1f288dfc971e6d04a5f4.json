@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone reaction to 2017 Dimon/bitcoin news: witty hypocrisy jab and an unsubstantiated industry-death quip, not a developed causal claim worth keeping.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "1f288dfc971e6d04a5f4",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "cultural-appropriation",
+    "free-expression",
+    "identity-politics"
+  ],
+  "reason": "Durable opinion piece with a clear thesis and mechanisms: argues cultural appropriation discourse is really about enforcing an oppressor-oppressed binary rather than genuine cultural respect, and that all cultures form through creolisation — a framework that holds up beyond the specific news hooks.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "b19ffd040bdfcceaace9",
+  "error": ""
+}

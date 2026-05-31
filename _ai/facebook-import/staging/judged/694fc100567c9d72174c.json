@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "net-neutrality",
+    "telecom-policy",
+    "platform-power"
+  ],
+  "reason": "Durable op-ed explaining zero-rating mechanics, operator gatekeeping, and competitive harm—not merely a time-bound telecom promo announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "694fc100567c9d72174c",
+  "error": ""
+}

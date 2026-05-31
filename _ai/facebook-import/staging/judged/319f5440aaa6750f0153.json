@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "swedish-politics",
+    "miljopartiet",
+    "party-discipline"
+  ],
+  "reason": "Time-bound 2016 news report on MP internal purges and role changes, not durable analysis, frameworks, or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "319f5440aaa6750f0153",
+  "error": ""
+}

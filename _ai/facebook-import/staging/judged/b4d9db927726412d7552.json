@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "arms-trade",
+    "refugee-policy",
+    "sweden-foreign-policy"
+  ],
+  "reason": "Op-ed links Swedish arms exports to war and refugee flows with causal mechanism and structural critique, beyond a 2016 news peg.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b4d9db927726412d7552",
+  "error": ""
+}

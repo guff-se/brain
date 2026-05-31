@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare link to a 2017 political party landing page with no fetched body, no commentary, and no durable analysis or framework to preserve.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6d29d92cd7cf605ad643",
+  "error": ""
+}

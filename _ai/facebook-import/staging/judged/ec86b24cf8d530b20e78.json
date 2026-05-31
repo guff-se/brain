@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "universal-basic-income",
+    "automation",
+    "labor-economics"
+  ],
+  "reason": "Summarizes durable UBI employment-effects research (Alaska PFD) with empirical findings, sectoral patterns, and explicit limitations—not merely breaking-news filler.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ec86b24cf8d530b20e78",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "tax-havens",
+    "investigative-journalism",
+    "offshore-finance"
+  ],
+  "reason": "Substantive investigative analysis of ICIJ leak mechanics, selective disclosure, and how mega-leaks may shift wealth toward US secrecy jurisdictions—not ephemeral news coverage.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3f0ad18bab7e3f3334da",
+  "error": ""
+}

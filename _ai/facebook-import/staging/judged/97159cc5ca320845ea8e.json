@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland",
+    "live-action-roleplay",
+    "storytelling"
+  ],
+  "reason": "Polished memorial for Elge's death; the Launi metaphor is evocative but themes are named, not developed into durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "97159cc5ca320845ea8e",
+  "error": ""
+}

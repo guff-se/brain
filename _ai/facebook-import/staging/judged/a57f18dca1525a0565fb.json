@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "gun-violence",
+    "satire",
+    "media"
+  ],
+  "reason": "Standalone commentary is under 80 characters and only signals that the Onion piece remains timely, with no added reasoning or framework.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "a57f18dca1525a0565fb",
+  "error": ""
+}

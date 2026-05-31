@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "russia-ukraine-war",
+    "authoritarianism",
+    "geopolitics"
+  ],
+  "reason": "Paywalled but title, lede, and Peter Englund’s historian signal point to durable systemic analysis (logic vs madness), not ephemeral news reporting.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e334610e32c970a6273b",
+  "error": ""
+}

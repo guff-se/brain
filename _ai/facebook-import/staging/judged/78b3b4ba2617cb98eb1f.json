@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "capitalism",
+    "cultural-capital",
+    "political-economy"
+  ],
+  "reason": "Freinacht develops a durable multi-form capital framework with causal mechanisms, exchange dynamics, and a redefinition of economy beyond money—substantive metarodern analysis, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "78b3b4ba2617cb98eb1f",
+  "error": ""
+}

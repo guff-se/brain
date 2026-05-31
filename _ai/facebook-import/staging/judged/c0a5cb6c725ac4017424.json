@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "eu-copyright-directive",
+    "platform-liability",
+    "media-accountability"
+  ],
+  "reason": "Substantive policy commentary on why media and politicians disengaged during the directive process, with clear causal links from liability design to upload filters—not just a passage announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c0a5cb6c725ac4017424",
+  "error": ""
+}

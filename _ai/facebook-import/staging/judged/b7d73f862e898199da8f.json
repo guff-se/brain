@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "swedish-politics",
+    "populism"
+  ],
+  "reason": "Paywall blocked the body; the title alone signals episodic 2016 opinion about stopping SD, not durable analysis or frameworks.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b7d73f862e898199da8f",
+  "error": ""
+}

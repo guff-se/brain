@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "tech-governance",
+    "politics",
+    "digital-literacy"
+  ],
+  "reason": "DN Debatt op-ed on a durable structural issue—political competence in technology—not time-bound news, and the title signals substantive analysis despite the paywall.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8c064a0318fdba0a160b",
+  "error": ""
+}

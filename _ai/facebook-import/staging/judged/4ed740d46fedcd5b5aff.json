@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: one rhetorical question on a news event, no mechanism or reasoning chain—default skip for own_text.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4ed740d46fedcd5b5aff",
+  "error": ""
+}

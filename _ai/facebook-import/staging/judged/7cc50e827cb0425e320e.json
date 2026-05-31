@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "microsoft-teams",
+    "remote-work",
+    "online-meetings"
+  ],
+  "reason": "Provocative hot take and vent about Teams with no reasoning chain, mechanism, or durable insight despite the facilitator credential.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7cc50e827cb0425e320e",
+  "error": ""
+}

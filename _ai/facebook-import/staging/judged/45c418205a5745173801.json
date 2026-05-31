@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "copyright-enforcement",
+    "police-resources",
+    "law-enforcement-priorities"
+  ],
+  "reason": "Under 200 characters and a single-sentence opinion on a time-bound enforcement story, without the multi-sentence reasoning chain required to override the strict own_text skip rule.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "45c418205a5745173801",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned Metro homepage/category listings (beauty, horoscopes, entertainment), not the 2016 debatt article—no durable article body to evaluate.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "af5cb7aac02c4fd378d3",
+  "error": ""
+}

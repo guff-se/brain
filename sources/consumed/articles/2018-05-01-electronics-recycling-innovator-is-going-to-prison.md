@@ -1,0 +1,27 @@
+---
+title: "Electronics-recycling innovator is going to prison for trying to extend computers' lives"
+summary: "Electronics-recycling innovator is going to prison for trying to extend computers’ lives
+- Share via
+A Southern Californ…"
+kind: "article"
+party: "third"
+register: "consumed"
+source: "web"
+source_id: "fb-1525161290"
+url: "https://www.latimes.com/business/technology/la-fi-tn-microsoft-copyright-20180426-story.html"
+author: "Washington Post"
+provenance: "extracted"
+enrichment: "ok"
+lang: "en"
+tags: [right-to-repair, e-waste, copyright]
+status: "reference"
+ingested: "2026-05-30"
+created: "2018-05-01"
+---
+
+Electronics-recycling innovator is going to prison for trying to extend computers’ lives - Share via A Southern California man who built a sizable business out of recycling electronic waste is headed to federal prison for 15 months after a federal appeals court in Miami rejected his claim that the “restore discs” he made to extend computers’ lives had no financial value, instead ruling that he had infringed on Microsoft Corp. to the tune of $700,000. The appeals court upheld a federal district judge’s ruling that the discs Eric Lundgren made to restore Microsoft operating systems had a value of $25 apiece, even though the software they contained could be downloaded free and the discs could only be used on computers that already had a valid Microsoft license. The U.S. 11th Circuit Court of Appeals initially granted Lundgren an emergency stay of his prison sentence, shortly before he was to surrender, but then affirmed his original 15-month sentence and $50,000 fine without hearing oral argument in a ruling issued April 11. Lundgren, 33, has become a renowned innovator in the field of electronic waste, or e-waste, using discarded parts to do things such as construct an electric car, which in a test far outdistanced a Tesla on a single charge. He built the first “electronic hybrid recycling” facility in the United States, which turns discarded cellphones and other electronics into functional devices, slowing the stream of harmful chemicals and metals contained in those devices into landfills and the environment. His Chatsworth company, IT Asset Partners, processes more than 41 million pounds of e-waste each year and counts IBM, Motorola and Sprint among its clients. “This is a difficult sentencing,” U.S. District Judge Daniel T.K. Hurley told him last year, “because I credit everything you are telling me. You are a very remarkable person.” Before he launched IT Asset Partners, Lundgren lived in China learning about the stream of e-waste, and also finding ways to send cheap parts to the U.S. to keep electronics running. One of his projects was to manufacture thousands of “restore discs,” supplied by computer makers as a way for users to restore Windows software to a hard drive if it crashes or must be erased. The discs can only be used on a computer that already has a license for the Windows operating system, and the license transfers with the computer for its full life span. But computer owners often lose or throw out the discs, and though the operating system can be downloaded free on a licensed computer, Lundgren realized that many people didn’t feel competent to do that, and were simply throwing out their computers and buying new ones. Lundgren had 28,000 of the discs made and shipped to a broker in Florida. Their plan was to sell the discs to computer refurbishing shops for about 25 cents apiece, so the refurbishers could provide the discs to used-computer buyers and wouldn’t have to take the time to create the discs themselves. And the new user might be able to use the disc to keep their computer going the next time a problem occurred. But in 2012, U.S. Customs officers seized a shipment of discs and began investigating. The discs were never sold. Eventually, the Florida broker, Robert Wolff, called Lundgren and offered to buy the discs himself as part of a government sting, Lundgren said. Wolff sent Lundgren $3,400 and the conspiracy was cemented. Both were indicted on a charge of conspiracy to traffic in counterfeit goods and criminal copyright infringement. Wolff made a plea deal and received a sentence of six months of home arrest. Lundgren pleaded guilty but argued that the value of his discs was zero, so there was no harm to anyone. Neither Microsoft nor any computer manufacturers sell restore discs. They supply them free with new computers, and make the software available for free downloading, for those who have paid for the software and received a license — typically a sticker with a “certificate of authenticity” number on it. Lundgren said that he was trying to make the discs available again for those who needed them, and that they could only be used on licensed computers. Initially, federal prosecutors valued the discs at $299 each, or the cost of a brand new Windows operating system, and Lundgren’s indictment alleged he had cost Microsoft $8.3 million in lost sales. By the time of sentencing, a Microsoft letter to Hurley and a Microsoft expert witness had reduced the value of the discs to $25, stating that was what Microsoft charged refurbishers for the discs. But both the letter and the expert were pricing a disc that came with a Microsoft license. “These sales of counterfeit operating systems displaced Microsoft’s potential sales of genuine operating systems,” Microsoft lawyer Bonnie MacNaughton wrote to the
+
+*[Content truncated — full text in fetch cache]*
+
+---
+**Gustaf's commentary:** The case against copyright.

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.99,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Keyword-stuffed McAfee support phone-number spam with no analysis or durable substance; likely accidental or hijacked share.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cda354959e8c6af2cad1",
+  "error": ""
+}

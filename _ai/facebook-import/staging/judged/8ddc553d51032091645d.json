@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "platform-monopolies",
+    "creator-economics",
+    "regulation"
+  ],
+  "reason": "Fee comparison builds a non-trivial claim about monopoly extraction and misplaced regulatory focus, beyond a news reaction or hot take.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "8ddc553d51032091645d",
+  "error": ""
+}

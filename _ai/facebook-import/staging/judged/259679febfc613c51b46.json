@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and purely a logistical networking ask—no reasoning, mechanism, or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "259679febfc613c51b46",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "urban-burn"
+  ],
+  "reason": "Time-bound promotional logistics about ticket sales with no reasoning, insight, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "0851d9eeb86b72078d80",
+  "error": ""
+}

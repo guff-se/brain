@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "algorithmic-bias",
+    "artificial-intelligence",
+    "discrimination"
+  ],
+  "reason": "Crawford's essay analyzes durable mechanisms of bias in ML systems—training data, feedback loops, and institutional secrecy—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d911e2e0cfbd0ad47484",
+  "error": ""
+}

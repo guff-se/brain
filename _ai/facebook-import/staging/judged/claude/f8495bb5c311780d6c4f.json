@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "surveillance",
+    "political-language",
+    "civil-liberties"
+  ],
+  "reason": "Develops a causal chain — surveillance cameras → documented psychological effects (self-censorship, reduced trust, behavioral change) → feeling less safe — as a direct rebuttal to Orwellian rebranding; durable reasoning beyond the political moment.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "f8495bb5c311780d6c4f",
+  "error": ""
+}

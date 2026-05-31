@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "frankfurt-school",
+    "critical-theory",
+    "culture-industry"
+  ],
+  "reason": "Title names Frankfurt School and the culture-industry framework—durable critical-theory content, not episodic news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "b01f2ead914680a18f90",
+  "error": ""
+}

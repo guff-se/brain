@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical networking request for HoloLens advice—no reasoning, insight, or durable knowledge; under 200 chars default skip applies.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "9ffe3e7a7a21a884ecf9",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary offers a pyramid-vs-network rhetorical question without mechanism or causal reasoning—the paired article failed and this teaser does not stand alone as durable insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "d8de9c5069dc5d3bac6d",
+  "error": ""
+}

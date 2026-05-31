@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Local 2018 crime-news piece with Brå stats and teen vignettes; the class/enforcement gap is interesting but the article is episodic reporting, not durable analysis worth archiving.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3310ef58bb22ca5b12cf",
+  "error": ""
+}

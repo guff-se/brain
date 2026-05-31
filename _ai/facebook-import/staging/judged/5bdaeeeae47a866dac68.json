@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "voice",
+  "kind_hint": "note",
+  "tags_hint": [
+    "engagement-design",
+    "technology-ethics",
+    "attention-economy"
+  ],
+  "reason": "Polished TechArena talk with a durable framework—engagement vs. hope, dopamine loops vs. meaningful connection—and explicit design principles worth preserving.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5bdaeeeae47a866dac68",
+  "error": ""
+}

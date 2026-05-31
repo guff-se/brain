@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin reaction-video metadata—promotional engagement around a time-bound podcast moment, not durable analysis or reasoning in the description.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "57cbe39cd210902be8ff",
+  "error": ""
+}

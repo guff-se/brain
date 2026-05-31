@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary tied to the 2020 election moment offers compassionate encouragement but no non-trivial mechanism, framework, or durable insight beyond obvious civic reassurance.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "0696a9b2c16bc8e184f0",
+  "error": ""
+}

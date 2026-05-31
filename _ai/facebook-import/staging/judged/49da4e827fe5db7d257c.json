@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is a local shout-out plus an article quote—no mechanism, principle, or durable insight from Gustaf.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "49da4e827fe5db7d257c",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is ~105 characters—below the 200-char threshold—and only adds a single rhetorical question about policy vs. research, not a developed causal argument.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "01e40b22d6d72b51ca4a",
+  "error": ""
+}

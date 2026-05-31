@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "dialogue",
+    "leadership",
+    "pajobbetpodden"
+  ],
+  "reason": "Episode title names Navid Modiri and the durable topic of cross-divide dialogue (samtalsaktivist), with mp3 available—not generic entertainment or ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "50219dc29522b562bcd8",
+  "error": ""
+}

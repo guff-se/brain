@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A quoted social media quip from another person — no Gustaf-authored reasoning, just a repost of a humorous observation",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "0780d67ecb5b147aa21c",
+  "error": ""
+}

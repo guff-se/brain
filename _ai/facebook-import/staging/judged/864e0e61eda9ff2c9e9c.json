@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "urban-planning",
+    "zoning",
+    "housing-policy"
+  ],
+  "reason": "Data-driven analysis of how NYC zoning grandfathering and density rules shape the built environment, housing supply, and rents—durable mechanism-level urban policy insight, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "864e0e61eda9ff2c9e9c",
+  "error": ""
+}

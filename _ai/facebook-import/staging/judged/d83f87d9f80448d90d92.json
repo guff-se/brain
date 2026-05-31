@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "academic-freedom",
+    "public-discourse",
+    "free-speech"
+  ],
+  "reason": "Eberhard's closing GP column argues a durable mechanism—fear of sanction produces silence that lets a vocal minority set academic and public agendas—with layered examples beyond breaking news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d83f87d9f80448d90d92",
+  "error": ""
+}

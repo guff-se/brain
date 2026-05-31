@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.84,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched metadata is promo-only; the durable topic lives in the clip, not in storable text, and Adam Ruins Everything is thin edutainment.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "d0040926d1158bfc1d60",
+  "error": ""
+}

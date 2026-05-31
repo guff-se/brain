@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "big-tech",
+    "antitrust",
+    "platform-economics"
+  ],
+  "reason": "Moment-in-time market commentary pegged to Amazon's $1T milestone; the regulatory-risk-over-competitive-risk angle is mildly durable but underdeveloped as a framework, and the specific data is now heavily dated.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "83e668f9145a897b8a3b",
+  "error": ""
+}

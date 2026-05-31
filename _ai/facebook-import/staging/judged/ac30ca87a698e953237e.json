@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "team-culture",
+    "leadership",
+    "participation"
+  ],
+  "reason": "Standalone commentary turns a cultural anecdote into a causal principle—physical self-reliance breeds organizational responsibility—with concrete team-design examples worth keeping.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ac30ca87a698e953237e",
+  "error": ""
+}

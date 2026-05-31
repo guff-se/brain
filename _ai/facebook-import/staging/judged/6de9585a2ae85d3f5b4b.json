@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Annual membership-transfer coordination for The Borderland is logistical and transactional, with no durable ideas, mechanisms, or analysis.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6de9585a2ae85d3f5b4b",
+  "error": ""
+}

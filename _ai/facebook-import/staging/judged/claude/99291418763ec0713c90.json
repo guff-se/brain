@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "A Spotify playlist share is a music curation link with no durable knowledge, ideas, or insights — purely transactional/entertainment.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_podcast",
+  "content_sha": "99291418763ec0713c90",
+  "error": ""
+}

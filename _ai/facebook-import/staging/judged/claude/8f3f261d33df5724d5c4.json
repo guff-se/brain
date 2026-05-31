@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "organizational-design",
+    "self-management",
+    "frederic-laloux"
+  ],
+  "reason": "Frederic Laloux's foundational talk on Teal organizations covers durable frameworks — evolutionary stages, self-management, wholeness, and purpose — with named case studies like Buurtzorg.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_video",
+  "content_sha": "8f3f261d33df5724d5c4",
+  "error": ""
+}

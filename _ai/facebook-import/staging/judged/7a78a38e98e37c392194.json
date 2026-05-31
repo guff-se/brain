@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.94,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "universal-basic-income",
+    "commons",
+    "development-economics"
+  ],
+  "reason": "Substantive rights-based analysis linking UBI to enclosure, colonial dispossession, and commons restoration—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "7a78a38e98e37c392194",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "journalism",
+    "misinformation",
+    "media-literacy"
+  ],
+  "reason": "Karlsten's fact-checking walkthrough explains durable mechanisms—rumor amplification, agency-listing disclaimers, and false-equivalence journalism—not only the 2019 Greta episode.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "b35b8116a953b02a4b07",
+  "error": ""
+}

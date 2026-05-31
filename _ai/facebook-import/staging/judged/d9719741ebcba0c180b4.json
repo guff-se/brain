@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional babysitter recruitment for a specific 2021–2022 Mexico trip; logistical and time-bound, not durable knowledge or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "d9719741ebcba0c180b4",
+  "error": ""
+}

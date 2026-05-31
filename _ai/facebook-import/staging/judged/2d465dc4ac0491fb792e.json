@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch failed—the body is unrelated BI headline teasers, not the healthcare article, and the URL itself signals a shallow, dated 2017 ranking listicle without explanatory depth.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2d465dc4ac0491fb792e",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.84,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "media-criticism",
+    "propaganda",
+    "manufacturing-consent"
+  ],
+  "reason": "Title names Chomsky's Manufacturing Consent propaganda-model framework in a media-analysis series—durable structural topic, not ephemeral news or generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "acfcec4671289ba69c6d",
+  "error": ""
+}

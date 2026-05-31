@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": "video",
+  "tags_hint": [],
+  "reason": "Viral TV ad with a generic \"we have more in common\" message — no durable framework, mechanism, or insight beyond its emotional appeal.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_video",
+  "content_sha": "8b8e48348edc2b802236",
+  "error": ""
+}

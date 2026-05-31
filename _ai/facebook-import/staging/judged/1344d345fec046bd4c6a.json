@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "PPAP Christmas cover is viral entertainment with promotional tour/album metadata, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "1344d345fec046bd4c6a",
+  "error": ""
+}

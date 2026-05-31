@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "corporate-tax",
+    "tax-avoidance",
+    "silicon-valley"
+  ],
+  "reason": "Explains durable mechanisms of tech corporate tax avoidance—IP transfer, Irish double-structure, royalty stripping—not just the time-bound EU Apple penalty headline.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e28d887d10440c1c159d",
+  "error": ""
+}

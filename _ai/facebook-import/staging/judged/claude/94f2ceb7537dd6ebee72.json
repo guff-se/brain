@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.85,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "swedish-politics"
+  ],
+  "reason": "Emotional reaction to a political campaign with no durable argument or mechanism beyond the reaction itself.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "94f2ceb7537dd6ebee72",
+  "error": ""
+}

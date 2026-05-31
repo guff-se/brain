@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "incentives",
+    "moral-motivation",
+    "institutions"
+  ],
+  "reason": "DN ledare (David Brooks) develops a durable moral-vs-economic lens with causal examples (incentive crowding, Bowles) — not episodic news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bfd9af9b32886101135d",
+  "error": ""
+}

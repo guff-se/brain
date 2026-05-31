@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched page is an e-commerce product catalog with prices and cart UI—promotional/transactional, no durable knowledge or analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "568bf434b6acdde3181c",
+  "error": ""
+}

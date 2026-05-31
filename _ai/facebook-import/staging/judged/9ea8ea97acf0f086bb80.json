@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "cannabis-legalization",
+    "drug-policy",
+    "criminal-justice"
+  ],
+  "reason": "Structured policy analysis comparing legalization predictions to five years of empirical outcomes across crime, driving, youth use, revenue, and arrests.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9ea8ea97acf0f086bb80",
+  "error": ""
+}

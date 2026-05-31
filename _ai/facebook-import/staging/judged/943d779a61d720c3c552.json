@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "money-laundering",
+    "panama-papers",
+    "offshore-finance"
+  ],
+  "reason": "Breaking news dispatch on a specific 2018 Deutsche Bank raid and case updates, not durable analysis of mechanisms or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "943d779a61d720c3c552",
+  "error": ""
+}

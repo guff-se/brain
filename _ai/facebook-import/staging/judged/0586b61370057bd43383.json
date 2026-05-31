@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned ABC News breaking-video headlines, not the FiveThirtyEight QAnon polling piece—ephemeral news feed with no durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0586b61370057bd43383",
+  "error": ""
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "historiography",
+    "narrative-framing"
+  ],
+  "reason": "Under 200 chars and a single clever aphorism—implies victors' history-writing but lacks the multi-sentence causal argument required to save.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e80dac0d117764869131",
+  "error": ""
+}

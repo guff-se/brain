@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "jordan-peterson",
+    "public-intellectuals",
+    "media-criticism"
+  ],
+  "reason": "Long-form insider critique with mechanisms (celebrity, truth, political ambition) that outlast the 2018 news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "db7a948a87ec3e92aa35",
+  "error": ""
+}

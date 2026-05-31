@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man",
+    "community"
+  ],
+  "reason": "Logistical announcement about creating a Facebook group—no reasoning, insight, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a8a141cf0a3d46904d35",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars with no argument or insight—just a light quip and a speaking-engagement announcement.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a10a95f1e4d59e7d9b87",
+  "error": ""
+}

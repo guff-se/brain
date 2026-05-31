@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "marketing",
+    "positioning",
+    "ecosystem-thinking"
+  ],
+  "reason": "Develops a durable marketing principle—sell integration and context over uniqueness—with a clear counter-claim and alternative framing, not a mood or hot take.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "bd9ee042d937313ffbaa",
+  "error": ""
+}

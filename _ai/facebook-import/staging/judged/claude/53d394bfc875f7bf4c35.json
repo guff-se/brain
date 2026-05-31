@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "The URL is burningmanweekstockholm.se but the fetched content is generic Swedish pool-building advice — domain appears to have been repurposed or hijacked; the content itself is thin promotional/commercial text with no durable knowledge.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "53d394bfc875f7bf4c35",
+  "error": ""
+}

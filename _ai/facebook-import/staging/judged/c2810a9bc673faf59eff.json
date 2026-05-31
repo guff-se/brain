@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Polished promo copy for an art installation—descriptive project framing and hashtags, not durable analysis, mechanism, or insight worth archiving separately.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c2810a9bc673faf59eff",
+  "error": ""
+}

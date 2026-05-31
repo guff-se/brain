@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary restates the video’s automation premise and asks a rhetorical question without adding mechanism, analysis, or framing beyond the title.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "6e447098fbdd95ad0e51",
+  "error": ""
+}

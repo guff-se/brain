@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "liberal-democracy",
+    "pandemic-policy",
+    "governance"
+  ],
+  "reason": "Paired commentary that adds durable framing—liberal democracy requires persuasion not coercion, and lockdown as the untested illiberal experiment—not a headline reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "12808fa78a4560252905",
+  "error": ""
+}

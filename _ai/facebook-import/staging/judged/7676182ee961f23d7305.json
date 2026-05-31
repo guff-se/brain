@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "autonomous-weapons",
+    "ai-ethics",
+    "future-of-life-institute"
+  ],
+  "reason": "Slaughterbots is a recognized Future of Life Institute piece on lethal autonomous weapons—a durable policy and ethics topic, not generic entertainment, despite minimal fetched metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "7676182ee961f23d7305",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Reaction-video metadata tied to a 2020 podcast/BLM-tweet moment—promotional engagement bait with no developed argument or durable insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "c6c7ad2c6c02bbb1be48",
+  "error": ""
+}

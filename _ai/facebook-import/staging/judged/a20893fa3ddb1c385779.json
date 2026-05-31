@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound patent-announcement tech journalism with generic futurism hooks, not durable analysis of surveillance, memory, or eyewitness reliability.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a20893fa3ddb1c385779",
+  "error": ""
+}

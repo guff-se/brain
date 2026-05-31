@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional Tibber invite copy with no analysis, mechanism, or durable knowledge beyond marketing a referral link.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "cadf0b768b596f87c826",
+  "error": ""
+}

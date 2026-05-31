@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "big-tech",
+    "antitrust",
+    "platform-economics"
+  ],
+  "reason": "Substantive Scott Galloway analysis with a durable framework linking platform dominance to human psychology and a structural case for breaking up the Four.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "5f8cb037c6d0c9f14d58",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "116-char own_text is only a quoted MP line with attribution—no Gustaf reasoning, mechanism, or argument under strict sub-200 rules.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "fb1cf2c44f788acd3f80",
+  "error": ""
+}

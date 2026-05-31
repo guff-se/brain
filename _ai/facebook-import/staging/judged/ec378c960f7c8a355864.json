@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is mostly a Markovits excerpt plus a short intro and 'read the whole thing'—under 200 chars of Gustaf's own reasoning, no added causal framing.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ec378c960f7c8a355864",
+  "error": ""
+}

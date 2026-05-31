@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound promotional announcement for a December 2018 performance—logistical, no durable ideas or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "131996804ae36dce822c",
+  "error": ""
+}

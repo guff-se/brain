@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "san-francisco",
+    "community-events"
+  ],
+  "reason": "Ephemeral SF event listing (date, location, rules, donations) with no durable ideas or analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ce0a2bf08bbb996e9747",
+  "error": ""
+}

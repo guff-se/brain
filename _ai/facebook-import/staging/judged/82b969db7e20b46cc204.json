@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "terrorism",
+    "fear-and-risk",
+    "civil-society"
+  ],
+  "reason": "Norberg's op-ed explains how terrorism works through fear, IS's divide-and-conquer strategy, and why panic—not body counts—threatens open societies; durable mechanism-level analysis, not a news flash.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "82b969db7e20b46cc204",
+  "error": ""
+}

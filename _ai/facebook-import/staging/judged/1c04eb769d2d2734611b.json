@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "ledarskap",
+    "sarbarhet",
+    "denstarkeledaren"
+  ],
+  "reason": "Promotional podcast blurb with a tagline thesis but no reasoning chain; durable substance belongs in the episode, not this announcement.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1c04eb769d2d2734611b",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "deradicalization",
+    "dialogue",
+    "persuasion"
+  ],
+  "reason": "NPR profile of Daryl Davis with durable mechanisms—dialogue over violence, earned respect through knowledge, and self-conversion via common ground—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2d60034839b880cb729f",
+  "error": ""
+}

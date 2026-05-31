@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "intellectual-humility",
+    "evidence-literacy",
+    "public-correction"
+  ],
+  "reason": "Gustaf corrects his own claim with mechanism (cherry-picked effect sizes vs metastudies) and frames a durable lesson on how to be wrong publicly.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "253c3b2a0b80e01a0fda",
+  "error": ""
+}

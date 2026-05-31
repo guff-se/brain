@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only a Swedish Google AMP redirect page, not the Guardian article body, so there is no substantive external content to ingest.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "dd336d4d13ddd3943f13",
+  "error": ""
+}

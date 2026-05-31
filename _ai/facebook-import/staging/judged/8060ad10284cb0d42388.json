@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional museum landing page—tickets, pricing, location, and booking logistics—not durable analysis, ideas, or substantive external content.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8060ad10284cb0d42388",
+  "error": ""
+}

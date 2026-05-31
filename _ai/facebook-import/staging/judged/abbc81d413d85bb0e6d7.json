@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "campaign-finance",
+    "political-corruption",
+    "democracy"
+  ],
+  "reason": "Lessig's TED talk presents a durable structural analysis of how concentrated campaign funding corrupts representative democracy—a causal mechanism, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "abbc81d413d85bb0e6d7",
+  "error": ""
+}

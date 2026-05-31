@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "inequality",
+    "political-demography",
+    "health-disparities"
+  ],
+  "reason": "Durable causal analysis linking poverty, premature mortality, and political participation to explain why senior electorates skew conservative—not just age-based ideology.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a6cc43051ffe50b60c24",
+  "error": ""
+}

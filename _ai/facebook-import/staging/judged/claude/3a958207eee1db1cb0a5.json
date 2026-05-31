@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "agile",
+    "organizational-culture",
+    "reinventing-organizations"
+  ],
+  "reason": "Durable framework content — applies Laloux's culture model to explain why lean/agile adoption fails, a structural argument with named mechanisms and expert grounding.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_video",
+  "content_sha": "3a958207eee1db1cb0a5",
+  "error": ""
+}

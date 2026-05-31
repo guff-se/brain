@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "organizational-transparency",
+    "self-management",
+    "decentralization"
+  ],
+  "reason": "Develops a causal metaphor (email threads as invisible rooms) tied to a durable principle—transparency as default—for building self-led organizations.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4a80c70b7a693495649a",
+  "error": ""
+}

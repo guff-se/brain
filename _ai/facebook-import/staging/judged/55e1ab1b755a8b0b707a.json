@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "corporate-purpose",
+    "electric-vehicles",
+    "capitalism"
+  ],
+  "reason": "Durable essay arguing that Tesla's mission—not profitability—defines success, with causal framing via Goodhart's law and infrastructure analogies rather than time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "55e1ab1b755a8b0b707a",
+  "error": ""
+}

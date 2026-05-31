@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "disinformation",
+    "geopolitics",
+    "technology-policy"
+  ],
+  "reason": "NYTimes reporting explains Russia's 5G health-scare campaign as economic/info warfare and documents a repeatable disinformation playbook, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "099b2dd055fa4c4b1bd5",
+  "error": ""
+}

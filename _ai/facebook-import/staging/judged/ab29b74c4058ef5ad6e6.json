@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "criminal-justice",
+    "deterrence",
+    "evidence-based-policy"
+  ],
+  "reason": "DN Debatt title signals durable research synthesis on whether harsher punishment reduces crime—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ab29b74c4058ef5ad6e6",
+  "error": ""
+}

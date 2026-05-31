@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "migration-policy",
+    "work-permits",
+    "sweden"
+  ],
+  "reason": "Time-bound SVT news report on one person's deportation case, not durable analysis of immigration or labor-market mechanisms.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "ccbb08021dc70e40fdef",
+  "error": ""
+}

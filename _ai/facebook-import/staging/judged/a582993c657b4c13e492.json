@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "internet-governance",
+    "splinternet",
+    "content-moderation"
+  ],
+  "reason": "Substantive analysis of extraterritorial court rulings and the splinternet risk—a durable structural mechanism in online speech governance, not merely a 2017 news recap.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a582993c657b4c13e492",
+  "error": ""
+}

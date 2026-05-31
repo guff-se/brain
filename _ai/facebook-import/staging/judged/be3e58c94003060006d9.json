@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "creative-trust",
+    "generative-ai",
+    "media-authenticity"
+  ],
+  "reason": "Title and description frame a durable structural question—whether AI breaks trust in creative work or exposes a deeper problem with trusting captured images—not just Sora launch hype.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "be3e58c94003060006d9",
+  "error": ""
+}

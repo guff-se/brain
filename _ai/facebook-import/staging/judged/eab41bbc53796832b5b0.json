@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "migration-policy",
+    "refugee-policy",
+    "humanitarian-aid"
+  ],
+  "reason": "Substantive debatt piece with explicit mechanisms—aid diversion, queue ethics, regional vs national reception, and asylum incentives—not episodic news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "eab41bbc53796832b5b0",
+  "error": ""
+}

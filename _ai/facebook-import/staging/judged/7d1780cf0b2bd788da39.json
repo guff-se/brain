@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin podcast promo text teases futurism and kränkthet but does not develop durable ideas; substance is in the audio, not the fetched metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "7d1780cf0b2bd788da39",
+  "error": ""
+}

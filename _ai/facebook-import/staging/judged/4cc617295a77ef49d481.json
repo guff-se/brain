@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "artificial-intelligence",
+    "labor-markets",
+    "productivity"
+  ],
+  "reason": "Title signals durable structural analysis of AI's labor and economic effects, not ephemeral news or entertainment.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "4cc617295a77ef49d481",
+  "error": ""
+}

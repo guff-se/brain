@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "future-of-work",
+    "work-hours"
+  ],
+  "reason": "Under 200 characters with no developed argument—only notes WEF shared a 25-hour work week video and offers a vague 'times are changing' observation.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "7b1f14c8f2ce3179f4bb",
+  "error": ""
+}

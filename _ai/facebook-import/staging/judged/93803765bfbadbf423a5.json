@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "energy-storage",
+    "renewable-energy",
+    "grid-infrastructure"
+  ],
+  "reason": "Explains why intermittent renewables need grid storage and how gravity rail (ARES) works, with tradeoffs versus batteries and hydro—not only a 2016 project announcement.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "93803765bfbadbf423a5",
+  "error": ""
+}

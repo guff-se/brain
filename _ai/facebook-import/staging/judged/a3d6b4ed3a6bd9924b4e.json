@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "social-credit-system",
+    "surveillance",
+    "algorithmic-governance"
+  ],
+  "reason": "Botsman's Wired analysis explains the mechanisms, incentives, and governance logic of China's social credit system—durable structural insight, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a3d6b4ed3a6bd9924b4e",
+  "error": ""
+}

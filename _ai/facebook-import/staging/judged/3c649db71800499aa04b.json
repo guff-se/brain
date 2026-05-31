@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "us-politics",
+    "elections"
+  ],
+  "reason": "Fetch mismatches the FiveThirtyEight URL (generic ABC breaking-news hub), and the shared piece is episodic 2016 election horse-race coverage, not durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3c649db71800499aa04b",
+  "error": ""
+}

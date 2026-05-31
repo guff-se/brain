@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "aphantasia",
+    "cognition",
+    "self-knowledge"
+  ],
+  "reason": "First-person account of aphantasia with mechanism, discovery framing, and research context—not a bare share or hot take.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "4626780b6cafc23bb7b9",
+  "error": ""
+}

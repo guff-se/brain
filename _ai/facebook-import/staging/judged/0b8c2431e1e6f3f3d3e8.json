@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "privacy",
+    "history",
+    "technology-and-society"
+  ],
+  "reason": "Substantive historical essay tracing privacy as a ~150-year anomaly, with mechanisms, patterns, and durable analysis—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "0b8c2431e1e6f3f3d3e8",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.78,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "education-policy",
+    "swedish-schools",
+    "transparency"
+  ],
+  "reason": "DN investigative framing on why school statistics were classified explores policy decisions, mistakes, and mechanisms—a durable governance topic, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e2895b4c96fd58d7a79d",
+  "error": ""
+}

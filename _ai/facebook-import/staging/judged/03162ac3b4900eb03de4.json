@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "nft-art",
+    "blockchain",
+    "interactive-art"
+  ],
+  "reason": "Primarily promotional product copy for an NFT drop and auction with fixed dates, not durable analysis or insight worth retaining.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "03162ac3b4900eb03de4",
+  "error": ""
+}

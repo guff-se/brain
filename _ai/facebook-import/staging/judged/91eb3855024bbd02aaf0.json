@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars and only a single anecdotal setup—no developed argument, mechanism, or insight beyond a quirky observation.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "91eb3855024bbd02aaf0",
+  "error": ""
+}

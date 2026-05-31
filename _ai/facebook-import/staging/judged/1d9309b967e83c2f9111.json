@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters: episode hype and Typeform signup CTA with no argument, mechanism, or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "1d9309b967e83c2f9111",
+  "error": ""
+}

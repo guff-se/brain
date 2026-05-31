@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.76,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "pension-policy",
+    "labor-market",
+    "policy-rhetoric"
+  ],
+  "reason": "Over 200 chars with a causal claim—employers already can hire older workers but choose not to—and decodes ministerial rhetoric as forced retention, not a durable hiring barrier fix.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "6ac387660bef26501390",
+  "error": ""
+}

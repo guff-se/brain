@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Bare Spotify album metadata for ANDETAG music release—promotional, no description or durable ideas/frameworks.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "2be4c27e84e894962172",
+  "error": ""
+}

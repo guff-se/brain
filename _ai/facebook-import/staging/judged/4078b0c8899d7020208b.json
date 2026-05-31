@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Title suggests sensational/viral entertainment about a child beauty pageant, not durable analysis, frameworks, or expertise.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "4078b0c8899d7020208b",
+  "error": ""
+}

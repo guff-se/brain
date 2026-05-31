@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Talarforum 2016 press-release listicle—promotional rankings and speaker bios, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "56c3ab0edf3e297c739a",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Annual speaker-bureau promo page; fetch is marketing chrome and testimonials, not durable analysis or the award content itself.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d646e0945d18c86b4ab0",
+  "error": ""
+}

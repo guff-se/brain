@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "burning-man"
+  ],
+  "reason": "Paired mode: commentary is emotional endorsement and a slogan, with no framing or reasoning beyond the video title.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "80b22e0aff843d0541f3",
+  "error": ""
+}

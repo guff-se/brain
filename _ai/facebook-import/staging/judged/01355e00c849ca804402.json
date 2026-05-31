@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "spotify",
+    "platform-economics",
+    "music-industry"
+  ],
+  "reason": "Title and hook frame a structural business-analysis topic—investor misalignment and platform failure—not generic entertainment, despite thin fetched metadata.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "01355e00c849ca804402",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "psychedelic-medicine",
+    "ptsd",
+    "psychiatry"
+  ],
+  "reason": "Substantive science journalism explaining MDMA-assisted therapy mechanisms, clinical evidence, and the controlled therapeutic model—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8e0c660701eafd0d0cc8",
+  "error": ""
+}

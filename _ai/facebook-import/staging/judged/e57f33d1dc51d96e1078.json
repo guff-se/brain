@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound breaking news about a bomb-threat scare at an ad agency, with no analysis, mechanisms, or durable insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e57f33d1dc51d96e1078",
+  "error": ""
+}

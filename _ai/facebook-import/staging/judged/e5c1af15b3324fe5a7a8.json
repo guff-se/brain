@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "youth-politics",
+    "representation",
+    "age-discrimination"
+  ],
+  "reason": "Multi-paragraph argument linking out-group paternalism, historical gender exclusion, and accepted age-based disenfranchisement—not a reactive hot take on the news item.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "e5c1af15b3324fe5a7a8",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.84,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "monetary-policy",
+    "central-banking",
+    "negative-interest-rates"
+  ],
+  "reason": "Compact causal critique: negative rates imply a storage cost that contradicts the claim that central-bank money is value-preserving.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "ceca5f6a5e2748973b12",
+  "error": ""
+}

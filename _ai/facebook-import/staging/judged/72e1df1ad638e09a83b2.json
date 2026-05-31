@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "gig-economy",
+    "precarious-work",
+    "late-capitalism"
+  ],
+  "reason": "Tolentino's New Yorker analysis dissects gig-economy PR and self-reliance ideology as mechanisms masking structural labor precarity—durable cultural-economic critique, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "72e1df1ad638e09a83b2",
+  "error": ""
+}

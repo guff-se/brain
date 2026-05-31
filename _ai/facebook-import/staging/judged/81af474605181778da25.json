@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "politics",
+    "satire"
+  ],
+  "reason": "86-char sarcastic one-liner about Rädda Barnen and politicians — a quip with no reasoning, mechanism, or durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "81af474605181778da25",
+  "error": ""
+}

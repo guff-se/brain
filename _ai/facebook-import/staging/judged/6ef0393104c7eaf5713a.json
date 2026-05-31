@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "machine-learning",
+    "artificial-intelligence",
+    "automation"
+  ],
+  "reason": "Wired piece explains durable mechanisms—AI talent bottlenecks, trial-and-error at scale, and meta-ML tooling—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6ef0393104c7eaf5713a",
+  "error": ""
+}

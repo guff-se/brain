@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.91,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "ai-music",
+    "creativity",
+    "techno-optimism"
+  ],
+  "reason": "Long-form Adam Neely analysis of Suno and AI music with structured chapters on deskilling, futurism, and new virtues—durable mechanisms, not entertainment or news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "9ec04b3fa7a41c52659c",
+  "error": ""
+}

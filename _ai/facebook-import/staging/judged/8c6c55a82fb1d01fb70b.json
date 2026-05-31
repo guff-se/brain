@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "media-literacy",
+    "crime-statistics",
+    "perception-gap"
+  ],
+  "reason": "Research-backed piece on falling violence vs rising perceived severity, with clear mechanisms (media framing, politicization) that stay useful beyond the 2016 news cycle.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8c6c55a82fb1d01fb70b",
+  "error": ""
+}

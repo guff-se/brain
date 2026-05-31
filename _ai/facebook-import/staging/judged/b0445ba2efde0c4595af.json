@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland",
+    "larp",
+    "participatory-culture"
+  ],
+  "reason": "Promotional, time-bound program announcement with application logistics and no durable reasoning or insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b0445ba2efde0c4595af",
+  "error": ""
+}

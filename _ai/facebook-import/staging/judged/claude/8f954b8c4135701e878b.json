@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "indigenous-rights",
+    "pipeline",
+    "activism"
+  ],
+  "reason": "News report of a specific regulatory decision — primarily an event announcement with no durable analysis of mechanisms, principles, or frameworks.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "8f954b8c4135701e878b",
+  "error": ""
+}

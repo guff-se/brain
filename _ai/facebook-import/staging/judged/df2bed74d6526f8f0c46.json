@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "gender",
+    "workplace-culture"
+  ],
+  "reason": "Under 200 characters: a one-off anecdote plus punchline judgment, with no mechanism, principle, or developed argument.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "df2bed74d6526f8f0c46",
+  "error": ""
+}

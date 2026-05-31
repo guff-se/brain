@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "intergenerational-equity",
+    "baby-boomers",
+    "economic-policy"
+  ],
+  "reason": "Royal Institution lecture by Lord Willetts on structural intergenerational economic transfer—a durable policy framework, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "2ce7545f12509055ce38",
+  "error": ""
+}

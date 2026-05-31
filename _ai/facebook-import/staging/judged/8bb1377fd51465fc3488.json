@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "sweden",
+    "misinformation",
+    "urban-policing"
+  ],
+  "reason": "Investigative fact-check with primary sources and criminological analysis that explains how 'no-go zone' myths diverge from police 'problem area' reality and why gang violence feels more salient.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "8bb1377fd51465fc3488",
+  "error": ""
+}

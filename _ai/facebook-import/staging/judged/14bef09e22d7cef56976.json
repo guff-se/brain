@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "disinformation",
+    "crime-statistics",
+    "media-criticism"
+  ],
+  "reason": "Substantive op-ed on why cross-national rape rankings mislead and how reporting definitions fuel anti-migrant propaganda.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "14bef09e22d7cef56976",
+  "error": ""
+}

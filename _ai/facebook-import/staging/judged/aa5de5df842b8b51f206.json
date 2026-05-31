@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "platform-economics",
+    "regional-inequality",
+    "late-capitalism"
+  ],
+  "reason": "Lee uses Pokémon Go as a hook for a durable causal argument about platform economics, geographic inequality, and capital-light growth—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "aa5de5df842b8b51f206",
+  "error": ""
+}

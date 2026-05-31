@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Landing page for a daily morning news show—generic program blurb with no article, analysis, or durable topic.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "bb137890d292e6bdecc4",
+  "error": ""
+}

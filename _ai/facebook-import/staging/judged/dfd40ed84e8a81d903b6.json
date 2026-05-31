@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.62,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "welfare-privatization",
+    "swedish-politics",
+    "political-economy"
+  ],
+  "reason": "Paywalled fetch, but title and lede signal durable investigative analysis of private welfare power structures, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "dfd40ed84e8a81d903b6",
+  "error": ""
+}

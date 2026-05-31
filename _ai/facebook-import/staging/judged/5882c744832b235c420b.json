@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.85,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "personal-values",
+    "information-overload",
+    "decision-making"
+  ],
+  "reason": "Multi-sentence reflection with a clear mechanism—inner values as a filter for navigating information overload—not merely a reaction or quote from the linked performance.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5882c744832b235c420b",
+  "error": ""
+}

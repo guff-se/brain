@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.86,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "copyright-law",
+    "platform-regulation",
+    "free-speech"
+  ],
+  "reason": "Despite vote-day framing, Karlsten's explainer develops durable mechanisms—link tax, upload-filter liability, and free-speech tradeoffs—that remain useful for understanding platform regulation.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "13c3e4c3c70607106842",
+  "error": ""
+}

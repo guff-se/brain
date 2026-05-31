@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary on a 2018 Lucia/Lamotte news cycle—predictable bad-faith behavior, not durable framing beyond the article's racism thesis.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "c881595bd804eec55c2f",
+  "error": ""
+}

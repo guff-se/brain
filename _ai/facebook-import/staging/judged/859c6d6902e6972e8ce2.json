@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "capitalism",
+    "political-economy",
+    "inequality"
+  ],
+  "reason": "Substantive essay naming capitalism's growth-and-profit logic as a systemic cause of inequality and ecological harm, with mechanisms and examples—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "859c6d6902e6972e8ce2",
+  "error": ""
+}

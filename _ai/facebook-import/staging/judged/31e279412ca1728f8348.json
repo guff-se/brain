@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Behind-the-scenes exhibition promo with only thin AR/textile keywords—no durable analysis, frameworks, or mechanisms worth archiving.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "31e279412ca1728f8348",
+  "error": ""
+}

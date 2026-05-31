@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetch returned only the generic Airbnb homepage shell with no article or listing content—promotional/transactional, not durable knowledge.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "dc8fd3e6a88930846963",
+  "error": ""
+}

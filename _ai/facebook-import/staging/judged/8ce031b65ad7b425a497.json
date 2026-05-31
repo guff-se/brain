@@ -1,0 +1,15 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "nature-documentary",
+    "bbc-earth"
+  ],
+  "reason": "Thin shared-video metadata for a BBC Earth nature clip—generic entertainment and aesthetic praise, no durable framework, analysis, or mechanism worth preserving.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "8ce031b65ad7b425a497",
+  "error": ""
+}

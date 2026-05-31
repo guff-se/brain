@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "leadership",
+    "organizational-culture",
+    "corporate-values"
+  ],
+  "reason": "Substantive causal claim (empty consensus values are pointless; strong leaders favor flexibility) in the 200+ char band, beyond a hot take or podcast plug.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "657d79d1af5953dd2192",
+  "error": ""
+}

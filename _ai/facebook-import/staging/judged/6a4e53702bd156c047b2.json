@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "placebo-effect",
+    "medicine",
+    "psychology"
+  ],
+  "reason": "NYT Magazine feature on placebo mechanisms, research, and implications for medicine—durable explanatory journalism, not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6a4e53702bd156c047b2",
+  "error": ""
+}

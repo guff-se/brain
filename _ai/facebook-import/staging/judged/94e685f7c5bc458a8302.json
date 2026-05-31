@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "urban-segregation",
+    "policing",
+    "swedish-politics"
+  ],
+  "reason": "Multi-sentence critique with zoo/safari metaphor and structural claims about performative policing politics and segregated cities—not a quip or event-only report.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "94e685f7c5bc458a8302",
+  "error": ""
+}

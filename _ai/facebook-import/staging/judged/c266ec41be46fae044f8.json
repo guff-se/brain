@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.74,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "copyright",
+    "eu-policy",
+    "political-participation"
+  ],
+  "reason": "Short, time-bound take on the 2019 EU copyright vote and Swedish party politics—some causal framing, but mostly ephemeral news commentary rather than durable insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "c266ec41be46fae044f8",
+  "error": ""
+}

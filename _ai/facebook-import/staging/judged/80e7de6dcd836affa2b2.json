@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "american-politics",
+    "regional-culture",
+    "political-culture"
+  ],
+  "reason": "Summarizes Colin Woodard's durable eleven-nations framework linking regional settlement history to enduring US cultural and political divides.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "80e7de6dcd836affa2b2",
+  "error": ""
+}

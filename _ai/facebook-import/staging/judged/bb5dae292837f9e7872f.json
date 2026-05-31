@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "labor-unions",
+    "employment-security",
+    "labor-policy"
+  ],
+  "reason": "Multi-paragraph policy argument questioning LO dismissal rules and proposing 'trygghet utan anställning' as an alternative framework—not mere hot take.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "bb5dae292837f9e7872f",
+  "error": ""
+}

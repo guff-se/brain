@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "misinformation",
+    "covid-19",
+    "pseudoscience"
+  ],
+  "reason": "Time-bound SVT debunk of a March 2020 viral hoax, not durable analysis or principles beyond the specific incident.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "fc7ef3b01a8a6ab608a3",
+  "error": ""
+}

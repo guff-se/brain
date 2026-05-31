@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "white-supremacy",
+    "american-politics",
+    "race-and-power"
+  ],
+  "reason": "Coates's essay is durable structural analysis—whiteness as mechanism of power and the negation of Obama's legacy—not time-bound news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "3536d7980c84e232f941",
+  "error": ""
+}

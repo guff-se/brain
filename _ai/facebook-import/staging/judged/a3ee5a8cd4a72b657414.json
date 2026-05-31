@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "leadership",
+    "corporate-values",
+    "organizational-culture"
+  ],
+  "reason": "Develops a contrarian claim with causal reasoning—corporate values as uncontested platitudes and flexible leadership over rigid value statements—beyond the podcast promo.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a3ee5a8cd4a72b657414",
+  "error": ""
+}

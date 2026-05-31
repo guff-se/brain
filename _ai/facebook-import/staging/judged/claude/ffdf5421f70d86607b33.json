@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.72,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "automation",
+    "labor-market",
+    "universal-basic-income"
+  ],
+  "reason": "Contains durable structural argument with specific data: US manufacturing output grew 17.6% from 2006-2013 while employment collapsed (20.9M jobs needed at 2000 productivity vs 12.1M actual), making a concrete causal case that automation — not trade — drives job displacement.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "shared_article",
+  "content_sha": "ffdf5421f70d86607b33",
+  "error": ""
+}

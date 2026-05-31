@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "One-line rhetorical hot take on 2016 Swedish politics with no developed argument, mechanism, or durable insight beyond the news moment.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "4dbd8b31d3dc16f85d32",
+  "error": ""
+}

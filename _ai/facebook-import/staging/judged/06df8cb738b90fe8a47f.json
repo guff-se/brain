@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "toxic-masculinity",
+    "gender-roles",
+    "media-representation"
+  ],
+  "reason": "Durable cultural analysis naming 'tender masculinity,' critiquing macho/nice-guy archetypes with mechanisms and literary/film examples—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "06df8cb738b90fe8a47f",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Time-bound board recruitment CTA with application deadline, not durable reasoning or insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "044ccfd1a6fc3c1a45ac",
+  "error": ""
+}

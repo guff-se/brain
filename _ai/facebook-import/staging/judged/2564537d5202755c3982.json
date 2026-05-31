@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.74,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paywalled DN ekonomi title reads as a human-interest profile of retirees spending down savings, not clearly durable analysis of pension mechanics or policy despite the provocative quote.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2564537d5202755c3982",
+  "error": ""
+}

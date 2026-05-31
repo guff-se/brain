@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland",
+    "community-governance",
+    "ngo-administration"
+  ],
+  "reason": "Time-bound board recruitment call with deadlines and a signup form—logistical and promotional, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "e267c5cbd60622dd1702",
+  "error": ""
+}

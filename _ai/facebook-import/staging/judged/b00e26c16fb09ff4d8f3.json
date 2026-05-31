@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "internet-freedom",
+    "copyright-policy",
+    "free-speech"
+  ],
+  "reason": "A short 2019 polemic to a named opponent on a specific law—moral stance and generational framing, not a durable reasoning chain or mechanism.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b00e26c16fb09ff4d8f3",
+  "error": ""
+}

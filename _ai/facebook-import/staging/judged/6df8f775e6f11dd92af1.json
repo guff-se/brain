@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional, time-bound event invitation with dates and venue—no durable ideas, analysis, or reasoning.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "6df8f775e6f11dd92af1",
+  "error": ""
+}

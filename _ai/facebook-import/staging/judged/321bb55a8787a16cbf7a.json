@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Standalone commentary is an emotional podcast endorsement without mechanism, principle, or causal reasoning—the kind of framing the rules exclude.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "321bb55a8787a16cbf7a",
+  "error": ""
+}

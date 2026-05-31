@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Personality-quiz result page whose durable value is generic template copy explaining feminist schools—not authored analysis worth archiving separately.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "28ac7cef6f5029cf377d",
+  "error": ""
+}

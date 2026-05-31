@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Logistical group-invite for Maker Hotel with no analysis, mechanism, or durable insight beyond the event.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "2bdda5dfb919c9bef60c",
+  "error": ""
+}

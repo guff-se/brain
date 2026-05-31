@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "masculinity",
+    "mkind-project",
+    "personal-development"
+  ],
+  "reason": "Mostly NWTA event promotion with dates, links, and carpool logistics; the brief identity question defers real substance to an external video rather than durable reasoning in the post itself.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "5d889485339d583226a5",
+  "error": ""
+}

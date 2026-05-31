@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "housing-policy",
+    "land-ownership",
+    "bostadsratt"
+  ],
+  "reason": "Paywalled DN headline describes a specific 2023 rent-dispute case, not durable analysis or principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d64bac0e40b8a61ddc38",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "verdict": "skip",
+  "confidence": 0.93,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "the-borderland"
+  ],
+  "reason": "Standalone commentary is a time-bound meetup invite and Clubhouse logistics, not durable reasoning or insight.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "2d89fa8abb44e1b9bc63",
+  "error": ""
+}

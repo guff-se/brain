@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "teal-organizations",
+    "compensation",
+    "self-management"
+  ],
+  "reason": "Substantive wiki reference on Teal compensation models, peer salary systems, and intrinsic motivation with durable organizational-design mechanisms.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2a803f5be56d9554e00e",
+  "error": ""
+}

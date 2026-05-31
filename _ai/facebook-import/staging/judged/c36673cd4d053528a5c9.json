@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.82,
+  "register_hint": "consumed",
+  "kind_hint": "book",
+  "tags_hint": [
+    "misinformation",
+    "media-literacy",
+    "source-criticism"
+  ],
+  "reason": "Book title signals durable subject matter—internet myths, fake stories, and source criticism—not ephemeral news or banter.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c36673cd4d053528a5c9",
+  "error": ""
+}

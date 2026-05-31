@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Time-bound event invitation and sign-up call with no durable ideas, analysis, or reasoning—purely logistical and promotional.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "ffdb490d2f129d69b844",
+  "error": ""
+}

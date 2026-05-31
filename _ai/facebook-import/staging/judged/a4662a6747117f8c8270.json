@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Project-specific art-installation making-of with technical specs but no generalizable framework, analysis, or durable insight beyond that single piece.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "a4662a6747117f8c8270",
+  "error": ""
+}

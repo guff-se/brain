@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "117 chars and one sentence—a causal quip on Panama Papers news, not the multi-sentence mechanism argument required under 200 for own_text.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "b042385d55b338e1abf4",
+  "error": ""
+}

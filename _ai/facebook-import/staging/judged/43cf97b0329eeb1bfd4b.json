@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "archaeology",
+    "debunking",
+    "maya"
+  ],
+  "reason": "Primarily a time-bound debunk of a viral May 2016 news story; expert context on satellite imagery and Maya settlement is incidental, not durable analysis worth retaining.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "43cf97b0329eeb1bfd4b",
+  "error": ""
+}

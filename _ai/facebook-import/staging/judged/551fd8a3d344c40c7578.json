@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.68,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "marine-ecology",
+    "cephalopods",
+    "ocean-change"
+  ],
+  "reason": "Despite news framing, the piece synthesizes a 60-year population trend and explains plausible ecological mechanisms (boom-bust life history, predator release, large-scale ocean change) rather than only announcing an event.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "551fd8a3d344c40c7578",
+  "error": ""
+}

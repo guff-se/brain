@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.96,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "lgbt-history",
+    "nazi-germany",
+    "holocaust"
+  ],
+  "reason": "Substantive Wikipedia article on mechanisms, legal framework, and scale of Nazi persecution of homosexuals—durable historical reference, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2f296919fa45a0288f9c",
+  "error": ""
+}

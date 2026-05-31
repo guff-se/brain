@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "media-credibility",
+    "misinformation",
+    "pseudoscience"
+  ],
+  "reason": "Beyond the award headline, Gustaf draws a causal link between unvetted expert hiring in legacy media and the failure to counter online misinformation.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "1807110766d0cc60a94a",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched body is only a podcast episode promo with no developed ideas, mechanisms, or analysis—just a guest name and inclusion as a topic tease.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "16049eccd5d0a82d0fdc",
+  "error": ""
+}

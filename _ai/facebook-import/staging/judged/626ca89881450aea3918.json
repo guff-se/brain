@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Thin SVT Play promo for a biographical documentary—metadata is promotional, not durable analysis or extractable insight.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "626ca89881450aea3918",
+  "error": ""
+}

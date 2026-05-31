@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.78,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Fetched metadata is promo-only; the title signals a comedy edutainment consumer-exposé, not durable analysis worth archiving.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "e825281f81d53684abcf",
+  "error": ""
+}

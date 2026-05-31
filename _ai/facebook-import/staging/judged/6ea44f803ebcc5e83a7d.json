@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "welfare",
+    "poverty",
+    "economic-policy"
+  ],
+  "reason": "Substantive Atlantic analysis synthesizing empirical evidence on welfare, cash transfers, and Medicaid with causal mechanisms and intergenerational outcomes—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "6ea44f803ebcc5e83a7d",
+  "error": ""
+}

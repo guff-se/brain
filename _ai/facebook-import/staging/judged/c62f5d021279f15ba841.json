@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "silicon-valley",
+    "transhumanism",
+    "deaths-of-despair"
+  ],
+  "reason": "Substantive Wired analysis contrasting life-extension tech with structural mortality drivers—despair, inequality, and neglected infrastructure—offering durable cultural critique with named mechanisms and experts.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "c62f5d021279f15ba841",
+  "error": ""
+}

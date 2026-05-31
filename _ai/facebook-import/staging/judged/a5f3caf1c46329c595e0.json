@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.91,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "pajobbetpodden",
+    "skuggsidor",
+    "leadership"
+  ],
+  "reason": "Season-opener episode on shadow sides at work with full mp3—durable leadership/psychology theme, not episodic news or generic entertainment.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "a5f3caf1c46329c595e0",
+  "error": ""
+}

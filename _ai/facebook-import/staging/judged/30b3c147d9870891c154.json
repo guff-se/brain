@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "parenting",
+    "relationships",
+    "sleep-deprivation"
+  ],
+  "reason": "States a durable causal principle—avoid misattributing relationship friction to character when sleep deprivation explains it—beyond a mood or hot take.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "30b3c147d9870891c154",
+  "error": ""
+}

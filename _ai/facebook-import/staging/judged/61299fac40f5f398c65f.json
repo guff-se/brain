@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 chars: a one-line partisan hot take plus disgust, no mechanism or durable argument—time-bound 2018 campaign reaction.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "61299fac40f5f398c65f",
+  "error": ""
+}

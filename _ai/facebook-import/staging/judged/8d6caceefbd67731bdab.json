@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "privatization",
+    "infrastructure",
+    "electricity-grid"
+  ],
+  "reason": "Standalone commentary exceeds 200 chars and articulates a durable mechanism—privatized grid infrastructure creates captive private monopolies antithetical to market economics—not just a reaction to the Eon/Ygeman news.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "8d6caceefbd67731bdab",
+  "error": ""
+}

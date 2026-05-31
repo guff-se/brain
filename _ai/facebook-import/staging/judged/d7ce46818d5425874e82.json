@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Board-retreat logistics (venue, time, carpooling) with no analysis, mechanism, or durable knowledge.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "d7ce46818d5425874e82",
+  "error": ""
+}

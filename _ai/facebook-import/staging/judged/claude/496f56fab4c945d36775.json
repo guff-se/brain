@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.92,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Promotional call-to-action for a community space — no durable knowledge, mechanism, or reasoning, just a membership pitch.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_commentary",
+  "content_sha": "496f56fab4c945d36775",
+  "error": ""
+}

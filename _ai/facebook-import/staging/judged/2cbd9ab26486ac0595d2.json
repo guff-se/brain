@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.93,
+  "register_hint": "voice",
+  "kind_hint": "note",
+  "tags_hint": [
+    "epistemic-humility",
+    "complex-systems",
+    "institutional-trust"
+  ],
+  "reason": "Polished essay on resting in uncertainty, critiquing naive cross-country comparisons and meme-level certainty—durable reasoning about complexity and trust, not just COVID news.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "2cbd9ab26486ac0595d2",
+  "error": ""
+}

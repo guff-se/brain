@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.82,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Under 200 characters and a rhetorical hot take on time-bound Qatar/World Cup news, not a developed argument with durable mechanism or insight.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "a31bccb5cde851b2d049",
+  "error": ""
+}

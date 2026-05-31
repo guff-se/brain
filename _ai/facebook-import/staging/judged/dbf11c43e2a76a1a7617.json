@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.92,
+  "register_hint": "consumed",
+  "kind_hint": "video",
+  "tags_hint": [
+    "progress-narratives",
+    "inequality",
+    "mental-health"
+  ],
+  "reason": "Academic lecture critiquing New Optimist/Rosling claims with causal questions on inequality, life expectancy, and global mental illness, backed by scholarly references.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "dbf11c43e2a76a1a7617",
+  "error": ""
+}

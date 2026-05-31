@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.98,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Event announcement with no embedded knowledge, framework, or reasoning — pure logistics.",
+  "model": "claude-sonnet-4-6",
+  "item_type": "own_text",
+  "content_sha": "d171e01c4cee408a9c59",
+  "error": ""
+}

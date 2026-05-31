@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "governance",
+    "legal-system",
+    "complexity"
+  ],
+  "reason": "Standalone commentary exceeds 200 chars and articulates a durable principle—trust and discretion over rigid rules—in response to a news hook, not a fleeting reaction.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "db3774725eb7fb0fcaf0",
+  "error": ""
+}

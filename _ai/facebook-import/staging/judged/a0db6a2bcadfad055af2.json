@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "employment-protection",
+    "labor-market",
+    "swedish-policy"
+  ],
+  "reason": "SvD Debatt piece with structural policy argument—why Sweden's 40-year-old employment protection no longer fits a shifted labor market—not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "a0db6a2bcadfad055af2",
+  "error": ""
+}

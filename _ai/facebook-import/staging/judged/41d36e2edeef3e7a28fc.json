@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Paired commentary is a short personal hot take (~110 chars) that restates the article's consent theme without added reasoning or mechanism.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "41d36e2edeef3e7a28fc",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.91,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "democracy",
+    "sortition",
+    "revisionist-history"
+  ],
+  "reason": "Gladwell's Revisionist History episode on lottery vs elections for representative selection — durable analysis of governance mechanisms and incentive mismatch.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "3f749e6ff2dd81256469",
+  "error": ""
+}

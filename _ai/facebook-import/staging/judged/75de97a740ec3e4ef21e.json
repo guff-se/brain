@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.88,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Parameterized COVID dashboard link with only site boilerplate fetched—time-bound operational tool, not durable analysis or insight.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "75de97a740ec3e4ef21e",
+  "error": ""
+}

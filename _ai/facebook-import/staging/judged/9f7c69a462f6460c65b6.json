@@ -1,0 +1,16 @@
+{
+  "verdict": "skip",
+  "confidence": 0.72,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [
+    "media-literacy",
+    "misinformation",
+    "social-media"
+  ],
+  "reason": "Clickbait-debunk framing around 2016 election news with generic read-check-verify tips—useful but shallow and time-bound, not vault-grade durable analysis.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "9f7c69a462f6460c65b6",
+  "error": ""
+}

@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.97,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Transactional, time-bound logistical request for a boat rental—no durable ideas, analysis, or reasoning worth preserving.",
+  "model": "auto",
+  "item_type": "own_text",
+  "content_sha": "152f39f0135930c804b2",
+  "error": ""
+}

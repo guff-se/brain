@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "consumed",
+  "kind_hint": "podcast",
+  "tags_hint": [
+    "supreme-court",
+    "institutional-design",
+    "democracy"
+  ],
+  "reason": "Title frames a durable structural debate—court reform and Democratic strategy—not generic entertainment or a one-off news headline.",
+  "model": "auto",
+  "item_type": "shared_podcast",
+  "content_sha": "98b0fc0f5068e4f6576f",
+  "error": ""
+}

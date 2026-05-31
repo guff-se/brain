@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.76,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "robotics-ethics",
+    "police-militarization",
+    "use-of-force"
+  ],
+  "reason": "Beyond breaking-news reporting, multiple legal and robotics scholars analyze enduring questions about remote lethal force, precedent, and civilian militarization.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "2a9b8dd7cc99ee0e7c2e",
+  "error": ""
+}

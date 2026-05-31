@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.95,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "economic-inequality",
+    "millennials",
+    "housing"
+  ],
+  "reason": "Long-form structural analysis of millennial economic precarity—debt, wages, housing, and safety-net erosion—with causal mechanisms and data, not ephemeral news.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e71b6db1a6c79b04a87d",
+  "error": ""
+}

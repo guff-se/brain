@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.88,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "china",
+    "globalization",
+    "geopolitics"
+  ],
+  "reason": "Foreign Policy essay uses the 2018 term-limit move to analyze durable mechanisms—capitalism without democracy, failed Washington Consensus assumptions, and Western complicity in illiberal rise—not mere event reporting.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "eec96c2db76ca0477bca",
+  "error": ""
+}

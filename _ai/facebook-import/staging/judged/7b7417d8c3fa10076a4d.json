@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.74,
+  "register_hint": "thinking",
+  "kind_hint": "note",
+  "tags_hint": [
+    "source-criticism",
+    "consent",
+    "moral-panic"
+  ],
+  "reason": "Reframes the rumor as evidence about adults' media literacy rather than youth consent—a distinct causal claim beyond the article headline.",
+  "model": "auto",
+  "item_type": "own_commentary",
+  "content_sha": "7b7417d8c3fa10076a4d",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "antitrust",
+    "platform-monopoly",
+    "tech-regulation"
+  ],
+  "reason": "Tim Wu's durable analysis of why 1990s internet-competition assumptions failed and how antitrust inaction let Google, Amazon, and Facebook entrench monopoly power.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "e5d82397463071ec0911",
+  "error": ""
+}

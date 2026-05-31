@@ -1,0 +1,12 @@
+{
+  "verdict": "skip",
+  "confidence": 0.95,
+  "register_hint": null,
+  "kind_hint": null,
+  "tags_hint": [],
+  "reason": "Ephemeral TV news clip of a 2014 Löfven–Lööf studio dispute with no durable analysis, framework, or insight beyond the time-bound political event.",
+  "model": "auto",
+  "item_type": "shared_video",
+  "content_sha": "35291fedff318549cd44",
+  "error": ""
+}

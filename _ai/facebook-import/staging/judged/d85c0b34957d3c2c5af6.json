@@ -1,0 +1,16 @@
+{
+  "verdict": "save",
+  "confidence": 0.97,
+  "register_hint": "consumed",
+  "kind_hint": "article",
+  "tags_hint": [
+    "data-visualization",
+    "statistics-literacy",
+    "critical-thinking"
+  ],
+  "reason": "Durable pedagogical framework on how axis and chart-type choices shape (or distort) the story data tells, with clear mechanisms and reusable principles.",
+  "model": "auto",
+  "item_type": "shared_article",
+  "content_sha": "d85c0b34957d3c2c5af6",
+  "error": ""
+}
