@@ -11,7 +11,7 @@ status: reference
 register: facts
 kind: note
 party: first
-tags: []
+tags: [facts, exercises]
 reclassified: 2026-05-18
 classify_reason: "physio exercise instructions"
 classify_confidence: high

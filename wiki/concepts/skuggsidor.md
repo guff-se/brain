@@ -1,6 +1,6 @@
 ---
 title: "Skuggsidor"
-summary: "Jungs skugga — 'the me I can't see' — är de delar av oss vi inte är stolta över eller inte är medvetna om. Att bjuda in skuggorna är en förutsättning för helhet, både privat och på arbetsplatsen."
+summary: "Skuggsidor är de delar av oss själva vi inte vill eller kan se. I Gustafs material blir skuggarbete ett sätt att minska projektion, skam och omedveten destruktivitet — både i individer och organisationer."
 kind: concept
 party: first
 register: consumed
@@ -10,10 +10,13 @@ tags: [psychology, skuggsidor, consciousness]
 status: reference
 ingested: 2026-05-19
 created: 2026-05-19
+updated: 2026-05-29
 ---
 
-Gustaf och Maria ägnade en hel säsong av Påjobbetpodden åt temat. [[Skuggsidor]] definierar kärnbegreppet från Gustaf: "En skuggsida är den del av mig själv som jag inte är stolt över, inte vill kännas vid eller inte är medveten om." Arbetsplatsdimensionen: "Du kan inte ha en arbetsplats där du hoppas få ut allt det bästa av en människa… och sen säga: 'Fast de där smutsiga delarna, de är inte välkomna här.'"
+[[Catarina Baldo Zagadou - Skuggsidor enligt Carl Jung]] ger den tydligaste formuleringen: skuggan är "the me I can't see". Det som väcker oproportionerlig irritation i andra pekar ofta mot något undanträngt i mig själv.
 
-[[Catarina Baldo Zagadou - Skuggsidor enligt Carl Jung]] ger den teoretiska grunden: skuggan är per definition omedveten — "the me I can't see" (James Hollis). Det som väcker oresonlig irritation hos andra pekar mot egna förträngda sidor. Projektioner driver syndabockstänkande på samhällsnivå. Individuation (Jungs andra halva av livet) handlar om att integrera skuggan — att erkänna en känsla är inte samma sak som att agera på den; medvetenhet ger valmöjligheter.
+[[Skuggsidan / Påjobbet]] visar hur Gustaf drar detta in i arbetslivet. Skuggan handlar inte bara om privat terapi utan om mikrostyrning, konflikträdsla, skam, prestationsbaserad självkänsla och projektioner som sätter sig i väggarna på en organisation.
 
-Samspelar med [[Sårbarhet som styrka]]: man kan inte vara sårbar utan att ha mött sina skuggsidor.
+Den jungianska poängen är inte att bli ren eller perfekt, utan att bli mindre blind. Att lägga skuggorna på bordet betyder inte att ge dem fria tyglar, utan att sluta låta dem styra från källaren.
+
+Därför är skuggarbete nära kopplat till [[Sårbarhet som styrka]] och [[Männens arbete]]: utan kontakt med det bortträngda blir både ledarskap och relationer lätt självbedrägeri.

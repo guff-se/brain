@@ -1,8 +1,8 @@
 ---
-title: "Föreläsning UF 2011-09-14"
+title: Föreläsning UF 2011-09-14
 source: evernote
-source_id: "Privat:707"
-evernote_notebook: "Privat"
+source_id: Privat:707
+evernote_notebook: Privat
 provenance: extracted
 ingested: 2026-05-13
 created: 2011-09-08
@@ -11,9 +11,13 @@ status: reference
 register: voice
 kind: note
 party: first
-tags: [lecture, entrepreneurship, philosophy]
+tags:
+  - lecture
+  - entrepreneurship
+  - philosophy
+  - all-made-up
 reclassified: 2026-05-18
-classify_reason: "lecture script with full prose passages"
+classify_reason: lecture script with full prose passages
 classify_confidence: high
 ---
 

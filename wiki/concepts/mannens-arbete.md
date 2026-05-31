@@ -1,6 +1,6 @@
 ---
 title: "Männens arbete"
-summary: "Mäns arbete med sig själva — i grupp, med sårbarhet, med skuggsidor och med maskulinitet — som svar på en strukturell maskulinitetskris och som förutsättning för hälsosammare relationer och organisationer."
+summary: "Männens arbete är i Gustafs material en praktik där män gör upp med ensamhet, skam och omogen makt genom att tränas av andra män i ansvar, närvaro och sårbarhet."
 kind: concept
 party: first
 register: consumed
@@ -10,10 +10,11 @@ tags: [mens-work, masculinity, mkp]
 status: reference
 ingested: 2026-05-19
 created: 2026-05-19
+updated: 2026-05-29
 ---
 
-Gustaf är aktiv inom MKP Nordic (Mankind Project). [[Mkp youth warrior comments]] reflekterar kring succession och hur yngre män ges verkligt beslutsmandat: "values come alive when you make decisions" och "Are you willing to sacrifice 'quality' of a training to empower younger men?"
+[[Mkp youth warrior comments]] visar en viktig Gustaf-linje: män växer när de får verkligt mandat. "Values come alive when you make decisions" — utveckling kräver ansvar, inte bara handledning.
 
-Externa källor kontextualiserar behovet. [[https://www.theguardian.com/world/2018/mar/09/men-after-metoo-masculinity-fundamentally-toxic]] beskriver männens grupprörelsers kärna: "Men are very unskilled when it comes to relationships. We need to train them to be better at vulnerability, at relating." Rörelsens premiss — att "men give birth to men" — svarar mot en frånvaro av riter och manliga förebilder. [[https://www.theguardian.com/books/2018/mar/17/the-crisis-in-modern-masculinity]] historiserar: maskulinitetskrisen är inte ny utan ett strukturellt drag i moderniteten sedan 1800-talets industrialisering.
+Den externa ramen i [[https://www.theguardian.com/world/2018/mar/09/men-after-metoo-masculinity-fundamentally-toxic]] är att män är dåligt tränade i relationer och behöver lära sig sårbarhet med andra män, inte outsourca det arbetet till kvinnor. [[https://www.theguardian.com/books/2018/mar/17/the-crisis-in-modern-masculinity]] breddar detta till en historisk diagnos: modern maskulinitet är en återkommande kris, driven av rädsla, statusförlust och fantasier om kontroll.
 
-Tes: männens arbete är inte reaktion på feminism — det är en nödvändig inre rörelse för att bryta mönster som skadar både män och de de har relationer med. Länk till [[Skuggsidor]] och [[Sårbarhet som styrka]].
+Männens arbete blir då varken backlash eller terapi-light, utan ett sätt att bryta destruktiva mönster innan de blir kultur, ledarskap och politik. Länkar nära till [[Sårbarhet som styrka]] och [[Skuggsidor]].

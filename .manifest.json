@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-05-28",
+  "last_ingest": "2026-05-30",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -15,6 +15,54 @@
       ],
       "sources_note": "Raw export files are not retained. See _ai/migration/INVENTORY.md for source counts and _ai/migration/LOG.md for the decision log.",
       "produced_count": 1347
+    },
+    {
+      "ingest_date": "2026-05-29",
+      "scope": "mcp thought ingest",
+      "sources": [
+        "inbox/thoughts/2026-05-29-130328-4f7b9e4f.md"
+      ],
+      "produced_count": 1
+    },
+    {
+      "ingest_date": "2026-05-29",
+      "scope": "mcp thought ingest",
+      "sources": [
+        "inbox/thoughts/2026-05-29-132726-e777bcea.md"
+      ],
+      "produced_count": 1
+    },
+    {
+      "ingest_date": "2026-05-29",
+      "scope": "mcp thought ingest",
+      "sources": [
+        "inbox/thoughts/2026-05-29-134857-e8aa8ca0.md"
+      ],
+      "produced_count": 1
+    },
+    {
+      "ingest_date": "2026-05-29",
+      "scope": "mcp thought ingest",
+      "sources": [
+        "inbox/thoughts/2026-05-29-161845-d997027d.md"
+      ],
+      "produced_count": 1
+    },
+    {
+      "ingest_date": "2026-05-29",
+      "scope": "manual web ingest",
+      "sources": [
+        "https://www.owenmcgrann.com/p/the-dead-economy-theory"
+      ],
+      "produced_count": 1
+    },
+    {
+      "ingest_date": "2026-05-30",
+      "scope": "manual web ingest",
+      "sources": [
+        "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564"
+      ],
+      "produced_count": 1
     }
   ],
   "entries": [
@@ -665,6 +713,78 @@
         "sources/_longform/attachment-hacking-and-the-rise-of-ai-psychosis-transcript.md"
       ],
       "notes": "Transcript fetched from published YouTube captions and ingested into canonical video + longform transcript notes."
+    },
+    {
+      "source_path": "inbox/thoughts/2026-05-29-130328-4f7b9e4f.md",
+      "source_hash": "d33a39370a820cb3eac047567ff96dc46aa82686635ad0ed6718ddf4587e2769",
+      "kind": "thought",
+      "scope": "mcp thought ingest",
+      "title": "Twitter Created Its Own Owner",
+      "ingest_date": "2026-05-29",
+      "produced": [
+        "sources/mine/thinking/twitter-created-its-own-owner.md"
+      ],
+      "session_label": "mcp-auto-process",
+      "session_log": "_ai/sessions/2026-05-29-130328.md"
+    },
+    {
+      "source_path": "inbox/thoughts/2026-05-29-132726-e777bcea.md",
+      "source_hash": "b473c7ff5938f3d24e5d46c39d3c928fa10f280c6c3b01a7a5e007660f2e674c",
+      "kind": "thought",
+      "scope": "mcp thought ingest",
+      "title": "Tool vs Agent: The System as Decision-Maker",
+      "ingest_date": "2026-05-29",
+      "produced": [
+        "sources/mine/thinking/tool-vs-agent-the-system-as-decision-maker.md"
+      ],
+      "session_label": "mcp-auto-process",
+      "session_log": "_ai/sessions/2026-05-29-132726.md"
+    },
+    {
+      "source_path": "inbox/thoughts/2026-05-29-134857-e8aa8ca0.md",
+      "source_hash": "27ca94656761094402dfaa9513622c403c12741dc15753fa1a836c6c85eaea26",
+      "kind": "thought",
+      "scope": "mcp thought ingest",
+      "title": "Vibes",
+      "ingest_date": "2026-05-29",
+      "produced": [
+        "sources/mine/thinking/ai-control-through-vibes.md"
+      ],
+      "session_label": "mcp-auto-process",
+      "session_log": "_ai/sessions/2026-05-29-134857.md"
+    },
+    {
+      "source_path": "inbox/thoughts/2026-05-29-161845-d997027d.md",
+      "source_hash": "ce14a366e68d64ac998ad7bdfdf5a5a68a1dd2182bfb3574c42652eef93076ba",
+      "kind": "thought",
+      "scope": "mcp thought ingest",
+      "title": "AI as complexity adaptation mechanism",
+      "ingest_date": "2026-05-29",
+      "produced": [
+        "sources/mine/thinking/ai-as-complexity-adaptation-mechanism.md"
+      ],
+      "session_label": "mcp-auto-process",
+      "session_log": "_ai/sessions/2026-05-29-161845.md"
+    },
+    {
+      "ingest_date": "2026-05-29",
+      "kind": "article",
+      "party": "third",
+      "source": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "produced": [
+        "sources/consumed/articles/the-dead-economy-theory.md"
+      ],
+      "notes": "Fetched via web and summarized into canonical article note."
+    },
+    {
+      "ingest_date": "2026-05-30",
+      "kind": "article",
+      "party": "third",
+      "source": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+      "produced": [
+        "sources/consumed/articles/the-last-technical-interview.md"
+      ],
+      "notes": "Fetched via web and summarized into canonical article note."
     }
   ]
 }

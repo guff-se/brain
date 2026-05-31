@@ -1,24 +1,41 @@
 ---
-title: "Yuval Noah Harari on the Mistake Strongmen Keep Making"
-summary: "Harari argues that cooperation — not brute force — is the engine of human history, and that strongmen who mistake power for the whole of politics systematically destroy the stories and institutions that enable large-scale coordination. The conversation spans liberalism's lost fraternity, Netanyahu's betrayal of 2,000 years of Jewish diasporic tradition, algorithmic media as a fracture technology, and AI as attachment-hacking language liberating itself from human bodies."
+title: Yuval Noah Harari on the Mistake Strongmen Keep Making
+summary: Harari argues that cooperation — not brute force — is the engine of human history, and that strongmen who mistake power for the whole of politics systematically destroy the stories and institutions that enable large-scale coordination. The conversation spans liberalism's lost fraternity, Netanyahu's betrayal of 2,000 years of Jewish diasporic tradition, algorithmic media as a fracture technology, and AI as attachment-hacking language liberating itself from human bodies.
 kind: podcast-episode
 party: third
 register: consumed
 source: podcast
-show: "The Ezra Klein Show"
-host: "Ezra Klein"
-guests: ["Yuval Noah Harari"]
-publication: "The New York Times"
-url: "https://www.nytimes.com/2026/05/26/opinion/ezra-klein-podcast-yuval-noah-harari.html"
-source_audio: "_meta/attachments/podcasts/yuval-noah-harari-on-the-mistake-strongmen-keep-making.mp3"
+show: The Ezra Klein Show
+host: Ezra Klein
+guests:
+  - Yuval Noah Harari
+publication: The New York Times
+url: https://www.nytimes.com/2026/05/26/opinion/ezra-klein-podcast-yuval-noah-harari.html
+source_audio: _meta/attachments/podcasts/yuval-noah-harari-on-the-mistake-strongmen-keep-making.mp3
 provenance: extracted
-tags: [ai, politics, political-philosophy, nationalism, geopolitics, populism, power, history, israel-palestine, social-media, attention, future, philosophy, religion]
+tags:
+  - ai
+  - politics
+  - political-philosophy
+  - nationalism
+  - geopolitics
+  - populism
+  - power
+  - history
+  - israel-palestine
+  - social-media
+  - attention
+  - future
+  - philosophy
+  - religion
+  - ai-psychosis
+  - attachment
 status: reference
-created: "2026-05-26"
-ingested: "2026-05-27"
+created: 2026-05-26
+ingested: 2026-05-27
 duration_minutes: 113
 transcript: "[[yuval-noah-harari-on-the-mistake-strongmen-keep-making-transcript]]"
-transcription_model: "mlx-community/whisper-base-mlx"
+transcription_model: mlx-community/whisper-base-mlx
 ---
 
 The episode opens with a Stephen Miller clip — "the world is governed by strength, force, power" — which Harari uses as the foil for his entire argument. A historian's counter: if brute force were the only real thing, humanity would still be living in hunter-gatherer bands. Everything since — cities, states, religions, markets — is the result of getting ever-larger numbers of people to cooperate and trust each other. Cooperation is not a liberal fantasy layered on top of a Hobbesian substrate; it is the substrate.

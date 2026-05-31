@@ -18,7 +18,7 @@ Full design + rationale: see [`_ai/migration/VAULT_DESIGN.md`](_ai/migration/VAU
 ## How to use day-to-day
 - Drop an article URL into `inbox/articles/<slug>.url`, run agent's `ingest` skill.
 - Drop a podcast transcript into `inbox/podcasts/`, run `ingest`.
-- Quick thought? `inbox/thoughts/<timestamp>.md`. Weekly batch into `sources/notes/`.
+- Quick thought? `inbox/thoughts/<timestamp>.md`. On ingest, thought tags must be promoted into frontmatter; canonical thought notes should never stay at `tags: []`. Use `_ai/scripts/normalize_thought_tags.py --apply` as the vault-side guard.
 - Ask the agent to `compile` to grow the wiki, `lint` to keep it healthy.
 
 ## Agent

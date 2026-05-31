@@ -35,9 +35,7 @@ Bilden på internet
 
 Nätverket - > internet
 
-"In order to [successfully hack humans](https://www.theguardian.com/science/2017/apr/26/new-human-rights-to-protect-against-mind-hacking-and-brain-data-theft-proposed), you need two things: a good understanding of biology, and a lot of computing power. The Inquisition and the KGB lacked this knowledge and power. But soon, corporations and governments might have both, and once they can hack you, they can not only predict your choices, but also reengineer your feelings. To do so, corporations and governments will not need to know you perfectly. That is impossible. They will just have to know you a little better than you know yourself. And that is not impossible, because most people don’t know themselves very well." - Yuval Noah Harari
-
-"In order to [successfully hack humans](https://www.theguardian.com/science/2017/apr/26/new-human-rights-to-protect-against-mind-hacking-and-brain-data-theft-proposed), you need two things: a good understanding of biology, and a lot of computing power ... and once they can hack you, they can not only predict your choices, but also reengineer your feelings. To do so, corporations and governments will not need to know you perfectly. That is impossible. They will just have to know you a little better than you know yourself. And that is not impossible, because most people don’t know themselves very well." - Yuval Noah Harari
+[successfully hack humans](https://www.theguardian.com/science/2017/apr/26/new-human-rights-to-protect-against-mind-hacking-and-brain-data-theft-proposed)
 
 De lättaste människorna att hacka är de som tror att de har fri vilja.
 

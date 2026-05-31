@@ -1,6 +1,6 @@
 ---
 title: "Sårbarhet som styrka"
-summary: "Sårbarhet är inte motsatsen till styrka — det är dess förutsättning. Att visa sårbarhet på arbetsplatsen och i ledarskap bygger förtroende snabbare än kompetensdemonstration."
+summary: "Sårbarhet är här inte svaghet utan ett mer krävande slags styrka: att visa det osäkra, mänskliga och ofärdiga utan att abdikera från ansvar."
 kind: concept
 party: first
 register: consumed
@@ -10,10 +10,13 @@ tags: [leadership, psychology, masculinity]
 status: reference
 ingested: 2026-05-19
 created: 2026-05-19
+updated: 2026-05-29
 ---
 
-Temat återkommer konsekvent i Gustafs arbete: den traditionella "starke ledaren" håller på att bytas ut mot en ledare vars styrka uttrycks genom mod att vara sårbar. I [[Lena Ahlström — Styrka är sårbarhet]] formuleras det direkt: "Det är både att ha mod, att göra saker och att vara sårbar." [[Vem är den Starke Ledaren?]] ställer frågan explicit — måste en stark ledare numera vara sårbar för att vara stark? Svaret antydas: ja.
+[[Lena Ahlström — Styrka är sårbarhet]] säger det rent: styrka är både modet att göra och modet att vara sårbar. I [[Vem är den Starke Ledaren?]] blir detta en ledarskapsfråga: om människor förväntas leda sig själva kan inte styrka längre betyda pansar.
 
-Detta bekräftas i externa perspektiv. [[https://www.theguardian.com/world/2018/mar/09/men-after-metoo-masculinity-fundamentally-toxic]] beskriver männens grupprörelsers kärninsikt: "We've been educated out of vulnerability!" och att en närvarande man "is by his nature solid, loving, kind, protective. He's not threatened by his own femininity." [[10 steps to Self-Organization Participatory leadership - book?]] spänner ut det till organisationsnivå: "If you are not intimately connected with your inner power and your inner bullshit, you WILL infect the organization with your pathology."
+[[10 steps to Self-Organization Participatory leadership - book?]] drar ut konsekvensen organisatoriskt: om du inte är i kontakt med din inre kraft och ditt eget bullshit kommer du infektera organisationen med din patologi. Sårbarhet är alltså inte bekännelsekultur utan hygien för makt.
 
-Sårbarhet är inte mjukhet — det är strukturell förutsättning för förtroende och helhet.
+Den yttre bekräftelsen i [[https://www.theguardian.com/world/2018/mar/09/men-after-metoo-masculinity-fundamentally-toxic]] är att män behöver tränas i relation, närvaro och känslomässig ärlighet.
+
+Begreppet hör ihop med [[Skuggsidor]] och [[Männens arbete]]: utan skuggarbete blir "sårbarhet" lätt bara performativ exponering.

@@ -30,7 +30,9 @@ Each content kind has a defined path from raw capture to compiled concept. This 
 
 ## thought (quick capture)
 1. Drop into `inbox/thoughts/YYYY-MM-DD-HHMM.md` (any device, any format, anytime).
-2. Weekly: agent batches recent thoughts, drafts cleaned-up versions in `sources/mine/notes/`, links related concepts. User reviews before promotion.
+2. On ingest to `sources/mine/thinking/`, frontmatter tags must never remain empty. If the body contains an inline `Tags:` line, promote it into frontmatter. If no semantic tags are present yet, assign a temporary fallback tag (`thoughts`) and mark `review: true`.
+3. Run `_ai/scripts/normalize_thought_tags.py --apply` as a post-ingest guard for thought notes. This keeps canonical thought notes tagged even when remote inbox capture writes `tags: []`.
+4. Weekly: agent batches recent thoughts, drafts cleaned-up versions in `sources/mine/notes/`, links related concepts. User reviews before promotion.
 
 ---
 

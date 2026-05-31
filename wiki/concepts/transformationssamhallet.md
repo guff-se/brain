@@ -1,6 +1,6 @@
 ---
 title: "Transformationssamhället"
-summary: "Vi lever inte längre i informationssamhället utan i transformationssamhället: vi spenderar mer tid på att ändra vad vi gör än att faktiskt göra det. Förändring är inte ett projekt utan ett permanent tillstånd."
+summary: "Transformationssamhället är tillståndet där förändring blivit normalfallet: vi lägger mer tid på att ändra vad vi gör än på att upprepa det. Därför blir psykologisk mognad och självledarskap centrala produktionsfaktorer."
 kind: concept
 party: first
 register: consumed
@@ -10,12 +10,13 @@ tags: [future, leadership, tech]
 status: reference
 ingested: 2026-05-19
 created: 2026-05-19
+updated: 2026-05-29
 ---
 
-Gustaf lanserar begreppet i [[Digisamdagen 2019 — föreläsning med Gustaf Josefsson Tadaa]]: "Vår tid är inte informationssamhället utan transformationssamhället: mer tid på att ändra vad vi gör än att göra det." Jobbbeskrivningar kan inte längre skrivas av chefer — varje medarbetares primära uppgift är att lista ut sin egen roll.
+[[Digisamdagen 2019 — föreläsning med Gustaf Josefsson Tadaa]] lanserar kärnformeln: vi lever inte i informationssamhället utan i transformationssamhället. När jobbet hela tiden förändras kan ingen chef skriva en slutgiltig arbetsbeskrivning åt dig.
 
-[[Digital Self-Leadership]] formulerar konsekvensen: "in the transformation age we spend more time changing what we do than doing it, and no manager can write meaningful job descriptions anymore — so every employee's primary job is to figure out their own role in the network."
+[[Digital Self-Leadership]] gör detta operativt: varje människas viktigaste arbetsuppgift blir att lista ut sin egen roll i nätverket. Förändring går från projekt till grundvillkor.
 
-[[transformationssamhället]] (thinking) spårar personlig relevans: majoriteten av de som är myndiga är inte vuxna — och i ett transformationssamhälle är psykologisk mognad en arbetsmarknadskompetens. "The self that needs to be improved is the one doing the improving — so I'm stuck" pekar på paradoxen.
+[[transformationssamhället]] visar varför detta inte bara är organisatoriskt utan psykologiskt. Om "the self that needs to be improved is the one doing the improving" blir mognad, självinsikt och förmågan att be om hjälp hårda framtidskompetenser.
 
-Samspelar med [[Distribuerat ledarskap]] och [[AI och mänskligheten]]: tekniken accelererar transformationshastigheten, vilket tvingar fram mer mänskliga organisationer.
+Begreppet binder ihop [[Digitalt självledarskap]], [[Distribuerat ledarskap]], [[Advice process]] och [[AI och mänskligheten]]: teknisk acceleration gör mänsklig utveckling till en allt mer praktisk fråga.
