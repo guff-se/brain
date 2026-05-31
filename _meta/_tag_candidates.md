@@ -263,6 +263,12 @@ Tags proposed by classification that need ≥3 uses to graduate to `taxonomy.md`
 - `refugees` × 3
 - `migration-policy` × 3
 
+<!-- 2026-05-31: promoted to taxonomy after post-Facebook-import audit -->
+- `democracy` × 29 — promoted to taxonomy 2026-05-31
+- `banking` × 7 — promoted to taxonomy 2026-05-31
+- `discrimination` × 3 — promoted to taxonomy 2026-05-31
+- `polarization` × 3 — promoted to taxonomy 2026-05-31
+
 <!-- 2026-05-27: promoted ~95 tags to taxonomy. Deliberately left in candidates (redundant or too narrow): -->
 - `marriage` × 3 — too narrow
 - `cosmology` × 3 — too niche

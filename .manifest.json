@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-05-30",
+  "last_ingest": "2026-05-31",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -785,6 +785,23 @@
         "sources/consumed/articles/the-last-technical-interview.md"
       ],
       "notes": "Fetched via web and summarized into canonical article note."
+    },
+    {
+      "ingest_date": "2026-05-31",
+      "kind": "clipping",
+      "party": "third",
+      "source": "inbox/articles/2026-05-29-130335-6573ab2f.md",
+      "source_url": "https://www.youtube.com/watch?v=GjENnyQupow",
+      "author": "Noam Chomsky",
+      "produced": [
+        "sources/consumed/clippings/chomsky-on-selection-and-the-chair.md"
+      ],
+      "notes": "Chomsky–Marr 1996 BBC exchange on institutional selection. Inbox source deleted after ingest."
+    },
+    {
+      "ingest_date": "2026-05-31",
+      "kind": "housekeeping",
+      "notes": "Deleted 4 thought inbox files (2026-05-29-130328, 2026-05-29-132726, 2026-05-29-134857, 2026-05-29-161845) that had been ingested on 2026-05-29 but not cleaned from inbox/."
     }
   ]
 }
