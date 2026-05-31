@@ -134,13 +134,14 @@ Apple Notes and Evernote contain a mix of all four registers. A pasted article i
 - **Synthesize concepts from `mine/facts/` alone.** Facts are reference; they don't ground a worldview.
 - Translate Swedish notes into English silently.
 - Auto-resolve near-miss dedupe groups without flagging them in a report for me.
+- **Write a new `wiki/concepts/` file without first checking whether the slug already exists.** If it does, edit the existing file. A file named `foo 2.md` is always a bug.
 
 ## 6. Skills (slash-commands to define)
 
 When invoked in this vault, these are the canonical actions:
 
 - `/ingest` — promote `inbox/<kind>/` items into `sources/<kind>/` with frontmatter, provenance, longform split. Updates `.manifest.json`. **After successfully writing the destination file, delete the original from `inbox/` so the subfolder is left empty.** If an inbox item arrives in an unsupported format, treat format handling as part of ingest: inspect the relevant pipeline docs and existing patterns, derive the safest sensible conversion path, and attempt that conversion yourself before declaring the item blocked.
-- `/compile` — scan `sources/` for recurring themes; promote to `wiki/concepts/` when 2-source rule fires; otherwise log to `wiki/_candidates.md`.
+- `/compile` — scan `sources/` for recurring themes; promote to `wiki/concepts/` when 2-source rule fires; otherwise log to `wiki/_candidates.md`. **Before writing any concept file, check if it already exists by listing `wiki/concepts/`. If it exists, update it in place — never write a second copy with a numbered suffix.**
 - `/lint` — orphans, broken `[[wikilinks]]`, missing frontmatter, tags outside taxonomy, contradictions. Output to `_ai/reports/lint-YYYY-MM-DD.md`. Also include all files with `review: true` in frontmatter.
 - `/enrich` — fetch missing article bodies (Wayback fallback); fetch book/podcast metadata.
 - `/synthesize-weekly` — pass over last 7 days; update concepts; draft a daily synthesis note.
