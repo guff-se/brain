@@ -91,7 +91,15 @@ Apple Notes and Evernote contain a mix of all four registers. A pasted article i
 
 ### Atomic-note rule
 - Source notes can be any length.
-- `wiki/concepts/` pages stay **under 200 words** body text. Split larger ideas.
+- `wiki/concepts/` pages stay **under 500 words** body text. Split only if two genuinely separable ideas are being conflated.
+
+### Concept structure (required for every wiki/concepts/ page)
+Every concept must contain all four of the following, in order:
+
+1. **Core claim** — Gustaf's own position in 2–4 sentences. If a `voice` or `thinking` note exists on this topic, the claim must derive from his words there, quoted or closely paraphrased with a wikilink. If only consumed sources exist, state the claim as `^[inferred]` and flag `review: true`. This is the thesis — not a neutral definition.
+2. **Evidence** — what the sources actually say, briefly, with wikilinks. Distinguish Gustaf's material (voice/thinking) from consumed sources. Don't just list; show what each source *adds* or *complicates*.
+3. **Tension** — where do sources disagree? Where does the concept strain or break? What would a skeptic push back on? If there's no genuine tension, the concept isn't ready.
+4. **Implication** — so what? What does this mean in practice, or what does it demand of someone who takes it seriously? Link to adjacent concepts only if the connection is non-obvious.
 
 ### Tags
 - Lowercase, kebab-case. Diacritics stripped.
@@ -141,7 +149,7 @@ Apple Notes and Evernote contain a mix of all four registers. A pasted article i
 When invoked in this vault, these are the canonical actions:
 
 - `/ingest` — promote `inbox/<kind>/` items into `sources/<kind>/` with frontmatter, provenance, longform split. Updates `.manifest.json`. **After successfully writing the destination file, delete the original from `inbox/` so the subfolder is left empty.** If an inbox item arrives in an unsupported format, treat format handling as part of ingest: inspect the relevant pipeline docs and existing patterns, derive the safest sensible conversion path, and attempt that conversion yourself before declaring the item blocked.
-- `/compile` — scan `sources/` for recurring themes; promote to `wiki/concepts/` when 2-source rule fires; otherwise log to `wiki/_candidates.md`. **Before writing any concept file, check if it already exists by listing `wiki/concepts/`. If it exists, update it in place — never write a second copy with a numbered suffix.**
+- `/compile` — scan `sources/` for recurring themes; promote to `wiki/concepts/` when 2-source rule fires; otherwise log to `wiki/_candidates.md`. **Before writing any concept file, check if it already exists by listing `wiki/concepts/`. If it exists, update it in place — never write a second copy with a numbered suffix.** Each compiled concept must follow the four-part structure (core claim → evidence → tension → implication) defined in the Concept structure section. The core claim must be anchored in a `voice` or `thinking` note if one exists — consumed sources frame the claim but don't make it. A concept that only summarizes what external sources say is not ready to be written; log it to `_candidates.md` and note what first-party material is missing.
 - `/lint` — orphans, broken `[[wikilinks]]`, missing frontmatter, tags outside taxonomy, contradictions. Output to `_ai/reports/lint-YYYY-MM-DD.md`. Also include all files with `review: true` in frontmatter.
 - `/enrich` — fetch missing article bodies (Wayback fallback); fetch book/podcast metadata.
 - `/synthesize-weekly` — pass over last 7 days; update concepts; draft a daily synthesis note.
