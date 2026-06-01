@@ -34,3 +34,33 @@ Det finns också en skalbarhetsfråga som materialet inte fullt löser. Borderla
 ## Implication
 
 Distribuerat ledarskap börjar inte med en organisationsstruktur. Det börjar med konkreta övningar: potluck-middagen, open space-mötet, advice process på en riktig beslutsfråga. Strukturen följer kulturen, inte tvärtom. Och kulturen börjar med ledaren som kan "lista sina egna sätt att suga" — som kan sätta sina egna skuggor på bordet innan de kräver det av alla andra. [[Skuggsidor]] och distribuerat ledarskap är beroende av varandra: utan psykologiskt arbete producerar självorganisering bara kamuflerad hierarki.
+
+## Quotes
+
+> "The idea that there are two kinds of people - leaders and followers - are a deeply oppressive myth." — Gustaf, [[10 steps to Self-Organization Participatory leadership - book?]]
+
+> "And, yes, liberation is scary. Being told that you can and should take responsibility for yourself is not very pleasant when we are used to it." — Gustaf, [[10 steps to Self-Organization Participatory leadership - book?]]
+
+> "If you are not intimately connected with your inner power and your inner bullshit, you WILL infect the organization with your pathology. Indeed, in founder lead organizations, organizational pathology is often intricately linked with the psychological pathology of the founder." — Gustaf, [[10 steps to Self-Organization Participatory leadership - book?]]
+
+> "Own you shit - if you can't list the ways you suck, you have some digging to do." — Gustaf, [[10 steps to Self-Organization Participatory leadership - book?]]
+
+> "Transparency by default (Because otherwise it takes work!)" — Gustaf, [[10 steps to Self-Organization Participatory leadership - book?]]
+
+> "'Some people wants to be told what to do'- Fucking bullshit. That's not how we are born, that's how we are taught to behave by other people who want us to behave more predictably to calm their own egos." — Gustaf, [[10 steps to Self-Organization Participatory leadership - book?]]
+
+> "I believe that the future is co-created by everyone." — Gustaf, [[10 steps to Self-Organization Participatory leadership - book?]]
+
+> "Stop Following Me!" — Gustaf, [[10 steps to Self-Organization Participatory leadership - book?]]
+
+> "work is play" — Gustaf, [[Borderland principles]]
+
+> "If the board makes a decsion, we have failed" — Gustaf, [[Borderland principles]]
+
+> "What we happen if we _dont_ do anything about this problem?" — Gustaf, [[Borderland principles]]
+
+> "Egalitarianism. We don't include based on predicted contribution." — Gustaf, [[Borderland principles]]
+
+> "It is your job to figure out what your job is" — Gustaf, [[Borderland principles]]
+
+> "Nepotism Builds Communities. How do we regulate it?" — Gustaf, [[Borderland principles]]

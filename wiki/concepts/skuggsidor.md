@@ -34,3 +34,27 @@ Det finns också en spänning mellan den individuella och den kollektiva skuggan
 ## Implication
 
 På arbetsplatsen är ointegrerade skuggor organisatoriska patologier. Micromanagement är ofta kontrollerad ångest. Konflikträdsla är undertryckt ilska. Prestationsbaserad självkänsla skapar kulturer där ingen frågar om hjälp. "Börja med dig själv" — den som säger att *vi* behöver bli bättre på svåra samtal pratar ofta om att det är svårt att säga till *någon annan* att de bör ändra sig. Skuggarbete är inte en övning i självförbättring. Det är en förutsättning för att kunna se klart.
+
+## Quotes
+
+> "de delar av dig själv du inte kan eller vill se" — Gustaf, [[Skuggsidan / Påjobbet]]
+
+> "När du desperat strävar efter att vara god, fantastisk, helt perfekt, så utvecklar din skugga en vilja att vara svart, ondskefull och destruktiv." — Gustaf, [[Skuggsidan / Påjobbet]]
+
+> "Att vräka ur dig din ångest är inte att vara sårbar!" — Gustaf, [[Skuggsidan / Påjobbet]]
+
+> "Börja med dig själv. — Den som säger att 'vi' behöver bli bättre på att ta ett 'svårt samtal' pratar ofta om att det är svårt att säga till nån annan att de bör ändra på sig." — Gustaf, [[Skuggsidan / Påjobbet]]
+
+> "Mina skuggor: Jag är bättre än du — narcissism. Det spelar ingen roll — nihilism." — Gustaf, [[Skuggsidan / Påjobbet]]
+
+> "When one tries desperately to be good and wonderful and perfect, then all the more the shadow develops a definite will to be black and evil and destructive. People cannot see that; they are always striving to be marvellous, and then they discover that terrible destructive things happen which they cannot understand, and they either deny that such facts have anything to do with them, or if they admit them, they take them for natural afflictions, or they try to minimize them and to shift the responsibility elsewhere." — Carl Jung (quoted in [[Skuggsidan / Påjobbet]])
+
+> "Everyone carries a shadow, and the less it is embodied in the individual's conscious life, the blacker and denser it is. At all counts, it forms an unconscious snag, thwarting our most well-meant intentions." — Carl Jung (quoted in [[Skuggsidan / Påjobbet]])
+
+> "Every part of our personality that we do not love will become hostile to us." — Robert Bly (quoted in [[Skuggsidan / Påjobbet]])
+
+> "What was dragged through the city was my own clinging to the belief that my way is the right way, the good way, always the best way for the community." — Gustaf, [[The Summoning of the Black Unicorn]]
+
+> "I allowed myself to cry over having lost, of finally having the dark powers of other people's will take over. Of having lost control over the beast that is The Borderland. Of not having it all my way. To despair over the uncertainty of not being in control. To be punished for my self-obsession, to be humiliated for my sense of pride, to be sacrificed for letting my ego hurt myself and others." — Gustaf, [[The Summoning of the Black Unicorn]]
+
+> "I felt a strong sense of relief, of having been thrown off the pedestal. To have gotten out of the character that I love to play, and that so many of you love me playing: the funny, charming, intelligent and charismatic 'Gustaf'. I allowed myself to be weak, and feel worthless in front of everyone." — Gustaf, [[The Summoning of the Black Unicorn]]

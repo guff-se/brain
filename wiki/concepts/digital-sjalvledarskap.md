@@ -40,3 +40,39 @@ Gustaf löser inte den strukturella frågan — hans svar är individuellt och p
 ## Implication
 
 Digitalt självledarskap börjar med en konkret fråga: vem har tillstånd att injicera tankar i ditt huvud? Notifikationsinställningen är ingångspunkten — men den djupare frågan är om du har en digital identitet du faktiskt känner igen som din egen. Den integrationsuppgiften — "the you you found on the mountain with the you in your pocket" — är det som skiljer digital hygien från digitalt självledarskap. Det ena är taktiskt. Det andra är karaktärsarbete.
+
+## Quotes
+
+> "Every employee's primary job description is now to figure out their own job description." — Gustaf, [[Digital Self-Leadership]]
+
+> "Most people have surrendered the power to put thoughts into their own brains by not curating their notifications." — Gustaf, [[Digital Self-Leadership]]
+
+> "Personal development cannot be treated as separate from digital development — you must integrate 'the you you found on the mountain with the you in your pocket.'" — Gustaf, [[Digital Self-Leadership]]
+
+> "What you are looking at right now is a digital reflection of yourself. How does that feel?" — Gustaf, [[Digital Self-Leadership]]
+
+> "We have to train our digital senses in the same way we train our biological senses." — Gustaf, [[Digital Self-Leadership]]
+
+> "Technology is the only thing that actually made us human." — Gustaf, [[Digital Self-Leadership]]
+
+> "digitalt självledarskap, alltså den personliga utveckling som krävs för att leva i en digital värld" — Gustaf, [[Bredband 2 samabrete december 2019]]
+
+> "Om du tänker dig att du och alla dina medarbetare är 'hackbara', hur behöver du agera för att ta hand om dig själv och de omkring dig?" — Gustaf, [[Bredband 2 samabrete december 2019]]
+
+> "Har du lärt dig att administrera dina notifications? Vilka tjänster, vilka företag och vilka personer har du gett makten att injicera idéer i ditt huvud på eget initiativ utan ditt samtycke i stunden?" — Gustaf, [[2000 notifications får en högstadieklass...]]
+
+> "Själv har jag bara notifications på telefonsamtal och SMS. Jag vill helst bestämma själv över mina egna tankar." — Gustaf, [[2000 notifications får en högstadieklass...]]
+
+> "2000 notifications får en högstadieklass i sina mobiler på bara en halvtimme. Utbildningsministern tror att mobilförbud i klassrummet är svaret. Men... vad händer då med resten av dygnet? Vad sägs om att utbilda eleverna i att hantera mobilen istället för att bara försöka sopa den under mattan?" — Gustaf, [[2000 notifications får en högstadieklass...]]
+
+> "It's not that Elon is controlled by Twitter. It is that if he wasn't controlled by twitter, he wouldn't have bought the company. The fact that he bought it shows that he was already addicted." — Gustaf, [[Elon is an AI]]
+
+> "The more Elon uses Twitter, the more power it has over him. At the same time he has increased his power over Twitter. At some point there cease to be a meaningful difference between the two." — Gustaf, [[Elon is an AI]]
+
+> "Every hour I spent online was not spent in the physical world. Every minute I was engrossed in a virtual interaction I was not involved in a human encounter. Every second absorbed in some trivia was a second less for any form of reflection, or calm, or spirituality." — Andrew Sullivan, [[Andrew Sullivan: My Distraction Sickness — and Yours]]
+
+> "So much of the technology was irreversible, as I also knew. But I'd begun to fear that this new way of living was actually becoming a way of not-living." — Andrew Sullivan, [[Andrew Sullivan: My Distraction Sickness — and Yours]]
+
+> "Has our enslavement to dopamine — to the instant hits of validation that come with a well-crafted tweet or Snapchat streak — made us happier? I suspect it has simply made us less unhappy, or rather less aware of our unhappiness, and that our phones are merely new and powerful antidepressants of a non-pharmaceutical variety." — Andrew Sullivan, [[Andrew Sullivan: My Distraction Sickness — and Yours]]
+
+> "Do not flatter yourself in thinking that you have much control over which temptations you click on. Silicon Valley's technologists and their ever-perfecting algorithms have discovered the form of bait that will have you jumping like a witless minnow." — Andrew Sullivan, [[Andrew Sullivan: My Distraction Sickness — and Yours]]

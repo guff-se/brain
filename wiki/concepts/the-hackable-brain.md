@@ -36,3 +36,21 @@ Det finns också en tidsdimension: [[Framtidspsykologi - Vad formar en framtidsb
 ## Implication
 
 "Know thyself" är det klassiska svaret — men nu måste det inkludera en medvetenhet om att en stor del av vad du tror är ditt eget tänkande är resultat av designade flöden och algoritmer. Det praktiska ledarskapssvaret från Gustaf: digitalt självledarskap — medveten administration av vilka system som får tillgång till din uppmärksamhet. Det är inte tillräckligt, men det är en start. Se [[Digital självledarskap]] för den operativa konsekvensen.
+
+## Quotes
+
+> "För att kunna hacka en människa, behöver du två saker: en god förståelse av biologi och en jädra massa datakraft. Invisitationen, eller KGB saknade denna kunskap och makt. Men snart kommer både stater och företag ha båda, och när de väl kan hacka människor kan de inte bara förutsäga dina beslut, eller 'nudga' dem - de kan konstruera om dina känslor. För att kunna göra detta behöver företag eller stater inte veta allt om dig. Det är omöjligt. De behöver bara veta lite mer om dig än vad du vet själv. Och det är inte svårt, eftersom de flesta människor känner inte sig själva särskilt väl." — Yuval Noah Harari (quoted in [[För att kunna hacka människor Harari]])
+
+> "In order to successfully hack humans, you need two things: a good understanding of biology, and a lot of computing power. The Inquisition and the KGB lacked this knowledge and power. But soon, governments and corporations, like your own, will have both, and once they can hack people, they can not only predict your choices, but also reengineer your feelings. To do so, corporations and governments will not need to know you perfectly. That is impossible. They will just have to know you a little better than you know yourself. And that is not impossible, because most people don't know themselves very well." — Yuval Noah Harari (quoted in [[För att kunna hacka människor Harari]])
+
+> "Om du tänker dig att du och alla dina medarbetare är 'hackbara', hur behöver du agera för att ta hand om dig själv och de omkring dig?" — Gustaf, [[Bredband 2 samabrete december 2019]]
+
+> "digitalt självledarskap, alltså den personliga utveckling som krävs för att leva i en digital värld" — Gustaf, [[Bredband 2 samabrete december 2019]]
+
+> "What you are looking at right now is a digital reflection of yourself. How does that feel?" — Gustaf, [[Digital Self-Leadership]]
+
+> "We have to train our digital senses in the same way we train our biological senses." — Gustaf, [[Digital Self-Leadership]]
+
+> "Most people have surrendered the power to put thoughts into their own brains by not curating their notifications." — Gustaf, [[Digital Self-Leadership]]
+
+> "As AI Understands us, it affects us. We can't help but adopt to its ideas about us." — Gustaf, [[Framtidspsykologi - Vad formar en framtidsbild?]]

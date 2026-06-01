@@ -36,3 +36,27 @@ Det finns också en spänning i Observer Problem-tanken: om din psykologi formar
 ## Implication
 
 Framtidsspanare är inte neutrala analytiker — de är aktörer. Vad du påstår om framtiden formar vad folk tror är möjligt. Det gör framtidsretorik till en maktfråga: vems framtidsbilder dominerar flödet? Och praktiskt: att göra framtidsbilder medvetet — "Vad säger den här visionen om mig?" — är ett diagnostiskt verktyg. Den bästa frågan att ställa om en framtidsbild är inte "Är den realistisk?" utan "Vad vill den som håller den?"
+
+## Quotes
+
+> "Att visionera är att skapa, att bringa till verklighet. Du kan aldrig säga hur framtiden ser ut, du säger hur du VILL att framtiden ser ut. Du har alltså ett ansvar för dina framtidsförutsägeler." — Gustaf, [[Framtidspsykologi - Vad formar en framtidsbild?]]
+
+> "Syftet med 'framtidsterapi' är att förstå framtiden bättre genom att titta på den psykologi som ligger bakom vårt skapande av framtidsbilder, samtidigt som vi lär oss förstå oss själva bättre genom att studera våra framtidsbilder." — Gustaf, [[Framtidspsykologi - Vad formar en framtidsbild?]]
+
+> "As AI Understands us, it affects us. We can't help but adopt to its ideas about us." — Gustaf, [[Framtidspsykologi - Vad formar en framtidsbild?]]
+
+> "Framtiden är inte mammas hopp, inte pappas ambitioner. Framtiden är din och endast din berättelse att berätta." — Gustaf, [[Framtiden är i dig]]
+
+> "Framtiden kan bara lysas upp av ditt eget sinnes strålar." — Gustaf, [[Framtiden är i dig]]
+
+> "Framtiden väntar inte på att bli upptäckt. Framtiden väntar på att bli skapad." — Gustaf, [[Framtiden är i dig]]
+
+> "Framtiden är inte en plats, en destination, ett mål. Framtiden är drömmen om en resa utan slut." — Gustaf, [[Framtiden är i dig]]
+
+> "Framtiden är inte en tid som komma skall. Framtiden existerar i dig just nu." — Gustaf, [[Framtiden är i dig]]
+
+> "Framtiden är inte en mekanisk värd där du är gäst. Framtiden är en tanke, och ingen annans än din." — Gustaf, [[Framtiden är i dig]]
+
+> "Framtiden är inte fylld av ljus, inte dold i mörker. Framtiden kan bara lysas upp av ditt eget sinnes strålar." — Gustaf, [[Framtiden är i dig]]
+
+> "Framtiden är inte det spel på vinst eller förlust. Framtiden är det spel vi väljer att fortsätta spela." — Gustaf, [[Framtiden är i dig]]
