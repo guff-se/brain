@@ -129,6 +129,7 @@ Every concept must contain all four of the following, in order:
 1. Write a session log to `_ai/sessions/YYYY-MM-DD-HHMM.md` with: what came in, what was produced, open candidates surfaced.
 2. If you created or modified concepts, append to `wiki/_candidates.md` or `wiki/concepts/`.
 3. Suggest 1–2 follow-ups for the next session.
+4. **Write the session log before committing.** Never commit vault changes without a session log for today already present in `_ai/sessions/`.
 
 ## 5. What you must NEVER do
 
