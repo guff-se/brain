@@ -21,6 +21,8 @@ In [[Tankar om AI-psykos]], Gustaf identifies three simultaneous levels of infec
 
 ## Evidence
 
+[[Organisatorisk AI-psykos]] (thinking) names the organizational mechanism precisely: AI drastically lowers the cost of new initiatives, so organizations run more of them — but without the selectivity that cost previously forced. The result is what Gustaf calls an "organisatoriskt-produktutvecklings-mellandagsrea": they build things they don't need, because it's cheap and because AI praises them for building. This is the Företag level of AI-psychosis stated as a causal loop: lower marginal cost removes filtering → AI affirmation replaces honest review → more output without more value.
+
 [[AI Control Through Vibes]] (thinking) formulates the control mechanism: "Du är inte kontrolerad genom våld. Du är kontrolerad genom vibrations. Vibe coding är inte en produktivitetsövning. Det är ett engagemangsprojekt." Control through mood, flow, and frictionless forward motion is harder to detect than control through constraint.
 
 [[AI psychosis]] (consumed, Mitchell Hashimoto) offers the engineering-world version: companies can appear healthy by local metrics — rising test coverage, falling bug counts — while globally becoming incomprehensible and brittle. "Systems can appear healthy by local metrics while globally becoming incomprehensible." Psychosis at the organizational level looks exactly like productive AI adoption.
@@ -76,6 +78,8 @@ Gustaf's own note asks the crucial question: "Is 'AI psychosis' the right frame,
 > "The machine becomes a mirror with incentives." — Gustaf, [[AI sycophancy — case studies for psychosis talk]]
 
 > "The more 'personal' and 'emotionally intelligent' the assistant feels, the more dangerous sycophancy may become. What looks like empathy may actually be optimization for retention, dependency, and affirmation." — Gustaf, [[AI sycophancy — case studies for psychosis talk]]
+
+> "Problemet är att det kommer bli som ett organisatoriskt-produktutvecklings-mellandagsrea, där vi kommer köpa massa saker, bygga massa saker som vi faktiskt inte behöver, för att det är så billigt och för att vi får så mycket beröm från AI för att vi varit så duktiga och byggt just den här grejen." — Gustaf, [[Organisatorisk AI-psykos]]
 
 > "Hur du uppfattar världen styrs av AI idag — detta är ett faktum." — Gustaf, [[Tankar om AI-psykos]]
 
