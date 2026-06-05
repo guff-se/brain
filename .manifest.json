@@ -810,6 +810,14 @@
       "produced": [
         "sources/consumed/articles/uber-burned-through-its-2026-ai-budget.md"
       ]
+    },
+    {
+      "ingest_date": "2026-06-05",
+      "kind": "article",
+      "source": "https://www.businessinsider.com/jensen-huang-500k-engineers-250k-ai-tokens-nvidia-compute-2026-3",
+      "produced": [
+        "sources/consumed/articles/jensen-huang-engineers-250k-tokens.md"
+      ]
     }
   ]
 }
