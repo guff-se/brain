@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-05-31",
+  "last_ingest": "2026-06-05",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -802,6 +802,14 @@
       "ingest_date": "2026-05-31",
       "kind": "housekeeping",
       "notes": "Deleted 4 thought inbox files (2026-05-29-130328, 2026-05-29-132726, 2026-05-29-134857, 2026-05-29-161845) that had been ingested on 2026-05-29 but not cleaned from inbox/."
+    },
+    {
+      "ingest_date": "2026-06-05",
+      "kind": "article",
+      "source": "https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/",
+      "produced": [
+        "sources/consumed/articles/uber-burned-through-its-2026-ai-budget.md"
+      ]
     }
   ]
 }
