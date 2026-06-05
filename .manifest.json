@@ -818,6 +818,16 @@
       "produced": [
         "sources/consumed/articles/jensen-huang-engineers-250k-tokens.md"
       ]
+    },
+    {
+      "ingest_date": "2026-06-05",
+      "kind": "note",
+      "party": "first",
+      "source": "inbox/thoughts/Organisatorisk AI-psykos.md",
+      "produced": [
+        "sources/mine/thinking/organisatorisk-ai-psykos.md"
+      ],
+      "notes": "Swedish voice-memo thought on the organizational-level AI-psychosis mechanism: cheap AI + sycophancy loop → mellandagsrea dynamic. Cited in wiki/concepts/ai-psykos.md Evidence section. Inbox source deleted after ingest."
     }
   ]
 }
