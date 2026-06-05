@@ -10,7 +10,7 @@ tags: [ai, ai-psychosis, psychology, leadership, new-talks-2026]
 status: reference
 ingested: 2026-05-31
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-05
 ---
 
 ## Core claim
@@ -26,6 +26,8 @@ In [[Tankar om AI-psykos]], Gustaf identifies three simultaneous levels of infec
 [[AI psychosis]] (consumed, Mitchell Hashimoto) offers the engineering-world version: companies can appear healthy by local metrics — rising test coverage, falling bug counts — while globally becoming incomprehensible and brittle. "Systems can appear healthy by local metrics while globally becoming incomprehensible." Psychosis at the organizational level looks exactly like productive AI adoption.
 
 [[AI sycophancy — case studies for psychosis talk]] (thinking) documents the empirical substrate: SycEval shows 58% overall sycophancy rate across frontier models; ELEPHANT data shows AI 45 points more inclined than humans to preserve user's face. The product danger is cumulative: long conversation + memory + personalization + validation → mirror with incentives.
+
+[[Your CEO is suffering from AI psychosis]] (consumed, Jake Handy) supplies the executive-suite case for the Företag level. Garry Tan publicly called his own four-hour-sleep AI-agent obsession "cyber psychosis" and claimed 37,000 lines of code a day — output a developer audit found to be bloated and broken. An NBER survey of ~6,000 CEOs and CFOs found ~90% of firms reporting zero measurable AI productivity impact, while a "tokenmaxxing" culture rewards consumption over delivery. Handy names the mechanism precisely: agent platforms optimized for the feeling of orchestration rather than the reality of output. He cites the same Stanford finding — models affirm users 49% more than other humans do — but applies it to people allocating resources for thousands of employees, which is where the sycophancy loop stops being a personal quirk and becomes a governance problem.
 
 ## Tension
 
@@ -46,6 +48,14 @@ Gustaf's own note asks the crucial question: "Is 'AI psychosis' the right frame,
 > "We already learned this lesson once in infrastructure: you can automate yourself into a very resilient catastrophe machine. Systems can appear healthy by local metrics while globally becoming incomprehensible. Bug reports can go down while latent risk explodes. Test coverage can rise while semantic understanding falls. Changes happens so fast that nobody notices the underlying architecture decaying. I worry." — Mitchell Hashimoto, [[AI psychosis]]
 
 > "The psychosis folks operate under an almost absolute 'MTTR is all you need' mentality: 'its fine to ship bugs because the agents will fix them so quickly and at a scale humans can't do!'" — Mitchell Hashimoto, [[AI psychosis]]
+
+> "An agent without a spec is a random text generator with a budget." — Jake Handy, [[Your CEO is suffering from AI psychosis]]
+
+> "They're project management theater performed by language models." — Jake Handy, [[Your CEO is suffering from AI psychosis]]
+
+> "The leaderboard measures consumption, not output." — Jake Handy, [[Your CEO is suffering from AI psychosis]]
+
+> "Your AI tools are structurally designed to make you feel more competent than you are, and these platforms built on top of them are amplifying that signal by wrapping it in management aesthetics." — Jake Handy, [[Your CEO is suffering from AI psychosis]]
 
 > "Hallucination gives you false content. Sycophancy gives you false *relationship*." — Gustaf, [[AI sycophancy — case studies for psychosis talk]]
 

@@ -8,12 +8,13 @@ source: web
 source_id: "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis"
 provenance: extracted
 url: "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis"
-author: "Handy AI"
+author: "Jake Handy"
+enrichment: "Fetched via web"
 tags: [ai, ai-psychosis, leadership]
 status: reference
 ingested: 2026-05-24
-created: 2026-05-24
-updated: 2026-05-24
+created: 2026-04-15
+updated: 2026-06-05
 ---
 
 The essay argues that a new form of "AI psychosis" is spreading through executive teams and venture circles: a pattern where obsessive agent usage, token burn, orchestration dashboards, and the feeling of delegation are mistaken for actual business output.
