@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-06-05",
+  "last_ingest": "2026-06-07",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -61,6 +61,14 @@
       "scope": "manual web ingest",
       "sources": [
         "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564"
+      ],
+      "produced_count": 1
+    },
+    {
+      "ingest_date": "2026-06-07",
+      "scope": "manual web ingest",
+      "sources": [
+        "https://leoveanu.com/2026-06-06-qwen3.7max/"
       ],
       "produced_count": 1
     }
@@ -828,6 +836,16 @@
         "sources/mine/thinking/organisatorisk-ai-psykos.md"
       ],
       "notes": "Swedish voice-memo thought on the organizational-level AI-psychosis mechanism: cheap AI + sycophancy loop → mellandagsrea dynamic. Cited in wiki/concepts/ai-psykos.md Evidence section. Inbox source deleted after ingest."
+    },
+    {
+      "ingest_date": "2026-06-07",
+      "kind": "article",
+      "party": "third",
+      "source": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+      "produced": [
+        "sources/consumed/articles/the-onlyfans-economy-of-american-ai.md"
+      ],
+      "notes": "Fetched via web and summarized into canonical article note."
     }
   ]
 }
