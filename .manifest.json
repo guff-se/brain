@@ -71,6 +71,15 @@
         "https://leoveanu.com/2026-06-06-qwen3.7max/"
       ],
       "produced_count": 1
+    },
+    {
+      "ingest_date": "2026-06-07",
+      "scope": "manual web ingest",
+      "sources": [
+        "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+        "https://www.anthropic.com/institute/recursive-self-improvement"
+      ],
+      "produced_count": 2
     }
   ],
   "entries": [
@@ -844,6 +853,26 @@
       "source": "https://leoveanu.com/2026-06-06-qwen3.7max/",
       "produced": [
         "sources/consumed/articles/the-onlyfans-economy-of-american-ai.md"
+      ],
+      "notes": "Fetched via web and summarized into canonical article note."
+    },
+    {
+      "ingest_date": "2026-06-07",
+      "kind": "article",
+      "party": "third",
+      "source": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "produced": [
+        "sources/consumed/articles/no-artificial-intelligence-is-not-conscious.md"
+      ],
+      "notes": "Fetched via web and summarized into canonical article note. Partial text available despite paywall."
+    },
+    {
+      "ingest_date": "2026-06-07",
+      "kind": "article",
+      "party": "third",
+      "source": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "produced": [
+        "sources/consumed/articles/when-ai-builds-itself.md"
       ],
       "notes": "Fetched via web and summarized into canonical article note."
     }
