@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-06-07",
+  "last_ingest": "2026-06-08",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -80,6 +80,14 @@
         "https://www.anthropic.com/institute/recursive-self-improvement"
       ],
       "produced_count": 2
+    },
+    {
+      "ingest_date": "2026-06-08",
+      "scope": "manual web ingest",
+      "sources": [
+        "https://www.wheresyoured.at/ai-is-slowing-down/"
+      ],
+      "produced_count": 1
     }
   ],
   "entries": [
@@ -875,6 +883,16 @@
         "sources/consumed/articles/when-ai-builds-itself.md"
       ],
       "notes": "Fetched via web and summarized into canonical article note."
+    },
+    {
+      "ingest_date": "2026-06-08",
+      "kind": "article",
+      "party": "third",
+      "source": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "produced": [
+        "sources/consumed/articles/ai-is-slowing-down.md"
+      ],
+      "notes": "Fetched via web and summarized into canonical article note. Linked from the AI psychosis keynote scratchpad as a financial-bubble source."
     }
   ]
 }

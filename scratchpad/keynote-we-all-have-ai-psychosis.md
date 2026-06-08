@@ -66,6 +66,7 @@ Du lever inuti en personligt konstruerad version av verkligheten - en psykos.
 
 Men titta på pengarna
 Värderingar AI-bolag - bubbla
+[[AI Is Slowing Down]] — 190GW planned, roughly $9.5T–$15T implied buildout, and a demand story resting on a tiny number of buyers.
 AI giants subsidizing tokens.
 Whole business models where the revenue is mostly just reselling somebody else's tokens back to you.
 
