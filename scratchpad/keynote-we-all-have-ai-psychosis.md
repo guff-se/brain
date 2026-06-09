@@ -81,6 +81,7 @@ Now climb one floor down. Into the building you actually work in.
 * token burning - uber - jensen huang
 
 https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis
+[[CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs]] — the CEO sees the happy path demo, mistakes it for the whole job, and forgets all the invisible last-mile work that still has to happen.
 
 It *feels* like productivity. It feels like the future.
 
