@@ -1,0 +1,4475 @@
+# Article filename check
+
+- Rule: `sources/consumed/articles/YYYY-MM-DD-slug.md`
+- Date precedence: `published` → `created` → `captured` → `ingested`
+- Apply mode: False
+- Files scanned: 1116
+- Mismatches: 902
+- Renamed: 0
+- Errors: 1
+
+## Results
+
+- `sources/consumed/articles/0000-The Coming Technological Singularity.md` — mismatch
+  - detail: The Coming Technological Singularity
+  - current: `0000-The Coming Technological Singularity.md`
+  - expected: `2016-01-15-the-coming-technological-singularity.md`
+- `sources/consumed/articles/0001-The next society The Economist.md` — mismatch
+  - detail: The next society | The Economist
+  - current: `0001-The next society The Economist.md`
+  - expected: `2017-07-31-the-next-society-the-economist.md`
+- `sources/consumed/articles/0002-http www.antipope.org charlie blog-static 2011 06 reality-check-1.html.md` — mismatch
+  - detail: http://www.antipope.org/charlie/blog-static/2011/06/reality-check-1.html
+  - current: `0002-http www.antipope.org charlie blog-static 2011 06 reality-check-1.html.md`
+  - expected: `2015-09-28-http-www-antipope-org-charlie-blog-static-2011-06-reality-check-1-html.md`
+- `sources/consumed/articles/0003-https www.strongtowns.org the-growth-ponzi-scheme.md` — mismatch
+  - detail: https://www.strongtowns.org/the-growth-ponzi-scheme
+  - current: `0003-https www.strongtowns.org the-growth-ponzi-scheme.md`
+  - expected: `2021-07-04-https-www-strongtowns-org-the-growth-ponzi-scheme.md`
+- `sources/consumed/articles/0004-http www.twbta.com.md` — mismatch
+  - detail: http://www.twbta.com/
+  - current: `0004-http www.twbta.com.md`
+  - expected: `2019-05-20-http-www-twbta-com.md`
+- `sources/consumed/articles/0005-Buckminster Fuller Archive Free Movies Download & Streaming Internet.md` — mismatch
+  - detail: Buckminster Fuller Archive : Free Movies : Download & Streaming : Internet
+  - current: `0005-Buckminster Fuller Archive Free Movies Download & Streaming Internet.md`
+  - expected: `2018-01-30-buckminster-fuller-archive-free-movies-download-and-streaming-internet.md`
+- `sources/consumed/articles/0006-Leverage Points Places to Intervene in a System - The Donella Meadows Proj.md` — mismatch
+  - detail: Leverage Points: Places to Intervene in a System - The Donella Meadows Proj
+  - current: `0006-Leverage Points Places to Intervene in a System - The Donella Meadows Proj.md`
+  - expected: `2020-11-30-leverage-points-places-to-intervene-in-a-system-the-donella-meadows-proj.md`
+- `sources/consumed/articles/0007-http www.theguardian.com science 2012 oct 03 philosophy-artificial-intelligence.md` — mismatch
+  - detail: http://www.theguardian.com/science/2012/oct/03/philosophy-artificial-intelligence
+  - current: `0007-http www.theguardian.com science 2012 oct 03 philosophy-artificial-intelligence.md`
+  - expected: `2015-11-02-http-www-theguardian-com-science-2012-oct-03-philosophy-artificial-intelligence.md`
+- `sources/consumed/articles/0008-10 Ideas That Will Change the World - TIME.md` — mismatch
+  - detail: 10 Ideas That Will Change the World - TIME
+  - current: `0008-10 Ideas That Will Change the World - TIME.md`
+  - expected: `2015-08-24-10-ideas-that-will-change-the-world-time.md`
+- `sources/consumed/articles/0009-http www.oxfordmartin.ox.ac.uk downloads academic The_Future_of_Employment.pdf.md` — mismatch
+  - detail: http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf
+  - current: `0009-http www.oxfordmartin.ox.ac.uk downloads academic The_Future_of_Employment.pdf.md`
+  - expected: `2016-11-15-http-www-oxfordmartin-ox-ac-uk-downloads-academic-the-future-of-employment-pdf.md`
+- `sources/consumed/articles/0010-https thoughtcatalog.com david-mcmillan 2012 03 exposing-the-righteous-mind-an-interview-with-jonath.md` — mismatch
+  - detail: https://thoughtcatalog.com/david-mcmillan/2012/03/exposing-the-righteous-mind-an-interview-with-jonathan-haidt/
+  - current: `0010-https thoughtcatalog.com david-mcmillan 2012 03 exposing-the-righteous-mind-an-interview-with-jonath.md`
+  - expected: `2017-09-07-https-thoughtcatalog-com-david-mcmillan-2012-03-exposing-the-righteous-mind-an-interview-with-jonathan-haidt.md`
+- `sources/consumed/articles/0011-The Death Of Expertise.md` — mismatch
+  - detail: The Death Of Expertise
+  - current: `0011-The Death Of Expertise.md`
+  - expected: `2015-10-21-the-death-of-expertise.md`
+- `sources/consumed/articles/0012-http waitbutwhy.com 2014 02 pick-life-partner.html.md` — mismatch
+  - detail: http://waitbutwhy.com/2014/02/pick-life-partner.html
+  - current: `0012-http waitbutwhy.com 2014 02 pick-life-partner.html.md`
+  - expected: `2015-08-23-http-waitbutwhy-com-2014-02-pick-life-partner-html.md`
+- `sources/consumed/articles/0013-3D Printing and the Supply Chain to Drastically Alter Manufacturing.md` — mismatch
+  - detail: 3D Printing and the Supply Chain to Drastically Alter Manufacturing
+  - current: `0013-3D Printing and the Supply Chain to Drastically Alter Manufacturing.md`
+  - expected: `2015-06-09-3d-printing-and-the-supply-chain-to-drastically-alter-manufacturing.md`
+- `sources/consumed/articles/0014-Scott Alexander Slate Star Codex.md` — mismatch
+  - detail: Scott Alexander | Slate Star Codex
+  - current: `0014-Scott Alexander Slate Star Codex.md`
+  - expected: `2024-07-20-scott-alexander-slate-star-codex.md`
+- `sources/consumed/articles/0015-Daniel Goleman Why aren't we more compassionate TED Talk.md` — mismatch
+  - detail: Daniel Goleman: Why aren't we more compassionate? | TED Talk
+  - current: `0015-Daniel Goleman Why aren't we more compassionate TED Talk.md`
+  - expected: `2018-11-21-daniel-goleman-why-aren-t-we-more-compassionate-ted-talk.md`
+- `sources/consumed/articles/0016-Spotify engineering culture (part 1) Labs.md` — mismatch
+  - detail: Spotify engineering culture (part 1) | Labs
+  - current: `0016-Spotify engineering culture (part 1) Labs.md`
+  - expected: `2015-10-29-spotify-engineering-culture-part-1-labs.md`
+- `sources/consumed/articles/0017-Don’t Fuck Up the Culture – Brian Chesky – Medium.md` — mismatch
+  - detail: Don’t Fuck Up the Culture – Brian Chesky – Medium
+  - current: `0017-Don’t Fuck Up the Culture – Brian Chesky – Medium.md`
+  - expected: `2018-02-14-dont-fuck-up-the-culture-brian-chesky-medium.md`
+- `sources/consumed/articles/0018-Personhood A Game for Two or More Players Melting Asphalt.md` — mismatch
+  - detail: Personhood: A Game for Two or More Players | Melting Asphalt
+  - current: `0018-Personhood A Game for Two or More Players Melting Asphalt.md`
+  - expected: `2015-09-17-personhood-a-game-for-two-or-more-players-melting-asphalt.md`
+- `sources/consumed/articles/0019-https www.psychologytoday.com blog wired-success 201407 why-goal-setting-doesnt-work.md` — mismatch
+  - detail: https://www.psychologytoday.com/blog/wired-success/201407/why-goal-setting-doesnt-work
+  - current: `0019-https www.psychologytoday.com blog wired-success 201407 why-goal-setting-doesnt-work.md`
+  - expected: `2016-02-25-https-www-psychologytoday-com-blog-wired-success-201407-why-goal-setting-doesnt-work.md`
+- `sources/consumed/articles/0020-https web.stanford.edu ~ouster cgi-bin decisions.php.md` — mismatch
+  - detail: https://web.stanford.edu/~ouster/cgi-bin/decisions.php
+  - current: `0020-https web.stanford.edu ~ouster cgi-bin decisions.php.md`
+  - expected: `2021-07-24-https-web-stanford-edu-ouster-cgi-bin-decisions-php.md`
+- `sources/consumed/articles/0021-How Religion Got in the Way Wait But Why.md` — mismatch
+  - detail: How Religion Got in the Way | Wait But Why
+  - current: `0021-How Religion Got in the Way Wait But Why.md`
+  - expected: `2015-06-09-how-religion-got-in-the-way-wait-but-why.md`
+- `sources/consumed/articles/0022-Religion for the Nonreligious Wait But Why.md` — mismatch
+  - detail: Religion for the Nonreligious | Wait But Why
+  - current: `0022-Religion for the Nonreligious Wait But Why.md`
+  - expected: `2015-06-09-religion-for-the-nonreligious-wait-but-why.md`
+- `sources/consumed/articles/0023-http www.newsweek.com assange-google-not-what-it-seems-279447.md` — mismatch
+  - detail: http://www.newsweek.com/assange-google-not-what-it-seems-279447
+  - current: `0023-http www.newsweek.com assange-google-not-what-it-seems-279447.md`
+  - expected: `2015-08-28-http-www-newsweek-com-assange-google-not-what-it-seems-279447.md`
+- `sources/consumed/articles/0024-http www.sentientdevelopments.com 2013 05 how-much-longer-until-humanity-becomes.html m=1.md` — mismatch
+  - detail: http://www.sentientdevelopments.com/2013/05/how-much-longer-until-humanity-becomes.html?m=1
+  - current: `0024-http www.sentientdevelopments.com 2013 05 how-much-longer-until-humanity-becomes.html m=1.md`
+  - expected: `2016-01-18-http-www-sentientdevelopments-com-2013-05-how-much-longer-until-humanity-becomes-html-m-1.md`
+- `sources/consumed/articles/0025-http www.theguardian.com sustainable-business 2014 nov 07 radical-new-economic-system-will-emerge-fr.md` — mismatch
+  - detail: http://www.theguardian.com/sustainable-business/2014/nov/07/radical-new-economic-system-will-emerge-from-collapse-of-capitalism
+  - current: `0025-http www.theguardian.com sustainable-business 2014 nov 07 radical-new-economic-system-will-emerge-fr.md`
+  - expected: `2015-12-25-http-www-theguardian-com-sustainable-business-2014-nov-07-radical-new-economic-system-will-emerge-from-collapse-of-capitalism.md`
+- `sources/consumed/articles/0026-http www.arbetarmakt.com 2014 11 kritik-av-ka.md` — mismatch
+  - detail: http://www.arbetarmakt.com/2014/11/kritik-av-ka/
+  - current: `0026-http www.arbetarmakt.com 2014 11 kritik-av-ka.md`
+  - expected: `2015-10-03-http-www-arbetarmakt-com-2014-11-kritik-av-ka.md`
+- `sources/consumed/articles/0027-Understanding “New Power”.md` — mismatch
+  - detail: Understanding “New Power”
+  - current: `0027-Understanding “New Power”.md`
+  - expected: `2018-11-20-understanding-new-power.md`
+- `sources/consumed/articles/0028-26 charts and maps that show the world is getting much, much better - Vox.md` — mismatch
+  - detail: 26 charts and maps that show the world is getting much, much better - Vox
+  - current: `0028-26 charts and maps that show the world is getting much, much better - Vox.md`
+  - expected: `2015-08-05-26-charts-and-maps-that-show-the-world-is-getting-much-much-better-vox.md`
+- `sources/consumed/articles/0029-What VUCA Really Means for You.md` — mismatch
+  - detail: What VUCA Really Means for You
+  - current: `0029-What VUCA Really Means for You.md`
+  - expected: `2018-11-29-what-vuca-really-means-for-you.md`
+- `sources/consumed/articles/0030-Hunter S. Thompson On Finding Your Purpose Your Friend's House.md` — mismatch
+  - detail: Hunter S. Thompson On Finding Your Purpose | Your Friend's House
+  - current: `0030-Hunter S. Thompson On Finding Your Purpose Your Friend's House.md`
+  - expected: `2015-06-09-hunter-s-thompson-on-finding-your-purpose-your-friend-s-house.md`
+- `sources/consumed/articles/0031-https www.theguardian.com books 2015 jan 31 terrorism-spectacle-how-states-respond-yuval-noah-harari.md` — mismatch
+  - detail: https://www.theguardian.com/books/2015/jan/31/terrorism-spectacle-how-states-respond-yuval-noah-harari-sapiens
+  - current: `0031-https www.theguardian.com books 2015 jan 31 terrorism-spectacle-how-states-respond-yuval-noah-harari.md`
+  - expected: `2016-07-30-https-www-theguardian-com-books-2015-jan-31-terrorism-spectacle-how-states-respond-yuval-noah-harari-sapiens.md`
+- `sources/consumed/articles/0032-http www.ted.com talks ricardo_semler_radical_wisdom_for_a_company_a_school_a_life.md` — mismatch
+  - detail: http://www.ted.com/talks/ricardo_semler_radical_wisdom_for_a_company_a_school_a_life
+  - current: `0032-http www.ted.com talks ricardo_semler_radical_wisdom_for_a_company_a_school_a_life.md`
+  - expected: `2016-08-07-http-www-ted-com-talks-ricardo-semler-radical-wisdom-for-a-company-a-school-a-life.md`
+- `sources/consumed/articles/0033-http www.ibtimes.com pulse higher-fidelity-love-jason-silva-talks-dating-future-sex-romance-intersub.md` — mismatch
+  - detail: http://www.ibtimes.com/pulse/higher-fidelity-love-jason-silva-talks-dating-future-sex-romance-intersubjectivity-1816104
+  - current: `0033-http www.ibtimes.com pulse higher-fidelity-love-jason-silva-talks-dating-future-sex-romance-intersub.md`
+  - expected: `2015-06-15-http-www-ibtimes-com-pulse-higher-fidelity-love-jason-silva-talks-dating-future-sex-romance-intersubjectivity-1816104.md`
+- `sources/consumed/articles/0034-Mental projection can make life meaningful Critique of mindfulness and bei.md` — mismatch
+  - detail: Mental projection can make life meaningful: Critique of mindfulness and bei
+  - current: `0034-Mental projection can make life meaningful Critique of mindfulness and bei.md`
+  - expected: `2015-06-09-mental-projection-can-make-life-meaningful-critique-of-mindfulness-and-bei.md`
+- `sources/consumed/articles/0035-http allisasis.com emerging-metasystem whole-earth-as-emergent-sentient-entity-report-documentation.md` — mismatch
+  - detail: http://allisasis.com/emerging-metasystem/whole-earth-as-emergent-sentient-entity-report-documentation/
+  - current: `0035-http allisasis.com emerging-metasystem whole-earth-as-emergent-sentient-entity-report-documentation.md`
+  - expected: `2015-08-24-http-allisasis-com-emerging-metasystem-whole-earth-as-emergent-sentient-entity-report-documentation.md`
+- `sources/consumed/articles/0036-http opinionator.blogs.nytimes.com 2010 08 22 the-third-replicator _r=1.md` — mismatch
+  - detail: http://opinionator.blogs.nytimes.com/2010/08/22/the-third-replicator/?_r=1
+  - current: `0036-http opinionator.blogs.nytimes.com 2010 08 22 the-third-replicator _r=1.md`
+  - expected: `2015-06-10-http-opinionator-blogs-nytimes-com-2010-08-22-the-third-replicator-r-1.md`
+- `sources/consumed/articles/0037-How to Design an Agenda for an Effective Meeting.md` — mismatch
+  - detail: How to Design an Agenda for an Effective Meeting
+  - current: `0037-How to Design an Agenda for an Effective Meeting.md`
+  - expected: `2021-03-02-how-to-design-an-agenda-for-an-effective-meeting.md`
+- `sources/consumed/articles/0038-The Future of World Religions Population Growth Projections, 2010-2050 P.md` — mismatch
+  - detail: The Future of World Religions: Population Growth Projections, 2010-2050 | P
+  - current: `0038-The Future of World Religions Population Growth Projections, 2010-2050 P.md`
+  - expected: `2015-06-09-the-future-of-world-religions-population-growth-projections-2010-2050-p.md`
+- `sources/consumed/articles/0039-http www.ribbonfarm.com 2015 04 08 the-essence-of-peopling.md` — mismatch
+  - detail: http://www.ribbonfarm.com/2015/04/08/the-essence-of-peopling/
+  - current: `0039-http www.ribbonfarm.com 2015 04 08 the-essence-of-peopling.md`
+  - expected: `2016-01-03-http-www-ribbonfarm-com-2015-04-08-the-essence-of-peopling.md`
+- `sources/consumed/articles/0040-Cooperative Communities in Transparent Social Networks SciTech Connect.md` — mismatch
+  - detail: Cooperative Communities in Transparent Social Networks | SciTech Connect
+  - current: `0040-Cooperative Communities in Transparent Social Networks SciTech Connect.md`
+  - expected: `2015-06-09-cooperative-communities-in-transparent-social-networks-scitech-connect.md`
+- `sources/consumed/articles/0041-Wolfram's Image Recognition Reflects a Big Shift in AI WIRED.md` — mismatch
+  - detail: Wolfram's Image Recognition Reflects a Big Shift in AI | WIRED
+  - current: `0041-Wolfram's Image Recognition Reflects a Big Shift in AI WIRED.md`
+  - expected: `2015-06-09-wolfram-s-image-recognition-reflects-a-big-shift-in-ai-wired.md`
+- `sources/consumed/articles/0042-The Dehumanizing Myth of the Meritocracy by Coraline Ada Ehmke Model View.md` — mismatch
+  - detail: The Dehumanizing Myth of the Meritocracy by Coraline Ada Ehmke | Model View
+  - current: `0042-The Dehumanizing Myth of the Meritocracy by Coraline Ada Ehmke Model View.md`
+  - expected: `2016-02-18-the-dehumanizing-myth-of-the-meritocracy-by-coraline-ada-ehmke-model-view.md`
+- `sources/consumed/articles/0043-http aeon.co magazine psychology do-we-really-want-to-fuse-our-minds-together.md` — mismatch
+  - detail: http://aeon.co/magazine/psychology/do-we-really-want-to-fuse-our-minds-together/
+  - current: `0043-http aeon.co magazine psychology do-we-really-want-to-fuse-our-minds-together.md`
+  - expected: `2015-09-24-http-aeon-co-magazine-psychology-do-we-really-want-to-fuse-our-minds-together.md`
+- `sources/consumed/articles/0044-Algorithms of the Mind — Deep Learning 101 — Medium.md` — mismatch
+  - detail: Algorithms of the Mind — Deep Learning 101 — Medium
+  - current: `0044-Algorithms of the Mind — Deep Learning 101 — Medium.md`
+  - expected: `2015-06-10-algorithms-of-the-mind-deep-learning-101-medium.md`
+- `sources/consumed/articles/0045-It's Official Everyone Has the Same Plan for Tech's Future WIRED.md` — mismatch
+  - detail: It's Official: Everyone Has the Same Plan for Tech's Future | WIRED
+  - current: `0045-It's Official Everyone Has the Same Plan for Tech's Future WIRED.md`
+  - expected: `2015-06-10-it-s-official-everyone-has-the-same-plan-for-tech-s-future-wired.md`
+- `sources/consumed/articles/0046-http www.inc.com david-nihill 23-tips-from-comedians-to-be-funnier-in-your-next-presentation.html ci.md` — mismatch
+  - detail: http://www.inc.com/david-nihill/23-tips-from-comedians-to-be-funnier-in-your-next-presentation.html?cid=cp01002wired
+  - current: `0046-http www.inc.com david-nihill 23-tips-from-comedians-to-be-funnier-in-your-next-presentation.html ci.md`
+  - expected: `2015-06-11-http-www-inc-com-david-nihill-23-tips-from-comedians-to-be-funnier-in-your-next-presentation-html-cid-cp01002wired.md`
+- `sources/consumed/articles/0047-http uk.businessinsider.com stratfor-has-11-chilling-predictions-for-what-the-world-will-look-like-a.md` — mismatch
+  - detail: http://uk.businessinsider.com/stratfor-has-11-chilling-predictions-for-what-the-world-will-look-like-a-decade-from-now-2015-6#russia-will-collapse--1
+  - current: `0047-http uk.businessinsider.com stratfor-has-11-chilling-predictions-for-what-the-world-will-look-like-a.md`
+  - expected: `2015-06-19-http-uk-businessinsider-com-stratfor-has-11-chilling-predictions-for-what-the-world-will-look-like-a-decade-from-now-2015-6-russia-will-collapse-1.md`
+- `sources/consumed/articles/0048-http m.phys.org news 2015-06-social-networks-group-boundaries-ideas.html.md` — mismatch
+  - detail: http://m.phys.org/news/2015-06-social-networks-group-boundaries-ideas.html
+  - current: `0048-http m.phys.org news 2015-06-social-networks-group-boundaries-ideas.html.md`
+  - expected: `2015-09-29-http-m-phys-org-news-2015-06-social-networks-group-boundaries-ideas-html.md`
+- `sources/consumed/articles/0049-What's the Meaning of Life If Society Doesn't Need You Any Longer - Singul.md` — mismatch
+  - detail: What's the Meaning of Life If Society Doesn't Need You Any Longer? - Singul
+  - current: `0049-What's the Meaning of Life If Society Doesn't Need You Any Longer - Singul.md`
+  - expected: `2015-07-05-what-s-the-meaning-of-life-if-society-doesn-t-need-you-any-longer-singul.md`
+- `sources/consumed/articles/0050-http www.theguardian.com books 2015 jul 17 postcapitalism-end-of-capitalism-begun CMP=share_btn_fb.md` — mismatch
+  - detail: http://www.theguardian.com/books/2015/jul/17/postcapitalism-end-of-capitalism-begun?CMP=share_btn_fb
+  - current: `0050-http www.theguardian.com books 2015 jul 17 postcapitalism-end-of-capitalism-begun CMP=share_btn_fb.md`
+  - expected: `2015-12-28-http-www-theguardian-com-books-2015-jul-17-postcapitalism-end-of-capitalism-begun-cmp-share-btn-fb.md`
+- `sources/consumed/articles/0051-http www.va.se nyheter 2015 08 03 framtidsforskaren-skrota-arbetstid-helt.md` — mismatch
+  - detail: http://www.va.se/nyheter/2015/08/03/framtidsforskaren-skrota-arbetstid-helt/
+  - current: `0051-http www.va.se nyheter 2015 08 03 framtidsforskaren-skrota-arbetstid-helt.md`
+  - expected: `2015-08-04-http-www-va-se-nyheter-2015-08-03-framtidsforskaren-skrota-arbetstid-helt.md`
+- `sources/consumed/articles/0052-http www.vanityfair.com culture 2015 08 tinder-hook-up-culture-end-of-dating.md` — mismatch
+  - detail: http://www.vanityfair.com/culture/2015/08/tinder-hook-up-culture-end-of-dating
+  - current: `0052-http www.vanityfair.com culture 2015 08 tinder-hook-up-culture-end-of-dating.md`
+  - expected: `2015-08-09-http-www-vanityfair-com-culture-2015-08-tinder-hook-up-culture-end-of-dating.md`
+- `sources/consumed/articles/0053-How Google Could Rig the 2016 Election - Robert Epstein - POLITICO Magazine.md` — mismatch
+  - detail: How Google Could Rig the 2016 Election - Robert Epstein - POLITICO Magazine
+  - current: `0053-How Google Could Rig the 2016 Election - Robert Epstein - POLITICO Magazine.md`
+  - expected: `2015-08-26-how-google-could-rig-the-2016-election-robert-epstein-politico-magazine.md`
+- `sources/consumed/articles/0054-Robots Will Steal Our Jobs, But They’ll Give Us New Ones WIRED.md` — mismatch
+  - detail: Robots Will Steal Our Jobs, But They’ll Give Us New Ones | WIRED
+  - current: `0054-Robots Will Steal Our Jobs, But They’ll Give Us New Ones WIRED.md`
+  - expected: `2016-06-05-robots-will-steal-our-jobs-but-theyll-give-us-new-ones-wired.md`
+- `sources/consumed/articles/0055-https medium.com enspiral-tales how-to-grow-distributed-leadership-7f6b25f0361c.md` — mismatch
+  - detail: https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c
+  - current: `0055-https medium.com enspiral-tales how-to-grow-distributed-leadership-7f6b25f0361c.md`
+  - expected: `2015-09-02-https-medium-com-enspiral-tales-how-to-grow-distributed-leadership-7f6b25f0361c.md`
+- `sources/consumed/articles/0056-Facebook's Human-Powered Assistant May Just Supercharge AI WIRED.md` — mismatch
+  - detail: Facebook's Human-Powered Assistant May Just Supercharge AI | WIRED
+  - current: `0056-Facebook's Human-Powered Assistant May Just Supercharge AI WIRED.md`
+  - expected: `2015-08-27-facebook-s-human-powered-assistant-may-just-supercharge-ai-wired.md`
+- `sources/consumed/articles/0057-http bigthink.com ideafeed finally-the-science-of-dirty-talk.md` — mismatch
+  - detail: http://bigthink.com/ideafeed/finally-the-science-of-dirty-talk
+  - current: `0057-http bigthink.com ideafeed finally-the-science-of-dirty-talk.md`
+  - expected: `2015-08-29-http-bigthink-com-ideafeed-finally-the-science-of-dirty-talk.md`
+- `sources/consumed/articles/0058-http www.co-creative-recipes.cc.md` — mismatch
+  - detail: http://www.co-creative-recipes.cc/
+  - current: `0058-http www.co-creative-recipes.cc.md`
+  - expected: `2015-09-07-http-www-co-creative-recipes-cc.md`
+- `sources/consumed/articles/0059-immersive linear algebra.md` — mismatch
+  - detail: immersive linear algebra
+  - current: `0059-immersive linear algebra.md`
+  - expected: `2024-05-12-immersive-linear-algebra.md`
+- `sources/consumed/articles/0060-http sevenscribes.com writing-begins-with-forgiveness-why-one-of-the-most-common-pieces-of-writing-a.md` — mismatch
+  - detail: http://sevenscribes.com/writing-begins-with-forgiveness-why-one-of-the-most-common-pieces-of-writing-advice-is-wrong/
+  - current: `0060-http sevenscribes.com writing-begins-with-forgiveness-why-one-of-the-most-common-pieces-of-writing-a.md`
+  - expected: `2015-09-10-http-sevenscribes-com-writing-begins-with-forgiveness-why-one-of-the-most-common-pieces-of-writing-advice-is-wrong.md`
+- `sources/consumed/articles/0061-http dangerousminds.net comments the_key_to_immortal_consciousness_the_82_commandments_of_alejandro_.md` — mismatch
+  - detail: http://dangerousminds.net/comments/the_key_to_immortal_consciousness_the_82_commandments_of_alejandro_jodorows
+  - current: `0061-http dangerousminds.net comments the_key_to_immortal_consciousness_the_82_commandments_of_alejandro_.md`
+  - expected: `2015-09-29-http-dangerousminds-net-comments-the-key-to-immortal-consciousness-the-82-commandments-of-alejandro-jodorows.md`
+- `sources/consumed/articles/0062-http m.fastcompany.com 3050775 the-sharing-economy-is-dead-and-we-killed-it utm_content=bufferd8f46&.md` — mismatch
+  - detail: http://m.fastcompany.com/3050775/the-sharing-economy-is-dead-and-we-killed-it?utm_content=bufferd8f46&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+  - current: `0062-http m.fastcompany.com 3050775 the-sharing-economy-is-dead-and-we-killed-it utm_content=bufferd8f46&.md`
+  - expected: `2015-09-14-http-m-fastcompany-com-3050775-the-sharing-economy-is-dead-and-we-killed-it-utm-content-bufferd8f46-and-utm-medium-social-and-utm-source-facebook-com-and-utm-campaign-buffer.md`
+- `sources/consumed/articles/0063-http knowledge.insead.edu strategy who-killed-nokia-nokia-did-4268.md` — mismatch
+  - detail: http://knowledge.insead.edu/strategy/who-killed-nokia-nokia-did-4268
+  - current: `0063-http knowledge.insead.edu strategy who-killed-nokia-nokia-did-4268.md`
+  - expected: `2020-04-05-http-knowledge-insead-edu-strategy-who-killed-nokia-nokia-did-4268.md`
+- `sources/consumed/articles/0064-http www.vice.com read youre-single-because-there-arent-enough-men-253.md` — mismatch
+  - detail: http://www.vice.com/read/youre-single-because-there-arent-enough-men-253
+  - current: `0064-http www.vice.com read youre-single-because-there-arent-enough-men-253.md`
+  - expected: `2015-09-29-http-www-vice-com-read-youre-single-because-there-arent-enough-men-253.md`
+- `sources/consumed/articles/0065-https www.brainpickings.org 2015 10 09 amin-maalouf-identity-criticism.md` — mismatch
+  - detail: https://www.brainpickings.org/2015/10/09/amin-maalouf-identity-criticism/
+  - current: `0065-https www.brainpickings.org 2015 10 09 amin-maalouf-identity-criticism.md`
+  - expected: `2015-10-11-https-www-brainpickings-org-2015-10-09-amin-maalouf-identity-criticism.md`
+- `sources/consumed/articles/0066-http sociocracy30.org the-details principles.md` — mismatch
+  - detail: http://sociocracy30.org/the-details/principles/
+  - current: `0066-http sociocracy30.org the-details principles.md`
+  - expected: `2018-01-22-http-sociocracy30-org-the-details-principles.md`
+- `sources/consumed/articles/0067-http hbswk.hbs.edu item goals-gone-wild-the-systematic-side-effects-of-over-prescribing-goal-setting.md` — mismatch
+  - detail: http://hbswk.hbs.edu/item/goals-gone-wild-the-systematic-side-effects-of-over-prescribing-goal-setting
+  - current: `0067-http hbswk.hbs.edu item goals-gone-wild-the-systematic-side-effects-of-over-prescribing-goal-setting.md`
+  - expected: `2016-02-25-http-hbswk-hbs-edu-item-goals-gone-wild-the-systematic-side-effects-of-over-prescribing-goal-setting.md`
+- `sources/consumed/articles/0068-Where Is All This Teal Stuff Going The Future of Reinventing Organizations.md` — mismatch
+  - detail: Where Is All This Teal Stuff Going? The Future of Reinventing Organizations
+  - current: `0068-Where Is All This Teal Stuff Going The Future of Reinventing Organizations.md`
+  - expected: `2018-12-22-where-is-all-this-teal-stuff-going-the-future-of-reinventing-organizations.md`
+- `sources/consumed/articles/0069-The Birth And Death Of Privacy 3,000 Years of History Told Through 46 Imag.md` — mismatch
+  - detail: The Birth And Death Of Privacy: 3,000 Years of History Told Through 46 Imag
+  - current: `0069-The Birth And Death Of Privacy 3,000 Years of History Told Through 46 Imag.md`
+  - expected: `2017-08-15-the-birth-and-death-of-privacy-3-000-years-of-history-told-through-46-imag.md`
+- `sources/consumed/articles/0070-http m.huffpost.com us entry 8820154.md` — mismatch
+  - detail: http://m.huffpost.com/us/entry/8820154
+  - current: `0070-http m.huffpost.com us entry 8820154.md`
+  - expected: `2016-10-15-http-m-huffpost-com-us-entry-8820154.md`
+- `sources/consumed/articles/0071-https m.youtube.com watch v=yBS-tVB5TZc.md` — mismatch
+  - detail: https://m.youtube.com/watch?v=yBS-tVB5TZc
+  - current: `0071-https m.youtube.com watch v=yBS-tVB5TZc.md`
+  - expected: `2015-12-20-https-m-youtube-com-watch-v-ybs-tvb5tzc.md`
+- `sources/consumed/articles/0072-http www.ozy.com fast-forward the-21st-century-philosophers 65230.md` — mismatch
+  - detail: http://www.ozy.com/fast-forward/the-21st-century-philosophers/65230
+  - current: `0072-http www.ozy.com fast-forward the-21st-century-philosophers 65230.md`
+  - expected: `2016-01-15-http-www-ozy-com-fast-forward-the-21st-century-philosophers-65230.md`
+- `sources/consumed/articles/0073-https www.udacity.com course deep-learning--ud730.md` — mismatch
+  - detail: https://www.udacity.com/course/deep-learning--ud730
+  - current: `0073-https www.udacity.com course deep-learning--ud730.md`
+  - expected: `2016-01-25-https-www-udacity-com-course-deep-learning-ud730.md`
+- `sources/consumed/articles/0074-http journal.burningman.org 2016 01 philosophical-center tenprinciples what-powered-the-renaissance-.md` — mismatch
+  - detail: http://journal.burningman.org/2016/01/philosophical-center/tenprinciples/what-powered-the-renaissance-could-it-have-happened-without-cash/
+  - current: `0074-http journal.burningman.org 2016 01 philosophical-center tenprinciples what-powered-the-renaissance-.md`
+  - expected: `2016-01-26-http-journal-burningman-org-2016-01-philosophical-center-tenprinciples-what-powered-the-renaissance-could-it-have-happened-without-cash.md`
+- `sources/consumed/articles/0075-http www.wired.com 2016 01 phil-kennedy-mind-control-computer.md` — mismatch
+  - detail: http://www.wired.com/2016/01/phil-kennedy-mind-control-computer/
+  - current: `0075-http www.wired.com 2016 01 phil-kennedy-mind-control-computer.md`
+  - expected: `2016-01-27-http-www-wired-com-2016-01-phil-kennedy-mind-control-computer.md`
+- `sources/consumed/articles/0076-https www.oreilly.com ideas agile-isnt-just-for-software-anymore.md` — mismatch
+  - detail: https://www.oreilly.com/ideas/agile-isnt-just-for-software-anymore
+  - current: `0076-https www.oreilly.com ideas agile-isnt-just-for-software-anymore.md`
+  - expected: `2016-03-29-https-www-oreilly-com-ideas-agile-isnt-just-for-software-anymore.md`
+- `sources/consumed/articles/0077-http singularityhub.com 2016 02 15 where-artificial-intelligence-is-now-and-whats-just-around-the-co.md` — mismatch
+  - detail: http://singularityhub.com/2016/02/15/where-artificial-intelligence-is-now-and-whats-just-around-the-corner/?utm_content=bufferd8041&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+  - current: `0077-http singularityhub.com 2016 02 15 where-artificial-intelligence-is-now-and-whats-just-around-the-co.md`
+  - expected: `2016-02-16-http-singularityhub-com-2016-02-15-where-artificial-intelligence-is-now-and-whats-just-around-the-corner-utm-content-bufferd8041-and-utm-medium-social-and-utm-source-facebook-com-and-utm-campaign-buffer.md`
+- `sources/consumed/articles/0078-https frankdiana.wordpress.com 2016 02 18 technology-social-change-and-future-scenarios.md` — mismatch
+  - detail: https://frankdiana.wordpress.com/2016/02/18/technology-social-change-and-future-scenarios/
+  - current: `0078-https frankdiana.wordpress.com 2016 02 18 technology-social-change-and-future-scenarios.md`
+  - expected: `2016-02-24-https-frankdiana-wordpress-com-2016-02-18-technology-social-change-and-future-scenarios.md`
+- `sources/consumed/articles/0079-http www.bloomberg.com politics features 2016-02-24 behind-bernie-sanders-revolution-lies-a-meticulo.md` — mismatch
+  - detail: http://www.bloomberg.com/politics/features/2016-02-24/behind-bernie-sanders-revolution-lies-a-meticulously-engineered-grassroots-network
+  - current: `0079-http www.bloomberg.com politics features 2016-02-24 behind-bernie-sanders-revolution-lies-a-meticulo.md`
+  - expected: `2016-03-01-http-www-bloomberg-com-politics-features-2016-02-24-behind-bernie-sanders-revolution-lies-a-meticulously-engineered-grassroots-network.md`
+- `sources/consumed/articles/0080-The Enlightenment is Dead, Long Live the Entanglement.md` — mismatch
+  - detail: The Enlightenment is Dead, Long Live the Entanglement
+  - current: `0080-The Enlightenment is Dead, Long Live the Entanglement.md`
+  - expected: `2016-04-05-the-enlightenment-is-dead-long-live-the-entanglement.md`
+- `sources/consumed/articles/0081-https www.dreamler.com blog goal-setting-activities-contra-productive #.Vs7oSvc588Q.facebook.md` — mismatch
+  - detail: https://www.dreamler.com/blog/goal-setting-activities-contra-productive/#.Vs7oSvc588Q.facebook
+  - current: `0081-https www.dreamler.com blog goal-setting-activities-contra-productive #.Vs7oSvc588Q.facebook.md`
+  - expected: `2016-02-25-https-www-dreamler-com-blog-goal-setting-activities-contra-productive-vs7osvc588q-facebook.md`
+- `sources/consumed/articles/0082-https www.technologyreview.com s 601107 data-mining-reveals-the-four-urban-conditions-that-create-vi.md` — mismatch
+  - detail: https://www.technologyreview.com/s/601107/data-mining-reveals-the-four-urban-conditions-that-create-vibrant-city-life/
+  - current: `0082-https www.technologyreview.com s 601107 data-mining-reveals-the-four-urban-conditions-that-create-vi.md`
+  - expected: `2016-03-28-https-www-technologyreview-com-s-601107-data-mining-reveals-the-four-urban-conditions-that-create-vibrant-city-life.md`
+- `sources/consumed/articles/0083-https medium.com the-wtf-economy this-is-strictly-a-business-decision-4177a09161f1#.wo8x8vewh.md` — mismatch
+  - detail: https://medium.com/the-wtf-economy/this-is-strictly-a-business-decision-4177a09161f1#.wo8x8vewh
+  - current: `0083-https medium.com the-wtf-economy this-is-strictly-a-business-decision-4177a09161f1#.wo8x8vewh.md`
+  - expected: `2016-03-26-https-medium-com-the-wtf-economy-this-is-strictly-a-business-decision-4177a09161f1-wo8x8vewh.md`
+- `sources/consumed/articles/0084-https m.youtube.com watch v=pZwq8eMdYrY.md` — mismatch
+  - detail: https://m.youtube.com/watch?v=pZwq8eMdYrY
+  - current: `0084-https m.youtube.com watch v=pZwq8eMdYrY.md`
+  - expected: `2016-03-26-https-m-youtube-com-watch-v-pzwq8emdyry.md`
+- `sources/consumed/articles/0085-http www.fastcompany.com 3058422 the-future-of-work these-will-be-the-top-jobs-in-2025-and-the-skill.md` — mismatch
+  - detail: http://www.fastcompany.com/3058422/the-future-of-work/these-will-be-the-top-jobs-in-2025-and-the-skills-youll-need-to-get-them
+  - current: `0085-http www.fastcompany.com 3058422 the-future-of-work these-will-be-the-top-jobs-in-2025-and-the-skill.md`
+  - expected: `2016-04-04-http-www-fastcompany-com-3058422-the-future-of-work-these-will-be-the-top-jobs-in-2025-and-the-skills-youll-need-to-get-them.md`
+- `sources/consumed/articles/0086-The Right Way to Cut People Off in Meetings.md` — mismatch
+  - detail: The Right Way to Cut People Off in Meetings
+  - current: `0086-The Right Way to Cut People Off in Meetings.md`
+  - expected: `2021-06-01-the-right-way-to-cut-people-off-in-meetings.md`
+- `sources/consumed/articles/0087-https fora.ie readme futurist-predictions-2723936-Apr2016.md` — mismatch
+  - detail: https://fora.ie/readme/futurist-predictions-2723936-Apr2016/
+  - current: `0087-https fora.ie readme futurist-predictions-2723936-Apr2016.md`
+  - expected: `2016-04-22-https-fora-ie-readme-futurist-predictions-2723936-apr2016.md`
+- `sources/consumed/articles/0088-Megacities, not nations, are the world’s dominant, enduring social structur.md` — mismatch
+  - detail: Megacities, not nations, are the world’s dominant, enduring social structur
+  - current: `0088-Megacities, not nations, are the world’s dominant, enduring social structur.md`
+  - expected: `2016-04-21-megacities-not-nations-are-the-worlds-dominant-enduring-social-structur.md`
+- `sources/consumed/articles/0089-The World's Newest Major Religion No Religion.md` — mismatch
+  - detail: The World's Newest Major Religion: No Religion
+  - current: `0089-The World's Newest Major Religion No Religion.md`
+  - expected: `2016-05-15-the-world-s-newest-major-religion-no-religion.md`
+- `sources/consumed/articles/0090-Why Code Is So Often Compared to Magic - The Atlantic.md` — mismatch
+  - detail: Why Code Is So Often Compared to Magic - The Atlantic
+  - current: `0090-Why Code Is So Often Compared to Magic - The Atlantic.md`
+  - expected: `2018-08-30-why-code-is-so-often-compared-to-magic-the-atlantic.md`
+- `sources/consumed/articles/0091-http techcrunch.com 2016 05 07 the-next-ai-is-no-ai.md` — mismatch
+  - detail: http://techcrunch.com/2016/05/07/the-next-ai-is-no-ai/
+  - current: `0091-http techcrunch.com 2016 05 07 the-next-ai-is-no-ai.md`
+  - expected: `2016-05-08-http-techcrunch-com-2016-05-07-the-next-ai-is-no-ai.md`
+- `sources/consumed/articles/0092-http futurism.com artificially-intelligent-lawyer-ross-hired-first-official-law-firm.md` — mismatch
+  - detail: http://futurism.com/artificially-intelligent-lawyer-ross-hired-first-official-law-firm/
+  - current: `0092-http futurism.com artificially-intelligent-lawyer-ross-hired-first-official-law-firm.md`
+  - expected: `2016-05-13-http-futurism-com-artificially-intelligent-lawyer-ross-hired-first-official-law-firm.md`
+- `sources/consumed/articles/0093-http singularityhub.com 2016 05 13 new-digital-face-manipulation-means-you-cant-trust-video-anymore .md` — mismatch
+  - detail: http://singularityhub.com/2016/05/13/new-digital-face-manipulation-means-you-cant-trust-video-anymore/?utm_content=buffercf74c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+  - current: `0093-http singularityhub.com 2016 05 13 new-digital-face-manipulation-means-you-cant-trust-video-anymore .md`
+  - expected: `2016-05-13-http-singularityhub-com-2016-05-13-new-digital-face-manipulation-means-you-cant-trust-video-anymore-utm-content-buffercf74c-and-utm-medium-social-and-utm-source-facebook-com-and-utm-campaign-buffer.md`
+- `sources/consumed/articles/0094-http www.techinsider.io the-worlds-first-artificially-intelligent-lawyer-gets-hired-2016-5.md` — mismatch
+  - detail: http://www.techinsider.io/the-worlds-first-artificially-intelligent-lawyer-gets-hired-2016-5
+  - current: `0094-http www.techinsider.io the-worlds-first-artificially-intelligent-lawyer-gets-hired-2016-5.md`
+  - expected: `2016-05-19-http-www-techinsider-io-the-worlds-first-artificially-intelligent-lawyer-gets-hired-2016-5.md`
+- `sources/consumed/articles/0095-https ourworldindata.org happiness-and-life-satisfaction.md` — mismatch
+  - detail: https://ourworldindata.org/happiness-and-life-satisfaction/
+  - current: `0095-https ourworldindata.org happiness-and-life-satisfaction.md`
+  - expected: `2017-12-19-https-ourworldindata-org-happiness-and-life-satisfaction.md`
+- `sources/consumed/articles/0096-https www.nyteknik.se opinion prognosen-for-elbilar-ar-ett-skamt-6579495.md` — mismatch
+  - detail: https://www.nyteknik.se/opinion/prognosen-for-elbilar-ar-ett-skamt-6579495
+  - current: `0096-https www.nyteknik.se opinion prognosen-for-elbilar-ar-ett-skamt-6579495.md`
+  - expected: `2017-09-20-https-www-nyteknik-se-opinion-prognosen-for-elbilar-ar-ett-skamt-6579495.md`
+- `sources/consumed/articles/0097-https hbr.org 2016 07 beyond-the-holacracy-hype.md` — mismatch
+  - detail: https://hbr.org/2016/07/beyond-the-holacracy-hype
+  - current: `0097-https hbr.org 2016 07 beyond-the-holacracy-hype.md`
+  - expected: `2016-09-09-https-hbr-org-2016-07-beyond-the-holacracy-hype.md`
+- `sources/consumed/articles/0098-https hbr.org 2016 06 how-facebook-tries-to-prevent-office-politics utm_content=buffer623df&utm_medi.md` — mismatch
+  - detail: https://hbr.org/2016/06/how-facebook-tries-to-prevent-office-politics?utm_content=buffer623df&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+  - current: `0098-https hbr.org 2016 06 how-facebook-tries-to-prevent-office-politics utm_content=buffer623df&utm_medi.md`
+  - expected: `2016-07-02-https-hbr-org-2016-06-how-facebook-tries-to-prevent-office-politics-utm-content-buffer623df-and-utm-medium-social-and-utm-source-facebook-com-and-utm-campaign-buffer.md`
+- `sources/consumed/articles/0099-The Power of Altruism - The New York Times.md` — mismatch
+  - detail: The Power of Altruism - The New York Times
+  - current: `0099-The Power of Altruism - The New York Times.md`
+  - expected: `2016-08-09-the-power-of-altruism-the-new-york-times.md`
+- `sources/consumed/articles/0100-http www.the-american-interest.com 2016 07 10 when-and-why-nationalism-beats-globalism.md` — mismatch
+  - detail: http://www.the-american-interest.com/2016/07/10/when-and-why-nationalism-beats-globalism/
+  - current: `0100-http www.the-american-interest.com 2016 07 10 when-and-why-nationalism-beats-globalism.md`
+  - expected: `2016-12-07-http-www-the-american-interest-com-2016-07-10-when-and-why-nationalism-beats-globalism.md`
+- `sources/consumed/articles/0101-Confused Why Donald Trump’s Message Is Resonating — Medium.md` — mismatch
+  - detail: Confused Why Donald Trump’s Message Is Resonating? — Medium
+  - current: `0101-Confused Why Donald Trump’s Message Is Resonating — Medium.md`
+  - expected: `2016-07-30-confused-why-donald-trumps-message-is-resonating-medium.md`
+- `sources/consumed/articles/0102-Is It Just Me, Or Is the World Going Crazy.md` — mismatch
+  - detail: Is It Just Me, Or Is the World Going Crazy?
+  - current: `0102-Is It Just Me, Or Is the World Going Crazy.md`
+  - expected: `2016-07-30-is-it-just-me-or-is-the-world-going-crazy.md`
+- `sources/consumed/articles/0103-http www.theatlantic.com health archive 2016 07 communes-in-the-city 492599 utm_source=atlfb.md` — mismatch
+  - detail: http://www.theatlantic.com/health/archive/2016/07/communes-in-the-city/492599/?utm_source=atlfb
+  - current: `0103-http www.theatlantic.com health archive 2016 07 communes-in-the-city 492599 utm_source=atlfb.md`
+  - expected: `2016-07-30-http-www-theatlantic-com-health-archive-2016-07-communes-in-the-city-492599-utm-source-atlfb.md`
+- `sources/consumed/articles/0104-http www.aftonbladet.se kultur article23249829.ab.md` — mismatch
+  - detail: http://www.aftonbladet.se/kultur/article23249829.ab
+  - current: `0104-http www.aftonbladet.se kultur article23249829.ab.md`
+  - expected: `2016-08-01-http-www-aftonbladet-se-kultur-article23249829-ab.md`
+- `sources/consumed/articles/0105-http observer.com 2016 08 bill-gates-warren-buffett-and-oprah-winfrey-all-use-the-5-hour-rule.md` — mismatch
+  - detail: http://observer.com/2016/08/bill-gates-warren-buffett-and-oprah-winfrey-all-use-the-5-hour-rule/
+  - current: `0105-http observer.com 2016 08 bill-gates-warren-buffett-and-oprah-winfrey-all-use-the-5-hour-rule.md`
+  - expected: `2017-04-16-http-observer-com-2016-08-bill-gates-warren-buffett-and-oprah-winfrey-all-use-the-5-hour-rule.md`
+- `sources/consumed/articles/0106-https www.fastcoexist.com 3062884 why-the-future-will-be-dictated-by-cities-not-nations.md` — mismatch
+  - detail: https://www.fastcoexist.com/3062884/why-the-future-will-be-dictated-by-cities-not-nations
+  - current: `0106-https www.fastcoexist.com 3062884 why-the-future-will-be-dictated-by-cities-not-nations.md`
+  - expected: `2016-09-05-https-www-fastcoexist-com-3062884-why-the-future-will-be-dictated-by-cities-not-nations.md`
+- `sources/consumed/articles/0107-http www.wired.co.uk article yuval-noah-harari-dataism.md` — mismatch
+  - detail: http://www.wired.co.uk/article/yuval-noah-harari-dataism
+  - current: `0107-http www.wired.co.uk article yuval-noah-harari-dataism.md`
+  - expected: `2016-09-07-http-www-wired-co-uk-article-yuval-noah-harari-dataism.md`
+- `sources/consumed/articles/0108-Andrew Sullivan My Distraction Sickness — and Yours.md` — mismatch
+  - detail: Andrew Sullivan: My Distraction Sickness — and Yours
+  - current: `0108-Andrew Sullivan My Distraction Sickness — and Yours.md`
+  - expected: `2016-10-11-andrew-sullivan-my-distraction-sickness-and-yours.md`
+- `sources/consumed/articles/0109-http www.cracked.com personal-experiences-2388-i-frustrate-people-living-escape-room-business.html.md` — mismatch
+  - detail: http://www.cracked.com/personal-experiences-2388-i-frustrate-people-living-escape-room-business.html
+  - current: `0109-http www.cracked.com personal-experiences-2388-i-frustrate-people-living-escape-room-business.html.md`
+  - expected: `2016-10-22-http-www-cracked-com-personal-experiences-2388-i-frustrate-people-living-escape-room-business-html.md`
+- `sources/consumed/articles/0110-http mobile.nytimes.com 2016 10 31 upshot a-little-noticed-fact-about-trade-its-no-longer-rising.htm.md` — mismatch
+  - detail: http://mobile.nytimes.com/2016/10/31/upshot/a-little-noticed-fact-about-trade-its-no-longer-rising.html
+  - current: `0110-http mobile.nytimes.com 2016 10 31 upshot a-little-noticed-fact-about-trade-its-no-longer-rising.htm.md`
+  - expected: `2016-10-31-http-mobile-nytimes-com-2016-10-31-upshot-a-little-noticed-fact-about-trade-its-no-longer-rising-html.md`
+- `sources/consumed/articles/0111-http idlewords.com talks robot_armies.htm.md` — mismatch
+  - detail: http://idlewords.com/talks/robot_armies.htm
+  - current: `0111-http idlewords.com talks robot_armies.htm.md`
+  - expected: `2016-11-21-http-idlewords-com-talks-robot-armies-htm.md`
+- `sources/consumed/articles/0112-https rossdawson.com blog how-do-you-become-a-futurist-10-key-elements-of-a-career-thinking-about-th.md` — mismatch
+  - detail: https://rossdawson.com/blog/how-do-you-become-a-futurist-10-key-elements-of-a-career-thinking-about-the-future/
+  - current: `0112-https rossdawson.com blog how-do-you-become-a-futurist-10-key-elements-of-a-career-thinking-about-th.md`
+  - expected: `2019-11-20-https-rossdawson-com-blog-how-do-you-become-a-futurist-10-key-elements-of-a-career-thinking-about-the-future.md`
+- `sources/consumed/articles/0113-https www.theatlantic.com science archive 2016 12 self-control-is-just-empathy-with-a-future-you 509.md` — mismatch
+  - detail: https://www.theatlantic.com/science/archive/2016/12/self-control-is-just-empathy-with-a-future-you/509726/?utm_source=atlfb
+  - current: `0113-https www.theatlantic.com science archive 2016 12 self-control-is-just-empathy-with-a-future-you 509.md`
+  - expected: `2016-12-07-https-www-theatlantic-com-science-archive-2016-12-self-control-is-just-empathy-with-a-future-you-509726-utm-source-atlfb.md`
+- `sources/consumed/articles/0114-Management theory is becoming a compendium of dead ideas The Economist.md` — mismatch
+  - detail: Management theory is becoming a compendium of dead ideas | The Economist
+  - current: `0114-Management theory is becoming a compendium of dead ideas The Economist.md`
+  - expected: `2016-12-20-management-theory-is-becoming-a-compendium-of-dead-ideas-the-economist.md`
+- `sources/consumed/articles/0115-http gizmodo.com the-most-futuristic-predictions-that-came-true-in-2016-1790157238.md` — mismatch
+  - detail: http://gizmodo.com/the-most-futuristic-predictions-that-came-true-in-2016-1790157238
+  - current: `0115-http gizmodo.com the-most-futuristic-predictions-that-came-true-in-2016-1790157238.md`
+  - expected: `2016-12-18-http-gizmodo-com-the-most-futuristic-predictions-that-came-true-in-2016-1790157238.md`
+- `sources/consumed/articles/0116-http mobile.nytimes.com 2016 12 14 magazine the-great-ai-awakening.html smprod=nytcore-iphone&smid=n.md` — mismatch
+  - detail: http://mobile.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?smprod=nytcore-iphone&smid=nytcore-iphone-share&_r=2&referer=http://m.facebook.com
+  - current: `0116-http mobile.nytimes.com 2016 12 14 magazine the-great-ai-awakening.html smprod=nytcore-iphone&smid=n.md`
+  - expected: `2016-12-20-http-mobile-nytimes-com-2016-12-14-magazine-the-great-ai-awakening-html-smprod-nytcore-iphone-and-smid-nytcore-iphone-share-and-r-2-and-referer-http-m-facebook-com.md`
+- `sources/consumed/articles/0117-https www.theguardian.com technology 2016 dec 22 why-time-management-is-ruining-our-lives.md` — mismatch
+  - detail: https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives
+  - current: `0117-https www.theguardian.com technology 2016 dec 22 why-time-management-is-ruining-our-lives.md`
+  - expected: `2016-12-23-https-www-theguardian-com-technology-2016-dec-22-why-time-management-is-ruining-our-lives.md`
+- `sources/consumed/articles/0118-https m.youtube.com watch feature=youtu.be&v=ZQElzjCsl9o.md` — mismatch
+  - detail: https://m.youtube.com/watch?feature=youtu.be&v=ZQElzjCsl9o
+  - current: `0118-https m.youtube.com watch feature=youtu.be&v=ZQElzjCsl9o.md`
+  - expected: `2016-12-24-https-m-youtube-com-watch-feature-youtu-be-and-v-zqelzjcsl9o.md`
+- `sources/consumed/articles/0119-Essential reading nine experts on the books that inspired them Books T.md` — mismatch
+  - detail: Essential reading: nine experts on the books that inspired them | Books | T
+  - current: `0119-Essential reading nine experts on the books that inspired them Books T.md`
+  - expected: `2017-01-10-essential-reading-nine-experts-on-the-books-that-inspired-them-books-t.md`
+- `sources/consumed/articles/0120-https techcrunch.com 2017 01 08 the-future-is-a-decentralized-internet.md` — mismatch
+  - detail: https://techcrunch.com/2017/01/08/the-future-is-a-decentralized-internet/
+  - current: `0120-https techcrunch.com 2017 01 08 the-future-is-a-decentralized-internet.md`
+  - expected: `2017-07-06-https-techcrunch-com-2017-01-08-the-future-is-a-decentralized-internet.md`
+- `sources/consumed/articles/0121-http motherboard.vice.com read big-data-cambridge-analytica-brexit-trump.md` — mismatch
+  - detail: http://motherboard.vice.com/read/big-data-cambridge-analytica-brexit-trump
+  - current: `0121-http motherboard.vice.com read big-data-cambridge-analytica-brexit-trump.md`
+  - expected: `2017-01-30-http-motherboard-vice-com-read-big-data-cambridge-analytica-brexit-trump.md`
+- `sources/consumed/articles/0122-http bigthink.com arpan-bhattacharyya science-and-buddhism-arent-in-conflict-theyre-doing-different-.md` — mismatch
+  - detail: http://bigthink.com/arpan-bhattacharyya/science-and-buddhism-arent-in-conflict-theyre-doing-different-things?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook#link_time=1492008681
+  - current: `0122-http bigthink.com arpan-bhattacharyya science-and-buddhism-arent-in-conflict-theyre-doing-different-.md`
+  - expected: `2017-04-15-http-bigthink-com-arpan-bhattacharyya-science-and-buddhism-arent-in-conflict-theyre-doing-different-things-utm-campaign-echobox-and-utm-medium-social-and-utm-source-facebook-link-time-1492008681.md`
+- `sources/consumed/articles/0123-Broken Assumptions of Governance – The World of Deep Wealth – Medium.md` — mismatch
+  - detail: Broken Assumptions of Governance – The World of Deep Wealth – Medium
+  - current: `0123-Broken Assumptions of Governance – The World of Deep Wealth – Medium.md`
+  - expected: `2017-02-05-broken-assumptions-of-governance-the-world-of-deep-wealth-medium.md`
+- `sources/consumed/articles/0124-http pocket.co sMV8n_ cta=1.md` — mismatch
+  - detail: http://pocket.co/sMV8n_?cta=1
+  - current: `0124-http pocket.co sMV8n_ cta=1.md`
+  - expected: `2017-02-18-http-pocket-co-smv8n-cta-1.md`
+- `sources/consumed/articles/0125-https scout.ai story the-rise-of-the-weaponized-ai-propaganda-machine.md` — mismatch
+  - detail: https://scout.ai/story/the-rise-of-the-weaponized-ai-propaganda-machine
+  - current: `0125-https scout.ai story the-rise-of-the-weaponized-ai-propaganda-machine.md`
+  - expected: `2017-02-25-https-scout-ai-story-the-rise-of-the-weaponized-ai-propaganda-machine.md`
+- `sources/consumed/articles/0126-https m.phys.org news 2017-02-social-media-synchronized-human-civilization.html.md` — mismatch
+  - detail: https://m.phys.org/news/2017-02-social-media-synchronized-human-civilization.html
+  - current: `0126-https m.phys.org news 2017-02-social-media-synchronized-human-civilization.html.md`
+  - expected: `2017-03-04-https-m-phys-org-news-2017-02-social-media-synchronized-human-civilization-html.md`
+- `sources/consumed/articles/0127-https hbr.org 2017 03 how-to-push-your-team-to-take-risks-and-experiment.md` — mismatch
+  - detail: https://hbr.org/2017/03/how-to-push-your-team-to-take-risks-and-experiment
+  - current: `0127-https hbr.org 2017 03 how-to-push-your-team-to-take-risks-and-experiment.md`
+  - expected: `2017-03-20-https-hbr-org-2017-03-how-to-push-your-team-to-take-risks-and-experiment.md`
+- `sources/consumed/articles/0128-http www.independent.co.uk news world world-war-3-is-coming-a7622296.html cmpid=facebook-post.md` — mismatch
+  - detail: http://www.independent.co.uk/news/world/world-war-3-is-coming-a7622296.html?cmpid=facebook-post
+  - current: `0128-http www.independent.co.uk news world world-war-3-is-coming-a7622296.html cmpid=facebook-post.md`
+  - expected: `2017-03-13-http-www-independent-co-uk-news-world-world-war-3-is-coming-a7622296-html-cmpid-facebook-post.md`
+- `sources/consumed/articles/0129-https thecreativeindependent.com people adam-curtis-on-the-dangers-of-self-expression.md` — mismatch
+  - detail: https://thecreativeindependent.com/people/adam-curtis-on-the-dangers-of-self-expression/
+  - current: `0129-https thecreativeindependent.com people adam-curtis-on-the-dangers-of-self-expression.md`
+  - expected: `2017-03-15-https-thecreativeindependent-com-people-adam-curtis-on-the-dangers-of-self-expression.md`
+- `sources/consumed/articles/0130-https www.citylab.com politics 2017 03 what-is-really-behind-the-populist-surge 519921 utm_source=nl.md` — mismatch
+  - detail: https://www.citylab.com/politics/2017/03/what-is-really-behind-the-populist-surge/519921/?utm_source=nl__link3_032117
+  - current: `0130-https www.citylab.com politics 2017 03 what-is-really-behind-the-populist-surge 519921 utm_source=nl.md`
+  - expected: `2017-03-26-https-www-citylab-com-politics-2017-03-what-is-really-behind-the-populist-surge-519921-utm-source-nl-link3-032117.md`
+- `sources/consumed/articles/0131-https capx.co friedrich-hayek-and-the-collective-brain.md` — mismatch
+  - detail: https://capx.co/friedrich-hayek-and-the-collective-brain/
+  - current: `0131-https capx.co friedrich-hayek-and-the-collective-brain.md`
+  - expected: `2017-04-06-https-capx-co-friedrich-hayek-and-the-collective-brain.md`
+- `sources/consumed/articles/0132-https www.fastcompany.com 3069078 the-war-for-talent-is-over-and-everyone-lost.md` — mismatch
+  - detail: https://www.fastcompany.com/3069078/the-war-for-talent-is-over-and-everyone-lost
+  - current: `0132-https www.fastcompany.com 3069078 the-war-for-talent-is-over-and-everyone-lost.md`
+  - expected: `2017-03-28-https-www-fastcompany-com-3069078-the-war-for-talent-is-over-and-everyone-lost.md`
+- `sources/consumed/articles/0133-Current Affairs Culture & Politics.md` — mismatch
+  - detail: Current Affairs | Culture & Politics
+  - current: `0133-Current Affairs Culture & Politics.md`
+  - expected: `2017-04-06-current-affairs-culture-and-politics.md`
+- `sources/consumed/articles/0134-Sweden is turning a blockchain-powered land registry into a reality — Quart.md` — mismatch
+  - detail: Sweden is turning a blockchain-powered land registry into a reality — Quart
+  - current: `0134-Sweden is turning a blockchain-powered land registry into a reality — Quart.md`
+  - expected: `2017-04-04-sweden-is-turning-a-blockchain-powered-land-registry-into-a-reality-quart.md`
+- `sources/consumed/articles/0135-https hbr.org 2017 04 a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-fee.md` — mismatch
+  - detail: https://hbr.org/2017/04/a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-feel
+  - current: `0135-https hbr.org 2017 04 a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-fee.md`
+  - expected: `2017-04-13-https-hbr-org-2017-04-a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-feel.md`
+- `sources/consumed/articles/0136-https qz.com 956682 philosopher-andrew-taggart-is-helping-silicon-valley-executives-define-success.md` — mismatch
+  - detail: https://qz.com/956682/philosopher-andrew-taggart-is-helping-silicon-valley-executives-define-success/
+  - current: `0136-https qz.com 956682 philosopher-andrew-taggart-is-helping-silicon-valley-executives-define-success.md`
+  - expected: `2017-07-03-https-qz-com-956682-philosopher-andrew-taggart-is-helping-silicon-valley-executives-define-success.md`
+- `sources/consumed/articles/0137-https waitbutwhy.com 2017 04 neuralink.html#part1.md` — mismatch
+  - detail: https://waitbutwhy.com/2017/04/neuralink.html#part1
+  - current: `0137-https waitbutwhy.com 2017 04 neuralink.html#part1.md`
+  - expected: `2017-08-08-https-waitbutwhy-com-2017-04-neuralink-html-part1.md`
+- `sources/consumed/articles/0138-How Elon Musk learns faster and better than everyone else — Quartz.md` — mismatch
+  - detail: How Elon Musk learns faster and better than everyone else — Quartz
+  - current: `0138-How Elon Musk learns faster and better than everyone else — Quartz.md`
+  - expected: `2017-04-26-how-elon-musk-learns-faster-and-better-than-everyone-else-quartz.md`
+- `sources/consumed/articles/0139-How Integrated Information Theory Serves Physics.md` — mismatch
+  - detail: How Integrated Information Theory Serves Physics
+  - current: `0139-How Integrated Information Theory Serves Physics.md`
+  - expected: `2017-05-10-how-integrated-information-theory-serves-physics.md`
+- `sources/consumed/articles/0140-Resolving the awkward paradox in Frederic Laloux’s Reinventing Organisation.md` — mismatch
+  - detail: Resolving the awkward paradox in Frederic Laloux’s Reinventing Organisation
+  - current: `0140-Resolving the awkward paradox in Frederic Laloux’s Reinventing Organisation.md`
+  - expected: `2018-03-11-resolving-the-awkward-paradox-in-frederic-lalouxs-reinventing-organisation.md`
+- `sources/consumed/articles/0141-https www.theatlantic.com technology archive 2017 05 a-very-brief-history-of-the-last-10-years-in-te.md` — mismatch
+  - detail: https://www.theatlantic.com/technology/archive/2017/05/a-very-brief-history-of-the-last-10-years-in-technology/526767/
+  - current: `0141-https www.theatlantic.com technology archive 2017 05 a-very-brief-history-of-the-last-10-years-in-te.md`
+  - expected: `2017-06-26-https-www-theatlantic-com-technology-archive-2017-05-a-very-brief-history-of-the-last-10-years-in-technology-526767.md`
+- `sources/consumed/articles/0142-https mobile.nytimes.com 2017 05 19 opinion sunday why-the-future-is-always-on-your-mind.html refere.md` — mismatch
+  - detail: https://mobile.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?referer=http://m.facebook.com
+  - current: `0142-https mobile.nytimes.com 2017 05 19 opinion sunday why-the-future-is-always-on-your-mind.html refere.md`
+  - expected: `2017-05-22-https-mobile-nytimes-com-2017-05-19-opinion-sunday-why-the-future-is-always-on-your-mind-html-referer-http-m-facebook-com.md`
+- `sources/consumed/articles/0143-https medium.com @beatrizricci on-quitting-from-a-millennial-perspective-with-love-f5e37306bba1.md` — mismatch
+  - detail: https://medium.com/@beatrizricci/on-quitting-from-a-millennial-perspective-with-love-f5e37306bba1
+  - current: `0143-https medium.com @beatrizricci on-quitting-from-a-millennial-perspective-with-love-f5e37306bba1.md`
+  - expected: `2017-06-08-https-medium-com-beatrizricci-on-quitting-from-a-millennial-perspective-with-love-f5e37306bba1.md`
+- `sources/consumed/articles/0144-Library SessionLab.md` — mismatch
+  - detail: Library | SessionLab
+  - current: `0144-Library SessionLab.md`
+  - expected: `2018-01-18-library-sessionlab.md`
+- `sources/consumed/articles/0145-https www.euractiv.com section electricity news is-blockchain-about-to-disrupt-the-electricity-secto.md` — mismatch
+  - detail: https://www.euractiv.com/section/electricity/news/is-blockchain-about-to-disrupt-the-electricity-sector/
+  - current: `0145-https www.euractiv.com section electricity news is-blockchain-about-to-disrupt-the-electricity-secto.md`
+  - expected: `2017-07-05-https-www-euractiv-com-section-electricity-news-is-blockchain-about-to-disrupt-the-electricity-sector.md`
+- `sources/consumed/articles/0146-https www.autostraddle.com kin-aesthetics-excommunicate-me-from-the-church-of-social-justice-386640.md` — mismatch
+  - detail: https://www.autostraddle.com/kin-aesthetics-excommunicate-me-from-the-church-of-social-justice-386640/
+  - current: `0146-https www.autostraddle.com kin-aesthetics-excommunicate-me-from-the-church-of-social-justice-386640.md`
+  - expected: `2017-09-07-https-www-autostraddle-com-kin-aesthetics-excommunicate-me-from-the-church-of-social-justice-386640.md`
+- `sources/consumed/articles/0147-https medium.com the-xplane-collection eleven-core-exercises-for-designing-awesome-meetings-fa77ec3d.md` — mismatch
+  - detail: https://medium.com/the-xplane-collection/eleven-core-exercises-for-designing-awesome-meetings-fa77ec3d5c39
+  - current: `0147-https medium.com the-xplane-collection eleven-core-exercises-for-designing-awesome-meetings-fa77ec3d.md`
+  - expected: `2017-10-05-https-medium-com-the-xplane-collection-eleven-core-exercises-for-designing-awesome-meetings-fa77ec3d5c39.md`
+- `sources/consumed/articles/0148-http www.businessillustrator.com infographic-why-organisations-must-change.md` — mismatch
+  - detail: http://www.businessillustrator.com/infographic-why-organisations-must-change/
+  - current: `0148-http www.businessillustrator.com infographic-why-organisations-must-change.md`
+  - expected: `2017-09-08-http-www-businessillustrator-com-infographic-why-organisations-must-change.md`
+- `sources/consumed/articles/0149-Catch Me If You Can The Runaway Leader and Catch-Up Mechanics.md` — mismatch
+  - detail: Catch Me If You Can: The Runaway Leader and Catch-Up Mechanics
+  - current: `0149-Catch Me If You Can The Runaway Leader and Catch-Up Mechanics.md`
+  - expected: `2019-09-26-catch-me-if-you-can-the-runaway-leader-and-catch-up-mechanics.md`
+- `sources/consumed/articles/0150-After electric cars, what more will it take for batteries to change the fac.md` — mismatch
+  - detail: After electric cars, what more will it take for batteries to change the fac
+  - current: `0150-After electric cars, what more will it take for batteries to change the fac.md`
+  - expected: `2017-08-15-after-electric-cars-what-more-will-it-take-for-batteries-to-change-the-fac.md`
+- `sources/consumed/articles/0151-Organizational Strategy in a VUCA World – Target Teal – Medium.md` — mismatch
+  - detail: Organizational Strategy in a VUCA World – Target Teal – Medium
+  - current: `0151-Organizational Strategy in a VUCA World – Target Teal – Medium.md`
+  - expected: `2018-11-29-organizational-strategy-in-a-vuca-world-target-teal-medium.md`
+- `sources/consumed/articles/0152-Richard Florida Is Sorry.md` — mismatch
+  - detail: Richard Florida Is Sorry
+  - current: `0152-Richard Florida Is Sorry.md`
+  - expected: `2017-08-23-richard-florida-is-sorry.md`
+- `sources/consumed/articles/0153-http metamoderna.org the-listening-society-possible-and-necessary lang=en.md` — mismatch
+  - detail: http://metamoderna.org/the-listening-society-possible-and-necessary?lang=en
+  - current: `0153-http metamoderna.org the-listening-society-possible-and-necessary lang=en.md`
+  - expected: `2017-09-07-http-metamoderna-org-the-listening-society-possible-and-necessary-lang-en.md`
+- `sources/consumed/articles/0154-https www.truthdig.com articles karl-marx-was-right-2.md` — mismatch
+  - detail: https://www.truthdig.com/articles/karl-marx-was-right-2/
+  - current: `0154-https www.truthdig.com articles karl-marx-was-right-2.md`
+  - expected: `2019-12-11-https-www-truthdig-com-articles-karl-marx-was-right-2.md`
+- `sources/consumed/articles/0155-https medium.com perspectiva-institute overcoming-the-allergies-of-science-and-spirituality-a3bd1f8d.md` — mismatch
+  - detail: https://medium.com/perspectiva-institute/overcoming-the-allergies-of-science-and-spirituality-a3bd1f8dde05
+  - current: `0155-https medium.com perspectiva-institute overcoming-the-allergies-of-science-and-spirituality-a3bd1f8d.md`
+  - expected: `2017-09-07-https-medium-com-perspectiva-institute-overcoming-the-allergies-of-science-and-spirituality-a3bd1f8dde05.md`
+- `sources/consumed/articles/0156-Burning Man Qualia Computing.md` — mismatch
+  - detail: Burning Man | Qualia Computing
+  - current: `0156-Burning Man Qualia Computing.md`
+  - expected: `2017-09-13-burning-man-qualia-computing.md`
+- `sources/consumed/articles/0157-http www.riksbank.se sv Finansiell-stabilitet Betalningar Behover-Sverige-en-e-krona Ar-du-ett-tekni.md` — mismatch
+  - detail: http://www.riksbank.se/sv/Finansiell-stabilitet/Betalningar/Behover-Sverige-en-e-krona/Ar-du-ett-teknikbolag/
+  - current: `0157-http www.riksbank.se sv Finansiell-stabilitet Betalningar Behover-Sverige-en-e-krona Ar-du-ett-tekni.md`
+  - expected: `2017-09-26-http-www-riksbank-se-sv-finansiell-stabilitet-betalningar-behover-sverige-en-e-krona-ar-du-ett-teknikbolag.md`
+- `sources/consumed/articles/0158-Robots have already taken over our work, but they’re made of flesh and bone.md` — mismatch
+  - detail: Robots have already taken over our work, but they’re made of flesh and bone
+  - current: `0158-Robots have already taken over our work, but they’re made of flesh and bone.md`
+  - expected: `2017-09-30-robots-have-already-taken-over-our-work-but-theyre-made-of-flesh-and-bone.md`
+- `sources/consumed/articles/0159-https www.theguardian.com technology 2017 oct 05 smartphone-addiction-silicon-valley-dystopia.md` — mismatch
+  - detail: https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
+  - current: `0159-https www.theguardian.com technology 2017 oct 05 smartphone-addiction-silicon-valley-dystopia.md`
+  - expected: `2017-10-08-https-www-theguardian-com-technology-2017-oct-05-smartphone-addiction-silicon-valley-dystopia.md`
+- `sources/consumed/articles/0160-https mobile.nytimes.com 2017 10 11 magazine why-are-more-american-teenagers-than-ever-suffering-fro.md` — mismatch
+  - detail: https://mobile.nytimes.com/2017/10/11/magazine/why-are-more-american-teenagers-than-ever-suffering-from-severe-anxiety.html?referer=http://m.facebook.com
+  - current: `0160-https mobile.nytimes.com 2017 10 11 magazine why-are-more-american-teenagers-than-ever-suffering-fro.md`
+  - expected: `2017-10-13-https-mobile-nytimes-com-2017-10-11-magazine-why-are-more-american-teenagers-than-ever-suffering-from-severe-anxiety-html-referer-http-m-facebook-com.md`
+- `sources/consumed/articles/0161-https www.theatlantic.com technology archive 2017 10 what-facebook-did 542502 utm_source=twb.md` — mismatch
+  - detail: https://www.theatlantic.com/technology/archive/2017/10/what-facebook-did/542502/?utm_source=twb
+  - current: `0161-https www.theatlantic.com technology archive 2017 10 what-facebook-did 542502 utm_source=twb.md`
+  - expected: `2017-10-13-https-www-theatlantic-com-technology-archive-2017-10-what-facebook-did-542502-utm-source-twb.md`
+- `sources/consumed/articles/0162-https politologerna.wordpress.com 2017 10 31 fyra-grafer-over-svensk-tillit.md` — mismatch
+  - detail: https://politologerna.wordpress.com/2017/10/31/fyra-grafer-over-svensk-tillit/
+  - current: `0162-https politologerna.wordpress.com 2017 10 31 fyra-grafer-over-svensk-tillit.md`
+  - expected: `2017-11-02-https-politologerna-wordpress-com-2017-10-31-fyra-grafer-over-svensk-tillit.md`
+- `sources/consumed/articles/0163-Inside Silicon Valley's new non-religion consciousness hacking WIRED UK.md` — mismatch
+  - detail: Inside Silicon Valley's new non-religion: consciousness hacking | WIRED UK
+  - current: `0163-Inside Silicon Valley's new non-religion consciousness hacking WIRED UK.md`
+  - expected: `2017-11-02-inside-silicon-valley-s-new-non-religion-consciousness-hacking-wired-uk.md`
+- `sources/consumed/articles/0164-Humans Are Bad at Predicting Futures That Don’t Benefit Them - The Atlantic.md` — mismatch
+  - detail: Humans Are Bad at Predicting Futures That Don’t Benefit Them - The Atlantic
+  - current: `0164-Humans Are Bad at Predicting Futures That Don’t Benefit Them - The Atlantic.md`
+  - expected: `2020-12-03-humans-are-bad-at-predicting-futures-that-dont-benefit-them-the-atlantic.md`
+- `sources/consumed/articles/0165-12 practical ways to build trust at work.md` — mismatch
+  - detail: 12 practical ways to build trust at work
+  - current: `0165-12 practical ways to build trust at work.md`
+  - expected: `2021-06-14-12-practical-ways-to-build-trust-at-work.md`
+- `sources/consumed/articles/0166-https singularityhub.com 2017 11 19 how-technology-is-leading-us-into-the-imagination-age.md` — mismatch
+  - detail: https://singularityhub.com/2017/11/19/how-technology-is-leading-us-into-the-imagination-age/
+  - current: `0166-https singularityhub.com 2017 11 19 how-technology-is-leading-us-into-the-imagination-age.md`
+  - expected: `2017-11-20-https-singularityhub-com-2017-11-19-how-technology-is-leading-us-into-the-imagination-age.md`
+- `sources/consumed/articles/0167-Network Connectivity’s Existential Challenge Turning to AI to Secure What.md` — mismatch
+  - detail: Network Connectivity’s Existential Challenge: Turning to AI to Secure What
+  - current: `0167-Network Connectivity’s Existential Challenge Turning to AI to Secure What.md`
+  - expected: `2018-01-05-network-connectivitys-existential-challenge-turning-to-ai-to-secure-what.md`
+- `sources/consumed/articles/0168-https civilizationemerging.com new-economics-series-part-iv.md` — mismatch
+  - detail: https://civilizationemerging.com/new-economics-series-part-iv/
+  - current: `0168-https civilizationemerging.com new-economics-series-part-iv.md`
+  - expected: `2018-05-03-https-civilizationemerging-com-new-economics-series-part-iv.md`
+- `sources/consumed/articles/0169-https www.technologyreview.com s 609868 18-exponential-changes-we-can-expect-in-the-year-ahead.md` — mismatch
+  - detail: https://www.technologyreview.com/s/609868/18-exponential-changes-we-can-expect-in-the-year-ahead/
+  - current: `0169-https www.technologyreview.com s 609868 18-exponential-changes-we-can-expect-in-the-year-ahead.md`
+  - expected: `2018-01-01-https-www-technologyreview-com-s-609868-18-exponential-changes-we-can-expect-in-the-year-ahead.md`
+- `sources/consumed/articles/0170-How Meltdown and Spectre Were Independently Discovered By Four Research Tea.md` — mismatch
+  - detail: How Meltdown and Spectre Were Independently Discovered By Four Research Tea
+  - current: `0170-How Meltdown and Spectre Were Independently Discovered By Four Research Tea.md`
+  - expected: `2018-01-08-how-meltdown-and-spectre-were-independently-discovered-by-four-research-tea.md`
+- `sources/consumed/articles/0171-The diabolical genius of the baby advice industry News The Guardian.md` — mismatch
+  - detail: The diabolical genius of the baby advice industry | News | The Guardian
+  - current: `0171-The diabolical genius of the baby advice industry News The Guardian.md`
+  - expected: `2019-05-22-the-diabolical-genius-of-the-baby-advice-industry-news-the-guardian.md`
+- `sources/consumed/articles/0172-Change My View Why Our Best Hope for Civil Discourse Is on Reddit WIRED.md` — mismatch
+  - detail: Change My View: Why Our Best Hope for Civil Discourse Is on Reddit | WIRED
+  - current: `0172-Change My View Why Our Best Hope for Civil Discourse Is on Reddit WIRED.md`
+  - expected: `2018-01-19-change-my-view-why-our-best-hope-for-civil-discourse-is-on-reddit-wired.md`
+- `sources/consumed/articles/0173-https www.theguardian.com news 2018 jan 19 post-work-the-radical-idea-of-a-world-without-jobs.md` — mismatch
+  - detail: https://www.theguardian.com/news/2018/jan/19/post-work-the-radical-idea-of-a-world-without-jobs
+  - current: `0173-https www.theguardian.com news 2018 jan 19 post-work-the-radical-idea-of-a-world-without-jobs.md`
+  - expected: `2018-01-22-https-www-theguardian-com-news-2018-jan-19-post-work-the-radical-idea-of-a-world-without-jobs.md`
+- `sources/consumed/articles/0174-https www.theguardian.com news 2018 jan 19 post-work-the-radical-idea-of-a-world-without-jobs CMP=sh.md` — mismatch
+  - detail: https://www.theguardian.com/news/2018/jan/19/post-work-the-radical-idea-of-a-world-without-jobs?CMP=share_btn_fb
+  - current: `0174-https www.theguardian.com news 2018 jan 19 post-work-the-radical-idea-of-a-world-without-jobs CMP=sh.md`
+  - expected: `2018-04-14-https-www-theguardian-com-news-2018-jan-19-post-work-the-radical-idea-of-a-world-without-jobs-cmp-share-btn-fb.md`
+- `sources/consumed/articles/0175-https taskandpurpose.com the-spartans-were-morons.md` — mismatch
+  - detail: https://taskandpurpose.com/the-spartans-were-morons/
+  - current: `0175-https taskandpurpose.com the-spartans-were-morons.md`
+  - expected: `2018-08-06-https-taskandpurpose-com-the-spartans-were-morons.md`
+- `sources/consumed/articles/0176-https theweek.com articles 749978 female-price-male-pleasure.md` — mismatch
+  - detail: https://theweek.com/articles/749978/female-price-male-pleasure
+  - current: `0176-https theweek.com articles 749978 female-price-male-pleasure.md`
+  - expected: `2018-01-28-https-theweek-com-articles-749978-female-price-male-pleasure.md`
+- `sources/consumed/articles/0177-https amp.theguardian.com us-news 2018 jan 29 rich-people-wealth-america.md` — mismatch
+  - detail: https://amp.theguardian.com/us-news/2018/jan/29/rich-people-wealth-america
+  - current: `0177-https amp.theguardian.com us-news 2018 jan 29 rich-people-wealth-america.md`
+  - expected: `2019-02-14-https-amp-theguardian-com-us-news-2018-jan-29-rich-people-wealth-america.md`
+- `sources/consumed/articles/0178-https www.wired.com story 10-commandments-for-making-future-cities-more-livable.md` — mismatch
+  - detail: https://www.wired.com/story/10-commandments-for-making-future-cities-more-livable/
+  - current: `0178-https www.wired.com story 10-commandments-for-making-future-cities-more-livable.md`
+  - expected: `2018-02-07-https-www-wired-com-story-10-commandments-for-making-future-cities-more-livable.md`
+- `sources/consumed/articles/0179-https www.wsj.com articles the-enlightenment-is-working-1518191343.md` — mismatch
+  - detail: https://www.wsj.com/articles/the-enlightenment-is-working-1518191343
+  - current: `0179-https www.wsj.com articles the-enlightenment-is-working-1518191343.md`
+  - expected: `2018-03-01-https-www-wsj-com-articles-the-enlightenment-is-working-1518191343.md`
+- `sources/consumed/articles/0180-https medium.com deep-code situational-assessment-2017-trump-edition-d189d24fc046 source=userActivit.md` — mismatch
+  - detail: https://medium.com/deep-code/situational-assessment-2017-trump-edition-d189d24fc046?source=userActivityShare-3a6d69157903-1518245768
+  - current: `0180-https medium.com deep-code situational-assessment-2017-trump-edition-d189d24fc046 source=userActivit.md`
+  - expected: `2018-02-10-https-medium-com-deep-code-situational-assessment-2017-trump-edition-d189d24fc046-source-useractivityshare-3a6d69157903-1518245768.md`
+- `sources/consumed/articles/0181-https beetroot.se life keep-tight-family-culture-rapidly-growing-company.md` — mismatch
+  - detail: https://beetroot.se/life/keep-tight-family-culture-rapidly-growing-company/
+  - current: `0181-https beetroot.se life keep-tight-family-culture-rapidly-growing-company.md`
+  - expected: `2018-02-13-https-beetroot-se-life-keep-tight-family-culture-rapidly-growing-company.md`
+- `sources/consumed/articles/0182-https medium.com daostack decentralized-governance-first-principles-1fc6eaa492ed source=userActivity.md` — mismatch
+  - detail: https://medium.com/daostack/decentralized-governance-first-principles-1fc6eaa492ed?source=userActivityShare-3a6d69157903-1518258670
+  - current: `0182-https medium.com daostack decentralized-governance-first-principles-1fc6eaa492ed source=userActivity.md`
+  - expected: `2018-02-10-https-medium-com-daostack-decentralized-governance-first-principles-1fc6eaa492ed-source-useractivityshare-3a6d69157903-1518258670.md`
+- `sources/consumed/articles/0183-https medium.com deep-code situational-assessment-2018-the-calm-before-the-storm-5a0bd014ec84 source.md` — mismatch
+  - detail: https://medium.com/deep-code/situational-assessment-2018-the-calm-before-the-storm-5a0bd014ec84?source=userActivityShare-3a6d69157903-1518568658
+  - current: `0183-https medium.com deep-code situational-assessment-2018-the-calm-before-the-storm-5a0bd014ec84 source.md`
+  - expected: `2018-02-14-https-medium-com-deep-code-situational-assessment-2018-the-calm-before-the-storm-5a0bd014ec84-source-useractivityshare-3a6d69157903-1518568658.md`
+- `sources/consumed/articles/0184-Zebras Unite To Fix What Unicorns Broke - Jennifer, Mara, Astrid & Aniyia -.md` — mismatch
+  - detail: Zebras Unite To Fix What Unicorns Broke - Jennifer, Mara, Astrid & Aniyia -
+  - current: `0184-Zebras Unite To Fix What Unicorns Broke - Jennifer, Mara, Astrid & Aniyia -.md`
+  - expected: `2019-11-21-zebras-unite-to-fix-what-unicorns-broke-jennifer-mara-astrid-and-aniyia.md`
+- `sources/consumed/articles/0185-https medium.com the-mission how-to-future-proof-yourself-2dab379f953d.md` — mismatch
+  - detail: https://medium.com/the-mission/how-to-future-proof-yourself-2dab379f953d
+  - current: `0185-https medium.com the-mission how-to-future-proof-yourself-2dab379f953d.md`
+  - expected: `2020-06-28-https-medium-com-the-mission-how-to-future-proof-yourself-2dab379f953d.md`
+- `sources/consumed/articles/0186-https markmanson.net how-to-grow-up.md` — mismatch
+  - detail: https://markmanson.net/how-to-grow-up
+  - current: `0186-https markmanson.net how-to-grow-up.md`
+  - expected: `2019-01-16-https-markmanson-net-how-to-grow-up.md`
+- `sources/consumed/articles/0187-The Subtle Nudges That Could Unhook Us From Our Phones WIRED.md` — mismatch
+  - detail: The Subtle Nudges That Could Unhook Us From Our Phones | WIRED
+  - current: `0187-The Subtle Nudges That Could Unhook Us From Our Phones WIRED.md`
+  - expected: `2018-03-02-the-subtle-nudges-that-could-unhook-us-from-our-phones-wired.md`
+- `sources/consumed/articles/0188-https www.theatlantic.com technology archive 2018 03 largest-study-ever-fake-news-mit-twitter 555104.md` — mismatch
+  - detail: https://www.theatlantic.com/technology/archive/2018/03/largest-study-ever-fake-news-mit-twitter/555104/
+  - current: `0188-https www.theatlantic.com technology archive 2018 03 largest-study-ever-fake-news-mit-twitter 555104.md`
+  - expected: `2018-03-09-https-www-theatlantic-com-technology-archive-2018-03-largest-study-ever-fake-news-mit-twitter-555104.md`
+- `sources/consumed/articles/0189-https www.theguardian.com world 2018 mar 09 men-after-metoo-masculinity-fundamentally-toxic.md` — mismatch
+  - detail: https://www.theguardian.com/world/2018/mar/09/men-after-metoo-masculinity-fundamentally-toxic
+  - current: `0189-https www.theguardian.com world 2018 mar 09 men-after-metoo-masculinity-fundamentally-toxic.md`
+  - expected: `2018-03-19-https-www-theguardian-com-world-2018-mar-09-men-after-metoo-masculinity-fundamentally-toxic.md`
+- `sources/consumed/articles/0190-https www.theguardian.com books 2018 mar 17 the-crisis-in-modern-masculinity.md` — mismatch
+  - detail: https://www.theguardian.com/books/2018/mar/17/the-crisis-in-modern-masculinity
+  - current: `0190-https www.theguardian.com books 2018 mar 17 the-crisis-in-modern-masculinity.md`
+  - expected: `2018-03-19-https-www-theguardian-com-books-2018-mar-17-the-crisis-in-modern-masculinity.md`
+- `sources/consumed/articles/0191-https www.theguardian.com news 2018 apr 05 demise-of-the-nation-state-rana-dasgupta.md` — mismatch
+  - detail: https://www.theguardian.com/news/2018/apr/05/demise-of-the-nation-state-rana-dasgupta
+  - current: `0191-https www.theguardian.com news 2018 apr 05 demise-of-the-nation-state-rana-dasgupta.md`
+  - expected: `2018-04-06-https-www-theguardian-com-news-2018-apr-05-demise-of-the-nation-state-rana-dasgupta.md`
+- `sources/consumed/articles/0192-https waitbutwhy.com 2018 04 picking-career.html.md` — mismatch
+  - detail: https://waitbutwhy.com/2018/04/picking-career.html
+  - current: `0192-https waitbutwhy.com 2018 04 picking-career.html.md`
+  - expected: `2018-11-11-https-waitbutwhy-com-2018-04-picking-career-html.md`
+- `sources/consumed/articles/0193-https www.theverge.com 2018 4 28 17293056 facebook-deletefacebook-social-network-monopoly.md` — mismatch
+  - detail: https://www.theverge.com/2018/4/28/17293056/facebook-deletefacebook-social-network-monopoly
+  - current: `0193-https www.theverge.com 2018 4 28 17293056 facebook-deletefacebook-social-network-monopoly.md`
+  - expected: `2018-04-28-https-www-theverge-com-2018-4-28-17293056-facebook-deletefacebook-social-network-monopoly.md`
+- `sources/consumed/articles/0194-https www.nytimes.com 2018 06 14 opinion sunday meditation-productivity-work-mindfulness.html.md` — mismatch
+  - detail: https://www.nytimes.com/2018/06/14/opinion/sunday/meditation-productivity-work-mindfulness.html
+  - current: `0194-https www.nytimes.com 2018 06 14 opinion sunday meditation-productivity-work-mindfulness.html.md`
+  - expected: `2021-05-08-https-www-nytimes-com-2018-06-14-opinion-sunday-meditation-productivity-work-mindfulness-html.md`
+- `sources/consumed/articles/0195-https boingboing.net 2018 06 17 tune-in-turn-on-slack-off.html.md` — mismatch
+  - detail: https://boingboing.net/2018/06/17/tune-in-turn-on-slack-off.html
+  - current: `0195-https boingboing.net 2018 06 17 tune-in-turn-on-slack-off.html.md`
+  - expected: `2021-05-08-https-boingboing-net-2018-06-17-tune-in-turn-on-slack-off-html.md`
+- `sources/consumed/articles/0196-https science.sciencemag.org content 360 6396 1465.full.md` — mismatch
+  - detail: https://science.sciencemag.org/content/360/6396/1465.full
+  - current: `0196-https science.sciencemag.org content 360 6396 1465.full.md`
+  - expected: `2020-12-31-https-science-sciencemag-org-content-360-6396-1465-full.md`
+- `sources/consumed/articles/0197-https blogs.microsoft.com on-the-issues 2018 07 13 facial-recognition-technology-the-need-for-public.md` — mismatch
+  - detail: https://blogs.microsoft.com/on-the-issues/2018/07/13/facial-recognition-technology-the-need-for-public-regulation-and-corporate-responsibility/
+  - current: `0197-https blogs.microsoft.com on-the-issues 2018 07 13 facial-recognition-technology-the-need-for-public.md`
+  - expected: `2018-12-06-https-blogs-microsoft-com-on-the-issues-2018-07-13-facial-recognition-technology-the-need-for-public-regulation-and-corporate-responsibility.md`
+- `sources/consumed/articles/0198-https www.economist.com the-economist-explains 2017 01 03 what-makes-something-a-commodity.md` — mismatch
+  - detail: https://www.economist.com/the-economist-explains/2017/01/03/what-makes-something-a-commodity
+  - current: `0198-https www.economist.com the-economist-explains 2017 01 03 what-makes-something-a-commodity.md`
+  - expected: `2019-01-22-https-www-economist-com-the-economist-explains-2017-01-03-what-makes-something-a-commodity.md`
+- `sources/consumed/articles/0199-https www.wired.co.uk article yuval-noah-harari-extract-21-lessons-for-the-21st-century.md` — mismatch
+  - detail: https://www.wired.co.uk/article/yuval-noah-harari-extract-21-lessons-for-the-21st-century
+  - current: `0199-https www.wired.co.uk article yuval-noah-harari-extract-21-lessons-for-the-21st-century.md`
+  - expected: `2018-09-12-https-www-wired-co-uk-article-yuval-noah-harari-extract-21-lessons-for-the-21st-century.md`
+- `sources/consumed/articles/0200-Why the world is full of buttons that don't work - CNN Style.md` — mismatch
+  - detail: Why the world is full of buttons that don't work - CNN Style
+  - current: `0200-Why the world is full of buttons that don't work - CNN Style.md`
+  - expected: `2018-12-29-why-the-world-is-full-of-buttons-that-don-t-work-cnn-style.md`
+- `sources/consumed/articles/0201-https www.theguardian.com books 2018 sep 14 yuval-noah-harari-the-new-threat-to-liberal-democracy.md` — mismatch
+  - detail: https://www.theguardian.com/books/2018/sep/14/yuval-noah-harari-the-new-threat-to-liberal-democracy
+  - current: `0201-https www.theguardian.com books 2018 sep 14 yuval-noah-harari-the-new-threat-to-liberal-democracy.md`
+  - expected: `2018-12-12-https-www-theguardian-com-books-2018-sep-14-yuval-noah-harari-the-new-threat-to-liberal-democracy.md`
+- `sources/consumed/articles/0202-https video.wired.com watch yuval-harari-tristan-harris-humans-get-hacked.md` — mismatch
+  - detail: https://video.wired.com/watch/yuval-harari-tristan-harris-humans-get-hacked
+  - current: `0202-https video.wired.com watch yuval-harari-tristan-harris-humans-get-hacked.md`
+  - expected: `2018-10-08-https-video-wired-com-watch-yuval-harari-tristan-harris-humans-get-hacked.md`
+- `sources/consumed/articles/0203-https www.nytimes.com 2018 10 25 magazine bruno-latour-post-truth-philosopher-science.html.md` — mismatch
+  - detail: https://www.nytimes.com/2018/10/25/magazine/bruno-latour-post-truth-philosopher-science.html
+  - current: `0203-https www.nytimes.com 2018 10 25 magazine bruno-latour-post-truth-philosopher-science.html.md`
+  - expected: `2018-11-15-https-www-nytimes-com-2018-10-25-magazine-bruno-latour-post-truth-philosopher-science-html.md`
+- `sources/consumed/articles/0204-https www.tbd.community en a how-to-build-a-successful-centrist-political-start-up.md` — mismatch
+  - detail: https://www.tbd.community/en/a/how-to-build-a-successful-centrist-political-start-up
+  - current: `0204-https www.tbd.community en a how-to-build-a-successful-centrist-political-start-up.md`
+  - expected: `2018-11-17-https-www-tbd-community-en-a-how-to-build-a-successful-centrist-political-start-up.md`
+- `sources/consumed/articles/0205-https www.quantamagazine.org neutral-theory-of-evolution-challenged-by-evidence-for-dna-selection-20.md` — mismatch
+  - detail: https://www.quantamagazine.org/neutral-theory-of-evolution-challenged-by-evidence-for-dna-selection-20181108/
+  - current: `0205-https www.quantamagazine.org neutral-theory-of-evolution-challenged-by-evidence-for-dna-selection-20.md`
+  - expected: `2018-11-20-https-www-quantamagazine-org-neutral-theory-of-evolution-challenged-by-evidence-for-dna-selection-20181108.md`
+- `sources/consumed/articles/0206-https www.theatlantic.com magazine archive 2018 12 the-sex-recession 573949.md` — mismatch
+  - detail: https://www.theatlantic.com/magazine/archive/2018/12/the-sex-recession/573949/
+  - current: `0206-https www.theatlantic.com magazine archive 2018 12 the-sex-recession 573949.md`
+  - expected: `2018-11-18-https-www-theatlantic-com-magazine-archive-2018-12-the-sex-recession-573949.md`
+- `sources/consumed/articles/0207-https en.wikipedia.org wiki Mental_time_travel.md` — mismatch
+  - detail: https://en.wikipedia.org/wiki/Mental_time_travel
+  - current: `0207-https en.wikipedia.org wiki Mental_time_travel.md`
+  - expected: `2020-11-27-https-en-wikipedia-org-wiki-mental-time-travel.md`
+- `sources/consumed/articles/0208-https www.washingtonpost.com national nothing-on-this-page-is-real-how-lies-become-truth-in-online-a.md` — mismatch
+  - detail: https://www.washingtonpost.com/national/nothing-on-this-page-is-real-how-lies-become-truth-in-online-america/2018/11/17/edd44cc8-e85a-11e8-bbdb-72fdbf9d4fed_story.html
+  - current: `0208-https www.washingtonpost.com national nothing-on-this-page-is-real-how-lies-become-truth-in-online-a.md`
+  - expected: `2018-11-19-https-www-washingtonpost-com-national-nothing-on-this-page-is-real-how-lies-become-truth-in-online-america-2018-11-17-edd44cc8-e85a-11e8-bbdb-72fdbf9d4fed-story-html.md`
+- `sources/consumed/articles/0209-https link.medium.com 8t7JF3IeWR.md` — mismatch
+  - detail: https://link.medium.com/8t7JF3IeWR
+  - current: `0209-https link.medium.com 8t7JF3IeWR.md`
+  - expected: `2018-11-18-https-link-medium-com-8t7jf3iewr.md`
+- `sources/consumed/articles/0210-https medium.com @ianmack the-wild-edge-of-emergence-27ad280b8796.md` — mismatch
+  - detail: https://medium.com/@ianmack/the-wild-edge-of-emergence-27ad280b8796
+  - current: `0210-https medium.com @ianmack the-wild-edge-of-emergence-27ad280b8796.md`
+  - expected: `2018-12-10-https-medium-com-ianmack-the-wild-edge-of-emergence-27ad280b8796.md`
+- `sources/consumed/articles/0211-https www.mynewsdesk.com se ekan news volvo-cars-laemnar-budgeten-335915.md` — mismatch
+  - detail: https://www.mynewsdesk.com/se/ekan/news/volvo-cars-laemnar-budgeten-335915
+  - current: `0211-https www.mynewsdesk.com se ekan news volvo-cars-laemnar-budgeten-335915.md`
+  - expected: `2018-12-06-https-www-mynewsdesk-com-se-ekan-news-volvo-cars-laemnar-budgeten-335915.md`
+- `sources/consumed/articles/0212-What psychology experiments tell you about why people deny facts - The part.md` — mismatch
+  - detail: What psychology experiments tell you about why people deny facts - The part
+  - current: `0212-What psychology experiments tell you about why people deny facts - The part.md`
+  - expected: `2018-12-29-what-psychology-experiments-tell-you-about-why-people-deny-facts-the-part.md`
+- `sources/consumed/articles/0213-https nationalpost.com opinion jordan-peterson-the-gender-scandal-in-scandinavia-and-canada.md` — mismatch
+  - detail: https://nationalpost.com/opinion/jordan-peterson-the-gender-scandal-in-scandinavia-and-canada
+  - current: `0213-https nationalpost.com opinion jordan-peterson-the-gender-scandal-in-scandinavia-and-canada.md`
+  - expected: `2018-12-12-https-nationalpost-com-opinion-jordan-peterson-the-gender-scandal-in-scandinavia-and-canada.md`
+- `sources/consumed/articles/0214-https qz.com 1501725 polyamorous-sex-is-the-most-quietly-revolutionary-political-weapon-in-the-unite.md` — mismatch
+  - detail: https://qz.com/1501725/polyamorous-sex-is-the-most-quietly-revolutionary-political-weapon-in-the-united-states/
+  - current: `0214-https qz.com 1501725 polyamorous-sex-is-the-most-quietly-revolutionary-political-weapon-in-the-unite.md`
+  - expected: `2018-12-23-https-qz-com-1501725-polyamorous-sex-is-the-most-quietly-revolutionary-political-weapon-in-the-united-states.md`
+- `sources/consumed/articles/0215-FinTech – increasingly rapid interaction between financial operations and t.md` — mismatch
+  - detail: FinTech – increasingly rapid interaction between financial operations and t
+  - current: `0215-FinTech – increasingly rapid interaction between financial operations and t.md`
+  - expected: `2019-09-24-fintech-increasingly-rapid-interaction-between-financial-operations-and-t.md`
+- `sources/consumed/articles/0216-https www.buzzfeednews.com article annehelenpetersen millennials-burnout-generation-debt-work.md` — mismatch
+  - detail: https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work
+  - current: `0216-https www.buzzfeednews.com article annehelenpetersen millennials-burnout-generation-debt-work.md`
+  - expected: `2019-03-08-https-www-buzzfeednews-com-article-annehelenpetersen-millennials-burnout-generation-debt-work.md`
+- `sources/consumed/articles/0217-https www.jezzamon.com fourier.md` — mismatch
+  - detail: https://www.jezzamon.com/fourier/
+  - current: `0217-https www.jezzamon.com fourier.md`
+  - expected: `2023-05-18-https-www-jezzamon-com-fourier.md`
+- `sources/consumed/articles/0218-https www.theguardian.com technology 2019 jan 20 shoshana-zuboff-age-of-surveillance-capitalism-goog.md` — mismatch
+  - detail: https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook
+  - current: `0218-https www.theguardian.com technology 2019 jan 20 shoshana-zuboff-age-of-surveillance-capitalism-goog.md`
+  - expected: `2019-01-22-https-www-theguardian-com-technology-2019-jan-20-shoshana-zuboff-age-of-surveillance-capitalism-google-facebook.md`
+- `sources/consumed/articles/0219-http science.sciencemag.org content 363 6425 374.full.md` — mismatch
+  - detail: http://science.sciencemag.org/content/363/6425/374.full
+  - current: `0219-http science.sciencemag.org content 363 6425 374.full.md`
+  - expected: `2019-01-25-http-science-sciencemag-org-content-363-6425-374-full.md`
+- `sources/consumed/articles/0220-https www.drabblecast.org 2019 01 14 drabbleclassics-28-happy-old-year.md` — mismatch
+  - detail: https://www.drabblecast.org/2019/01/14/drabbleclassics-28-happy-old-year/
+  - current: `0220-https www.drabblecast.org 2019 01 14 drabbleclassics-28-happy-old-year.md`
+  - expected: `2020-11-27-https-www-drabblecast-org-2019-01-14-drabbleclassics-28-happy-old-year.md`
+- `sources/consumed/articles/0221-https www.wired.com story italy-five-star-movement-techno-utopians.md` — mismatch
+  - detail: https://www.wired.com/story/italy-five-star-movement-techno-utopians/
+  - current: `0221-https www.wired.com story italy-five-star-movement-techno-utopians.md`
+  - expected: `2019-02-19-https-www-wired-com-story-italy-five-star-movement-techno-utopians.md`
+- `sources/consumed/articles/0222-https www.fort-russ.com 2019 02 its-time-for-super-putin-dugin-on-surkovs-putin-analysis.md` — mismatch
+  - detail: https://www.fort-russ.com/2019/02/its-time-for-super-putin-dugin-on-surkovs-putin-analysis/
+  - current: `0222-https www.fort-russ.com 2019 02 its-time-for-super-putin-dugin-on-surkovs-putin-analysis.md`
+  - expected: `2019-02-17-https-www-fort-russ-com-2019-02-its-time-for-super-putin-dugin-on-surkovs-putin-analysis.md`
+- `sources/consumed/articles/0223-https www.youtube.com watch v=70CNGXQ1-eY.md` — mismatch
+  - detail: https://www.youtube.com/watch?v=70CNGXQ1-eY
+  - current: `0223-https www.youtube.com watch v=70CNGXQ1-eY.md`
+  - expected: `2019-03-03-https-www-youtube-com-watch-v-70cngxq1-ey.md`
+- `sources/consumed/articles/0224-https www.theguardian.com books 2019 mar 09 the-big-sleep-business-are-we-being-sold-an-impossible-d.md` — mismatch
+  - detail: https://www.theguardian.com/books/2019/mar/09/the-big-sleep-business-are-we-being-sold-an-impossible-dream
+  - current: `0224-https www.theguardian.com books 2019 mar 09 the-big-sleep-business-are-we-being-sold-an-impossible-d.md`
+  - expected: `2019-06-24-https-www-theguardian-com-books-2019-mar-09-the-big-sleep-business-are-we-being-sold-an-impossible-dream.md`
+- `sources/consumed/articles/0225-Napoleon's Men The Soldiers of the Revolution and Empire - Alan Forrest -.md` — mismatch
+  - detail: Napoleon's Men: The Soldiers of the Revolution and Empire - Alan Forrest -
+  - current: `0225-Napoleon's Men The Soldiers of the Revolution and Empire - Alan Forrest -.md`
+  - expected: `2019-03-10-napoleon-s-men-the-soldiers-of-the-revolution-and-empire-alan-forrest.md`
+- `sources/consumed/articles/0226-Create Responsive Schedule Feedback Typeform.md` — mismatch
+  - detail: Create | Responsive Schedule Feedback | Typeform
+  - current: `0226-Create Responsive Schedule Feedback Typeform.md`
+  - expected: `2019-03-15-create-responsive-schedule-feedback-typeform.md`
+- `sources/consumed/articles/0227-LDP applications - Google Kalkylark.md` — mismatch
+  - detail: LDP applications - Google Kalkylark
+  - current: `0227-LDP applications - Google Kalkylark.md`
+  - expected: `2019-03-20-ldp-applications-google-kalkylark.md`
+- `sources/consumed/articles/0228-http markmanson.net whats-the-problem-with-masculinity.md` — mismatch
+  - detail: http://markmanson.net/whats-the-problem-with-masculinity
+  - current: `0228-http markmanson.net whats-the-problem-with-masculinity.md`
+  - expected: `2019-12-30-http-markmanson-net-whats-the-problem-with-masculinity.md`
+- `sources/consumed/articles/0229-https www.dn.se sthlm kvinnor-forlorare-i-stockholms-arbetsliv.md` — mismatch
+  - detail: https://www.dn.se/sthlm/kvinnor-forlorare-i-stockholms-arbetsliv/
+  - current: `0229-https www.dn.se sthlm kvinnor-forlorare-i-stockholms-arbetsliv.md`
+  - expected: `2019-04-02-https-www-dn-se-sthlm-kvinnor-forlorare-i-stockholms-arbetsliv.md`
+- `sources/consumed/articles/0230-https www.nytimes.com 2019 04 06 opinion sunday moral-revolution-david-brooks.html.md` — mismatch
+  - detail: https://www.nytimes.com/2019/04/06/opinion/sunday/moral-revolution-david-brooks.html
+  - current: `0230-https www.nytimes.com 2019 04 06 opinion sunday moral-revolution-david-brooks.html.md`
+  - expected: `2019-04-08-https-www-nytimes-com-2019-04-06-opinion-sunday-moral-revolution-david-brooks-html.md`
+- `sources/consumed/articles/0231-https www.theatlantic.com science archive 2019 04 looping-created-insulin-pump-underground-market 58.md` — mismatch
+  - detail: https://www.theatlantic.com/science/archive/2019/04/looping-created-insulin-pump-underground-market/588091/
+  - current: `0231-https www.theatlantic.com science archive 2019 04 looping-created-insulin-pump-underground-market 58.md`
+  - expected: `2019-04-30-https-www-theatlantic-com-science-archive-2019-04-looping-created-insulin-pump-underground-market-588091.md`
+- `sources/consumed/articles/0232-https link.medium.com 9Vcav7WquW.md` — mismatch
+  - detail: https://link.medium.com/9Vcav7WquW
+  - current: `0232-https link.medium.com 9Vcav7WquW.md`
+  - expected: `2019-05-07-https-link-medium-com-9vcav7wquw.md`
+- `sources/consumed/articles/0233-Why Is It So Hard to Predict the Future - The Atlantic.md` — mismatch
+  - detail: Why Is It So Hard to Predict the Future? - The Atlantic
+  - current: `0233-Why Is It So Hard to Predict the Future - The Atlantic.md`
+  - expected: `2020-12-03-why-is-it-so-hard-to-predict-the-future-the-atlantic.md`
+- `sources/consumed/articles/0234-https journal.burningman.org 2019 05 opinion serious-stuff how-to-take-the-fyre-out-of-influencers-o.md` — mismatch
+  - detail: https://journal.burningman.org/2019/05/opinion/serious-stuff/how-to-take-the-fyre-out-of-influencers-on-playa/
+  - current: `0234-https journal.burningman.org 2019 05 opinion serious-stuff how-to-take-the-fyre-out-of-influencers-o.md`
+  - expected: `2019-05-27-https-journal-burningman-org-2019-05-opinion-serious-stuff-how-to-take-the-fyre-out-of-influencers-on-playa.md`
+- `sources/consumed/articles/0235-Much @Stake The Band of Hackers That Defined an Era WIRED.md` — mismatch
+  - detail: Much @Stake: The Band of Hackers That Defined an Era | WIRED
+  - current: `0235-Much @Stake The Band of Hackers That Defined an Era WIRED.md`
+  - expected: `2019-06-02-much-stake-the-band-of-hackers-that-defined-an-era-wired.md`
+- `sources/consumed/articles/0236-https www.theguardian.com world 2019 jun 20 donna-haraway-interview-cyborg-manifesto-post-truth.md` — mismatch
+  - detail: https://www.theguardian.com/world/2019/jun/20/donna-haraway-interview-cyborg-manifesto-post-truth
+  - current: `0236-https www.theguardian.com world 2019 jun 20 donna-haraway-interview-cyborg-manifesto-post-truth.md`
+  - expected: `2019-06-25-https-www-theguardian-com-world-2019-jun-20-donna-haraway-interview-cyborg-manifesto-post-truth.md`
+- `sources/consumed/articles/0237-Facebook has found a place to park its $40bn cash reserves and everyone th.md` — mismatch
+  - detail: Facebook has found a place to park its $40bn  cash reserves and everyone th
+  - current: `0237-Facebook has found a place to park its $40bn cash reserves and everyone th.md`
+  - expected: `2019-09-24-facebook-has-found-a-place-to-park-its-40bn-cash-reserves-and-everyone-th.md`
+- `sources/consumed/articles/0238-https complexityexplained.github.io.md` — mismatch
+  - detail: https://complexityexplained.github.io/
+  - current: `0238-https complexityexplained.github.io.md`
+  - expected: `2021-02-06-https-complexityexplained-github-io.md`
+- `sources/consumed/articles/0239-Insändare ”Elever behöver både böcker och datorer”. - DN.SE.md` — mismatch
+  - detail: Insändare: ”Elever behöver både böcker och datorer”. - DN.SE
+  - current: `0239-Insändare ”Elever behöver både böcker och datorer”. - DN.SE.md`
+  - expected: `2019-07-07-insandare-elever-behover-bade-bocker-och-datorer-dn-se.md`
+- `sources/consumed/articles/0240-(41) Mark Blyth - A Brief History of How We Got Here and Why - YouTube.md` — mismatch
+  - detail: (41) Mark Blyth - A Brief History of How We Got Here and Why - YouTube
+  - current: `0240-(41) Mark Blyth - A Brief History of How We Got Here and Why - YouTube.md`
+  - expected: `2019-09-24-41-mark-blyth-a-brief-history-of-how-we-got-here-and-why-youtube.md`
+- `sources/consumed/articles/0241-https coffeeordie.com burning-man-army-sniper.md` — mismatch
+  - detail: https://coffeeordie.com/burning-man-army-sniper/
+  - current: `0241-https coffeeordie.com burning-man-army-sniper.md`
+  - expected: `2019-09-10-https-coffeeordie-com-burning-man-army-sniper.md`
+- `sources/consumed/articles/0242-A Nobel-Winning Economist Goes to Burning Man - The New York Times.md` — mismatch
+  - detail: A Nobel-Winning Economist Goes to Burning Man - The New York Times
+  - current: `0242-A Nobel-Winning Economist Goes to Burning Man - The New York Times.md`
+  - expected: `2019-09-09-a-nobel-winning-economist-goes-to-burning-man-the-new-york-times.md`
+- `sources/consumed/articles/0243-Why Stablecoins Like Facebook's Libra Are Under Scrutiny.md` — mismatch
+  - detail: Why Stablecoins Like Facebook's Libra Are Under Scrutiny
+  - current: `0243-Why Stablecoins Like Facebook's Libra Are Under Scrutiny.md`
+  - expected: `2019-09-24-why-stablecoins-like-facebook-s-libra-are-under-scrutiny.md`
+- `sources/consumed/articles/0244-https www.ft.com content 5a8ab27e-d470-11e9-8367-807ebd53ab77.md` — mismatch
+  - detail: https://www.ft.com/content/5a8ab27e-d470-11e9-8367-807ebd53ab77
+  - current: `0244-https www.ft.com content 5a8ab27e-d470-11e9-8367-807ebd53ab77.md`
+  - expected: `2019-09-18-https-www-ft-com-content-5a8ab27e-d470-11e9-8367-807ebd53ab77.md`
+- `sources/consumed/articles/0245-Pace Layering How Complex Systems Learn and Keep Learning · Journal of Des.md` — mismatch
+  - detail: Pace Layering: How Complex Systems Learn and Keep Learning · Journal of Des
+  - current: `0245-Pace Layering How Complex Systems Learn and Keep Learning · Journal of Des.md`
+  - expected: `2019-09-28-pace-layering-how-complex-systems-learn-and-keep-learning-journal-of-des.md`
+- `sources/consumed/articles/0246-https thepointmag.com examined-life against-advice-agnes-callard.md` — mismatch
+  - detail: https://thepointmag.com/examined-life/against-advice-agnes-callard/
+  - current: `0246-https thepointmag.com examined-life against-advice-agnes-callard.md`
+  - expected: `2021-05-18-https-thepointmag-com-examined-life-against-advice-agnes-callard.md`
+- `sources/consumed/articles/0247-How cybernetics connects computing, counterculture, and design.md` — mismatch
+  - detail: How cybernetics connects computing, counterculture, and design
+  - current: `0247-How cybernetics connects computing, counterculture, and design.md`
+  - expected: `2019-11-21-how-cybernetics-connects-computing-counterculture-and-design.md`
+- `sources/consumed/articles/0248-Why are we so bad at predicting what will happen to us in the future.md` — mismatch
+  - detail: Why are we so bad at predicting what will happen to us in the future?  |
+  - current: `0248-Why are we so bad at predicting what will happen to us in the future.md`
+  - expected: `2020-12-03-why-are-we-so-bad-at-predicting-what-will-happen-to-us-in-the-future.md`
+- `sources/consumed/articles/0249-https www.dn.se kultur-noje jag-maste-vara-en-evolutionar-avvikare.md` — mismatch
+  - detail: https://www.dn.se/kultur-noje/jag-maste-vara-en-evolutionar-avvikare/
+  - current: `0249-https www.dn.se kultur-noje jag-maste-vara-en-evolutionar-avvikare.md`
+  - expected: `2019-12-28-https-www-dn-se-kultur-noje-jag-maste-vara-en-evolutionar-avvikare.md`
+- `sources/consumed/articles/0250-https www.cnn.com travel article flying-guilt index.html.md` — mismatch
+  - detail: https://www.cnn.com/travel/article/flying-guilt/index.html
+  - current: `0250-https www.cnn.com travel article flying-guilt index.html.md`
+  - expected: `2020-01-19-https-www-cnn-com-travel-article-flying-guilt-index-html.md`
+- `sources/consumed/articles/0251-https www.theatlantic.com magazine archive 2020 03 the-2020-disinformation-war 605530.md` — mismatch
+  - detail: https://www.theatlantic.com/magazine/archive/2020/03/the-2020-disinformation-war/605530/
+  - current: `0251-https www.theatlantic.com magazine archive 2020 03 the-2020-disinformation-war 605530.md`
+  - expected: `2020-02-07-https-www-theatlantic-com-magazine-archive-2020-03-the-2020-disinformation-war-605530.md`
+- `sources/consumed/articles/0252-https www.theatlantic.com magazine archive 2020 03 the-nuclear-family-was-a-mistake 605536.md` — mismatch
+  - detail: https://www.theatlantic.com/magazine/archive/2020/03/the-nuclear-family-was-a-mistake/605536/
+  - current: `0252-https www.theatlantic.com magazine archive 2020 03 the-nuclear-family-was-a-mistake 605536.md`
+  - expected: `2020-05-09-https-www-theatlantic-com-magazine-archive-2020-03-the-nuclear-family-was-a-mistake-605536.md`
+- `sources/consumed/articles/0253-Behavioral Design 2020 and Beyond - Behavioral Design Hub - Medium.md` — mismatch
+  - detail: Behavioral Design 2020 and Beyond - Behavioral Design Hub - Medium
+  - current: `0253-Behavioral Design 2020 and Beyond - Behavioral Design Hub - Medium.md`
+  - expected: `2020-02-27-behavioral-design-2020-and-beyond-behavioral-design-hub-medium.md`
+- `sources/consumed/articles/0254-https www.technologyreview.com s 615370 coronavirus-pandemic-social-distancing-18-months.md` — mismatch
+  - detail: https://www.technologyreview.com/s/615370/coronavirus-pandemic-social-distancing-18-months/
+  - current: `0254-https www.technologyreview.com s 615370 coronavirus-pandemic-social-distancing-18-months.md`
+  - expected: `2020-04-05-https-www-technologyreview-com-s-615370-coronavirus-pandemic-social-distancing-18-months.md`
+- `sources/consumed/articles/0255-https www.politico.com news magazine 2020 03 19 coronavirus-effect-economy-life-society-analysis-cov.md` — mismatch
+  - detail: https://www.politico.com/news/magazine/2020/03/19/coronavirus-effect-economy-life-society-analysis-covid-135579
+  - current: `0255-https www.politico.com news magazine 2020 03 19 coronavirus-effect-economy-life-society-analysis-cov.md`
+  - expected: `2020-03-24-https-www-politico-com-news-magazine-2020-03-19-coronavirus-effect-economy-life-society-analysis-covid-135579.md`
+- `sources/consumed/articles/0256-https www.ft.com content 19d90308-6858-11ea-a3c9-1fe6fedcca75.md` — mismatch
+  - detail: https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75
+  - current: `0256-https www.ft.com content 19d90308-6858-11ea-a3c9-1fe6fedcca75.md`
+  - expected: `2020-03-22-https-www-ft-com-content-19d90308-6858-11ea-a3c9-1fe6fedcca75.md`
+- `sources/consumed/articles/0257-Ekonom Stefan de Vylder Fortsatt kris tills vi har vaccin - DN.SE.md` — mismatch
+  - detail: Ekonom Stefan de Vylder: Fortsatt kris tills vi har vaccin - DN.SE
+  - current: `0257-Ekonom Stefan de Vylder Fortsatt kris tills vi har vaccin - DN.SE.md`
+  - expected: `2020-03-23-ekonom-stefan-de-vylder-fortsatt-kris-tills-vi-har-vaccin-dn-se.md`
+- `sources/consumed/articles/0258-Pandemin kan bli skiftet som gör Kina till ledande global makt - DN.SE.md` — mismatch
+  - detail: Pandemin kan bli skiftet som gör Kina till ledande global makt - DN.SE
+  - current: `0258-Pandemin kan bli skiftet som gör Kina till ledande global makt - DN.SE.md`
+  - expected: `2020-03-24-pandemin-kan-bli-skiftet-som-gor-kina-till-ledande-global-makt-dn-se.md`
+- `sources/consumed/articles/0259-A Coronavirus Timeline From One Month To 18 Months Esquire.md` — mismatch
+  - detail: A Coronavirus Timeline: From One Month To 18 Months | Esquire
+  - current: `0259-A Coronavirus Timeline From One Month To 18 Months Esquire.md`
+  - expected: `2020-03-26-a-coronavirus-timeline-from-one-month-to-18-months-esquire.md`
+- `sources/consumed/articles/0260-https www.techarenan.news 2020 03 29 kjell-a-nordstrom-pandemin-forandrar-allt-fundamentalt-det-gjor.md` — mismatch
+  - detail: https://www.techarenan.news/2020/03/29/kjell-a-nordstrom-pandemin-forandrar-allt-fundamentalt-det-gjorde-aldrig-finanskrisen/
+  - current: `0260-https www.techarenan.news 2020 03 29 kjell-a-nordstrom-pandemin-forandrar-allt-fundamentalt-det-gjor.md`
+  - expected: `2020-04-03-https-www-techarenan-news-2020-03-29-kjell-a-nordstrom-pandemin-forandrar-allt-fundamentalt-det-gjorde-aldrig-finanskrisen.md`
+- `sources/consumed/articles/0261-https amp-svt-se.cdn.ampproject.org c s amp.svt.se nyheter inrikes experten-krisen-kan-gora-att-vi-f.md` — mismatch
+  - detail: https://amp-svt-se.cdn.ampproject.org/c/s/amp.svt.se/nyheter/inrikes/experten-krisen-kan-gora-att-vi-far-ett-nytt-samhalle
+  - current: `0261-https amp-svt-se.cdn.ampproject.org c s amp.svt.se nyheter inrikes experten-krisen-kan-gora-att-vi-f.md`
+  - expected: `2020-04-05-https-amp-svt-se-cdn-ampproject-org-c-s-amp-svt-se-nyheter-inrikes-experten-krisen-kan-gora-att-vi-far-ett-nytt-samhalle.md`
+- `sources/consumed/articles/0262-Så avslöjar coronakrisen hur lite vi egentligen arbetar - DN.SE.md` — mismatch
+  - detail: Så avslöjar coronakrisen hur lite vi egentligen arbetar - DN.SE
+  - current: `0262-Så avslöjar coronakrisen hur lite vi egentligen arbetar - DN.SE.md`
+  - expected: `2020-04-09-sa-avslojar-coronakrisen-hur-lite-vi-egentligen-arbetar-dn-se.md`
+- `sources/consumed/articles/0263-https www.independent.co.uk news world europe coronavirus-spain-universal-basic-income-europe-a94493.md` — mismatch
+  - detail: https://www.independent.co.uk/news/world/europe/coronavirus-spain-universal-basic-income-europe-a9449336.html?amp
+  - current: `0263-https www.independent.co.uk news world europe coronavirus-spain-universal-basic-income-europe-a94493.md`
+  - expected: `2020-04-09-https-www-independent-co-uk-news-world-europe-coronavirus-spain-universal-basic-income-europe-a9449336-html-amp.md`
+- `sources/consumed/articles/0264-https www.fastcompany.com 90488665 the-coronavirus-butterfly-effect-six-predictions-for-a-new-world-.md` — mismatch
+  - detail: https://www.fastcompany.com/90488665/the-coronavirus-butterfly-effect-six-predictions-for-a-new-world-order
+  - current: `0264-https www.fastcompany.com 90488665 the-coronavirus-butterfly-effect-six-predictions-for-a-new-world-.md`
+  - expected: `2020-04-27-https-www-fastcompany-com-90488665-the-coronavirus-butterfly-effect-six-predictions-for-a-new-world-order.md`
+- `sources/consumed/articles/0265-The professionals who predict the future for a living MIT Technology Revi.md` — mismatch
+  - detail: The professionals who predict the future for a living | MIT Technology Revi
+  - current: `0265-The professionals who predict the future for a living MIT Technology Revi.md`
+  - expected: `2020-12-03-the-professionals-who-predict-the-future-for-a-living-mit-technology-revi.md`
+- `sources/consumed/articles/0266-https www.dn.se ekonomi darfor-ar-cheferna-storsta-problemet-med-distansarbete.md` — mismatch
+  - detail: https://www.dn.se/ekonomi/darfor-ar-cheferna-storsta-problemet-med-distansarbete/
+  - current: `0266-https www.dn.se ekonomi darfor-ar-cheferna-storsta-problemet-med-distansarbete.md`
+  - expected: `2020-04-16-https-www-dn-se-ekonomi-darfor-ar-cheferna-storsta-problemet-med-distansarbete.md`
+- `sources/consumed/articles/0267-http edgecentral.blogspot.com 2020 04 jumping-shark-enigma-of-burning-man.html.md` — mismatch
+  - detail: http://edgecentral.blogspot.com/2020/04/jumping-shark-enigma-of-burning-man.html
+  - current: `0267-http edgecentral.blogspot.com 2020 04 jumping-shark-enigma-of-burning-man.html.md`
+  - expected: `2020-04-18-http-edgecentral-blogspot-com-2020-04-jumping-shark-enigma-of-burning-man-html.md`
+- `sources/consumed/articles/0268-https www.dn.se ekonomi carl-johan-von-seth-tre-satt-som-pandemin-kan-forandra-ekonomin.md` — mismatch
+  - detail: https://www.dn.se/ekonomi/carl-johan-von-seth-tre-satt-som-pandemin-kan-forandra-ekonomin/
+  - current: `0268-https www.dn.se ekonomi carl-johan-von-seth-tre-satt-som-pandemin-kan-forandra-ekonomin.md`
+  - expected: `2020-04-27-https-www-dn-se-ekonomi-carl-johan-von-seth-tre-satt-som-pandemin-kan-forandra-ekonomin.md`
+- `sources/consumed/articles/0269-Stop Zoning Out in Zoom Meetings.md` — mismatch
+  - detail: Stop Zoning Out in Zoom Meetings
+  - current: `0269-Stop Zoning Out in Zoom Meetings.md`
+  - expected: `2021-06-01-stop-zoning-out-in-zoom-meetings.md`
+- `sources/consumed/articles/0270-https www.dn.se nyheter 6-saker-i-ditt-liv-som-kommer-forandras-nar-coronakrisen-ar-over.md` — mismatch
+  - detail: https://www.dn.se/nyheter/6-saker-i-ditt-liv-som-kommer-forandras-nar-coronakrisen-ar-over/
+  - current: `0270-https www.dn.se nyheter 6-saker-i-ditt-liv-som-kommer-forandras-nar-coronakrisen-ar-over.md`
+  - expected: `2020-05-26-https-www-dn-se-nyheter-6-saker-i-ditt-liv-som-kommer-forandras-nar-coronakrisen-ar-over.md`
+- `sources/consumed/articles/0271-https www.dn.se debatt politikutveckling-har-blivit-en-vara-pa-en-marknad.md` — mismatch
+  - detail: https://www.dn.se/debatt/politikutveckling-har-blivit-en-vara-pa-en-marknad/
+  - current: `0271-https www.dn.se debatt politikutveckling-har-blivit-en-vara-pa-en-marknad.md`
+  - expected: `2020-05-16-https-www-dn-se-debatt-politikutveckling-har-blivit-en-vara-pa-en-marknad.md`
+- `sources/consumed/articles/0272-https fivethirtyeight.com features dont-expect-a-quick-recovery-our-survey-of-economists-says-it-wil.md` — mismatch
+  - detail: https://fivethirtyeight.com/features/dont-expect-a-quick-recovery-our-survey-of-economists-says-it-will-likely-take-years/
+  - current: `0272-https fivethirtyeight.com features dont-expect-a-quick-recovery-our-survey-of-economists-says-it-wil.md`
+  - expected: `2020-05-27-https-fivethirtyeight-com-features-dont-expect-a-quick-recovery-our-survey-of-economists-says-it-will-likely-take-years.md`
+- `sources/consumed/articles/0273-https www.di.se nyheter experten-sa-anvander-vi-kontoren-efter-pandemin.md` — mismatch
+  - detail: https://www.di.se/nyheter/experten-sa-anvander-vi-kontoren-efter-pandemin/
+  - current: `0273-https www.di.se nyheter experten-sa-anvander-vi-kontoren-efter-pandemin.md`
+  - expected: `2020-06-15-https-www-di-se-nyheter-experten-sa-anvander-vi-kontoren-efter-pandemin.md`
+- `sources/consumed/articles/0274-Coronavirus Researchers Are Dismantling Science’s Ivory Tower—One Study at.md` — mismatch
+  - detail: Coronavirus Researchers Are Dismantling Science’s Ivory Tower—One Study at
+  - current: `0274-Coronavirus Researchers Are Dismantling Science’s Ivory Tower—One Study at.md`
+  - expected: `2020-06-29-coronavirus-researchers-are-dismantling-sciences-ivory-towerone-study-at.md`
+- `sources/consumed/articles/0275-Live Wrong and Prosper Covid-19 and the Future of Families WIRED.md` — mismatch
+  - detail: Live Wrong and Prosper: Covid-19 and the Future of Families | WIRED
+  - current: `0275-Live Wrong and Prosper Covid-19 and the Future of Families WIRED.md`
+  - expected: `2020-06-29-live-wrong-and-prosper-covid-19-and-the-future-of-families-wired.md`
+- `sources/consumed/articles/0276-5. Tech causes more problems than it solves Pew Research Center.md` — mismatch
+  - detail: 5. Tech causes more problems than it solves | Pew Research Center
+  - current: `0276-5. Tech causes more problems than it solves Pew Research Center.md`
+  - expected: `2021-06-15-5-tech-causes-more-problems-than-it-solves-pew-research-center.md`
+- `sources/consumed/articles/0277-https www.wired.com story slack-office-tips itm_campaign=BottomRelatedStories_Sections_2&itm_content.md` — mismatch
+  - detail: https://www.wired.com/story/slack-office-tips/?itm_campaign=BottomRelatedStories_Sections_2&itm_content=footer-recirc&intcid=inline_amp
+  - current: `0277-https www.wired.com story slack-office-tips itm_campaign=BottomRelatedStories_Sections_2&itm_content.md`
+  - expected: `2020-07-14-https-www-wired-com-story-slack-office-tips-itm-campaign-bottomrelatedstories-sections-2-and-itm-content-footer-recirc-and-intcid-inline-amp.md`
+- `sources/consumed/articles/0278-https www.aier.org article swedens-high-covid-death-rates-among-the-nordics-dry-tinder-and-other-imp.md` — mismatch
+  - detail: https://www.aier.org/article/swedens-high-covid-death-rates-among-the-nordics-dry-tinder-and-other-important-factors/
+  - current: `0278-https www.aier.org article swedens-high-covid-death-rates-among-the-nordics-dry-tinder-and-other-imp.md`
+  - expected: `2020-09-16-https-www-aier-org-article-swedens-high-covid-death-rates-among-the-nordics-dry-tinder-and-other-important-factors.md`
+- `sources/consumed/articles/0279-https blog.pragmaticengineer.com what-silicon-valley-gets-right-on-software-engineers.md` — mismatch
+  - detail: https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/
+  - current: `0279-https blog.pragmaticengineer.com what-silicon-valley-gets-right-on-software-engineers.md`
+  - expected: `2021-01-11-https-blog-pragmaticengineer-com-what-silicon-valley-gets-right-on-software-engineers.md`
+- `sources/consumed/articles/0280-https shows.acast.com futurefossils episodes 117.md` — mismatch
+  - detail: https://shows.acast.com/futurefossils/episodes/117
+  - current: `0280-https shows.acast.com futurefossils episodes 117.md`
+  - expected: `2020-11-27-https-shows-acast-com-futurefossils-episodes-117.md`
+- `sources/consumed/articles/0281-https www.dn.se ekonomi carl-johan-von-seth-sa-kan-framtidens-distansarbete-paverka-ekonomin.md` — mismatch
+  - detail: https://www.dn.se/ekonomi/carl-johan-von-seth-sa-kan-framtidens-distansarbete-paverka-ekonomin/
+  - current: `0281-https www.dn.se ekonomi carl-johan-von-seth-sa-kan-framtidens-distansarbete-paverka-ekonomin.md`
+  - expected: `2020-12-27-https-www-dn-se-ekonomi-carl-johan-von-seth-sa-kan-framtidens-distansarbete-paverka-ekonomin.md`
+- `sources/consumed/articles/0282-https www.nature.com articles s41598-020-79310-1.md` — mismatch
+  - detail: https://www.nature.com/articles/s41598-020-79310-1
+  - current: `0282-https www.nature.com articles s41598-020-79310-1.md`
+  - expected: `2021-03-05-https-www-nature-com-articles-s41598-020-79310-1.md`
+- `sources/consumed/articles/0283-https www.psychologytoday.com us blog the-romance-work 202101 in-the-age-clubhouse-must-we-all-becom.md` — mismatch
+  - detail: https://www.psychologytoday.com/us/blog/the-romance-work/202101/in-the-age-clubhouse-must-we-all-become-moderators-now
+  - current: `0283-https www.psychologytoday.com us blog the-romance-work 202101 in-the-age-clubhouse-must-we-all-becom.md`
+  - expected: `2021-01-31-https-www-psychologytoday-com-us-blog-the-romance-work-202101-in-the-age-clubhouse-must-we-all-become-moderators-now.md`
+- `sources/consumed/articles/0284-https www.cnbc.com 2021 02 25 zoom-fatigue-why-we-have-it-how-to-fix-it.html.md` — mismatch
+  - detail: https://www.cnbc.com/2021/02/25/zoom-fatigue-why-we-have-it-how-to-fix-it.html
+  - current: `0284-https www.cnbc.com 2021 02 25 zoom-fatigue-why-we-have-it-how-to-fix-it.html.md`
+  - expected: `2021-02-26-https-www-cnbc-com-2021-02-25-zoom-fatigue-why-we-have-it-how-to-fix-it-html.md`
+- `sources/consumed/articles/0285-https www.cnbc.com amp guide using-iphone-as-webcam-for-mac-video-conferencing.md` — mismatch
+  - detail: https://www.cnbc.com/amp/guide/using-iphone-as-webcam-for-mac-video-conferencing/
+  - current: `0285-https www.cnbc.com amp guide using-iphone-as-webcam-for-mac-video-conferencing.md`
+  - expected: `2021-02-28-https-www-cnbc-com-amp-guide-using-iphone-as-webcam-for-mac-video-conferencing.md`
+- `sources/consumed/articles/0286-https kvartal.se artiklar petersons-psykologiska-resa.md` — mismatch
+  - detail: https://kvartal.se/artiklar/petersons-psykologiska-resa/
+  - current: `0286-https kvartal.se artiklar petersons-psykologiska-resa.md`
+  - expected: `2021-03-05-https-kvartal-se-artiklar-petersons-psykologiska-resa.md`
+- `sources/consumed/articles/0287-https orbit.love blog a-tactical-guide-to-kickstarting-your-community.md` — mismatch
+  - detail: https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community/
+  - current: `0287-https orbit.love blog a-tactical-guide-to-kickstarting-your-community.md`
+  - expected: `2021-03-11-https-orbit-love-blog-a-tactical-guide-to-kickstarting-your-community.md`
+- `sources/consumed/articles/0288-https www.theverge.com 2021 3 15 22331744 zoom-escaper-sabotage-meetings-fake-audio-problems.md` — mismatch
+  - detail: https://www.theverge.com/2021/3/15/22331744/zoom-escaper-sabotage-meetings-fake-audio-problems
+  - current: `0288-https www.theverge.com 2021 3 15 22331744 zoom-escaper-sabotage-meetings-fake-audio-problems.md`
+  - expected: `2021-03-17-https-www-theverge-com-2021-3-15-22331744-zoom-escaper-sabotage-meetings-fake-audio-problems.md`
+- `sources/consumed/articles/0289-https psyche.co ideas when-your-authenticity-is-an-act-somethings-gone-wrong.md` — mismatch
+  - detail: https://psyche.co/ideas/when-your-authenticity-is-an-act-somethings-gone-wrong
+  - current: `0289-https psyche.co ideas when-your-authenticity-is-an-act-somethings-gone-wrong.md`
+  - expected: `2021-04-05-https-psyche-co-ideas-when-your-authenticity-is-an-act-somethings-gone-wrong.md`
+- `sources/consumed/articles/0290-https starloopstudios.com how-to-create-a-well-balanced-game-economy-design.md` — mismatch
+  - detail: https://starloopstudios.com/how-to-create-a-well-balanced-game-economy-design/
+  - current: `0290-https starloopstudios.com how-to-create-a-well-balanced-game-economy-design.md`
+  - expected: `2022-08-16-https-starloopstudios-com-how-to-create-a-well-balanced-game-economy-design.md`
+- `sources/consumed/articles/0291-https content.userwise.io the-fundamentals-of-game-economy-design.md` — mismatch
+  - detail: https://content.userwise.io/the-fundamentals-of-game-economy-design
+  - current: `0291-https content.userwise.io the-fundamentals-of-game-economy-design.md`
+  - expected: `2022-08-16-https-content-userwise-io-the-fundamentals-of-game-economy-design.md`
+- `sources/consumed/articles/0292-https fivethirtyeight.com features why-people-fall-for-conspiracy-theories.md` — mismatch
+  - detail: https://fivethirtyeight.com/features/why-people-fall-for-conspiracy-theories/
+  - current: `0292-https fivethirtyeight.com features why-people-fall-for-conspiracy-theories.md`
+  - expected: `2021-06-16-https-fivethirtyeight-com-features-why-people-fall-for-conspiracy-theories.md`
+- `sources/consumed/articles/0293-https charleseisenstein.org essays girard-series-part-1-the-death-of-the-festival.md` — mismatch
+  - detail: https://charleseisenstein.org/essays/girard-series-part-1-the-death-of-the-festival/
+  - current: `0293-https charleseisenstein.org essays girard-series-part-1-the-death-of-the-festival.md`
+  - expected: `2021-07-12-https-charleseisenstein-org-essays-girard-series-part-1-the-death-of-the-festival.md`
+- `sources/consumed/articles/0294-https kneelingbus.substack.com p 162-minimum-viable-self.md` — mismatch
+  - detail: https://kneelingbus.substack.com/p/162-minimum-viable-self
+  - current: `0294-https kneelingbus.substack.com p 162-minimum-viable-self.md`
+  - expected: `2021-06-19-https-kneelingbus-substack-com-p-162-minimum-viable-self.md`
+- `sources/consumed/articles/0295-https unherd.com 2021 06 are-twitter-trolls-mentally-ill.md` — mismatch
+  - detail: https://unherd.com/2021/06/are-twitter-trolls-mentally-ill/
+  - current: `0295-https unherd.com 2021 06 are-twitter-trolls-mentally-ill.md`
+  - expected: `2021-06-25-https-unherd-com-2021-06-are-twitter-trolls-mentally-ill.md`
+- `sources/consumed/articles/0296-https consilienceproject.org where-arguments-come-from.md` — mismatch
+  - detail: https://consilienceproject.org/where-arguments-come-from/
+  - current: `0296-https consilienceproject.org where-arguments-come-from.md`
+  - expected: `2021-06-28-https-consilienceproject-org-where-arguments-come-from.md`
+- `sources/consumed/articles/0297-https quillette.com 2021 06 28 mate-selection-for-modernity.md` — mismatch
+  - detail: https://quillette.com/2021/06/28/mate-selection-for-modernity/
+  - current: `0297-https quillette.com 2021 06 28 mate-selection-for-modernity.md`
+  - expected: `2021-06-29-https-quillette-com-2021-06-28-mate-selection-for-modernity.md`
+- `sources/consumed/articles/0298-https cointelegraph.com news to-change-the-art-industry-nfts-must-be-more-secure.md` — mismatch
+  - detail: https://cointelegraph.com/news/to-change-the-art-industry-nfts-must-be-more-secure
+  - current: `0298-https cointelegraph.com news to-change-the-art-industry-nfts-must-be-more-secure.md`
+  - expected: `2021-07-05-https-cointelegraph-com-news-to-change-the-art-industry-nfts-must-be-more-secure.md`
+- `sources/consumed/articles/0299-https www.warpnews.org premium-content kevin-kelly-the-case-for-optimism.md` — mismatch
+  - detail: https://www.warpnews.org/premium-content/kevin-kelly-the-case-for-optimism/
+  - current: `0299-https www.warpnews.org premium-content kevin-kelly-the-case-for-optimism.md`
+  - expected: `2021-08-15-https-www-warpnews-org-premium-content-kevin-kelly-the-case-for-optimism.md`
+- `sources/consumed/articles/0300-https vitalik.ca general 2021 08 16 voting3.html.md` — mismatch
+  - detail: https://vitalik.ca/general/2021/08/16/voting3.html
+  - current: `0300-https vitalik.ca general 2021 08 16 voting3.html.md`
+  - expected: `2022-06-03-https-vitalik-ca-general-2021-08-16-voting3-html.md`
+- `sources/consumed/articles/0301-https www.coindesk.com policy 2021 04 22 state-lawmaker-explains-wyomings-newly-passed-dao-llc-law.md` — mismatch
+  - detail: https://www.coindesk.com/policy/2021/04/22/state-lawmaker-explains-wyomings-newly-passed-dao-llc-law/
+  - current: `0301-https www.coindesk.com policy 2021 04 22 state-lawmaker-explains-wyomings-newly-passed-dao-llc-law.md`
+  - expected: `2022-08-03-https-www-coindesk-com-policy-2021-04-22-state-lawmaker-explains-wyomings-newly-passed-dao-llc-law.md`
+- `sources/consumed/articles/0302-https www.linkedin.com in danoschzahedi.md` — mismatch
+  - detail: https://www.linkedin.com/in/danoschzahedi
+  - current: `0302-https www.linkedin.com in danoschzahedi.md`
+  - expected: `2021-09-20-https-www-linkedin-com-in-danoschzahedi.md`
+- `sources/consumed/articles/0303-https link.medium.com JmpHfBZxJjb.md` — mismatch
+  - detail: https://link.medium.com/JmpHfBZxJjb
+  - current: `0303-https link.medium.com JmpHfBZxJjb.md`
+  - expected: `2021-09-21-https-link-medium-com-jmphfbzxjjb.md`
+- `sources/consumed/articles/0304-https www.paradigm.xyz 2021 10 a-guide-to-designing-effective-nft-launches.md` — mismatch
+  - detail: https://www.paradigm.xyz/2021/10/a-guide-to-designing-effective-nft-launches/
+  - current: `0304-https www.paradigm.xyz 2021 10 a-guide-to-designing-effective-nft-launches.md`
+  - expected: `2021-10-15-https-www-paradigm-xyz-2021-10-a-guide-to-designing-effective-nft-launches.md`
+- `sources/consumed/articles/0305-https canolcer.com post metaverse-is-already-here.md` — mismatch
+  - detail: https://canolcer.com/post/metaverse-is-already-here/
+  - current: `0305-https canolcer.com post metaverse-is-already-here.md`
+  - expected: `2022-06-12-https-canolcer-com-post-metaverse-is-already-here.md`
+- `sources/consumed/articles/0306-https www.goldmansachs.com insights pages gs-research framing-the-future-of-web-3.0-metaverse-editio.md` — mismatch
+  - detail: https://www.goldmansachs.com/insights/pages/gs-research/framing-the-future-of-web-3.0-metaverse-edition/report.pdf
+  - current: `0306-https www.goldmansachs.com insights pages gs-research framing-the-future-of-web-3.0-metaverse-editio.md`
+  - expected: `2022-07-07-https-www-goldmansachs-com-insights-pages-gs-research-framing-the-future-of-web-3-0-metaverse-edition-report-pdf.md`
+- `sources/consumed/articles/0307-https moxie.org 2022 01 07 web3-first-impressions.html.md` — mismatch
+  - detail: https://moxie.org/2022/01/07/web3-first-impressions.html
+  - current: `0307-https moxie.org 2022 01 07 web3-first-impressions.html.md`
+  - expected: `2022-03-05-https-moxie-org-2022-01-07-web3-first-impressions-html.md`
+- `sources/consumed/articles/0308-https vitalik.ca general 2022 01 26 soulbound.html.md` — mismatch
+  - detail: https://vitalik.ca/general/2022/01/26/soulbound.html
+  - current: `0308-https vitalik.ca general 2022 01 26 soulbound.html.md`
+  - expected: `2022-06-03-https-vitalik-ca-general-2022-01-26-soulbound-html.md`
+- `sources/consumed/articles/0309-https images-ext-1.discordapp.net external O7yOXUhZpcRbW6a3_l_8NLipBlsE1MhctKO3Sh3SchY https lh3.goo.md` — mismatch
+  - detail: https://images-ext-1.discordapp.net/external/O7yOXUhZpcRbW6a3_l_8NLipBlsE1MhctKO3Sh3SchY/https/lh3.googleusercontent.com/_3v0F3zfu4w2-1x_m6NBiBC1ajLVpkL0GBu-hNdKkbQ9BwgWpy7m984JQn88MwQHbi8OTYH8RySuWWOdqbFB-BjOD3ACEyRRGKe0M2s=w1400-k
+  - current: `0309-https images-ext-1.discordapp.net external O7yOXUhZpcRbW6a3_l_8NLipBlsE1MhctKO3Sh3SchY https lh3.goo.md`
+  - expected: `2022-02-01-https-images-ext-1-discordapp-net-external-o7yoxuhzpcrbw6a3-l-8nlipblse1mhctko3sh3schy-https-lh3-googleusercontent-com-3v0f3zfu4w2-1x-m6nbibc1ajlvpkl0gbu-hndkkbq9bwgwpy7m984jqn88mwqhbi8otyh8rysuwwodqbfb-bjod3aceyrrgke0m2s-w1400-k.md`
+- `sources/consumed/articles/0310-https www.jpmorgan.com content dam jpm treasury-services documents opportunities-in-the-metaverse.pd.md` — mismatch
+  - detail: https://www.jpmorgan.com/content/dam/jpm/treasury-services/documents/opportunities-in-the-metaverse.pdf
+  - current: `0310-https www.jpmorgan.com content dam jpm treasury-services documents opportunities-in-the-metaverse.pd.md`
+  - expected: `2022-07-07-https-www-jpmorgan-com-content-dam-jpm-treasury-services-documents-opportunities-in-the-metaverse-pdf.md`
+- `sources/consumed/articles/0311-https www.adobe.com content dam cc us en metaverse metaverse-whitepaper-and-immersive-experiences.pd.md` — mismatch
+  - detail: https://www.adobe.com/content/dam/cc/us/en/metaverse/metaverse-whitepaper-and-immersive-experiences.pdf
+  - current: `0311-https www.adobe.com content dam cc us en metaverse metaverse-whitepaper-and-immersive-experiences.pd.md`
+  - expected: `2022-07-07-https-www-adobe-com-content-dam-cc-us-en-metaverse-metaverse-whitepaper-and-immersive-experiences-pdf.md`
+- `sources/consumed/articles/0312-https www.lesswrong.com posts tjxgbovwc5Ft7wrtc popular-education-in-sweden-much-more-than-you-wante.md` — mismatch
+  - detail: https://www.lesswrong.com/posts/tjxgbovwc5Ft7wrtc/popular-education-in-sweden-much-more-than-you-wanted-to-1
+  - current: `0312-https www.lesswrong.com posts tjxgbovwc5Ft7wrtc popular-education-in-sweden-much-more-than-you-wante.md`
+  - expected: `2023-02-26-https-www-lesswrong-com-posts-tjxgbovwc5ft7wrtc-popular-education-in-sweden-much-more-than-you-wanted-to-1.md`
+- `sources/consumed/articles/0313-https messari.io governor daos.md` — mismatch
+  - detail: https://messari.io/governor/daos
+  - current: `0313-https messari.io governor daos.md`
+  - expected: `2022-06-11-https-messari-io-governor-daos.md`
+- `sources/consumed/articles/0314-https joe-antognini.github.io ml consciousness.md` — mismatch
+  - detail: https://joe-antognini.github.io/ml/consciousness
+  - current: `0314-https joe-antognini.github.io ml consciousness.md`
+  - expected: `2022-06-20-https-joe-antognini-github-io-ml-consciousness.md`
+- `sources/consumed/articles/0315-https icg.citi.com icghome what-we-think citigps insights metaverse-and-money_20220330.md` — mismatch
+  - detail: https://icg.citi.com/icghome/what-we-think/citigps/insights/metaverse-and-money_20220330
+  - current: `0315-https icg.citi.com icghome what-we-think citigps insights metaverse-and-money_20220330.md`
+  - expected: `2022-07-07-https-icg-citi-com-icghome-what-we-think-citigps-insights-metaverse-and-money-20220330.md`
+- `sources/consumed/articles/0316-https www.penguinrandomhouse.com books 675690 virtual-society-by-herman-narula.md` — mismatch
+  - detail: https://www.penguinrandomhouse.com/books/675690/virtual-society-by-herman-narula/
+  - current: `0316-https www.penguinrandomhouse.com books 675690 virtual-society-by-herman-narula.md`
+  - expected: `2022-09-09-https-www-penguinrandomhouse-com-books-675690-virtual-society-by-herman-narula.md`
+- `sources/consumed/articles/0317-https twitter.com grady_booch status 1555009274685689857 s=21&t=oe83bIWXT-lwYc_4_lbc6w.md` — mismatch
+  - detail: https://twitter.com/grady_booch/status/1555009274685689857?s=21&t=oe83bIWXT-lwYc_4_lbc6w
+  - current: `0317-https twitter.com grady_booch status 1555009274685689857 s=21&t=oe83bIWXT-lwYc_4_lbc6w.md`
+  - expected: `2022-08-04-https-twitter-com-grady-booch-status-1555009274685689857-s-21-and-t-oe83biwxt-lwyc-4-lbc6w.md`
+- `sources/consumed/articles/0318-https www.pcgamer.com us-court-plants-seeds-for-robot-uprising-by-confirming-that-ais-cant-patent-th.md` — mismatch
+  - detail: https://www.pcgamer.com/us-court-plants-seeds-for-robot-uprising-by-confirming-that-ais-cant-patent-their-own-inventions/
+  - current: `0318-https www.pcgamer.com us-court-plants-seeds-for-robot-uprising-by-confirming-that-ais-cant-patent-th.md`
+  - expected: `2022-08-09-https-www-pcgamer-com-us-court-plants-seeds-for-robot-uprising-by-confirming-that-ais-cant-patent-their-own-inventions.md`
+- `sources/consumed/articles/0319-https religionandpolitics.org 2022 08 09 the-future-of-religion-in-the-metaverse.md` — mismatch
+  - detail: https://religionandpolitics.org/2022/08/09/the-future-of-religion-in-the-metaverse/
+  - current: `0319-https religionandpolitics.org 2022 08 09 the-future-of-religion-in-the-metaverse.md`
+  - expected: `2022-09-30-https-religionandpolitics-org-2022-08-09-the-future-of-religion-in-the-metaverse.md`
+- `sources/consumed/articles/0320-https twitter.com mishadavinci status 1558820214699016193 s=21&t=Xn_xqy3bes1iVqH1bksMFA.md` — mismatch
+  - detail: https://twitter.com/mishadavinci/status/1558820214699016193?s=21&t=Xn_xqy3bes1iVqH1bksMFA
+  - current: `0320-https twitter.com mishadavinci status 1558820214699016193 s=21&t=Xn_xqy3bes1iVqH1bksMFA.md`
+  - expected: `2022-08-15-https-twitter-com-mishadavinci-status-1558820214699016193-s-21-and-t-xn-xqy3bes1ivqh1bksmfa.md`
+- `sources/consumed/articles/0321-https zachmbell.substack.com p whatever-happened-to-the-sharing utm_medium=ios.md` — mismatch
+  - detail: https://zachmbell.substack.com/p/whatever-happened-to-the-sharing?utm_medium=ios
+  - current: `0321-https zachmbell.substack.com p whatever-happened-to-the-sharing utm_medium=ios.md`
+  - expected: `2022-08-24-https-zachmbell-substack-com-p-whatever-happened-to-the-sharing-utm-medium-ios.md`
+- `sources/consumed/articles/0322-https www.thedrum.com opinion 2022 08 24 dear-agencies-delete-your-metaverse-presentations-immediate.md` — mismatch
+  - detail: https://www.thedrum.com/opinion/2022/08/24/dear-agencies-delete-your-metaverse-presentations-immediately
+  - current: `0322-https www.thedrum.com opinion 2022 08 24 dear-agencies-delete-your-metaverse-presentations-immediate.md`
+  - expected: `2022-09-14-https-www-thedrum-com-opinion-2022-08-24-dear-agencies-delete-your-metaverse-presentations-immediately.md`
+- `sources/consumed/articles/0323-https grandy.substack.com p the-new-normal-the-coming-tsunami.md` — mismatch
+  - detail: https://grandy.substack.com/p/the-new-normal-the-coming-tsunami
+  - current: `0323-https grandy.substack.com p the-new-normal-the-coming-tsunami.md`
+  - expected: `2022-08-25-https-grandy-substack-com-p-the-new-normal-the-coming-tsunami.md`
+- `sources/consumed/articles/0324-The End of Professional Photography Fstoppers.md` — mismatch
+  - detail: The End of Professional Photography | Fstoppers
+  - current: `0324-The End of Professional Photography Fstoppers.md`
+  - expected: `2022-09-13-the-end-of-professional-photography-fstoppers.md`
+- `sources/consumed/articles/0325-AI wins state fair art contest, annoys humans Ars Technica.md` — mismatch
+  - detail: AI wins state fair art contest, annoys humans | Ars Technica
+  - current: `0325-AI wins state fair art contest, annoys humans Ars Technica.md`
+  - expected: `2022-09-13-ai-wins-state-fair-art-contest-annoys-humans-ars-technica.md`
+- `sources/consumed/articles/0326-https research.hy.pe brand-activations-in-the-metaverse.md` — mismatch
+  - detail: https://research.hy.pe/brand-activations-in-the-metaverse
+  - current: `0326-https research.hy.pe brand-activations-in-the-metaverse.md`
+  - expected: `2022-09-03-https-research-hy-pe-brand-activations-in-the-metaverse.md`
+- `sources/consumed/articles/0327-https news.artnet.com art-world metakovan-olafur-eliason-2170235.md` — mismatch
+  - detail: https://news.artnet.com/art-world/metakovan-olafur-eliason-2170235
+  - current: `0327-https news.artnet.com art-world metakovan-olafur-eliason-2170235.md`
+  - expected: `2022-09-06-https-news-artnet-com-art-world-metakovan-olafur-eliason-2170235.md`
+- `sources/consumed/articles/0328-Daniel Eckler ‍ on Twitter AI Art 101 27 tweets that will your brai.md` — mismatch
+  - detail: Daniel Eckler ?‍? on Twitter: \"AI Art 101 ? 27 tweets that will ? your brai
+  - current: `0328-Daniel Eckler ‍ on Twitter AI Art 101 27 tweets that will your brai.md`
+  - expected: `2022-09-13-daniel-eckler-on-twitter-ai-art-101-27-tweets-that-will-your-brai.md`
+- `sources/consumed/articles/0329-Karen X. Cheng on Twitter AI Fashion Tutorial - A more detailed breakdown.md` — mismatch
+  - detail: Karen X. Cheng on Twitter: \"AI Fashion Tutorial - A more detailed breakdown
+  - current: `0329-Karen X. Cheng on Twitter AI Fashion Tutorial - A more detailed breakdown.md`
+  - expected: `2022-09-13-karen-x-cheng-on-twitter-ai-fashion-tutorial-a-more-detailed-breakdown.md`
+- `sources/consumed/articles/0330-Stable Diffusion WebUi - Altryne - Colaboratory.md` — mismatch
+  - detail: Stable Diffusion WebUi - Altryne - Colaboratory
+  - current: `0330-Stable Diffusion WebUi - Altryne - Colaboratory.md`
+  - expected: `2022-09-13-stable-diffusion-webui-altryne-colaboratory.md`
+- `sources/consumed/articles/0331-Ishan B on Twitter FRAMEWORKS FOR TOKENOMICS Tokens Economics = Tokenom.md` — mismatch
+  - detail: Ishan B on Twitter: \"FRAMEWORKS FOR TOKENOMICS Tokens   Economics = Tokenom
+  - current: `0331-Ishan B on Twitter FRAMEWORKS FOR TOKENOMICS Tokens Economics = Tokenom.md`
+  - expected: `2022-09-13-ishan-b-on-twitter-frameworks-for-tokenomics-tokens-economics-tokenom.md`
+- `sources/consumed/articles/0332-@levelsio on Twitter ✨ Here's how to generate A.I. images with Stable Dif.md` — mismatch
+  - detail: @levelsio on Twitter: \"✨ Here's how to generate A.I. images with Stable Dif
+  - current: `0332-@levelsio on Twitter ✨ Here's how to generate A.I. images with Stable Dif.md`
+  - expected: `2022-09-13-levelsio-on-twitter-here-s-how-to-generate-a-i-images-with-stable-dif.md`
+- `sources/consumed/articles/0333-(1) Vincent Le Moign on Twitter Dall-E can now draw outside of the ori.md` — mismatch
+  - detail: (1) Vincent Le Moign ?? on Twitter: \"Dall-E can now draw outside of the ori
+  - current: `0333-(1) Vincent Le Moign on Twitter Dall-E can now draw outside of the ori.md`
+  - expected: `2022-09-13-1-vincent-le-moign-on-twitter-dall-e-can-now-draw-outside-of-the-ori.md`
+- `sources/consumed/articles/0334-(1) Alec on Twitter 1 The Future of On-Chain Gaming With the recent succ.md` — mismatch
+  - detail: (1) Alec on Twitter: \"1/ The Future of On-Chain Gaming With the recent succ
+  - current: `0334-(1) Alec on Twitter 1 The Future of On-Chain Gaming With the recent succ.md`
+  - expected: `2022-09-13-1-alec-on-twitter-1-the-future-of-on-chain-gaming-with-the-recent-succ.md`
+- `sources/consumed/articles/0335-0 wilder.n3o ネオ on Twitter Irrespective of being decentralized or 'open.md` — mismatch
+  - detail: 0://wilder.n3o ネオ on Twitter: \"Irrespective of being decentralized or 'open
+  - current: `0335-0 wilder.n3o ネオ on Twitter Irrespective of being decentralized or 'open.md`
+  - expected: `2022-09-13-0-wilder-n3o-on-twitter-irrespective-of-being-decentralized-or-open.md`
+- `sources/consumed/articles/0336-https twitter.com stephen_parker status 1569742985272729600 s=46&t=b_IzVif84xptvkdV5aZoZA.md` — mismatch
+  - detail: https://twitter.com/stephen_parker/status/1569742985272729600?s=46&t=b_IzVif84xptvkdV5aZoZA
+  - current: `0336-https twitter.com stephen_parker status 1569742985272729600 s=46&t=b_IzVif84xptvkdV5aZoZA.md`
+  - expected: `2022-09-14-https-twitter-com-stephen-parker-status-1569742985272729600-s-46-and-t-b-izvif84xptvkdv5azoza.md`
+- `sources/consumed/articles/0337-https twitter.com lund_dane status 1569790617080700938 s=46&t=nKD9EAQ-DtgaZSUKtnO3Iw.md` — mismatch
+  - detail: https://twitter.com/lund_dane/status/1569790617080700938?s=46&t=nKD9EAQ-DtgaZSUKtnO3Iw
+  - current: `0337-https twitter.com lund_dane status 1569790617080700938 s=46&t=nKD9EAQ-DtgaZSUKtnO3Iw.md`
+  - expected: `2022-09-15-https-twitter-com-lund-dane-status-1569790617080700938-s-46-and-t-nkd9eaq-dtgazsuktno3iw.md`
+- `sources/consumed/articles/0338-https twitter.com daniel_eckler status 1572210382944538624 s=46&t=KJiKKY_MVqeH24QAGtBIdg.md` — mismatch
+  - detail: https://twitter.com/daniel_eckler/status/1572210382944538624?s=46&t=KJiKKY_MVqeH24QAGtBIdg
+  - current: `0338-https twitter.com daniel_eckler status 1572210382944538624 s=46&t=KJiKKY_MVqeH24QAGtBIdg.md`
+  - expected: `2022-09-20-https-twitter-com-daniel-eckler-status-1572210382944538624-s-46-and-t-kjikky-mvqeh24qagtbidg.md`
+- `sources/consumed/articles/0339-https www.bangkokpost.com opinion opinion 2400068 facebook-beware-the-metaverse-is-really-flat.md` — mismatch
+  - detail: https://www.bangkokpost.com/opinion/opinion/2400068/facebook-beware-the-metaverse-is-really-flat
+  - current: `0339-https www.bangkokpost.com opinion opinion 2400068 facebook-beware-the-metaverse-is-really-flat.md`
+  - expected: `2022-09-27-https-www-bangkokpost-com-opinion-opinion-2400068-facebook-beware-the-metaverse-is-really-flat.md`
+- `sources/consumed/articles/0340-https www.bloomberg.com features 2022-the-crypto-story.md` — mismatch
+  - detail: https://www.bloomberg.com/features/2022-the-crypto-story/
+  - current: `0340-https www.bloomberg.com features 2022-the-crypto-story.md`
+  - expected: `2022-10-25-https-www-bloomberg-com-features-2022-the-crypto-story.md`
+- `sources/consumed/articles/0341-https twitter.com daniel_eckler status 1585242034457423873 s=46&t=9-aQx6OoZvuLqLYGd6fy0A.md` — mismatch
+  - detail: https://twitter.com/daniel_eckler/status/1585242034457423873?s=46&t=9-aQx6OoZvuLqLYGd6fy0A
+  - current: `0341-https twitter.com daniel_eckler status 1585242034457423873 s=46&t=9-aQx6OoZvuLqLYGd6fy0A.md`
+  - expected: `2022-10-26-https-twitter-com-daniel-eckler-status-1585242034457423873-s-46-and-t-9-aqx6oozvulqlygd6fy0a.md`
+- `sources/consumed/articles/0342-TikTok’s Greatest Asset Isn’t Its Algorithm—It’s Your Phone WIRED.md` — mismatch
+  - detail: TikTok’s Greatest Asset Isn’t Its Algorithm—It’s Your Phone | WIRED
+  - current: `0342-TikTok’s Greatest Asset Isn’t Its Algorithm—It’s Your Phone WIRED.md`
+  - expected: `2022-11-07-tiktoks-greatest-asset-isnt-its-algorithmits-your-phone-wired.md`
+- `sources/consumed/articles/0343-https simonwillison.net 2023 Feb 15 bing.md` — mismatch
+  - detail: https://simonwillison.net/2023/Feb/15/bing/
+  - current: `0343-https simonwillison.net 2023 Feb 15 bing.md`
+  - expected: `2023-02-15-https-simonwillison-net-2023-feb-15-bing.md`
+- `sources/consumed/articles/0344-https arxiv.org pdf 2303.10130.pdf.md` — mismatch
+  - detail: https://arxiv.org/pdf/2303.10130.pdf
+  - current: `0344-https arxiv.org pdf 2303.10130.pdf.md`
+  - expected: `2023-03-25-https-arxiv-org-pdf-2303-10130-pdf.md`
+- `sources/consumed/articles/0345-https simonwillison.net 2023 Mar 27 ai-enhanced-development.md` — mismatch
+  - detail: https://simonwillison.net/2023/Mar/27/ai-enhanced-development/
+  - current: `0345-https simonwillison.net 2023 Mar 27 ai-enhanced-development.md`
+  - expected: `2023-03-31-https-simonwillison-net-2023-mar-27-ai-enhanced-development.md`
+- `sources/consumed/articles/0346-How to Do Great Work.md` — mismatch
+  - detail: How to Do Great Work
+  - current: `0346-How to Do Great Work.md`
+  - expected: `2023-07-01-how-to-do-great-work.md`
+- `sources/consumed/articles/0347-https twitter.com satyakamdar status 1686492264204468225.md` — mismatch
+  - detail: https://twitter.com/satyakamdar/status/1686492264204468225
+  - current: `0347-https twitter.com satyakamdar status 1686492264204468225.md`
+  - expected: `2024-01-05-https-twitter-com-satyakamdar-status-1686492264204468225.md`
+- `sources/consumed/articles/0348-Fiber Art Is Finally Being Taken Seriously.md` — mismatch
+  - detail: Fiber Art Is Finally Being Taken Seriously
+  - current: `0348-Fiber Art Is Finally Being Taken Seriously.md`
+  - expected: `2023-10-28-fiber-art-is-finally-being-taken-seriously.md`
+- `sources/consumed/articles/0349-Telling AI model to “take a deep breath” causes math scores to soar in stud.md` — mismatch
+  - detail: Telling AI model to “take a deep breath” causes math scores to soar in stud
+  - current: `0349-Telling AI model to “take a deep breath” causes math scores to soar in stud.md`
+  - expected: `2023-09-23-telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-stud.md`
+- `sources/consumed/articles/0350-Behold Modular Forms, the ‘Fifth Fundamental Operation’ of Math.md` — mismatch
+  - detail: Behold Modular Forms, the ‘Fifth Fundamental Operation’ of Math
+  - current: `0350-Behold Modular Forms, the ‘Fifth Fundamental Operation’ of Math.md`
+  - expected: `2023-09-23-behold-modular-forms-the-fifth-fundamental-operation-of-math.md`
+- `sources/consumed/articles/0351-The internet is already over.md` — mismatch
+  - detail: The internet is already over
+  - current: `0351-The internet is already over.md`
+  - expected: `2024-07-07-the-internet-is-already-over.md`
+- `sources/consumed/articles/0352-Half Of All Skills Will Be Outdated Within Two Years, Study Suggests.md` — mismatch
+  - detail: Half Of All Skills Will Be Outdated Within Two Years, Study Suggests
+  - current: `0352-Half Of All Skills Will Be Outdated Within Two Years, Study Suggests.md`
+  - expected: `2023-10-15-half-of-all-skills-will-be-outdated-within-two-years-study-suggests.md`
+- `sources/consumed/articles/0353-Microsoft's new AI assistant can go to meetings for you.md` — mismatch
+  - detail: Microsoft's new AI assistant can go to meetings for you
+  - current: `0353-Microsoft's new AI assistant can go to meetings for you.md`
+  - expected: `2023-10-20-microsoft-s-new-ai-assistant-can-go-to-meetings-for-you.md`
+- `sources/consumed/articles/0354-Human Consciousness Could Be a Side Effect of Entropy, Study Suggests.md` — mismatch
+  - detail: Human Consciousness Could Be a Side Effect of Entropy, Study Suggests
+  - current: `0354-Human Consciousness Could Be a Side Effect of Entropy, Study Suggests.md`
+  - expected: `2023-10-19-human-consciousness-could-be-a-side-effect-of-entropy-study-suggests.md`
+- `sources/consumed/articles/0355-Inside a TikTok Talent Factory for Misfit Stars.md` — mismatch
+  - detail: Inside a TikTok Talent Factory for Misfit Stars
+  - current: `0355-Inside a TikTok Talent Factory for Misfit Stars.md`
+  - expected: `2023-10-28-inside-a-tiktok-talent-factory-for-misfit-stars.md`
+- `sources/consumed/articles/0356-The dangerous philosophy of Ursula Le Guin.md` — mismatch
+  - detail: The dangerous philosophy of Ursula Le Guin
+  - current: `0356-The dangerous philosophy of Ursula Le Guin.md`
+  - expected: `2023-12-14-the-dangerous-philosophy-of-ursula-le-guin.md`
+- `sources/consumed/articles/0357-BDFxing, Or Post-Charismatic Distributed Leadership.md` — mismatch
+  - detail: BDFxing, Or Post-Charismatic Distributed Leadership
+  - current: `0357-BDFxing, Or Post-Charismatic Distributed Leadership.md`
+  - expected: `2024-08-14-bdfxing-or-post-charismatic-distributed-leadership.md`
+- `sources/consumed/articles/0358-The Death of Creative Trust Introducing Text-To-Video Ai.md` — mismatch
+  - detail: The Death of Creative Trust | Introducing Text-To-Video Ai
+  - current: `0358-The Death of Creative Trust Introducing Text-To-Video Ai.md`
+  - expected: `2024-03-01-the-death-of-creative-trust-introducing-text-to-video-ai.md`
+- `sources/consumed/articles/0359-Cyber Security A Pre-War Reality Check.md` — mismatch
+  - detail: Cyber Security: A Pre-War Reality Check
+  - current: `0359-Cyber Security A Pre-War Reality Check.md`
+  - expected: `2024-05-18-cyber-security-a-pre-war-reality-check.md`
+- `sources/consumed/articles/0360-Prof. Geoffrey Hinton - Will digital intelligence replace biological intel.md` — mismatch
+  - detail: Prof. Geoffrey Hinton - \"Will digital intelligence replace biological intel
+  - current: `0360-Prof. Geoffrey Hinton - Will digital intelligence replace biological intel.md`
+  - expected: `2024-06-17-prof-geoffrey-hinton-will-digital-intelligence-replace-biological-intel.md`
+- `sources/consumed/articles/0361-x.com.md` — mismatch
+  - detail: x.com
+  - current: `0361-x.com.md`
+  - expected: `2024-09-04-x-com.md`
+- `sources/consumed/articles/0362-What Is Entropy A Measure of Just How Little We Really Know..md` — mismatch
+  - detail: What Is Entropy? A Measure of Just How Little We Really Know.
+  - current: `0362-What Is Entropy A Measure of Just How Little We Really Know..md`
+  - expected: `2024-12-14-what-is-entropy-a-measure-of-just-how-little-we-really-know.md`
+- `sources/consumed/articles/0363-After Authenticity.md` — mismatch
+  - detail: After Authenticity
+  - current: `0363-After Authenticity.md`
+  - expected: `2025-01-20-after-authenticity.md`
+- `sources/consumed/articles/0364-MetaMask Portfolio - Settings.md` — mismatch
+  - detail: MetaMask Portfolio - Settings
+  - current: `0364-MetaMask Portfolio - Settings.md`
+  - expected: `2025-01-27-metamask-portfolio-settings.md`
+- `sources/consumed/articles/0365-AlphaEvolve A Gemini-powered coding agent for designing advanced algorithms.md` — mismatch
+  - detail: AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms
+  - current: `0365-AlphaEvolve A Gemini-powered coding agent for designing advanced algorithms.md`
+  - expected: `2025-05-14-alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms.md`
+- `sources/consumed/articles/2009-04-30-drougge-darfor-lagger-jag-ut-min.md` — mismatch
+  - detail: Drougge: Därför lägger jag ut min ljudbok på The Pirate Bay
+  - current: `2009-04-30-drougge-darfor-lagger-jag-ut-min.md`
+  - expected: `2009-04-30-drougge-darfor-lagger-jag-ut-min-ljudbok-pa-the-pirate-bay.md`
+- `sources/consumed/articles/2009-06-04-lasarnas-kommentarer.md` — ok
+  - detail: Läsarnas kommentarer:
+  - current: `2009-06-04-lasarnas-kommentarer.md`
+  - expected: `2009-06-04-lasarnas-kommentarer.md`
+- `sources/consumed/articles/2009-06-14-burning-man-burning-man-earth.md` — ok
+  - detail: Burning Man :: Burning Man Earth
+  - current: `2009-06-14-burning-man-burning-man-earth.md`
+  - expected: `2009-06-14-burning-man-burning-man-earth.md`
+- `sources/consumed/articles/2009-08-05-han-vill-radda-bannern.md` — ok
+  - detail: Han vill rädda bannern
+  - current: `2009-08-05-han-vill-radda-bannern.md`
+  - expected: `2009-08-05-han-vill-radda-bannern.md`
+- `sources/consumed/articles/2009-09-11-pressmeddelande-freedom-not-fear-12-september.md` — mismatch
+  - detail: Pressmeddelande: Freedom Not Fear 12 september 2009
+  - current: `2009-09-11-pressmeddelande-freedom-not-fear-12-september.md`
+  - expected: `2009-09-11-pressmeddelande-freedom-not-fear-12-september-2009.md`
+- `sources/consumed/articles/2009-09-15-rikskriminalen-forsoker-tysta-piratpartiet.md` — ok
+  - detail: Rikskriminalen försöker tysta Piratpartiet
+  - current: `2009-09-15-rikskriminalen-forsoker-tysta-piratpartiet.md`
+  - expected: `2009-09-15-rikskriminalen-forsoker-tysta-piratpartiet.md`
+- `sources/consumed/articles/2009-09-22-lasarnas-kommentarer.md` — ok
+  - detail: Läsarnas kommentarer:
+  - current: `2009-09-22-lasarnas-kommentarer.md`
+  - expected: `2009-09-22-lasarnas-kommentarer.md`
+- `sources/consumed/articles/2010-03-21-gaming-can-make-a-better-world.md` — ok
+  - detail: Gaming can make a better world
+  - current: `2010-03-21-gaming-can-make-a-better-world.md`
+  - expected: `2010-03-21-gaming-can-make-a-better-world.md`
+- `sources/consumed/articles/2010-03-31-entreprenoren-startade-foretag-med-csn-pengar.md` — ok
+  - detail: Entreprenören startade företag med CSN-pengar
+  - current: `2010-03-31-entreprenoren-startade-foretag-med-csn-pengar.md`
+  - expected: `2010-03-31-entreprenoren-startade-foretag-med-csn-pengar.md`
+- `sources/consumed/articles/2010-04-08-what-adults-can-learn-from-kids.md` — ok
+  - detail: What adults can learn from kids
+  - current: `2010-04-08-what-adults-can-learn-from-kids.md`
+  - expected: `2010-04-08-what-adults-can-learn-from-kids.md`
+- `sources/consumed/articles/2010-05-19-steve-blank-no-one-wins-in.md` — mismatch
+  - detail: Steve Blank No One Wins In Business Plan Competitions
+  - current: `2010-05-19-steve-blank-no-one-wins-in.md`
+  - expected: `2010-05-19-steve-blank-no-one-wins-in-business-plan-competitions.md`
+- `sources/consumed/articles/2010-06-17-nigerias-agony-dwarfs-the-gulf-oil.md` — mismatch
+  - detail: Nigeria's agony dwarfs the Gulf oil spill. The US and Europe ignore it
+  - current: `2010-06-17-nigerias-agony-dwarfs-the-gulf-oil.md`
+  - expected: `2010-06-17-nigeria-s-agony-dwarfs-the-gulf-oil-spill-the-us-and-europe-ignore-it.md`
+- `sources/consumed/articles/2010-07-18-kulturisolationism-har-fatt-genomslag.md` — ok
+  - detail: Kulturisolationism har fått genomslag
+  - current: `2010-07-18-kulturisolationism-har-fatt-genomslag.md`
+  - expected: `2010-07-18-kulturisolationism-har-fatt-genomslag.md`
+- `sources/consumed/articles/2010-07-19-internet-ar-redan-trasigt.md` — ok
+  - detail: ”Internet är redan trasigt”
+  - current: `2010-07-19-internet-ar-redan-trasigt.md`
+  - expected: `2010-07-19-internet-ar-redan-trasigt.md`
+- `sources/consumed/articles/2010-07-20-voynich-manuscript---wikipedia.md` — mismatch
+  - detail: Voynich manuscript - Wikipedia
+  - current: `2010-07-20-voynich-manuscript---wikipedia.md`
+  - expected: `2010-07-20-voynich-manuscript-wikipedia.md`
+- `sources/consumed/articles/2010-07-28-why-the-world-needs-wikileaks.md` — ok
+  - detail: Why the world needs WikiLeaks
+  - current: `2010-07-28-why-the-world-needs-wikileaks.md`
+  - expected: `2010-07-28-why-the-world-needs-wikileaks.md`
+- `sources/consumed/articles/2010-08-09-gamers-beat-algorithms-at-finding-protein.md` — mismatch
+  - detail: Gamers beat algorithms at finding protein structures
+  - current: `2010-08-09-gamers-beat-algorithms-at-finding-protein.md`
+  - expected: `2010-08-09-gamers-beat-algorithms-at-finding-protein-structures.md`
+- `sources/consumed/articles/2010-08-11-lessons-from-fashions-free-culture.md` — mismatch
+  - detail: Lessons from fashion's free culture
+  - current: `2010-08-11-lessons-from-fashions-free-culture.md`
+  - expected: `2010-08-11-lessons-from-fashion-s-free-culture.md`
+- `sources/consumed/articles/2010-08-11-militant-atheism.md` — ok
+  - detail: Militant atheism
+  - current: `2010-08-11-militant-atheism.md`
+  - expected: `2010-08-11-militant-atheism.md`
+- `sources/consumed/articles/2010-09-12-per-kategori.md` — ok
+  - detail: PER KATEGORI
+  - current: `2010-09-12-per-kategori.md`
+  - expected: `2010-09-12-per-kategori.md`
+- `sources/consumed/articles/2010-09-28-han-ar-lyckligast-pa-natet--.md` — mismatch
+  - detail: Han är lyckligast på nätet - Fokus
+  - current: `2010-09-28-han-ar-lyckligast-pa-natet--.md`
+  - expected: `2010-09-28-han-ar-lyckligast-pa-natet-fokus.md`
+- `sources/consumed/articles/2010-10-01-city-gross-sprider-villfarelser.md` — ok
+  - detail: City Gross sprider villfarelser
+  - current: `2010-10-01-city-gross-sprider-villfarelser.md`
+  - expected: `2010-10-01-city-gross-sprider-villfarelser.md`
+- `sources/consumed/articles/2010-10-05-best-party---wikipedia.md` — mismatch
+  - detail: Best Party - Wikipedia
+  - current: `2010-10-05-best-party---wikipedia.md`
+  - expected: `2010-10-05-best-party-wikipedia.md`
+- `sources/consumed/articles/2010-10-08-fyra-skal-till-morkandet.md` — ok
+  - detail: ”Fyra skäl till mörkandet”
+  - current: `2010-10-08-fyra-skal-till-morkandet.md`
+  - expected: `2010-10-08-fyra-skal-till-morkandet.md`
+- `sources/consumed/articles/2010-10-12-nar-skolan-ar-som-allra-bast.md` — ok
+  - detail: När skolan är som allra bäst
+  - current: `2010-10-12-nar-skolan-ar-som-allra-bast.md`
+  - expected: `2010-10-12-nar-skolan-ar-som-allra-bast.md`
+- `sources/consumed/articles/2010-10-18-plotsligt-hander-det---please-copy.md` — mismatch
+  - detail: Plötsligt händer det - Please Copy Me
+  - current: `2010-10-18-plotsligt-hander-det---please-copy.md`
+  - expected: `2010-10-18-plotsligt-hander-det-please-copy-me.md`
+- `sources/consumed/articles/2010-11-26-pyrrhusseger-for-upphovsrattsindustrin.md` — ok
+  - detail: Pyrrhusseger för upphovsrättsindustrin
+  - current: `2010-11-26-pyrrhusseger-for-upphovsrattsindustrin.md`
+  - expected: `2010-11-26-pyrrhusseger-for-upphovsrattsindustrin.md`
+- `sources/consumed/articles/2010-11-28-the-pirate-bay-domen-vilar-pa-en.md` — mismatch
+  - detail: The Pirate Bay-domen vilar på en ensidig syn på kulturekonomin
+  - current: `2010-11-28-the-pirate-bay-domen-vilar-pa-en.md`
+  - expected: `2010-11-28-the-pirate-bay-domen-vilar-pa-en-ensidig-syn-pa-kulturekonomin.md`
+- `sources/consumed/articles/2010-11-28-the-pirate-bay-och-upphovsratten-femton.md` — mismatch
+  - detail: The Pirate Bay och upphovsrätten: femton år senare | SVTdebatt
+  - current: `2010-11-28-the-pirate-bay-och-upphovsratten-femton.md`
+  - expected: `2010-11-28-the-pirate-bay-och-upphovsratten-femton-ar-senare-svtdebatt.md`
+- `sources/consumed/articles/2010-12-02-publicera-kulturskatterna-dar-folk-soker.md` — ok
+  - detail: Publicera kulturskatterna där folk söker
+  - current: `2010-12-02-publicera-kulturskatterna-dar-folk-soker.md`
+  - expected: `2010-12-02-publicera-kulturskatterna-dar-folk-soker.md`
+- `sources/consumed/articles/2010-12-07-why-wikileaks-is-good-for-america.md` — mismatch
+  - detail: Why WikiLeaks Is Good for America | Threat Level | Wired.com
+  - current: `2010-12-07-why-wikileaks-is-good-for-america.md`
+  - expected: `2010-12-07-why-wikileaks-is-good-for-america-threat-level-wired-com.md`
+- `sources/consumed/articles/2010-12-08-debate-does-the-world-need-nuclear.md` — mismatch
+  - detail: Debate: Does the world need nuclear energy?
+  - current: `2010-12-08-debate-does-the-world-need-nuclear.md`
+  - expected: `2010-12-08-debate-does-the-world-need-nuclear-energy.md`
+- `sources/consumed/articles/2010-12-08-pentagon-papers---wikipedia.md` — mismatch
+  - detail: Pentagon Papers - Wikipedia
+  - current: `2010-12-08-pentagon-papers---wikipedia.md`
+  - expected: `2010-12-08-pentagon-papers-wikipedia.md`
+- `sources/consumed/articles/2010-12-09-understanding-conspiracy-the-political-philosophy-of.md` — mismatch
+  - detail: Understanding Conspiracy: The Political Philosophy of Julian Assange
+  - current: `2010-12-09-understanding-conspiracy-the-political-philosophy-of.md`
+  - expected: `2010-12-09-understanding-conspiracy-the-political-philosophy-of-julian-assange.md`
+- `sources/consumed/articles/2010-12-10-as-doctors-fought-to-save-lives.md` — mismatch
+  - detail: As doctors fought to save lives, Pfizer flew in drug trial team
+  - current: `2010-12-10-as-doctors-fought-to-save-lives.md`
+  - expected: `2010-12-10-as-doctors-fought-to-save-lives-pfizer-flew-in-drug-trial-team.md`
+- `sources/consumed/articles/2010-12-12-sverige-bor-fordoma-usas-overtramp.md` — mismatch
+  - detail: Sverige bör fördöma USA:s övertramp
+  - current: `2010-12-12-sverige-bor-fordoma-usas-overtramp.md`
+  - expected: `2010-12-12-sverige-bor-fordoma-usa-s-overtramp.md`
+- `sources/consumed/articles/2010-12-13-de-ljog-for-oss-om-fra-lagen.md` — ok
+  - detail: De ljög för oss om FRA-lagen
+  - current: `2010-12-13-de-ljog-for-oss-om-fra-lagen.md`
+  - expected: `2010-12-13-de-ljog-for-oss-om-fra-lagen.md`
+- `sources/consumed/articles/2010-12-14-bill-of-rights-in-cyberspace-amended.md` — mismatch
+  - detail: Bill of Rights in Cyberspace, amended — BuzzMachine
+  - current: `2010-12-14-bill-of-rights-in-cyberspace-amended.md`
+  - expected: `2010-12-14-bill-of-rights-in-cyberspace-amended-buzzmachine.md`
+- `sources/consumed/articles/2010-12-17-prata-om-det.md` — ok
+  - detail: Prata om det
+  - current: `2010-12-17-prata-om-det.md`
+  - expected: `2010-12-17-prata-om-det.md`
+- `sources/consumed/articles/2010-12-28-henning-mankell-stand-by-wikileaks.md` — ok
+  - detail: Henning Mankell: 'Stand by WikiLeaks
+  - current: `2010-12-28-henning-mankell-stand-by-wikileaks.md`
+  - expected: `2010-12-28-henning-mankell-stand-by-wikileaks.md`
+- `sources/consumed/articles/2010-12-28-reklambyran-blaste-en-hel-nation.md` — ok
+  - detail: Reklambyrån blåste en hel nation
+  - current: `2010-12-28-reklambyran-blaste-en-hel-nation.md`
+  - expected: `2010-12-28-reklambyran-blaste-en-hel-nation.md`
+- `sources/consumed/articles/2011-01-05-dn-debatt-dags-att-minska-hushallens.md` — mismatch
+  - detail: DN Debatt. ”Dags att minska hushållens ränteavdrag för bostadslån”
+  - current: `2011-01-05-dn-debatt-dags-att-minska-hushallens.md`
+  - expected: `2011-01-05-dn-debatt-dags-att-minska-hushallens-ranteavdrag-for-bostadslan.md`
+- `sources/consumed/articles/2011-01-10-stenen-i-ryggen-blev-droppen.md` — ok
+  - detail: Stenen i ryggen blev droppen
+  - current: `2011-01-10-stenen-i-ryggen-blev-droppen.md`
+  - expected: `2011-01-10-stenen-i-ryggen-blev-droppen.md`
+- `sources/consumed/articles/2011-01-25-om-klara-ar-116-cm-och.md` — mismatch
+  - detail: Om Klara är 116 cm och Kalle är 116 cm, hur mycket längre är då Kalle?
+  - current: `2011-01-25-om-klara-ar-116-cm-och.md`
+  - expected: `2011-01-25-om-klara-ar-116-cm-och-kalle-ar-116-cm-hur-mycket-langre-ar-da-kalle.md`
+- `sources/consumed/articles/2011-01-26-dn-debatt-rasister-pa-natet-forsoker.md` — mismatch
+  - detail: DN Debatt. ”Rasister på nätet försöker skrämma medier till tystnad”
+  - current: `2011-01-26-dn-debatt-rasister-pa-natet-forsoker.md`
+  - expected: `2011-01-26-dn-debatt-rasister-pa-natet-forsoker-skramma-medier-till-tystnad.md`
+- `sources/consumed/articles/2011-01-26-inside-the-battle-to-define-mental.md` — mismatch
+  - detail: Inside the Battle to Define Mental Illness | Wired Magazine | Wired.com
+  - current: `2011-01-26-inside-the-battle-to-define-mental.md`
+  - expected: `2011-01-26-inside-the-battle-to-define-mental-illness-wired-magazine-wired-com.md`
+- `sources/consumed/articles/2011-01-30-varldens-dyraste-egotripp.md` — ok
+  - detail: Världens dyraste egotripp
+  - current: `2011-01-30-varldens-dyraste-egotripp.md`
+  - expected: `2011-01-30-varldens-dyraste-egotripp.md`
+- `sources/consumed/articles/2011-02-01-makthavarnas-iver-att-kontrollera-natet.md` — ok
+  - detail: Makthavarnas iver att kontrollera nätet
+  - current: `2011-02-01-makthavarnas-iver-att-kontrollera-natet.md`
+  - expected: `2011-02-01-makthavarnas-iver-att-kontrollera-natet.md`
+- `sources/consumed/articles/2011-02-03-futuriteter---egypten-var-generations-fel.md` — mismatch
+  - detail: futuriteter - Egypten: Vår generations fel
+  - current: `2011-02-03-futuriteter---egypten-var-generations-fel.md`
+  - expected: `2011-02-03-futuriteter-egypten-var-generations-fel.md`
+- `sources/consumed/articles/2011-02-05-fel-att-salja-aktierna-i-nordea.md` — ok
+  - detail: Fel att sälja aktierna i Nordea
+  - current: `2011-02-05-fel-att-salja-aktierna-i-nordea.md`
+  - expected: `2011-02-05-fel-att-salja-aktierna-i-nordea.md`
+- `sources/consumed/articles/2011-02-08-det-ar-synd-om-mannen--.md` — mismatch
+  - detail: Det är synd om mannen - Fokus
+  - current: `2011-02-08-det-ar-synd-om-mannen--.md`
+  - expected: `2011-02-08-det-ar-synd-om-mannen-fokus.md`
+- `sources/consumed/articles/2011-02-08-greenpeace-co-founder-talks-biotech-nuclear-and.md` — mismatch
+  - detail: Greenpeace co-founder talks biotech, nuclear and climate
+  - current: `2011-02-08-greenpeace-co-founder-talks-biotech-nuclear-and.md`
+  - expected: `2011-02-08-greenpeace-co-founder-talks-biotech-nuclear-and-climate.md`
+- `sources/consumed/articles/2011-02-11-the-story-behind-wwwismubarakstillpresidentcom.md` — mismatch
+  - detail: The story behind www.ismubarakstillpresident.com
+  - current: `2011-02-11-the-story-behind-wwwismubarakstillpresidentcom.md`
+  - expected: `2011-02-11-the-story-behind-www-ismubarakstillpresident-com.md`
+- `sources/consumed/articles/2011-02-25-its-the-inequality-stupid.md` — mismatch
+  - detail: It's the inequality, stupid
+  - current: `2011-02-25-its-the-inequality-stupid.md`
+  - expected: `2011-02-25-it-s-the-inequality-stupid.md`
+- `sources/consumed/articles/2011-02-25-louise-och-morgan-pratar-om-det.md` — ok
+  - detail: Louise och Morgan pratar om det
+  - current: `2011-02-25-louise-och-morgan-pratar-om-det.md`
+  - expected: `2011-02-25-louise-och-morgan-pratar-om-det.md`
+- `sources/consumed/articles/2011-02-28-how-to-use-experts----and.md` — mismatch
+  - detail: How to use experts -- and when not to
+  - current: `2011-02-28-how-to-use-experts----and.md`
+  - expected: `2011-02-28-how-to-use-experts-and-when-not-to.md`
+- `sources/consumed/articles/2011-03-04-hillary-clinton-praises-al-jazeera-slams.md` — mismatch
+  - detail: Hillary Clinton Praises Al Jazeera, Slams U.S. Media
+  - current: `2011-03-04-hillary-clinton-praises-al-jazeera-slams.md`
+  - expected: `2011-03-04-hillary-clinton-praises-al-jazeera-slams-u-s-media.md`
+- `sources/consumed/articles/2011-03-04-why-ted-and-burning-man-are.md` — mismatch
+  - detail: Why TED and Burning Man Are More Similar Than You Think
+  - current: `2011-03-04-why-ted-and-burning-man-are.md`
+  - expected: `2011-03-04-why-ted-and-burning-man-are-more-similar-than-you-think.md`
+- `sources/consumed/articles/2011-03-08-wikileaks-gmo-conspiracy-reaches-highest-levels.md` — mismatch
+  - detail: Wikileaks: GMO conspiracy reaches highest levels of US Government
+  - current: `2011-03-08-wikileaks-gmo-conspiracy-reaches-highest-levels.md`
+  - expected: `2011-03-08-wikileaks-gmo-conspiracy-reaches-highest-levels-of-us-government.md`
+- `sources/consumed/articles/2011-03-15-moderaterna-bor-rosta-nej-till-datalagring.md` — ok
+  - detail: Moderaterna bör rösta nej till datalagring
+  - current: `2011-03-15-moderaterna-bor-rosta-nej-till-datalagring.md`
+  - expected: `2011-03-15-moderaterna-bor-rosta-nej-till-datalagring.md`
+- `sources/consumed/articles/2011-03-18-sayano-shushenskaya-power-station-accident---wikipedia.md` — mismatch
+  - detail: Sayano-Shushenskaya power station accident - Wikipedia
+  - current: `2011-03-18-sayano-shushenskaya-power-station-accident---wikipedia.md`
+  - expected: `2011-03-18-sayano-shushenskaya-power-station-accident-wikipedia.md`
+- `sources/consumed/articles/2011-03-20-deaths-per-twh-by-energy-source.md` — mismatch
+  - detail: Deaths per TWH by energy source | NextBigFuture.com
+  - current: `2011-03-20-deaths-per-twh-by-energy-source.md`
+  - expected: `2011-03-20-deaths-per-twh-by-energy-source-nextbigfuture-com.md`
+- `sources/consumed/articles/2011-04-05-whats-the-most-difficult-ceo-skill.md` — mismatch
+  - detail: What’s The Most Difficult CEO Skill? Managing Your Own Psychology. | TechCrunch
+  - current: `2011-04-05-whats-the-most-difficult-ceo-skill.md`
+  - expected: `2011-04-05-whats-the-most-difficult-ceo-skill-managing-your-own-psychology-techcrunch.md`
+- `sources/consumed/articles/2011-05-05-en-nog-een-adwords-uitspraak-van-het.md` — mismatch
+  - detail: En nog een AdWords-uitspraak van het Hof van Justitie - Mediareport
+  - current: `2011-05-05-en-nog-een-adwords-uitspraak-van-het.md`
+  - expected: `2011-05-05-en-nog-een-adwords-uitspraak-van-het-hof-van-justitie-mediareport.md`
+- `sources/consumed/articles/2011-05-10-entreprenorskap---jaha-varfor-da.md` — mismatch
+  - detail: Entreprenörskap - jaha, varför då?
+  - current: `2011-05-10-entreprenorskap---jaha-varfor-da.md`
+  - expected: `2011-05-10-entreprenorskap-jaha-varfor-da.md`
+- `sources/consumed/articles/2011-05-18-hdse---varldens-dummaste-bjorn.md` — mismatch
+  - detail: hd.se - Världens dummaste björn
+  - current: `2011-05-18-hdse---varldens-dummaste-bjorn.md`
+  - expected: `2011-05-18-hd-se-varldens-dummaste-bjorn.md`
+- `sources/consumed/articles/2011-05-22-norah4yous-weblog.md` — ok
+  - detail: Norah4you’s Weblog
+  - current: `2011-05-22-norah4yous-weblog.md`
+  - expected: `2011-05-22-norah4yous-weblog.md`
+- `sources/consumed/articles/2011-05-22-want-kids-to-win-the-future.md` — mismatch
+  - detail: Want Kids to Win the Future? Turn Them Into Makers — and Sci-Fi Fans | Underwire | Wired.com
+  - current: `2011-05-22-want-kids-to-win-the-future.md`
+  - expected: `2011-05-22-want-kids-to-win-the-future-turn-them-into-makers-and-sci-fi-fans-underwire-wired-com.md`
+- `sources/consumed/articles/2011-05-27-binero-webbhotell.md` — ok
+  - detail: Binero Webbhotell
+  - current: `2011-05-27-binero-webbhotell.md`
+  - expected: `2011-05-27-binero-webbhotell.md`
+- `sources/consumed/articles/2011-05-27-the-game-layer-on-top-of.md` — mismatch
+  - detail: The game layer on top of the world
+  - current: `2011-05-27-the-game-layer-on-top-of.md`
+  - expected: `2011-05-27-the-game-layer-on-top-of-the-world.md`
+- `sources/consumed/articles/2011-05-28-strypta-av-speljatten.md` — ok
+  - detail: Strypta av speljätten
+  - current: `2011-05-28-strypta-av-speljatten.md`
+  - expected: `2011-05-28-strypta-av-speljatten.md`
+- `sources/consumed/articles/2011-06-19-open-business-models.md` — ok
+  - detail: Open Business Models
+  - current: `2011-06-19-open-business-models.md`
+  - expected: `2011-06-19-open-business-models.md`
+- `sources/consumed/articles/2011-06-28-darfor-ar-inte-sdu-valkomna.md` — ok
+  - detail: Därför är inte SDU välkomna
+  - current: `2011-06-28-darfor-ar-inte-sdu-valkomna.md`
+  - expected: `2011-06-28-darfor-ar-inte-sdu-valkomna.md`
+- `sources/consumed/articles/2011-07-10-darfor-tar-jag-en-overdos.md` — ok
+  - detail: ”Därför tar jag en överdos”
+  - current: `2011-07-10-darfor-tar-jag-en-overdos.md`
+  - expected: `2011-07-10-darfor-tar-jag-en-overdos.md`
+- `sources/consumed/articles/2011-07-18-lets-take-back-the-internet.md` — mismatch
+  - detail: Let's take back the Internet!
+  - current: `2011-07-18-lets-take-back-the-internet.md`
+  - expected: `2011-07-18-let-s-take-back-the-internet.md`
+- `sources/consumed/articles/2011-07-19-cell-phones.md` — ok
+  - detail: Cell Phones
+  - current: `2011-07-19-cell-phones.md`
+  - expected: `2011-07-19-cell-phones.md`
+- `sources/consumed/articles/2011-07-28-akesson-leder-ett-oppet-rasistiskt-parti.md` — ok
+  - detail: ”Åkesson leder ett öppet rasistiskt parti”
+  - current: `2011-07-28-akesson-leder-ett-oppet-rasistiskt-parti.md`
+  - expected: `2011-07-28-akesson-leder-ett-oppet-rasistiskt-parti.md`
+- `sources/consumed/articles/2011-08-12-plundring-substitut-for-shopping.md` — ok
+  - detail: Plundring substitut för shopping
+  - current: `2011-08-12-plundring-substitut-for-shopping.md`
+  - expected: `2011-08-12-plundring-substitut-for-shopping.md`
+- `sources/consumed/articles/2011-08-18-europes-hottest-startup-capitals-stockholm-wired.md` — mismatch
+  - detail: Europe's hottest startup capitals: Stockholm (Wired UK)
+  - current: `2011-08-18-europes-hottest-startup-capitals-stockholm-wired.md`
+  - expected: `2011-08-18-europe-s-hottest-startup-capitals-stockholm-wired-uk.md`
+- `sources/consumed/articles/2011-09-28-a-flickr-founders-glitch-can-a.md` — mismatch
+  - detail: A Flickr Founder's Glitch: Can A Game That Wants You To Play Nice Be A Blockbuster?
+  - current: `2011-09-28-a-flickr-founders-glitch-can-a.md`
+  - expected: `2011-09-28-a-flickr-founder-s-glitch-can-a-game-that-wants-you-to-play-nice-be-a-blockbuster.md`
+- `sources/consumed/articles/2011-09-30-bara-svensk-identitet-ar-inte-tillrackligt.md` — ok
+  - detail: Bara svensk identitet är inte tillräckligt
+  - current: `2011-09-30-bara-svensk-identitet-ar-inte-tillrackligt.md`
+  - expected: `2011-09-30-bara-svensk-identitet-ar-inte-tillrackligt.md`
+- `sources/consumed/articles/2011-09-30-minimum-viable-personality---avc.md` — mismatch
+  - detail: Minimum Viable Personality - AVC
+  - current: `2011-09-30-minimum-viable-personality---avc.md`
+  - expected: `2011-09-30-minimum-viable-personality-avc.md`
+- `sources/consumed/articles/2011-10-01-a-short-intro-to-the-studio.md` — mismatch
+  - detail: A short intro to the Studio School
+  - current: `2011-10-01-a-short-intro-to-the-studio.md`
+  - expected: `2011-10-01-a-short-intro-to-the-studio-school.md`
+- `sources/consumed/articles/2011-10-02-sns-forlorade-heder---fokus.md` — mismatch
+  - detail: SNS förlorade heder - Fokus
+  - current: `2011-10-02-sns-forlorade-heder---fokus.md`
+  - expected: `2011-10-02-sns-forlorade-heder-fokus.md`
+- `sources/consumed/articles/2011-10-27-mer-fran-forstasidan.md` — ok
+  - detail: Mer från förstasidan
+  - current: `2011-10-27-mer-fran-forstasidan.md`
+  - expected: `2011-10-27-mer-fran-forstasidan.md`
+- `sources/consumed/articles/2011-11-02-wikileaks-fortjanar-ett-nobelpris.md` — ok
+  - detail: Wikileaks förtjänar ett Nobelpris
+  - current: `2011-11-02-wikileaks-fortjanar-ett-nobelpris.md`
+  - expected: `2011-11-02-wikileaks-fortjanar-ett-nobelpris.md`
+- `sources/consumed/articles/2011-11-06-europas-i-sarklass-farligaste-underskott.md` — ok
+  - detail: Europas i särklass farligaste underskott
+  - current: `2011-11-06-europas-i-sarklass-farligaste-underskott.md`
+  - expected: `2011-11-06-europas-i-sarklass-farligaste-underskott.md`
+- `sources/consumed/articles/2011-11-10-you-cant-bank-on-free-speech.md` — ok
+  - detail: You can’t bank on free speech
+  - current: `2011-11-10-you-cant-bank-on-free-speech.md`
+  - expected: `2011-11-10-you-cant-bank-on-free-speech.md`
+- `sources/consumed/articles/2011-12-12-ett-steg-i-fel-riktning.md` — ok
+  - detail: Ett steg i fel riktning
+  - current: `2011-12-12-ett-steg-i-fel-riktning.md`
+  - expected: `2011-12-12-ett-steg-i-fel-riktning.md`
+- `sources/consumed/articles/2011-12-13-download-knowledge-directly-to-your-brain.md` — mismatch
+  - detail: Download Knowledge Directly to Your Brain, Matrix-Style
+  - current: `2011-12-13-download-knowledge-directly-to-your-brain.md`
+  - expected: `2011-12-13-download-knowledge-directly-to-your-brain-matrix-style.md`
+- `sources/consumed/articles/2011-12-13-justitieministern-oppnar-for-total-overvakning.md` — ok
+  - detail: Justitieministern öppnar för total övervakning
+  - current: `2011-12-13-justitieministern-oppnar-for-total-overvakning.md`
+  - expected: `2011-12-13-justitieministern-oppnar-for-total-overvakning.md`
+- `sources/consumed/articles/2012-01-02-det-kravs-smartare-satsningar-pa-kunskap.md` — ok
+  - detail: Det krävs smartare satsningar på kunskap
+  - current: `2012-01-02-det-kravs-smartare-satsningar-pa-kunskap.md`
+  - expected: `2012-01-02-det-kravs-smartare-satsningar-pa-kunskap.md`
+- `sources/consumed/articles/2012-01-11-minska-antalet-politiker-i-riksdagen.md` — ok
+  - detail: Minska antalet politiker i riksdagen
+  - current: `2012-01-11-minska-antalet-politiker-i-riksdagen.md`
+  - expected: `2012-01-11-minska-antalet-politiker-i-riksdagen.md`
+- `sources/consumed/articles/2012-01-12-a-look-inside-the-brain-in.md` — mismatch
+  - detail: A look inside the brain in real time
+  - current: `2012-01-12-a-look-inside-the-brain-in.md`
+  - expected: `2012-01-12-a-look-inside-the-brain-in-real-time.md`
+- `sources/consumed/articles/2012-01-13-lifes-third-act.md` — mismatch
+  - detail: Life's third act
+  - current: `2012-01-13-lifes-third-act.md`
+  - expected: `2012-01-13-life-s-third-act.md`
+- `sources/consumed/articles/2012-01-14-felix-salmon-how-capitalism-kills-companies.md` — ok
+  - detail: Felix Salmon: How Capitalism Kills Companies
+  - current: `2012-01-14-felix-salmon-how-capitalism-kills-companies.md`
+  - expected: `2012-01-14-felix-salmon-how-capitalism-kills-companies.md`
+- `sources/consumed/articles/2012-01-16-startups-in-sweden-vs-startups-in.md` — mismatch
+  - detail: Startups in Sweden vs Startups in Silicon Valley
+  - current: `2012-01-16-startups-in-sweden-vs-startups-in.md`
+  - expected: `2012-01-16-startups-in-sweden-vs-startups-in-silicon-valley.md`
+- `sources/consumed/articles/2012-01-22-top-ten-ways-to-annoy-a.md` — mismatch
+  - detail: Top Ten Ways to Annoy a Gifted Child
+  - current: `2012-01-22-top-ten-ways-to-annoy-a.md`
+  - expected: `2012-01-22-top-ten-ways-to-annoy-a-gifted-child.md`
+- `sources/consumed/articles/2012-01-24-opinion-10-reasons-the-us-is.md` — mismatch
+  - detail: Opinion | 10 reasons the U.S. is no longer the land of the free
+  - current: `2012-01-24-opinion-10-reasons-the-us-is.md`
+  - expected: `2012-01-24-opinion-10-reasons-the-u-s-is-no-longer-the-land-of-the-free.md`
+- `sources/consumed/articles/2012-02-08-jag-ar-kapitalet---jonas-grenfeldts.md` — mismatch
+  - detail: Jag är kapitalet - Jonas Grenfeldts blogg
+  - current: `2012-02-08-jag-ar-kapitalet---jonas-grenfeldts.md`
+  - expected: `2012-02-08-jag-ar-kapitalet-jonas-grenfeldts-blogg.md`
+- `sources/consumed/articles/2012-02-08-opinion-the-zuckerberg-tax-published-2012.md` — ok
+  - detail: Opinion | The Zuckerberg Tax (Published 2012)
+  - current: `2012-02-08-opinion-the-zuckerberg-tax-published-2012.md`
+  - expected: `2012-02-08-opinion-the-zuckerberg-tax-published-2012.md`
+- `sources/consumed/articles/2012-02-11-the-pirate-bays-peter-sunde-its.md` — mismatch
+  - detail: The Pirate Bay's Peter Sunde: It's Evolution, Stupid | Threat Level | Wired.com
+  - current: `2012-02-11-the-pirate-bays-peter-sunde-its.md`
+  - expected: `2012-02-11-the-pirate-bay-s-peter-sunde-it-s-evolution-stupid-threat-level-wired-com.md`
+- `sources/consumed/articles/2012-02-19-3-saker-av-vikt-for-unga.md` — mismatch
+  - detail: 3 saker av vikt för unga medarbetare
+  - current: `2012-02-19-3-saker-av-vikt-for-unga.md`
+  - expected: `2012-02-19-3-saker-av-vikt-for-unga-medarbetare.md`
+- `sources/consumed/articles/2012-02-19-grekisk-kollaps-guld-for-gamarna.md` — ok
+  - detail: Grekisk kollaps guld för gamarna
+  - current: `2012-02-19-grekisk-kollaps-guld-for-gamarna.md`
+  - expected: `2012-02-19-grekisk-kollaps-guld-for-gamarna.md`
+- `sources/consumed/articles/2012-02-20-varlden-mer-fredlig-an-nagonsin.md` — ok
+  - detail: Världen mer fredlig än någonsin
+  - current: `2012-02-20-varlden-mer-fredlig-an-nagonsin.md`
+  - expected: `2012-02-20-varlden-mer-fredlig-an-nagonsin.md`
+- `sources/consumed/articles/2012-02-29-langst-ner-pa-botten.md` — ok
+  - detail: Längst ner på botten
+  - current: `2012-02-29-langst-ner-pa-botten.md`
+  - expected: `2012-02-29-langst-ner-pa-botten.md`
+- `sources/consumed/articles/2012-03-04-occupy-the-dream-the-mathematics-of.md` — mismatch
+  - detail: Occupy the Dream: The Mathematics of Racism
+  - current: `2012-03-04-occupy-the-dream-the-mathematics-of.md`
+  - expected: `2012-03-04-occupy-the-dream-the-mathematics-of-racism.md`
+- `sources/consumed/articles/2012-03-05-6-things-rich-people-need-to.md` — mismatch
+  - detail: 6 Things Rich People Need to Stop Saying (Update)
+  - current: `2012-03-05-6-things-rich-people-need-to.md`
+  - expected: `2012-03-05-6-things-rich-people-need-to-stop-saying-update.md`
+- `sources/consumed/articles/2012-03-07-okat-rikedomsgap-mellan-65-plusare-och-yngre.md` — ok
+  - detail: Ökat rikedomsgap mellan 65-plusare och yngre
+  - current: `2012-03-07-okat-rikedomsgap-mellan-65-plusare-och-yngre.md`
+  - expected: `2012-03-07-okat-rikedomsgap-mellan-65-plusare-och-yngre.md`
+- `sources/consumed/articles/2012-04-02-why-all-our-kids-should-be.md` — mismatch
+  - detail: Why all our kids should be taught how to code
+  - current: `2012-04-02-why-all-our-kids-should-be.md`
+  - expected: `2012-04-02-why-all-our-kids-should-be-taught-how-to-code.md`
+- `sources/consumed/articles/2012-04-09-djup-gudstro-ar-den-sista-utvagen.md` — ok
+  - detail: Djup gudstro är den sista utvägen
+  - current: `2012-04-09-djup-gudstro-ar-den-sista-utvagen.md`
+  - expected: `2012-04-09-djup-gudstro-ar-den-sista-utvagen.md`
+- `sources/consumed/articles/2012-04-14-the-evolution-of-business---dachis.md` — mismatch
+  - detail: The evolution of business - Dachis Group
+  - current: `2012-04-14-the-evolution-of-business---dachis.md`
+  - expected: `2012-04-14-the-evolution-of-business-dachis-group.md`
+- `sources/consumed/articles/2012-04-16-oljemiljoner-betalade-for-regimens-folkmord-i.md` — mismatch
+  - detail: Oljemiljoner betalade för regimens folkmord i Sudan
+  - current: `2012-04-16-oljemiljoner-betalade-for-regimens-folkmord-i.md`
+  - expected: `2012-04-16-oljemiljoner-betalade-for-regimens-folkmord-i-sudan.md`
+- `sources/consumed/articles/2012-04-16-will-3-d-printing-launch-a-new.md` — mismatch
+  - detail: Will 3-D printing launch a new industrial revolution?
+  - current: `2012-04-16-will-3-d-printing-launch-a-new.md`
+  - expected: `2012-04-16-will-3-d-printing-launch-a-new-industrial-revolution.md`
+- `sources/consumed/articles/2012-05-08-grekland-har-valt-in-nazister-i.md` — mismatch
+  - detail: Grekland har valt in nazister i parlamentet – hur är det möjligt?
+  - current: `2012-05-08-grekland-har-valt-in-nazister-i.md`
+  - expected: `2012-05-08-grekland-har-valt-in-nazister-i-parlamentet-hur-ar-det-mojligt.md`
+- `sources/consumed/articles/2012-05-09-seths-blog.md` — mismatch
+  - detail: Seth's Blog
+  - current: `2012-05-09-seths-blog.md`
+  - expected: `2012-05-09-seth-s-blog.md`
+- `sources/consumed/articles/2012-05-21-how-apple-and-microsoft-armed-4000.md` — mismatch
+  - detail: How Apple and Microsoft Armed 4,000 Patent Warheads | Wired Enterprise | Wired.com
+  - current: `2012-05-21-how-apple-and-microsoft-armed-4000.md`
+  - expected: `2012-05-21-how-apple-and-microsoft-armed-4-000-patent-warheads-wired-enterprise-wired-com.md`
+- `sources/consumed/articles/2012-06-13-nar-paniken-forblindar.md` — ok
+  - detail: När paniken förblindar
+  - current: `2012-06-13-nar-paniken-forblindar.md`
+  - expected: `2012-06-13-nar-paniken-forblindar.md`
+- `sources/consumed/articles/2012-09-17-tax-cuts-dont-lead-to-economic.md` — mismatch
+  - detail: Tax Cuts Don't Lead to Economic Growth, a New 65-Year Study Finds
+  - current: `2012-09-17-tax-cuts-dont-lead-to-economic.md`
+  - expected: `2012-09-17-tax-cuts-don-t-lead-to-economic-growth-a-new-65-year-study-finds.md`
+- `sources/consumed/articles/2012-09-21-vi-kraver-en-tredje-vag-for.md` — mismatch
+  - detail: Vi kräver en tredje väg för narkotikapolitiken i Sverige
+  - current: `2012-09-21-vi-kraver-en-tredje-vag-for.md`
+  - expected: `2012-09-21-vi-kraver-en-tredje-vag-for-narkotikapolitiken-i-sverige.md`
+- `sources/consumed/articles/2012-09-22-vem-tanker-pa-att-apjesus-skyddas.md` — mismatch
+  - detail: Vem tänker på att Apjesus skyddas av upphovsrätt?
+  - current: `2012-09-22-vem-tanker-pa-att-apjesus-skyddas.md`
+  - expected: `2012-09-22-vem-tanker-pa-att-apjesus-skyddas-av-upphovsratt.md`
+- `sources/consumed/articles/2012-10-01-surging-solar-in-2011-proof-of.md` — mismatch
+  - detail: Surging Solar in 2011 Proof of Ray Kurzweil's Bold Prediction?
+  - current: `2012-10-01-surging-solar-in-2011-proof-of.md`
+  - expected: `2012-10-01-surging-solar-in-2011-proof-of-ray-kurzweil-s-bold-prediction.md`
+- `sources/consumed/articles/2012-10-09-emanuel-karlsten-vi-maste-ta-eget.md` — mismatch
+  - detail: Emanuel Karlsten: Vi måste ta eget ansvar för sanningen - DN.SE
+  - current: `2012-10-09-emanuel-karlsten-vi-maste-ta-eget.md`
+  - expected: `2012-10-09-emanuel-karlsten-vi-maste-ta-eget-ansvar-for-sanningen-dn-se.md`
+- `sources/consumed/articles/2012-10-15-dags-for-mer-realistisk-syn-pa.md` — mismatch
+  - detail: Dags för mer realistisk syn på droger... eller?
+  - current: `2012-10-15-dags-for-mer-realistisk-syn-pa.md`
+  - expected: `2012-10-15-dags-for-mer-realistisk-syn-pa-droger-eller.md`
+- `sources/consumed/articles/2012-10-17-kalastjuvar.md` — ok
+  - detail: Kalastjuvar
+  - current: `2012-10-17-kalastjuvar.md`
+  - expected: `2012-10-17-kalastjuvar.md`
+- `sources/consumed/articles/2012-10-22-darfor-borde-vi-kanske-stoppa-ekonomipriset.md` — mismatch
+  - detail: Därför borde vi kanske stoppa ekonomipriset | Andreas Cervenka
+  - current: `2012-10-22-darfor-borde-vi-kanske-stoppa-ekonomipriset.md`
+  - expected: `2012-10-22-darfor-borde-vi-kanske-stoppa-ekonomipriset-andreas-cervenka.md`
+- `sources/consumed/articles/2012-11-19-att-skapa-nya-jobb-ar-inte.md` — mismatch
+  - detail: Att skapa nya jobb är inte alltid samhällsnyttigt
+  - current: `2012-11-19-att-skapa-nya-jobb-ar-inte.md`
+  - expected: `2012-11-19-att-skapa-nya-jobb-ar-inte-alltid-samhallsnyttigt.md`
+- `sources/consumed/articles/2012-11-19-dancing-plague-of-1518---wikipedia.md` — mismatch
+  - detail: Dancing plague of 1518 - Wikipedia
+  - current: `2012-11-19-dancing-plague-of-1518---wikipedia.md`
+  - expected: `2012-11-19-dancing-plague-of-1518-wikipedia.md`
+- `sources/consumed/articles/2012-11-19-the-arts-festival-revolution.md` — ok
+  - detail: The arts festival revolution
+  - current: `2012-11-19-the-arts-festival-revolution.md`
+  - expected: `2012-11-19-the-arts-festival-revolution.md`
+- `sources/consumed/articles/2012-11-27-svenska-skolsystemet-21a-i-varlden.md` — mismatch
+  - detail: Svenska skolsystemet 21:a i världen
+  - current: `2012-11-27-svenska-skolsystemet-21a-i-varlden.md`
+  - expected: `2012-11-27-svenska-skolsystemet-21-a-i-varlden.md`
+- `sources/consumed/articles/2012-12-06-tack-sverige-for-att-vi-fick.md` — mismatch
+  - detail: Tack Sverige för att vi fick en ny framtid
+  - current: `2012-12-06-tack-sverige-for-att-vi-fick.md`
+  - expected: `2012-12-06-tack-sverige-for-att-vi-fick-en-ny-framtid.md`
+- `sources/consumed/articles/2012-12-10-sa-skulle-europa-ta-makten-over.md` — mismatch
+  - detail: Så skulle Europa ta makten över Afrika
+  - current: `2012-12-10-sa-skulle-europa-ta-makten-over.md`
+  - expected: `2012-12-10-sa-skulle-europa-ta-makten-over-afrika.md`
+- `sources/consumed/articles/2012-12-13-gamla-monopol-tar-kontroll-igen.md` — ok
+  - detail: Gamla monopol tar kontroll igen
+  - current: `2012-12-13-gamla-monopol-tar-kontroll-igen.md`
+  - expected: `2012-12-13-gamla-monopol-tar-kontroll-igen.md`
+- `sources/consumed/articles/2013-01-07-better-than-human-why-robots-will.md` — mismatch
+  - detail: Better Than Human: Why Robots Will — And Must — Take Our Jobs | Gadget Lab | Wired.com
+  - current: `2013-01-07-better-than-human-why-robots-will.md`
+  - expected: `2013-01-07-better-than-human-why-robots-will-and-must-take-our-jobs-gadget-lab-wired-com.md`
+- `sources/consumed/articles/2013-01-09-understanding-is-a-poor-substitute-for.md` — mismatch
+  - detail: UNDERSTANDING IS A POOR SUBSTITUTE FOR CONVEXITY (ANTIFRAGILITY)
+  - current: `2013-01-09-understanding-is-a-poor-substitute-for.md`
+  - expected: `2013-01-09-understanding-is-a-poor-substitute-for-convexity-antifragility.md`
+- `sources/consumed/articles/2013-01-12-mer-fran-forstasidan.md` — ok
+  - detail: Mer från förstasidan
+  - current: `2013-01-12-mer-fran-forstasidan.md`
+  - expected: `2013-01-12-mer-fran-forstasidan.md`
+- `sources/consumed/articles/2013-01-27-at-atheist-church-in-london-no.md` — mismatch
+  - detail: At Atheist Church in London, No Faith Required
+  - current: `2013-01-27-at-atheist-church-in-london-no.md`
+  - expected: `2013-01-27-at-atheist-church-in-london-no-faith-required.md`
+- `sources/consumed/articles/2013-01-27-varan-generation-kommer-att-flippa-ur.md` — ok
+  - detail: ”Våran generation kommer att flippa ur”
+  - current: `2013-01-27-varan-generation-kommer-att-flippa-ur.md`
+  - expected: `2013-01-27-varan-generation-kommer-att-flippa-ur.md`
+- `sources/consumed/articles/2013-01-28-etableringspeng-ett-han-mot-hogskolan.md` — ok
+  - detail: ”Etableringspeng ett hån mot högskolan”
+  - current: `2013-01-28-etableringspeng-ett-han-mot-hogskolan.md`
+  - expected: `2013-01-28-etableringspeng-ett-han-mot-hogskolan.md`
+- `sources/consumed/articles/2013-01-29-digital-markradio-dodfodd-ide.md` — ok
+  - detail: Digital markradio dödfödd idé
+  - current: `2013-01-29-digital-markradio-dodfodd-ide.md`
+  - expected: `2013-01-29-digital-markradio-dodfodd-ide.md`
+- `sources/consumed/articles/2013-03-04-en-reva-i-rattsstaten.md` — ok
+  - detail: En reva i rättsstaten
+  - current: `2013-03-04-en-reva-i-rattsstaten.md`
+  - expected: `2013-03-04-en-reva-i-rattsstaten.md`
+- `sources/consumed/articles/2013-03-26-gastinlagg-vem-ska-ge-sitt-liv-for.md` — mismatch
+  - detail: Gästinlägg-Vem ska ge sitt liv för Sverige?
+  - current: `2013-03-26-gastinlagg-vem-ska-ge-sitt-liv-for.md`
+  - expected: `2013-03-26-gastinlagg-vem-ska-ge-sitt-liv-for-sverige.md`
+- `sources/consumed/articles/2013-04-07-kids-in-solitary-confinement-americas-official.md` — mismatch
+  - detail: Kids in solitary confinement: America's official child abuse | Jean Casella and James Ridgeway
+  - current: `2013-04-07-kids-in-solitary-confinement-americas-official.md`
+  - expected: `2013-04-07-kids-in-solitary-confinement-america-s-official-child-abuse-jean-casella-and-james-ridgeway.md`
+- `sources/consumed/articles/2013-04-15-after-god-what-can-atheists-learn.md` — mismatch
+  - detail: After God: What can atheists learn from believers?
+  - current: `2013-04-15-after-god-what-can-atheists-learn.md`
+  - expected: `2013-04-15-after-god-what-can-atheists-learn-from-believers.md`
+- `sources/consumed/articles/2013-04-17-att-inte-arbeta-kan-vara-mer.md` — mismatch
+  - detail: ”Att inte arbeta kan vara mer moraliskt”
+  - current: `2013-04-17-att-inte-arbeta-kan-vara-mer.md`
+  - expected: `2013-04-17-att-inte-arbeta-kan-vara-mer-moraliskt.md`
+- `sources/consumed/articles/2013-04-24-the-key-to-growth-race-with.md` — mismatch
+  - detail: The key to growth? Race with the machines
+  - current: `2013-04-24-the-key-to-growth-race-with.md`
+  - expected: `2013-04-24-the-key-to-growth-race-with-the-machines.md`
+- `sources/consumed/articles/2013-04-27-why-i-let-my-students-cheat.md` — mismatch
+  - detail: Why I Let My Students Cheat On Their Game Theory Exam
+  - current: `2013-04-27-why-i-let-my-students-cheat.md`
+  - expected: `2013-04-27-why-i-let-my-students-cheat-on-their-game-theory-exam.md`
+- `sources/consumed/articles/2013-05-08-valdet-beskrivs-som-professionellt-polisarbete.md` — ok
+  - detail: Våldet beskrivs som 'professionellt polisarbete
+  - current: `2013-05-08-valdet-beskrivs-som-professionellt-polisarbete.md`
+  - expected: `2013-05-08-valdet-beskrivs-som-professionellt-polisarbete.md`
+- `sources/consumed/articles/2013-05-12-why-people-who-hate-drugs-should.md` — mismatch
+  - detail: Why People Who Hate Drugs Should Want to End the Drug War
+  - current: `2013-05-12-why-people-who-hate-drugs-should.md`
+  - expected: `2013-05-12-why-people-who-hate-drugs-should-want-to-end-the-drug-war.md`
+- `sources/consumed/articles/2013-05-13-medicines-big-new-battleground-does-mental.md` — mismatch
+  - detail: Medicine's big new battleground: does mental illness really exist?
+  - current: `2013-05-13-medicines-big-new-battleground-does-mental.md`
+  - expected: `2013-05-13-medicine-s-big-new-battleground-does-mental-illness-really-exist.md`
+- `sources/consumed/articles/2013-05-13-the-death-of-truth-chris-hedges.md` — mismatch
+  - detail: The Death of Truth: Chris Hedges Interviews Julian Assange
+  - current: `2013-05-13-the-death-of-truth-chris-hedges.md`
+  - expected: `2013-05-13-the-death-of-truth-chris-hedges-interviews-julian-assange.md`
+- `sources/consumed/articles/2013-05-20-dear-american-consumers-please-dont-start.md` — mismatch
+  - detail: Dear American Consumers: Please Don’t Start Eating Healthfully. Sincerely, the Food Industry | Guest Blog, Scientific Am
+  - current: `2013-05-20-dear-american-consumers-please-dont-start.md`
+  - expected: `2013-05-20-dear-american-consumers-please-dont-start-eating-healthfully-sincerely-the-food-industry-guest-blog-scientific-am.md`
+- `sources/consumed/articles/2013-05-20-lets-fight-big-pharmas-crusade-to.md` — mismatch
+  - detail: Let's Fight Big Pharma's Crusade to Turn Eccentricity Into Illness | Wired Opinion | Wired.com
+  - current: `2013-05-20-lets-fight-big-pharmas-crusade-to.md`
+  - expected: `2013-05-20-let-s-fight-big-pharma-s-crusade-to-turn-eccentricity-into-illness-wired-opinion-wired-com.md`
+- `sources/consumed/articles/2013-05-21-dodsmaskinen-kawa-zolfagary.md` — ok
+  - detail: Dödsmaskinen – Kawa Zolfagary
+  - current: `2013-05-21-dodsmaskinen-kawa-zolfagary.md`
+  - expected: `2013-05-21-dodsmaskinen-kawa-zolfagary.md`
+- `sources/consumed/articles/2013-05-27-us-entertainment-industry-to-congress-make.md` — mismatch
+  - detail: US entertainment industry to Congress: make it legal for us to deploy rootkits, spyware, ransomware and trojans to attac
+  - current: `2013-05-27-us-entertainment-industry-to-congress-make.md`
+  - expected: `2013-05-27-us-entertainment-industry-to-congress-make-it-legal-for-us-to-deploy-rootkits-spyware-ransomware-and-trojans-to-attac.md`
+- `sources/consumed/articles/2013-06-04-think-about-nature.md` — ok
+  - detail: THINK ABOUT NATURE
+  - current: `2013-06-04-think-about-nature.md`
+  - expected: `2013-06-04-think-about-nature.md`
+- `sources/consumed/articles/2013-06-08-nagot-stasi-bara-kunnat-dromma-om.md` — ok
+  - detail: ”Något Stasi bara kunnat drömma om”
+  - current: `2013-06-08-nagot-stasi-bara-kunnat-dromma-om.md`
+  - expected: `2013-06-08-nagot-stasi-bara-kunnat-dromma-om.md`
+- `sources/consumed/articles/2013-06-09-en-friskolejattes-uppgang-och-fall-dagens.md` — mismatch
+  - detail: En friskolejättes uppgång och fall | Dagens Arena
+  - current: `2013-06-09-en-friskolejattes-uppgang-och-fall-dagens.md`
+  - expected: `2013-06-09-en-friskolejattes-uppgang-och-fall-dagens-arena.md`
+- `sources/consumed/articles/2013-06-09-ge-nobels-fredspris-till-bradley-manning.md` — ok
+  - detail: Ge Nobels fredspris till Bradley Manning
+  - current: `2013-06-09-ge-nobels-fredspris-till-bradley-manning.md`
+  - expected: `2013-06-09-ge-nobels-fredspris-till-bradley-manning.md`
+- `sources/consumed/articles/2013-06-11-a-peek-into-a-pro-life-paradise.md` — ok
+  - detail: A peek into a pro-life paradise
+  - current: `2013-06-11-a-peek-into-a-pro-life-paradise.md`
+  - expected: `2013-06-11-a-peek-into-a-pro-life-paradise.md`
+- `sources/consumed/articles/2013-06-11-arms-new-campaign-to-stop-killer.md` — mismatch
+  - detail: Arms: New Campaign to Stop Killer Robots
+  - current: `2013-06-11-arms-new-campaign-to-stop-killer.md`
+  - expected: `2013-06-11-arms-new-campaign-to-stop-killer-robots.md`
+- `sources/consumed/articles/2013-06-11-edward-snowden-the-whistleblower-behind-the.md` — mismatch
+  - detail: Edward Snowden: the whistleblower behind the NSA surveillance revelations
+  - current: `2013-06-11-edward-snowden-the-whistleblower-behind-the.md`
+  - expected: `2013-06-11-edward-snowden-the-whistleblower-behind-the-nsa-surveillance-revelations.md`
+- `sources/consumed/articles/2013-06-19-dab-radio-makalost-pinsamt.md` — ok
+  - detail: Dab-radio? Makalöst pinsamt
+  - current: `2013-06-19-dab-radio-makalost-pinsamt.md`
+  - expected: `2013-06-19-dab-radio-makalost-pinsamt.md`
+- `sources/consumed/articles/2013-06-20-den-falska-lyckan-pa-flaska--.md` — mismatch
+  - detail: Den falska lyckan på flaska - DN.SE
+  - current: `2013-06-20-den-falska-lyckan-pa-flaska--.md`
+  - expected: `2013-06-20-den-falska-lyckan-pa-flaska-dn-se.md`
+- `sources/consumed/articles/2013-06-25-photos-the-amazing-costume-culture-of.md` — mismatch
+  - detail: Photos: The Amazing Costume Culture of Africa's Herero Tribe | Wired Design | Wired.com
+  - current: `2013-06-25-photos-the-amazing-costume-culture-of.md`
+  - expected: `2013-06-25-photos-the-amazing-costume-culture-of-africa-s-herero-tribe-wired-design-wired-com.md`
+- `sources/consumed/articles/2013-07-11-new-project-aims-to-upload-a.md` — mismatch
+  - detail: New project aims to upload a honey bee's brain into a flying insectobot by 2015
+  - current: `2013-07-11-new-project-aims-to-upload-a.md`
+  - expected: `2013-07-11-new-project-aims-to-upload-a-honey-bee-s-brain-into-a-flying-insectobot-by-2015.md`
+- `sources/consumed/articles/2013-08-08-study-shows-how-burning-mans-unique.md` — mismatch
+  - detail: Study shows how Burning Man's unique culture alters your emotional regulation
+  - current: `2013-08-08-study-shows-how-burning-mans-unique.md`
+  - expected: `2013-08-08-study-shows-how-burning-man-s-unique-culture-alters-your-emotional-regulation.md`
+- `sources/consumed/articles/2013-08-10-en-skola-at-helvete-del-1.md` — mismatch
+  - detail: En skola åt helvete, del 1: Introduktion
+  - current: `2013-08-10-en-skola-at-helvete-del-1.md`
+  - expected: `2013-08-10-en-skola-at-helvete-del-1-introduktion.md`
+- `sources/consumed/articles/2013-08-13-kids-cant-use-computers-and-this.md` — mismatch
+  - detail: Kids can't use computers... and this is why it should worry you
+  - current: `2013-08-13-kids-cant-use-computers-and-this.md`
+  - expected: `2013-08-13-kids-can-t-use-computers-and-this-is-why-it-should-worry-you.md`
+- `sources/consumed/articles/2013-08-13-varfor-jobba.md` — ok
+  - detail: Varför jobba?
+  - current: `2013-08-13-varfor-jobba.md`
+  - expected: `2013-08-13-varfor-jobba.md`
+- `sources/consumed/articles/2013-08-20-peter-normans-protest-dodade-hans-karriar.md` — ok
+  - detail: Peter Normans protest dödade hans karriär
+  - current: `2013-08-20-peter-normans-protest-dodade-hans-karriar.md`
+  - expected: `2013-08-20-peter-normans-protest-dodade-hans-karriar.md`
+- `sources/consumed/articles/2013-08-21-debatt-folk-knarkar-for-att-ha.md` — mismatch
+  - detail: DEBATT: Folk knarkar för att ha kul
+  - current: `2013-08-21-debatt-folk-knarkar-for-att-ha.md`
+  - expected: `2013-08-21-debatt-folk-knarkar-for-att-ha-kul.md`
+- `sources/consumed/articles/2013-09-05-school-is-a-prison----and.md` — mismatch
+  - detail: School is a prison -- and damaging our kids
+  - current: `2013-09-05-school-is-a-prison----and.md`
+  - expected: `2013-09-05-school-is-a-prison-and-damaging-our-kids.md`
+- `sources/consumed/articles/2013-09-13-how-i-got-fcked-by-burning.md` — mismatch
+  - detail: How I Got F*cked by Burning Man, and Other Sacred Ceremonies
+  - current: `2013-09-13-how-i-got-fcked-by-burning.md`
+  - expected: `2013-09-13-how-i-got-f-cked-by-burning-man-and-other-sacred-ceremonies.md`
+- `sources/consumed/articles/2013-09-16-minerallagen-helt-onodigt-att-utvinna-andliga.md` — mismatch
+  - detail: Minerallagen: Helt onödigt att utvinna ändliga resurser
+  - current: `2013-09-16-minerallagen-helt-onodigt-att-utvinna-andliga.md`
+  - expected: `2013-09-16-minerallagen-helt-onodigt-att-utvinna-andliga-resurser.md`
+- `sources/consumed/articles/2013-09-18-watch-this-3-d-software-is-adobe.md` — mismatch
+  - detail: Watch: This 3-D Software Is Adobe Illustrator on Acid | Wired Design | Wired.com
+  - current: `2013-09-18-watch-this-3-d-software-is-adobe.md`
+  - expected: `2013-09-18-watch-this-3-d-software-is-adobe-illustrator-on-acid-wired-design-wired-com.md`
+- `sources/consumed/articles/2013-09-23-downloading-is-mean-content-industry-drafts.md` — mismatch
+  - detail: Downloading Is Mean! Content Industry Drafts Anti-Piracy Curriculum for Elementary Schools | Threat Level | Wired.com
+  - current: `2013-09-23-downloading-is-mean-content-industry-drafts.md`
+  - expected: `2013-09-23-downloading-is-mean-content-industry-drafts-anti-piracy-curriculum-for-elementary-schools-threat-level-wired-com.md`
+- `sources/consumed/articles/2013-09-25-school-is-a-prison----and.md` — mismatch
+  - detail: School is a prison -- and damaging our kids
+  - current: `2013-09-25-school-is-a-prison----and.md`
+  - expected: `2013-09-25-school-is-a-prison-and-damaging-our-kids.md`
+- `sources/consumed/articles/2013-10-06-meet-the-new-serfs-same-as.md` — mismatch
+  - detail: Meet The New Serfs, Same As The Old Serfs | TechCrunch
+  - current: `2013-10-06-meet-the-new-serfs-same-as.md`
+  - expected: `2013-10-06-meet-the-new-serfs-same-as-the-old-serfs-techcrunch.md`
+- `sources/consumed/articles/2013-10-07-fordomsfull-minister-borde-ner-i-grottan.md` — ok
+  - detail: Fördomsfull minister borde ner i grottan
+  - current: `2013-10-07-fordomsfull-minister-borde-ner-i-grottan.md`
+  - expected: `2013-10-07-fordomsfull-minister-borde-ner-i-grottan.md`
+- `sources/consumed/articles/2013-10-10-the-way-we-work-is-soul-sucking.md` — mismatch
+  - detail: The Way We Work Is Soul-Sucking, But Social Networks Are Not the Fix | Wired Opinion | Wired.com
+  - current: `2013-10-10-the-way-we-work-is-soul-sucking.md`
+  - expected: `2013-10-10-the-way-we-work-is-soul-sucking-but-social-networks-are-not-the-fix-wired-opinion-wired-com.md`
+- `sources/consumed/articles/2013-10-20-opinion-maam-your-burger-has-been.md` — mismatch
+  - detail: Opinion | Ma’am, Your Burger Has Been Paid For (Published 2013)
+  - current: `2013-10-20-opinion-maam-your-burger-has-been.md`
+  - expected: `2013-10-20-opinion-maam-your-burger-has-been-paid-for-published-2013.md`
+- `sources/consumed/articles/2013-10-22-israels-new-racism-the-persecution-of.md` — mismatch
+  - detail: Israel's New Racism: The Persecution of African Migrants in the Holy Land
+  - current: `2013-10-22-israels-new-racism-the-persecution-of.md`
+  - expected: `2013-10-22-israel-s-new-racism-the-persecution-of-african-migrants-in-the-holy-land.md`
+- `sources/consumed/articles/2013-10-22-who-am-i-think-again.md` — ok
+  - detail: Who am I? Think again
+  - current: `2013-10-22-who-am-i-think-again.md`
+  - expected: `2013-10-22-who-am-i-think-again.md`
+- `sources/consumed/articles/2013-10-23-why-racists-love-the-minimum-wage.md` — mismatch
+  - detail: Why racists love the minimum wage laws
+  - current: `2013-10-23-why-racists-love-the-minimum-wage.md`
+  - expected: `2013-10-23-why-racists-love-the-minimum-wage-laws.md`
+- `sources/consumed/articles/2013-10-26-en-total-forvrangning-av-vara-resultat.md` — ok
+  - detail: ”En total förvrängning av våra resultat”
+  - current: `2013-10-26-en-total-forvrangning-av-vara-resultat.md`
+  - expected: `2013-10-26-en-total-forvrangning-av-vara-resultat.md`
+- `sources/consumed/articles/2013-10-27-vi-jobbar-skiten-ur-oss-eller.md` — mismatch
+  - detail: Vi jobbar skiten ur oss eller får inte jobba alls
+  - current: `2013-10-27-vi-jobbar-skiten-ur-oss-eller.md`
+  - expected: `2013-10-27-vi-jobbar-skiten-ur-oss-eller-far-inte-jobba-alls.md`
+- `sources/consumed/articles/2013-11-06-15-amazing-designs-that-were-impossible.md` — mismatch
+  - detail: 15 Amazing Designs That Were Impossible to Make 15 Years Ago | Wired Design | Wired.com
+  - current: `2013-11-06-15-amazing-designs-that-were-impossible.md`
+  - expected: `2013-11-06-15-amazing-designs-that-were-impossible-to-make-15-years-ago-wired-design-wired-com.md`
+- `sources/consumed/articles/2013-11-11-beliefs.md` — ok
+  - detail: Beliefs
+  - current: `2013-11-11-beliefs.md`
+  - expected: `2013-11-11-beliefs.md`
+- `sources/consumed/articles/2013-11-11-teenagers-blameless-for-inability-to-concentrate.md` — mismatch
+  - detail: Teenagers blameless for inability to concentrate - Telegraph
+  - current: `2013-11-11-teenagers-blameless-for-inability-to-concentrate.md`
+  - expected: `2013-11-11-teenagers-blameless-for-inability-to-concentrate-telegraph.md`
+- `sources/consumed/articles/2013-11-11-vanliga-pstenden-om-invandring.md` — ok
+  - detail: Vanliga p�st�enden om invandring
+  - current: `2013-11-11-vanliga-pstenden-om-invandring.md`
+  - expected: `2013-11-11-vanliga-pstenden-om-invandring.md`
+- `sources/consumed/articles/2013-11-18-audiofili-vidskepliga-rika-man.md` — ok
+  - detail: Audiofili: Vidskepliga rika män
+  - current: `2013-11-18-audiofili-vidskepliga-rika-man.md`
+  - expected: `2013-11-18-audiofili-vidskepliga-rika-man.md`
+- `sources/consumed/articles/2013-11-18-nobelcenter-skokartongerna-vann---yimby-stockholm.md` — mismatch
+  - detail: Nobelcenter: Skokartongerna vann - YIMBY Stockholm
+  - current: `2013-11-18-nobelcenter-skokartongerna-vann---yimby-stockholm.md`
+  - expected: `2013-11-18-nobelcenter-skokartongerna-vann-yimby-stockholm.md`
+- `sources/consumed/articles/2013-11-19-our-work-culture-is-killing-us.md` — ok
+  - detail: Our Work Culture Is Killing Us
+  - current: `2013-11-19-our-work-culture-is-killing-us.md`
+  - expected: `2013-11-19-our-work-culture-is-killing-us.md`
+- `sources/consumed/articles/2013-11-21-darfor-gar-det-inte-att-lita.md` — mismatch
+  - detail: Därför går det inte att lita på polisen
+  - current: `2013-11-21-darfor-gar-det-inte-att-lita.md`
+  - expected: `2013-11-21-darfor-gar-det-inte-att-lita-pa-polisen.md`
+- `sources/consumed/articles/2013-11-21-vannerna-avslojarbr-sd-bakom-masken.md` — mismatch
+  - detail: Vännerna avslöjar<br />SD bakom masken
+  - current: `2013-11-21-vannerna-avslojarbr-sd-bakom-masken.md`
+  - expected: `2013-11-21-vannerna-avslojar-br-sd-bakom-masken.md`
+- `sources/consumed/articles/2013-11-25-geeks-for-monarchy-the-rise-of.md` — mismatch
+  - detail: Geeks for Monarchy: The Rise of the Neoreactionaries | TechCrunch
+  - current: `2013-11-25-geeks-for-monarchy-the-rise-of.md`
+  - expected: `2013-11-25-geeks-for-monarchy-the-rise-of-the-neoreactionaries-techcrunch.md`
+- `sources/consumed/articles/2013-11-28-mitt-namn-ar-my-det-ar.md` — mismatch
+  - detail: Mitt namn är My – Det är mig Marcus Birro attackerar
+  - current: `2013-11-28-mitt-namn-ar-my-det-ar.md`
+  - expected: `2013-11-28-mitt-namn-ar-my-det-ar-mig-marcus-birro-attackerar.md`
+- `sources/consumed/articles/2013-11-29-skickliga-antirasister-bor-lasa-machiavelli.md` — ok
+  - detail: Skickliga antirasister bör läsa Machiavelli
+  - current: `2013-11-29-skickliga-antirasister-bor-lasa-machiavelli.md`
+  - expected: `2013-11-29-skickliga-antirasister-bor-lasa-machiavelli.md`
+- `sources/consumed/articles/2013-11-30-nsa-sexint-is-the-abuse-youve.md` — mismatch
+  - detail: NSA SEXINT is the Abuse You’ve All Been Waiting For
+  - current: `2013-11-30-nsa-sexint-is-the-abuse-youve.md`
+  - expected: `2013-11-30-nsa-sexint-is-the-abuse-youve-all-been-waiting-for.md`
+- `sources/consumed/articles/2013-12-02-barnen-blir-problembararna.md` — ok
+  - detail: ”Barnen blir problembärarna”
+  - current: `2013-12-02-barnen-blir-problembararna.md`
+  - expected: `2013-12-02-barnen-blir-problembararna.md`
+- `sources/consumed/articles/2013-12-04-pisa-top-of-the-class-for.md` — mismatch
+  - detail: Pisa: top of the class for dumbing down
+  - current: `2013-12-04-pisa-top-of-the-class-for.md`
+  - expected: `2013-12-04-pisa-top-of-the-class-for-dumbing-down.md`
+- `sources/consumed/articles/2013-12-10-tank-om-min-van-du-ar.md` — mismatch
+  - detail: Tänk om min vän, du är helt körd nu
+  - current: `2013-12-10-tank-om-min-van-du-ar.md`
+  - expected: `2013-12-10-tank-om-min-van-du-ar-helt-kord-nu.md`
+- `sources/consumed/articles/2013-12-15-plotsligt-betyder-allt-som-s-mannen-slogs.md` — mismatch
+  - detail: Plötsligt betyder allt som S-männen slogs för ingenting
+  - current: `2013-12-15-plotsligt-betyder-allt-som-s-mannen-slogs.md`
+  - expected: `2013-12-15-plotsligt-betyder-allt-som-s-mannen-slogs-for-ingenting.md`
+- `sources/consumed/articles/2013-12-16-ni-ar-inte-jason.md` — ok
+  - detail: Ni är inte Jason
+  - current: `2013-12-16-ni-ar-inte-jason.md`
+  - expected: `2013-12-16-ni-ar-inte-jason.md`
+- `sources/consumed/articles/2013-12-16-varfor-gynnar-dn-nazisterna.md` — ok
+  - detail: Varför gynnar DN nazisterna?
+  - current: `2013-12-16-varfor-gynnar-dn-nazisterna.md`
+  - expected: `2013-12-16-varfor-gynnar-dn-nazisterna.md`
+- `sources/consumed/articles/2013-12-17-your-marketing-job-is-about-to.md` — mismatch
+  - detail: Your marketing job is about to become an engineering job. Get used to it.
+  - current: `2013-12-17-your-marketing-job-is-about-to.md`
+  - expected: `2013-12-17-your-marketing-job-is-about-to-become-an-engineering-job-get-used-to-it.md`
+- `sources/consumed/articles/2013-12-19-better-than-human-why-robots-will.md` — mismatch
+  - detail: Better Than Human: Why Robots Will — And Must — Take Our Jobs | Gadget Lab | Wired.com
+  - current: `2013-12-19-better-than-human-why-robots-will.md`
+  - expected: `2013-12-19-better-than-human-why-robots-will-and-must-take-our-jobs-gadget-lab-wired-com.md`
+- `sources/consumed/articles/2013-12-29-if-you-want-to-change-dont.md` — mismatch
+  - detail: If You Want to Change, Don’t Read This
+  - current: `2013-12-29-if-you-want-to-change-dont.md`
+  - expected: `2013-12-29-if-you-want-to-change-dont-read-this.md`
+- `sources/consumed/articles/2014-01-06-hug-the-robots.md` — ok
+  - detail: HUG THE ROBOTS
+  - current: `2014-01-06-hug-the-robots.md`
+  - expected: `2014-01-06-hug-the-robots.md`
+- `sources/consumed/articles/2014-01-09-las-pa-varlden-har-forandrats.md` — ok
+  - detail: Läs på! Världen har förändrats
+  - current: `2014-01-09-las-pa-varlden-har-forandrats.md`
+  - expected: `2014-01-09-las-pa-varlden-har-forandrats.md`
+- `sources/consumed/articles/2014-01-12-such-dfw-very-orwell-so-doge.md` — mismatch
+  - detail: Such DFW. Very Orwell. So Doge. Wow. | TechCrunch
+  - current: `2014-01-12-such-dfw-very-orwell-so-doge.md`
+  - expected: `2014-01-12-such-dfw-very-orwell-so-doge-wow-techcrunch.md`
+- `sources/consumed/articles/2014-01-14-the-inspiring-heroism-of-aaron-swartz.md` — mismatch
+  - detail: The inspiring heroism of Aaron Swartz | Glenn Greenwald
+  - current: `2014-01-14-the-inspiring-heroism-of-aaron-swartz.md`
+  - expected: `2014-01-14-the-inspiring-heroism-of-aaron-swartz-glenn-greenwald.md`
+- `sources/consumed/articles/2014-01-15-hug-the-robots.md` — ok
+  - detail: HUG THE ROBOTS
+  - current: `2014-01-15-hug-the-robots.md`
+  - expected: `2014-01-15-hug-the-robots.md`
+- `sources/consumed/articles/2014-01-17-what-you-think-is-right-may.md` — mismatch
+  - detail: What you think is right may actually be wrong – here's why
+  - current: `2014-01-17-what-you-think-is-right-may.md`
+  - expected: `2014-01-17-what-you-think-is-right-may-actually-be-wrong-here-s-why.md`
+- `sources/consumed/articles/2014-01-20-10-reasons-why-earthships-are-fing.md` — mismatch
+  - detail: 10 Reasons Why EarthShips Are F!#%ing Awesome
+  - current: `2014-01-20-10-reasons-why-earthships-are-fing.md`
+  - expected: `2014-01-20-10-reasons-why-earthships-are-f-ing-awesome.md`
+- `sources/consumed/articles/2014-01-20-what-if-natural-products-came-with.md` — mismatch
+  - detail: What if natural products came with a list of ingredients?
+  - current: `2014-01-20-what-if-natural-products-came-with.md`
+  - expected: `2014-01-20-what-if-natural-products-came-with-a-list-of-ingredients.md`
+- `sources/consumed/articles/2014-01-23-why-bitcoin-matters.md` — ok
+  - detail: Why Bitcoin Matters
+  - current: `2014-01-23-why-bitcoin-matters.md`
+  - expected: `2014-01-23-why-bitcoin-matters.md`
+- `sources/consumed/articles/2014-01-28-revisiting-the-obama-doctrine.md` — ok
+  - detail: Revisiting the Obama Doctrine
+  - current: `2014-01-28-revisiting-the-obama-doctrine.md`
+  - expected: `2014-01-28-revisiting-the-obama-doctrine.md`
+- `sources/consumed/articles/2014-01-29-how-to-screw-learning-with-one.md` — mismatch
+  - detail: How to screw learning with one simple belief
+  - current: `2014-01-29-how-to-screw-learning-with-one.md`
+  - expected: `2014-01-29-how-to-screw-learning-with-one-simple-belief.md`
+- `sources/consumed/articles/2014-02-18-robotarna-har-snart-tagit-over-ditt.md` — mismatch
+  - detail: Robotarna har snart tagit över ditt jobb
+  - current: `2014-02-18-robotarna-har-snart-tagit-over-ditt.md`
+  - expected: `2014-02-18-robotarna-har-snart-tagit-over-ditt-jobb.md`
+- `sources/consumed/articles/2014-02-20-self-compassion-11-things-you-should-know.md` — mismatch
+  - detail: Self-Compassion: 11 Things You Should Know - PsyBlog
+  - current: `2014-02-20-self-compassion-11-things-you-should-know.md`
+  - expected: `2014-02-20-self-compassion-11-things-you-should-know-psyblog.md`
+- `sources/consumed/articles/2014-02-22-darfor-lamnar-jag-sd-och-slutar.md` — mismatch
+  - detail: Därför lämnar jag SD och slutar som krönikör på Avpixlat
+  - current: `2014-02-22-darfor-lamnar-jag-sd-och-slutar.md`
+  - expected: `2014-02-22-darfor-lamnar-jag-sd-och-slutar-som-kronikor-pa-avpixlat.md`
+- `sources/consumed/articles/2014-03-03-the-inside-story-of-mt-gox.md` — mismatch
+  - detail: The Inside Story of Mt. Gox, Bitcoin's $460 Million Disaster | Wired Enterprise | Wired.com
+  - current: `2014-03-03-the-inside-story-of-mt-gox.md`
+  - expected: `2014-03-03-the-inside-story-of-mt-gox-bitcoin-s-460-million-disaster-wired-enterprise-wired-com.md`
+- `sources/consumed/articles/2014-03-09-collapsible-woven-refugee-shelters-powered-by.md` — mismatch
+  - detail: Collapsible woven refugee shelters powered by the sun - Green Prophet
+  - current: `2014-03-09-collapsible-woven-refugee-shelters-powered-by.md`
+  - expected: `2014-03-09-collapsible-woven-refugee-shelters-powered-by-the-sun-green-prophet.md`
+- `sources/consumed/articles/2014-03-13-hon-tackar-oss---det-ar.md` — mismatch
+  - detail: Hon tackar oss - det är nästan outhärdligt
+  - current: `2014-03-13-hon-tackar-oss---det-ar.md`
+  - expected: `2014-03-13-hon-tackar-oss-det-ar-nastan-outhardligt.md`
+- `sources/consumed/articles/2014-03-15-sverige-behover-en-strategi-mot-rysk.md` — mismatch
+  - detail: ”Sverige behöver en strategi mot rysk propaganda”
+  - current: `2014-03-15-sverige-behover-en-strategi-mot-rysk.md`
+  - expected: `2014-03-15-sverige-behover-en-strategi-mot-rysk-propaganda.md`
+- `sources/consumed/articles/2014-03-16-one-map-sums-up-the-damage.md` — mismatch
+  - detail: One Map Sums Up The Damage Caused By The Anti-Vaccination Movement
+  - current: `2014-03-16-one-map-sums-up-the-damage.md`
+  - expected: `2014-03-16-one-map-sums-up-the-damage-caused-by-the-anti-vaccination-movement.md`
+- `sources/consumed/articles/2014-03-21-the-science-of-ipl-stats-analytics.md` — mismatch
+  - detail: The Science of IPL: Stats & Analytics Explained
+  - current: `2014-03-21-the-science-of-ipl-stats-analytics.md`
+  - expected: `2014-03-21-the-science-of-ipl-stats-and-analytics-explained.md`
+- `sources/consumed/articles/2014-03-25-no-youre-not-entitled-to-your.md` — mismatch
+  - detail: No, you’re not entitled to your opinion
+  - current: `2014-03-25-no-youre-not-entitled-to-your.md`
+  - expected: `2014-03-25-no-youre-not-entitled-to-your-opinion.md`
+- `sources/consumed/articles/2014-03-27-vad-ar-pengar.md` — ok
+  - detail: Vad är pengar?
+  - current: `2014-03-27-vad-ar-pengar.md`
+  - expected: `2014-03-27-vad-ar-pengar.md`
+- `sources/consumed/articles/2014-03-28-paula-wahlgrenjag-var-en-av-de.md` — mismatch
+  - detail: Paula Wahlgren:Jag var en av de där som störde
+  - current: `2014-03-28-paula-wahlgrenjag-var-en-av-de.md`
+  - expected: `2014-03-28-paula-wahlgren-jag-var-en-av-de-dar-som-storde.md`
+- `sources/consumed/articles/2014-03-29-en-av-de-mest-missforstadda-ideerna.md` — mismatch
+  - detail: En av de mest missförstådda idéerna någonsin - st.nu
+  - current: `2014-03-29-en-av-de-mest-missforstadda-ideerna.md`
+  - expected: `2014-03-29-en-av-de-mest-missforstadda-ideerna-nagonsin-st-nu.md`
+- `sources/consumed/articles/2014-04-01-skolan-har-overlevt-sig-sjalv.md` — ok
+  - detail: ”Skolan har överlevt sig själv”
+  - current: `2014-04-01-skolan-har-overlevt-sig-sjalv.md`
+  - expected: `2014-04-01-skolan-har-overlevt-sig-sjalv.md`
+- `sources/consumed/articles/2014-04-02-alternativmedicinare-ar-kaos-i-ditt-blodbr.md` — mismatch
+  - detail: Alternativmedicinare: 'Är kaos – i ditt blod'<br />
+  - current: `2014-04-02-alternativmedicinare-ar-kaos-i-ditt-blodbr.md`
+  - expected: `2014-04-02-alternativmedicinare-ar-kaos-i-ditt-blod-br.md`
+- `sources/consumed/articles/2014-04-02-what-did-harvard-business-school-learn.md` — mismatch
+  - detail: What did Harvard Business School learn studying people who wear sweatpants in public?
+  - current: `2014-04-02-what-did-harvard-business-school-learn.md`
+  - expected: `2014-04-02-what-did-harvard-business-school-learn-studying-people-who-wear-sweatpants-in-public.md`
+- `sources/consumed/articles/2014-04-06-ledare-robotsamhallet-omstallningen-ar-ingen-parkpromenad.md` — ok
+  - detail: Ledare: Robotsamhället: Omställningen är ingen parkpromenad
+  - current: `2014-04-06-ledare-robotsamhallet-omstallningen-ar-ingen-parkpromenad.md`
+  - expected: `2014-04-06-ledare-robotsamhallet-omstallningen-ar-ingen-parkpromenad.md`
+- `sources/consumed/articles/2014-04-06-sveriges-skolsystem-har-blivit-extremt.md` — ok
+  - detail: Sveriges skolsystem har blivit extremt
+  - current: `2014-04-06-sveriges-skolsystem-har-blivit-extremt.md`
+  - expected: `2014-04-06-sveriges-skolsystem-har-blivit-extremt.md`
+- `sources/consumed/articles/2014-04-07-federley-de-vill-ta-var-frihet.md` — mismatch
+  - detail: Federley: De vill ta vår frihet ifrån oss | Debatt | Expressen
+  - current: `2014-04-07-federley-de-vill-ta-var-frihet.md`
+  - expected: `2014-04-07-federley-de-vill-ta-var-frihet-ifran-oss-debatt-expressen.md`
+- `sources/consumed/articles/2014-04-13-capitalism-simply-isnt-working-and-here.md` — mismatch
+  - detail: Capitalism simply isn't working and here are the reasons why | Will Hutton
+  - current: `2014-04-13-capitalism-simply-isnt-working-and-here.md`
+  - expected: `2014-04-13-capitalism-simply-isn-t-working-and-here-are-the-reasons-why-will-hutton.md`
+- `sources/consumed/articles/2014-04-18-10-futurist-phrases-and-terms-that.md` — mismatch
+  - detail: 10 Futurist Phrases And Terms That Are Complete Bullshit
+  - current: `2014-04-18-10-futurist-phrases-and-terms-that.md`
+  - expected: `2014-04-18-10-futurist-phrases-and-terms-that-are-complete-bullshit.md`
+- `sources/consumed/articles/2014-04-21-bloomberg.md` — ok
+  - detail: Bloomberg
+  - current: `2014-04-21-bloomberg.md`
+  - expected: `2014-04-21-bloomberg.md`
+- `sources/consumed/articles/2014-04-25-better-way-to-deal-with-bad.md` — mismatch
+  - detail: Better way to deal with bad memories suggested
+  - current: `2014-04-25-better-way-to-deal-with-bad.md`
+  - expected: `2014-04-25-better-way-to-deal-with-bad-memories-suggested.md`
+- `sources/consumed/articles/2014-05-12-the-mystery-of-go-the-ancient.md` — mismatch
+  - detail: The Mystery of Go, the Ancient Game That Computers Still Can't Win
+  - current: `2014-05-12-the-mystery-of-go-the-ancient.md`
+  - expected: `2014-05-12-the-mystery-of-go-the-ancient-game-that-computers-still-can-t-win.md`
+- `sources/consumed/articles/2014-05-20-hans-ideer-starker-putins-imperiedrom.md` — ok
+  - detail: Hans idéer stärker Putins imperiedröm
+  - current: `2014-05-20-hans-ideer-starker-putins-imperiedrom.md`
+  - expected: `2014-05-20-hans-ideer-starker-putins-imperiedrom.md`
+- `sources/consumed/articles/2014-06-06-heres-how-we-take-back-the.md` — mismatch
+  - detail: Here's how we take back the Internet
+  - current: `2014-06-06-heres-how-we-take-back-the.md`
+  - expected: `2014-06-06-here-s-how-we-take-back-the-internet.md`
+- `sources/consumed/articles/2014-06-10-get-ready-robots-are-about-to.md` — mismatch
+  - detail: Get ready, robots are about to steal your job
+  - current: `2014-06-10-get-ready-robots-are-about-to.md`
+  - expected: `2014-06-10-get-ready-robots-are-about-to-steal-your-job.md`
+- `sources/consumed/articles/2014-06-18-the-next-20-years-are-going.md` — mismatch
+  - detail: The Next 20 Years Are Going To Make The Last 20 Look Like We Accomplished Nothing In Tech
+  - current: `2014-06-18-the-next-20-years-are-going.md`
+  - expected: `2014-06-18-the-next-20-years-are-going-to-make-the-last-20-look-like-we-accomplished-nothing-in-tech.md`
+- `sources/consumed/articles/2014-08-14-edward-snowden-the-untold-story.md` — ok
+  - detail: Edward Snowden: The Untold Story
+  - current: `2014-08-14-edward-snowden-the-untold-story.md`
+  - expected: `2014-08-14-edward-snowden-the-untold-story.md`
+- `sources/consumed/articles/2014-08-14-this-is-the-terrifying-result-of.md` — mismatch
+  - detail: This Is The Terrifying Result Of The Militarization Of Police
+  - current: `2014-08-14-this-is-the-terrifying-result-of.md`
+  - expected: `2014-08-14-this-is-the-terrifying-result-of-the-militarization-of-police.md`
+- `sources/consumed/articles/2014-09-11-for-att-forsta-silicon-valley-maste.md` — mismatch
+  - detail: För att förstå Silicon Valley måste du besöka Burning Man
+  - current: `2014-09-11-for-att-forsta-silicon-valley-maste.md`
+  - expected: `2014-09-11-for-att-forsta-silicon-valley-maste-du-besoka-burning-man.md`
+- `sources/consumed/articles/2014-09-19-vi-maste-andra-var-syn-pa.md` — mismatch
+  - detail: Vi måste ändra vår syn på arbete
+  - current: `2014-09-19-vi-maste-andra-var-syn-pa.md`
+  - expected: `2014-09-19-vi-maste-andra-var-syn-pa-arbete.md`
+- `sources/consumed/articles/2014-09-25-dn-debatt-terminsavgifter-kan-radda-kvaliteten.md` — mismatch
+  - detail: DN Debatt. ”Terminsavgifter kan rädda kvaliteten på universiteten”
+  - current: `2014-09-25-dn-debatt-terminsavgifter-kan-radda-kvaliteten.md`
+  - expected: `2014-09-25-dn-debatt-terminsavgifter-kan-radda-kvaliteten-pa-universiteten.md`
+- `sources/consumed/articles/2014-09-25-multivaxcom.md` — mismatch
+  - detail: multivax.com
+  - current: `2014-09-25-multivaxcom.md`
+  - expected: `2014-09-25-multivax-com.md`
+- `sources/consumed/articles/2014-10-08-kultur-analsex-ger-mervarde.md` — ok
+  - detail: KULTUR: Analsex ger mervärde
+  - current: `2014-10-08-kultur-analsex-ger-mervarde.md`
+  - expected: `2014-10-08-kultur-analsex-ger-mervarde.md`
+- `sources/consumed/articles/2014-10-08-rymdslottet.md` — ok
+  - detail: RYMDSLOTTET
+  - current: `2014-10-08-rymdslottet.md`
+  - expected: `2014-10-08-rymdslottet.md`
+- `sources/consumed/articles/2014-10-13-love-is-not-enough.md` — ok
+  - detail: Love is Not Enough
+  - current: `2014-10-13-love-is-not-enough.md`
+  - expected: `2014-10-13-love-is-not-enough.md`
+- `sources/consumed/articles/2014-10-27-rymdslottet.md` — ok
+  - detail: RYMDSLOTTET
+  - current: `2014-10-27-rymdslottet.md`
+  - expected: `2014-10-27-rymdslottet.md`
+- `sources/consumed/articles/2014-10-28-the-dangerous-american-myth-of-corporate.md` — mismatch
+  - detail: The dangerous American myth of corporate spirituality
+  - current: `2014-10-28-the-dangerous-american-myth-of-corporate.md`
+  - expected: `2014-10-28-the-dangerous-american-myth-of-corporate-spirituality.md`
+- `sources/consumed/articles/2014-10-31-drogpolitiken-har-ocksa-baksidor.md` — ok
+  - detail: Drogpolitiken har också baksidor
+  - current: `2014-10-31-drogpolitiken-har-ocksa-baksidor.md`
+  - expected: `2014-10-31-drogpolitiken-har-ocksa-baksidor.md`
+- `sources/consumed/articles/2014-11-02-eleven-countries-studied-one-inescapable-conclusion.md` — mismatch
+  - detail: Eleven countries studied, one inescapable conclusion – the drug laws don’t work
+  - current: `2014-11-02-eleven-countries-studied-one-inescapable-conclusion.md`
+  - expected: `2014-11-02-eleven-countries-studied-one-inescapable-conclusion-the-drug-laws-dont-work.md`
+- `sources/consumed/articles/2014-11-02-the-joy-of-polyamory.md` — ok
+  - detail: The joy of polyamory
+  - current: `2014-11-02-the-joy-of-polyamory.md`
+  - expected: `2014-11-02-the-joy-of-polyamory.md`
+- `sources/consumed/articles/2014-11-11-neuroplasticity-the-potential-for-lifelong-brain.md` — mismatch
+  - detail: Neuroplasticity: the potential for lifelong brain development - SharpBrains
+  - current: `2014-11-11-neuroplasticity-the-potential-for-lifelong-brain.md`
+  - expected: `2014-11-11-neuroplasticity-the-potential-for-lifelong-brain-development-sharpbrains.md`
+- `sources/consumed/articles/2014-11-16-efficiency.md` — ok
+  - detail: Efficiency
+  - current: `2014-11-16-efficiency.md`
+  - expected: `2014-11-16-efficiency.md`
+- `sources/consumed/articles/2014-11-26-rymdslottet.md` — ok
+  - detail: rymdslottet
+  - current: `2014-11-26-rymdslottet.md`
+  - expected: `2014-11-26-rymdslottet.md`
+- `sources/consumed/articles/2014-11-27-darfor-ar-varldens-ekonomi-sa-bracklig.md` — mismatch
+  - detail: Därför är världens ekonomi så bräcklig | Andreas Cervenka
+  - current: `2014-11-27-darfor-ar-varldens-ekonomi-sa-bracklig.md`
+  - expected: `2014-11-27-darfor-ar-varldens-ekonomi-sa-bracklig-andreas-cervenka.md`
+- `sources/consumed/articles/2014-12-01-teenage-girl-blossoming-into-beautiful-object.md` — ok
+  - detail: Teenage Girl Blossoming Into Beautiful Object
+  - current: `2014-12-01-teenage-girl-blossoming-into-beautiful-object.md`
+  - expected: `2014-12-01-teenage-girl-blossoming-into-beautiful-object.md`
+- `sources/consumed/articles/2014-12-03-erik-helmerson-appropriera-mera.md` — ok
+  - detail: Erik Helmerson: Appropriera mera
+  - current: `2014-12-03-erik-helmerson-appropriera-mera.md`
+  - expected: `2014-12-03-erik-helmerson-appropriera-mera.md`
+- `sources/consumed/articles/2014-12-04-dn-debatt-det-ar-framlingsfientlighet-som.md` — mismatch
+  - detail: DN Debatt. ”Det är främlingsfientlighet som utmärker SD:s väljare”
+  - current: `2014-12-04-dn-debatt-det-ar-framlingsfientlighet-som.md`
+  - expected: `2014-12-04-dn-debatt-det-ar-framlingsfientlighet-som-utmarker-sd-s-valjare.md`
+- `sources/consumed/articles/2014-12-07-har-ar-per-svenssons-text-som.md` — mismatch
+  - detail: Här är Per Svenssons text som fick SAS att dra in en hel upplaga av sin tidning
+  - current: `2014-12-07-har-ar-per-svenssons-text-som.md`
+  - expected: `2014-12-07-har-ar-per-svenssons-text-som-fick-sas-att-dra-in-en-hel-upplaga-av-sin-tidning.md`
+- `sources/consumed/articles/2014-12-10-parable-of-the-polygons.md` — ok
+  - detail: Parable of the Polygons
+  - current: `2014-12-10-parable-of-the-polygons.md`
+  - expected: `2014-12-10-parable-of-the-polygons.md`
+- `sources/consumed/articles/2014-12-11-understanding-new-power.md` — ok
+  - detail: Understanding “New Power”
+  - current: `2014-12-11-understanding-new-power.md`
+  - expected: `2014-12-11-understanding-new-power.md`
+- `sources/consumed/articles/2014-12-12-peter-sunde-i-went-to-jail.md` — mismatch
+  - detail: Peter Sunde: 'I went to jail for my cause. What did you do?' (Wired UK)
+  - current: `2014-12-12-peter-sunde-i-went-to-jail.md`
+  - expected: `2014-12-12-peter-sunde-i-went-to-jail-for-my-cause-what-did-you-do-wired-uk.md`
+- `sources/consumed/articles/2014-12-13-kultur-sd-registrera-alla-invandrare.md` — ok
+  - detail: KULTUR: SD: Registrera alla invandrare
+  - current: `2014-12-13-kultur-sd-registrera-alla-invandrare.md`
+  - expected: `2014-12-13-kultur-sd-registrera-alla-invandrare.md`
+- `sources/consumed/articles/2014-12-14-den-leende-nationalismen---dnse.md` — mismatch
+  - detail: Den leende nationalismen - DN.SE
+  - current: `2014-12-14-den-leende-nationalismen---dnse.md`
+  - expected: `2014-12-14-den-leende-nationalismen-dn-se.md`
+- `sources/consumed/articles/2014-12-14-fair-trade---en-del-av.md` — mismatch
+  - detail: Fair Trade - en del av LO - Rebecca Weidmo Uvell
+  - current: `2014-12-14-fair-trade---en-del-av.md`
+  - expected: `2014-12-14-fair-trade-en-del-av-lo-rebecca-weidmo-uvell.md`
+- `sources/consumed/articles/2014-12-17-utdrag-ur-en-tiggardagbok.md` — ok
+  - detail: Utdrag ur en tiggardagbok
+  - current: `2014-12-17-utdrag-ur-en-tiggardagbok.md`
+  - expected: `2014-12-17-utdrag-ur-en-tiggardagbok.md`
+- `sources/consumed/articles/2014-12-19-a-big-safety-net-and-strong.md` — mismatch
+  - detail: A Big Safety Net and Strong Job Market Can Coexist. Just Ask Scandinavia. (Published 2014)
+  - current: `2014-12-19-a-big-safety-net-and-strong.md`
+  - expected: `2014-12-19-a-big-safety-net-and-strong-job-market-can-coexist-just-ask-scandinavia-published-2014.md`
+- `sources/consumed/articles/2015-01-16-why-the-tech-elite-is-getting.md` — mismatch
+  - detail: Why the Tech Elite Is Getting Behind Universal Basic Income | VICE | United States
+  - current: `2015-01-16-why-the-tech-elite-is-getting.md`
+  - expected: `2015-01-16-why-the-tech-elite-is-getting-behind-universal-basic-income-vice-united-states.md`
+- `sources/consumed/articles/2015-01-20-en-myt-att-ekomat-skulle-vara.md` — mismatch
+  - detail: En myt att ekomat skulle vara giftfri
+  - current: `2015-01-20-en-myt-att-ekomat-skulle-vara.md`
+  - expected: `2015-01-20-en-myt-att-ekomat-skulle-vara-giftfri.md`
+- `sources/consumed/articles/2015-01-22-why-i-changed-my-mind-about.md` — mismatch
+  - detail: Why I changed my mind about homeopathy | Edzard Ernst
+  - current: `2015-01-22-why-i-changed-my-mind-about.md`
+  - expected: `2015-01-22-why-i-changed-my-mind-about-homeopathy-edzard-ernst.md`
+- `sources/consumed/articles/2015-01-30-penguins-wanderlust.md` — mismatch
+  - detail: Penguin's Wanderlust
+  - current: `2015-01-30-penguins-wanderlust.md`
+  - expected: `2015-01-30-penguin-s-wanderlust.md`
+- `sources/consumed/articles/2015-02-01-folkpartiet-hittar-forskningsstod-i-rapport-fran.md` — mismatch
+  - detail: Folkpartiet hittar forskningsstöd i rapport från 1935
+  - current: `2015-02-01-folkpartiet-hittar-forskningsstod-i-rapport-fran.md`
+  - expected: `2015-02-01-folkpartiet-hittar-forskningsstod-i-rapport-fran-1935.md`
+- `sources/consumed/articles/2015-02-01-manifestationen-i-paris-var-fantastisk-uppvisning.md` — mismatch
+  - detail: Manifestationen i Paris var fantastisk uppvisning i hyckleri
+  - current: `2015-02-01-manifestationen-i-paris-var-fantastisk-uppvisning.md`
+  - expected: `2015-02-01-manifestationen-i-paris-var-fantastisk-uppvisning-i-hyckleri.md`
+- `sources/consumed/articles/2015-02-01-when-silicon-valley-takes-lsd.md` — ok
+  - detail: When Silicon Valley takes LSD
+  - current: `2015-02-01-when-silicon-valley-takes-lsd.md`
+  - expected: `2015-02-01-when-silicon-valley-takes-lsd.md`
+- `sources/consumed/articles/2015-02-04-fantastically-wrong-the-weird-kinda-perverted.md` — mismatch
+  - detail: Fantastically Wrong: The Weird, Kinda Perverted History of the Unicorn
+  - current: `2015-02-04-fantastically-wrong-the-weird-kinda-perverted.md`
+  - expected: `2015-02-04-fantastically-wrong-the-weird-kinda-perverted-history-of-the-unicorn.md`
+- `sources/consumed/articles/2015-02-04-the-techies-who-are-hacking-education.md` — mismatch
+  - detail: The Techies Who Are Hacking Education by Homeschooling Their Kids
+  - current: `2015-02-04-the-techies-who-are-hacking-education.md`
+  - expected: `2015-02-04-the-techies-who-are-hacking-education-by-homeschooling-their-kids.md`
+- `sources/consumed/articles/2015-02-15-dra-loss-huvudet-ur-roven--.md` — mismatch
+  - detail: Dra loss huvudet ur röven - Fokus
+  - current: `2015-02-15-dra-loss-huvudet-ur-roven--.md`
+  - expected: `2015-02-15-dra-loss-huvudet-ur-roven-fokus.md`
+- `sources/consumed/articles/2015-02-19-arvoden-i-riksdagen-bor-inte-fa.md` — mismatch
+  - detail: Arvoden i riksdagen bör inte få dra iväg
+  - current: `2015-02-19-arvoden-i-riksdagen-bor-inte-fa.md`
+  - expected: `2015-02-19-arvoden-i-riksdagen-bor-inte-fa-dra-ivag.md`
+- `sources/consumed/articles/2015-02-19-barnen-som-vackte-hatarna.md` — ok
+  - detail: Barnen som väckte hatarna
+  - current: `2015-02-19-barnen-som-vackte-hatarna.md`
+  - expected: `2015-02-19-barnen-som-vackte-hatarna.md`
+- `sources/consumed/articles/2015-02-19-your-logical-fallacy-is-ad-hominem.md` — ok
+  - detail: Your logical fallacy is ad hominem
+  - current: `2015-02-19-your-logical-fallacy-is-ad-hominem.md`
+  - expected: `2015-02-19-your-logical-fallacy-is-ad-hominem.md`
+- `sources/consumed/articles/2015-02-25-the-disappeared-chicago-police-detain-americans.md` — mismatch
+  - detail: The disappeared: Chicago police detain Americans at abuse-laden 'black site
+  - current: `2015-02-25-the-disappeared-chicago-police-detain-americans.md`
+  - expected: `2015-02-25-the-disappeared-chicago-police-detain-americans-at-abuse-laden-black-site.md`
+- `sources/consumed/articles/2015-02-27-the-science-of-why-no-one.md` — mismatch
+  - detail: The Science of Why No One Agrees on the Color of This Dress
+  - current: `2015-02-27-the-science-of-why-no-one.md`
+  - expected: `2015-02-27-the-science-of-why-no-one-agrees-on-the-color-of-this-dress.md`
+- `sources/consumed/articles/2015-03-02-hemkokt-tval-kan-ge-fangelse.md` — ok
+  - detail: Hemkokt tvål kan ge fängelse
+  - current: `2015-03-02-hemkokt-tval-kan-ge-fangelse.md`
+  - expected: `2015-03-02-hemkokt-tval-kan-ge-fangelse.md`
+- `sources/consumed/articles/2015-03-03-arbetslos-i-framtiden-da-kanske-det.md` — mismatch
+  - detail: Arbetslös i framtiden – då kanske det blir mer utförsåkning än utförsäkring
+  - current: `2015-03-03-arbetslos-i-framtiden-da-kanske-det.md`
+  - expected: `2015-03-03-arbetslos-i-framtiden-da-kanske-det-blir-mer-utforsakning-an-utforsakring.md`
+- `sources/consumed/articles/2015-03-04-stina-oscarson-vad-ar-yttrandefriheten-vard.md` — mismatch
+  - detail: Stina Oscarson: Vad är yttrandefriheten värd om vi inte tillåter varandra att provprata?
+  - current: `2015-03-04-stina-oscarson-vad-ar-yttrandefriheten-vard.md`
+  - expected: `2015-03-04-stina-oscarson-vad-ar-yttrandefriheten-vard-om-vi-inte-tillater-varandra-att-provprata.md`
+- `sources/consumed/articles/2015-03-05-bibi-blows-up-the-special-relationship.md` — ok
+  - detail: Bibi Blows Up the Special Relationship
+  - current: `2015-03-05-bibi-blows-up-the-special-relationship.md`
+  - expected: `2015-03-05-bibi-blows-up-the-special-relationship.md`
+- `sources/consumed/articles/2015-03-10-from-the-welfare-state-to-the.md` — mismatch
+  - detail: From the Welfare State to the Caliphate
+  - current: `2015-03-10-from-the-welfare-state-to-the.md`
+  - expected: `2015-03-10-from-the-welfare-state-to-the-caliphate.md`
+- `sources/consumed/articles/2015-03-13-do-patents-harm-innovation.md` — ok
+  - detail: Do patents harm innovation?
+  - current: `2015-03-13-do-patents-harm-innovation.md`
+  - expected: `2015-03-13-do-patents-harm-innovation.md`
+- `sources/consumed/articles/2015-03-16-the-science-of-protecting-peoples-feelings.md` — mismatch
+  - detail: The science of protecting people’s feelings: why we pretend all opinions are equal
+  - current: `2015-03-16-the-science-of-protecting-peoples-feelings.md`
+  - expected: `2015-03-16-the-science-of-protecting-peoples-feelings-why-we-pretend-all-opinions-are-equal.md`
+- `sources/consumed/articles/2015-03-16-vi-sitter-nojda-i-kafkasamhallet.md` — ok
+  - detail: Vi sitter nöjda i Kafkasamhället
+  - current: `2015-03-16-vi-sitter-nojda-i-kafkasamhallet.md`
+  - expected: `2015-03-16-vi-sitter-nojda-i-kafkasamhallet.md`
+- `sources/consumed/articles/2015-03-17-why-people-with-multicultural-experience-are.md` — mismatch
+  - detail: Why People With Multicultural Experience Are More Creative
+  - current: `2015-03-17-why-people-with-multicultural-experience-are.md`
+  - expected: `2015-03-17-why-people-with-multicultural-experience-are-more-creative.md`
+- `sources/consumed/articles/2015-03-18-saudiaffaren-en-journalistisk-kollaps.md` — ok
+  - detail: Saudiaffären – en journalistisk kollaps
+  - current: `2015-03-18-saudiaffaren-en-journalistisk-kollaps.md`
+  - expected: `2015-03-18-saudiaffaren-en-journalistisk-kollaps.md`
+- `sources/consumed/articles/2015-03-19-money-v-principles-sweden-turns-its.md` — mismatch
+  - detail: Money v. Principles: Sweden Turns Its Back on Saudi Arabia, Cancels Defense Deal
+  - current: `2015-03-19-money-v-principles-sweden-turns-its.md`
+  - expected: `2015-03-19-money-v-principles-sweden-turns-its-back-on-saudi-arabia-cancels-defense-deal.md`
+- `sources/consumed/articles/2015-03-19-we-dont-have-a-netanyahu-problem.md` — mismatch
+  - detail: We Don’t Have a Netanyahu Problem. We Have an Israel Problem.
+  - current: `2015-03-19-we-dont-have-a-netanyahu-problem.md`
+  - expected: `2015-03-19-we-dont-have-a-netanyahu-problem-we-have-an-israel-problem.md`
+- `sources/consumed/articles/2015-03-20-why-i-think-students-should-cheat.md` — ok
+  - detail: Why I Think Students Should Cheat
+  - current: `2015-03-20-why-i-think-students-should-cheat.md`
+  - expected: `2015-03-20-why-i-think-students-should-cheat.md`
+- `sources/consumed/articles/2015-03-22-jag-tanker-pa-politikens-ohederlighet.md` — ok
+  - detail: Jag tänker på politikens ohederlighet
+  - current: `2015-03-22-jag-tanker-pa-politikens-ohederlighet.md`
+  - expected: `2015-03-22-jag-tanker-pa-politikens-ohederlighet.md`
+- `sources/consumed/articles/2015-03-22-what-i-learned-from-teaching-english.md` — mismatch
+  - detail: What I learned from teaching English in North Korea
+  - current: `2015-03-22-what-i-learned-from-teaching-english.md`
+  - expected: `2015-03-22-what-i-learned-from-teaching-english-in-north-korea.md`
+- `sources/consumed/articles/2015-03-23-behavioural-trends-transforming-society-hyper-island.md` — ok
+  - detail: Behavioural trends transforming society | Hyper Island
+  - current: `2015-03-23-behavioural-trends-transforming-society-hyper-island.md`
+  - expected: `2015-03-23-behavioural-trends-transforming-society-hyper-island.md`
+- `sources/consumed/articles/2015-03-25-the-town-in-texasoil-pumpin-climate-change-denyin-texasthat.md` — mismatch
+  - detail: The Town in Texas—Oil-Pumpin’, Climate-Change-Denyin’ Texas—That Just Quit Fossil Fuels
+  - current: `2015-03-25-the-town-in-texasoil-pumpin-climate-change-denyin-texasthat.md`
+  - expected: `2015-03-25-the-town-in-texasoil-pumpin-climate-change-denyin-texasthat-just-quit-fossil-fuels.md`
+- `sources/consumed/articles/2015-04-04-datorer-tar-halften-av-jobben-inom.md` — mismatch
+  - detail: Datorer tar hälften av jobben inom 20 år
+  - current: `2015-04-04-datorer-tar-halften-av-jobben-inom.md`
+  - expected: `2015-04-04-datorer-tar-halften-av-jobben-inom-20-ar.md`
+- `sources/consumed/articles/2015-04-07-the-future-of-world-religions-population.md` — mismatch
+  - detail: The Future of World Religions: Population Growth Projections, 2010-2050
+  - current: `2015-04-07-the-future-of-world-religions-population.md`
+  - expected: `2015-04-07-the-future-of-world-religions-population-growth-projections-2010-2050.md`
+- `sources/consumed/articles/2015-04-12-research-questions-whether-or-not-incubators.md` — mismatch
+  - detail: Research Questions Whether Or Not Incubators Help Startups
+  - current: `2015-04-12-research-questions-whether-or-not-incubators.md`
+  - expected: `2015-04-12-research-questions-whether-or-not-incubators-help-startups.md`
+- `sources/consumed/articles/2015-04-21-have-we-been-interpreting-quantum-mechanics.md` — mismatch
+  - detail: Have We Been Interpreting Quantum Mechanics Wrong This Whole Time?
+  - current: `2015-04-21-have-we-been-interpreting-quantum-mechanics.md`
+  - expected: `2015-04-21-have-we-been-interpreting-quantum-mechanics-wrong-this-whole-time.md`
+- `sources/consumed/articles/2015-04-21-how-a-comma-gave-americans-the.md` — mismatch
+  - detail: How A Comma Gave Americans The Right To Own Guns
+  - current: `2015-04-21-how-a-comma-gave-americans-the.md`
+  - expected: `2015-04-21-how-a-comma-gave-americans-the-right-to-own-guns.md`
+- `sources/consumed/articles/2015-04-24-a-lesson-from-tidal-nobody-cares.md` — mismatch
+  - detail: A Lesson From Tidal: Nobody Cares About Artists, Especially Rich Ones
+  - current: `2015-04-24-a-lesson-from-tidal-nobody-cares.md`
+  - expected: `2015-04-24-a-lesson-from-tidal-nobody-cares-about-artists-especially-rich-ones.md`
+- `sources/consumed/articles/2015-04-24-att-skapa-mer-jobb-ar-en.md` — mismatch
+  - detail: Att skapa mer jobb är en absurd tanke
+  - current: `2015-04-24-att-skapa-mer-jobb-ar-en.md`
+  - expected: `2015-04-24-att-skapa-mer-jobb-ar-en-absurd-tanke.md`
+- `sources/consumed/articles/2015-04-25-lugnet-fore-stormen-i-lala-landet-sverige.md` — ok
+  - detail: Lugnet före stormen i lala-landet Sverige
+  - current: `2015-04-25-lugnet-fore-stormen-i-lala-landet-sverige.md`
+  - expected: `2015-04-25-lugnet-fore-stormen-i-lala-landet-sverige.md`
+- `sources/consumed/articles/2015-05-13-why-procrastinators-procrastinate.md` — ok
+  - detail: Why Procrastinators Procrastinate
+  - current: `2015-05-13-why-procrastinators-procrastinate.md`
+  - expected: `2015-05-13-why-procrastinators-procrastinate.md`
+- `sources/consumed/articles/2015-05-17-google-cars-1-million-miles-with.md` — mismatch
+  - detail: Google Cars' 1 million miles with 0 accidents upsets media - Incredulous
+  - current: `2015-05-17-google-cars-1-million-miles-with.md`
+  - expected: `2015-05-17-google-cars-1-million-miles-with-0-accidents-upsets-media-incredulous.md`
+- `sources/consumed/articles/2015-05-18-creepy-ads-use-litterbugs-dna-to.md` — mismatch
+  - detail: Creepy Ads Use Litterbugs' DNA to Shame Them Publicly
+  - current: `2015-05-18-creepy-ads-use-litterbugs-dna-to.md`
+  - expected: `2015-05-18-creepy-ads-use-litterbugs-dna-to-shame-them-publicly.md`
+- `sources/consumed/articles/2015-05-22-godwins-law---wikipedia.md` — mismatch
+  - detail: Godwin's law - Wikipedia
+  - current: `2015-05-22-godwins-law---wikipedia.md`
+  - expected: `2015-05-22-godwin-s-law-wikipedia.md`
+- `sources/consumed/articles/2015-05-24-linkedin-founder-reid-hoffman-on-the.md` — mismatch
+  - detail: LinkedIn founder Reid Hoffman on the biggest lie employers tell employees
+  - current: `2015-05-24-linkedin-founder-reid-hoffman-on-the.md`
+  - expected: `2015-05-24-linkedin-founder-reid-hoffman-on-the-biggest-lie-employers-tell-employees.md`
+- `sources/consumed/articles/2015-05-25-how-universal-basic-income-will-save.md` — mismatch
+  - detail: How Universal Basic Income Will Save Us From the Robot Uprising
+  - current: `2015-05-25-how-universal-basic-income-will-save.md`
+  - expected: `2015-05-25-how-universal-basic-income-will-save-us-from-the-robot-uprising.md`
+- `sources/consumed/articles/2015-05-29-believing-that-life-is-fair-makes.md` — mismatch
+  - detail: Believing that life is fair makes you a terrible person | Oliver Burkeman
+  - current: `2015-05-29-believing-that-life-is-fair-makes.md`
+  - expected: `2015-05-29-believing-that-life-is-fair-makes-you-a-terrible-person-oliver-burkeman.md`
+- `sources/consumed/articles/2015-06-01-the-rich-will-become-god-like-cyborgs.md` — mismatch
+  - detail: The rich will become ‘God-like cyborgs’ within 200 years
+  - current: `2015-06-01-the-rich-will-become-god-like-cyborgs.md`
+  - expected: `2015-06-01-the-rich-will-become-god-like-cyborgs-within-200-years.md`
+- `sources/consumed/articles/2015-06-12-dodlighet-i-narkotika-fordubblad-men-inget.md` — mismatch
+  - detail: ”Dödlighet i narkotika fördubblad – men inget görs”
+  - current: `2015-06-12-dodlighet-i-narkotika-fordubblad-men-inget.md`
+  - expected: `2015-06-12-dodlighet-i-narkotika-fordubblad-men-inget-gors.md`
+- `sources/consumed/articles/2015-06-16-swe-nar-varldskartan-plotsligt-stannade.md` — ok
+  - detail: SWE: När världskartan plötsligt stannade
+  - current: `2015-06-16-swe-nar-varldskartan-plotsligt-stannade.md`
+  - expected: `2015-06-16-swe-nar-varldskartan-plotsligt-stannade.md`
+- `sources/consumed/articles/2015-06-18-inceptionism-going-deeper-into-neural-networks.md` — ok
+  - detail: Inceptionism: Going Deeper into Neural Networks
+  - current: `2015-06-18-inceptionism-going-deeper-into-neural-networks.md`
+  - expected: `2015-06-18-inceptionism-going-deeper-into-neural-networks.md`
+- `sources/consumed/articles/2015-06-18-yes-androids-do-dream-of-electric.md` — mismatch
+  - detail: Yes, androids do dream of electric sheep
+  - current: `2015-06-18-yes-androids-do-dream-of-electric.md`
+  - expected: `2015-06-18-yes-androids-do-dream-of-electric-sheep.md`
+- `sources/consumed/articles/2015-06-19-the-microfinance-delusion-who-really-wins.md` — ok
+  - detail: The microfinance delusion: who really wins?
+  - current: `2015-06-19-the-microfinance-delusion-who-really-wins.md`
+  - expected: `2015-06-19-the-microfinance-delusion-who-really-wins.md`
+- `sources/consumed/articles/2015-06-21-the-servitude-bubble.md` — ok
+  - detail: The Servitude Bubble
+  - current: `2015-06-21-the-servitude-bubble.md`
+  - expected: `2015-06-21-the-servitude-bubble.md`
+- `sources/consumed/articles/2015-06-26-lar-dig-alska-tidsoptimisten.md` — ok
+  - detail: Lär dig älska tidsoptimisten
+  - current: `2015-06-26-lar-dig-alska-tidsoptimisten.md`
+  - expected: `2015-06-26-lar-dig-alska-tidsoptimisten.md`
+- `sources/consumed/articles/2015-07-02-nu-tystas-spanska-folket.md` — ok
+  - detail: Nu tystas spanska folket
+  - current: `2015-07-02-nu-tystas-spanska-folket.md`
+  - expected: `2015-07-02-nu-tystas-spanska-folket.md`
+- `sources/consumed/articles/2015-07-02-the-future-of-facebook-is-telepathy.md` — mismatch
+  - detail: The future of Facebook is telepathy, reveals Mark Zuckerberg
+  - current: `2015-07-02-the-future-of-facebook-is-telepathy.md`
+  - expected: `2015-07-02-the-future-of-facebook-is-telepathy-reveals-mark-zuckerberg.md`
+- `sources/consumed/articles/2015-07-03-get-off-your-high-horses-lefties.md` — mismatch
+  - detail: Get off your high horses, lefties – Big Government, not 'austerity', has brought Greece to its knees | The Independent
+  - current: `2015-07-03-get-off-your-high-horses-lefties.md`
+  - expected: `2015-07-03-get-off-your-high-horses-lefties-big-government-not-austerity-has-brought-greece-to-its-knees-the-independent.md`
+- `sources/consumed/articles/2015-07-03-the-greek-crisis-9-questions-you.md` — mismatch
+  - detail: The Greek crisis: 9 questions you were too embarrassed to ask
+  - current: `2015-07-03-the-greek-crisis-9-questions-you.md`
+  - expected: `2015-07-03-the-greek-crisis-9-questions-you-were-too-embarrassed-to-ask.md`
+- `sources/consumed/articles/2015-07-05-de-verkligt-annorlunda-ar-de-som.md` — mismatch
+  - detail: De verkligt annorlunda är de som förblir ogifta | SvD
+  - current: `2015-07-05-de-verkligt-annorlunda-ar-de-som.md`
+  - expected: `2015-07-05-de-verkligt-annorlunda-ar-de-som-forblir-ogifta-svd.md`
+- `sources/consumed/articles/2015-07-08-djursholmsborna-maste-integreras-med-resten-av.md` — mismatch
+  - detail: Djursholmsborna måste integreras med resten av Sverige
+  - current: `2015-07-08-djursholmsborna-maste-integreras-med-resten-av.md`
+  - expected: `2015-07-08-djursholmsborna-maste-integreras-med-resten-av-sverige.md`
+- `sources/consumed/articles/2015-07-09-exxon-knew-of-climate-change-in.md` — mismatch
+  - detail: Exxon knew of climate change in 1981, email says – but it funded deniers for 27 more years
+  - current: `2015-07-09-exxon-knew-of-climate-change-in.md`
+  - expected: `2015-07-09-exxon-knew-of-climate-change-in-1981-email-says-but-it-funded-deniers-for-27-more-years.md`
+- `sources/consumed/articles/2015-07-12-my-political-coordinates-are-56-right.md` — mismatch
+  - detail: My political coordinates are 5.6% Right and 100% Liberal.
+  - current: `2015-07-12-my-political-coordinates-are-56-right.md`
+  - expected: `2015-07-12-my-political-coordinates-are-5-6-right-and-100-liberal.md`
+- `sources/consumed/articles/2015-07-17-the-end-of-capitalism-has-begun.md` — ok
+  - detail: The end of capitalism has begun
+  - current: `2015-07-17-the-end-of-capitalism-has-begun.md`
+  - expected: `2015-07-17-the-end-of-capitalism-has-begun.md`
+- `sources/consumed/articles/2015-08-19-pitfalls-of-rent-restraints-why-stockholms.md` — mismatch
+  - detail: Pitfalls of rent restraints: why Stockholm's model has failed many
+  - current: `2015-08-19-pitfalls-of-rent-restraints-why-stockholms.md`
+  - expected: `2015-08-19-pitfalls-of-rent-restraints-why-stockholm-s-model-has-failed-many.md`
+- `sources/consumed/articles/2015-08-20-centerns-20-punkter-for-okad-integration.md` — ok
+  - detail: Centerns 20 punkter för ökad integration
+  - current: `2015-08-20-centerns-20-punkter-for-okad-integration.md`
+  - expected: `2015-08-20-centerns-20-punkter-for-okad-integration.md`
+- `sources/consumed/articles/2015-08-21-sexarbetare-har-ocksa-manskliga-rattigheter.md` — ok
+  - detail: Sexarbetare har också mänskliga rättigheter
+  - current: `2015-08-21-sexarbetare-har-ocksa-manskliga-rattigheter.md`
+  - expected: `2015-08-21-sexarbetare-har-ocksa-manskliga-rattigheter.md`
+- `sources/consumed/articles/2015-08-21-the-mothers-of-isis.md` — ok
+  - detail: The Mothers Of ISIS
+  - current: `2015-08-21-the-mothers-of-isis.md`
+  - expected: `2015-08-21-the-mothers-of-isis.md`
+- `sources/consumed/articles/2015-08-21-why-i-am-going-to-burning.md` — mismatch
+  - detail: Why I AM going to Burning Man this year. (It has nothing to do with Burning Man)
+  - current: `2015-08-21-why-i-am-going-to-burning.md`
+  - expected: `2015-08-21-why-i-am-going-to-burning-man-this-year-it-has-nothing-to-do-with-burning-man.md`
+- `sources/consumed/articles/2015-08-28-varlden-fruktar-is-men-nagon-helt.md` — mismatch
+  - detail: Världen fruktar IS, men någon helt annan slaktar flest civila i Syrien
+  - current: `2015-08-28-varlden-fruktar-is-men-nagon-helt.md`
+  - expected: `2015-08-28-varlden-fruktar-is-men-nagon-helt-annan-slaktar-flest-civila-i-syrien.md`
+- `sources/consumed/articles/2015-09-04-nothing-captures-western-hypocrisy-on-refugees.md` — mismatch
+  - detail: Nothing captures Western hypocrisy on refugees like these British tabloid front pages
+  - current: `2015-09-04-nothing-captures-western-hypocrisy-on-refugees.md`
+  - expected: `2015-09-04-nothing-captures-western-hypocrisy-on-refugees-like-these-british-tabloid-front-pages.md`
+- `sources/consumed/articles/2015-09-04-the-great-decoupling-an-interview-with.md` — mismatch
+  - detail: The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee
+  - current: `2015-09-04-the-great-decoupling-an-interview-with.md`
+  - expected: `2015-09-04-the-great-decoupling-an-interview-with-erik-brynjolfsson-and-andrew-mcafee.md`
+- `sources/consumed/articles/2015-09-05-how-the-mysterious-dark-net-is.md` — mismatch
+  - detail: How the mysterious dark net is going mainstream
+  - current: `2015-09-05-how-the-mysterious-dark-net-is.md`
+  - expected: `2015-09-05-how-the-mysterious-dark-net-is-going-mainstream.md`
+- `sources/consumed/articles/2015-09-09-kretskortens-tid-ar-nu---sa.md` — mismatch
+  - detail: Kretskortens tid är nu - så formar vi vår framtid
+  - current: `2015-09-09-kretskortens-tid-ar-nu---sa.md`
+  - expected: `2015-09-09-kretskortens-tid-ar-nu-sa-formar-vi-var-framtid.md`
+- `sources/consumed/articles/2015-09-10-lockpickers-3-d-print-tsa-master-luggage.md` — mismatch
+  - detail: Lockpickers 3-D Print TSA Master Luggage Keys From Leaked Photos
+  - current: `2015-09-10-lockpickers-3-d-print-tsa-master-luggage.md`
+  - expected: `2015-09-10-lockpickers-3-d-print-tsa-master-luggage-keys-from-leaked-photos.md`
+- `sources/consumed/articles/2015-09-15-the-sharing-economy-is-dead-and.md` — mismatch
+  - detail: The 'Sharing Economy' Is Dead, And We Killed It
+  - current: `2015-09-15-the-sharing-economy-is-dead-and.md`
+  - expected: `2015-09-15-the-sharing-economy-is-dead-and-we-killed-it.md`
+- `sources/consumed/articles/2015-09-18-vi-vagrar-lamna-uppgifter-till-polisen.md` — ok
+  - detail: ”Vi vägrar lämna uppgifter till polisen”
+  - current: `2015-09-18-vi-vagrar-lamna-uppgifter-till-polisen.md`
+  - expected: `2015-09-18-vi-vagrar-lamna-uppgifter-till-polisen.md`
+- `sources/consumed/articles/2015-09-26-the-middle-class-squeeze.md` — ok
+  - detail: The Middle-Class Squeeze
+  - current: `2015-09-26-the-middle-class-squeeze.md`
+  - expected: `2015-09-26-the-middle-class-squeeze.md`
+- `sources/consumed/articles/2015-10-03-blank-space-what-kind-of-genius.md` — mismatch
+  - detail: Blank Space: What Kind of Genius Is Max Martin?
+  - current: `2015-10-03-blank-space-what-kind-of-genius.md`
+  - expected: `2015-10-03-blank-space-what-kind-of-genius-is-max-martin.md`
+- `sources/consumed/articles/2015-10-09-stephen-hawking-says-we-should-really.md` — mismatch
+  - detail: Stephen Hawking Says We Should Really Be Scared Of Capitalism, Not Robots
+  - current: `2015-10-09-stephen-hawking-says-we-should-really.md`
+  - expected: `2015-10-09-stephen-hawking-says-we-should-really-be-scared-of-capitalism-not-robots.md`
+- `sources/consumed/articles/2015-10-11-the-case-for-getting-rid-of.md` — mismatch
+  - detail: The Case for Getting Rid of Borders—Completely
+  - current: `2015-10-11-the-case-for-getting-rid-of.md`
+  - expected: `2015-10-11-the-case-for-getting-rid-of-borderscompletely.md`
+- `sources/consumed/articles/2015-10-16-squirrel-archive.md` — ok
+  - detail: Squirrel Archive
+  - current: `2015-10-16-squirrel-archive.md`
+  - expected: `2015-10-16-squirrel-archive.md`
+- `sources/consumed/articles/2015-10-20-monsanto-legal-cases---wikipedia.md` — mismatch
+  - detail: Monsanto legal cases - Wikipedia
+  - current: `2015-10-20-monsanto-legal-cases---wikipedia.md`
+  - expected: `2015-10-20-monsanto-legal-cases-wikipedia.md`
+- `sources/consumed/articles/2015-10-21-fakta-haller-pa-att-bli-en.md` — mismatch
+  - detail: Fakta håller på att bli en ren konsumentfråga
+  - current: `2015-10-21-fakta-haller-pa-att-bli-en.md`
+  - expected: `2015-10-21-fakta-haller-pa-att-bli-en-ren-konsumentfraga.md`
+- `sources/consumed/articles/2015-10-22-kulturdebatt-roland-paulsen-skitjobben-ar-ett.md` — mismatch
+  - detail: Kulturdebatt. Roland Paulsen: Skitjobben är ett storskaligt experiment i total kapitalism
+  - current: `2015-10-22-kulturdebatt-roland-paulsen-skitjobben-ar-ett.md`
+  - expected: `2015-10-22-kulturdebatt-roland-paulsen-skitjobben-ar-ett-storskaligt-experiment-i-total-kapitalism.md`
+- `sources/consumed/articles/2015-10-23-quantum-entanglement-holds-dna-together-say.md` — mismatch
+  - detail: Quantum Entanglement Holds DNA Together, Say Physicists | MIT Technology Review
+  - current: `2015-10-23-quantum-entanglement-holds-dna-together-say.md`
+  - expected: `2015-10-23-quantum-entanglement-holds-dna-together-say-physicists-mit-technology-review.md`
+- `sources/consumed/articles/2015-10-23-why-self-driving-cars-must-be-programmed.md` — mismatch
+  - detail: Why Self-Driving Cars Must Be Programmed to Kill | MIT Technology Review
+  - current: `2015-10-23-why-self-driving-cars-must-be-programmed.md`
+  - expected: `2015-10-23-why-self-driving-cars-must-be-programmed-to-kill-mit-technology-review.md`
+- `sources/consumed/articles/2015-10-27-burning-man-2016-da-vincis-workshop.md` — ok
+  - detail: Burning Man 2016: Da Vinci’s Workshop
+  - current: `2015-10-27-burning-man-2016-da-vincis-workshop.md`
+  - expected: `2015-10-27-burning-man-2016-da-vincis-workshop.md`
+- `sources/consumed/articles/2015-10-29-the-maker-movement-is-not-about.md` — mismatch
+  - detail: The Maker Movement Is Not About 3D Printers
+  - current: `2015-10-29-the-maker-movement-is-not-about.md`
+  - expected: `2015-10-29-the-maker-movement-is-not-about-3d-printers.md`
+- `sources/consumed/articles/2015-11-03-jobb-at-alla-mer-utopiskt-an.md` — mismatch
+  - detail: Jobb åt alla mer utopiskt än medborgarlön
+  - current: `2015-11-03-jobb-at-alla-mer-utopiskt-an.md`
+  - expected: `2015-11-03-jobb-at-alla-mer-utopiskt-an-medborgarlon.md`
+- `sources/consumed/articles/2015-11-03-the-decay-of-twitter.md` — ok
+  - detail: The Decay of Twitter
+  - current: `2015-11-03-the-decay-of-twitter.md`
+  - expected: `2015-11-03-the-decay-of-twitter.md`
+- `sources/consumed/articles/2015-11-08-revenge-of-the-record-labels-how.md` — mismatch
+  - detail: Revenge Of The Record Labels: How The Majors Renewed Their Grip On Music
+  - current: `2015-11-08-revenge-of-the-record-labels-how.md`
+  - expected: `2015-11-08-revenge-of-the-record-labels-how-the-majors-renewed-their-grip-on-music.md`
+- `sources/consumed/articles/2015-11-11-why-swedes-are-so-lonely-vice.md` — mismatch
+  - detail: Why Swedes Are So Lonely | VICE | Sweden
+  - current: `2015-11-11-why-swedes-are-so-lonely-vice.md`
+  - expected: `2015-11-11-why-swedes-are-so-lonely-vice-sweden.md`
+- `sources/consumed/articles/2015-11-16-41-men-targeted-but-1147-people.md` — mismatch
+  - detail: 41 men targeted but 1,147 people killed: US drone strikes – the facts on the ground
+  - current: `2015-11-16-41-men-targeted-but-1147-people.md`
+  - expected: `2015-11-16-41-men-targeted-but-1-147-people-killed-us-drone-strikes-the-facts-on-the-ground.md`
+- `sources/consumed/articles/2015-11-16-click-here-to-save-the-world.md` — ok
+  - detail: Click here to save the world
+  - current: `2015-11-16-click-here-to-save-the-world.md`
+  - expected: `2015-11-16-click-here-to-save-the-world.md`
+- `sources/consumed/articles/2015-11-17-dn-debatt-folkpartiet-byter-namn-till.md` — mismatch
+  - detail: DN Debatt. ”Folkpartiet byter namn till Liberalerna”
+  - current: `2015-11-17-dn-debatt-folkpartiet-byter-namn-till.md`
+  - expected: `2015-11-17-dn-debatt-folkpartiet-byter-namn-till-liberalerna.md`
+- `sources/consumed/articles/2015-11-25-sd-tar-storslam.md` — ok
+  - detail: SD tar storslam
+  - current: `2015-11-25-sd-tar-storslam.md`
+  - expected: `2015-11-25-sd-tar-storslam.md`
+- `sources/consumed/articles/2015-11-30-a-26-year-old-mit-graduate-is-turning.md` — mismatch
+  - detail: A 26-year-old MIT graduate is turning heads over his theory that income inequality is actually…
+  - current: `2015-11-30-a-26-year-old-mit-graduate-is-turning.md`
+  - expected: `2015-11-30-a-26-year-old-mit-graduate-is-turning-heads-over-his-theory-that-income-inequality-is-actually.md`
+- `sources/consumed/articles/2015-12-01-dn-debatt-reklamen-ar-skadlig-for.md` — mismatch
+  - detail: DN Debatt. ”Reklamen är skadlig för samhället och klimatet”
+  - current: `2015-12-01-dn-debatt-reklamen-ar-skadlig-for.md`
+  - expected: `2015-12-01-dn-debatt-reklamen-ar-skadlig-for-samhallet-och-klimatet.md`
+- `sources/consumed/articles/2015-12-02-the-real-reason-the-media-is.md` — mismatch
+  - detail: The real reason the media is rising up against Donald Trump
+  - current: `2015-12-02-the-real-reason-the-media-is.md`
+  - expected: `2015-12-02-the-real-reason-the-media-is-rising-up-against-donald-trump.md`
+- `sources/consumed/articles/2015-12-11-recent-posts.md` — ok
+  - detail: Recent Posts
+  - current: `2015-12-11-recent-posts.md`
+  - expected: `2015-12-11-recent-posts.md`
+- `sources/consumed/articles/2015-12-12-poes-law---wikipedia.md` — mismatch
+  - detail: Poe's law - Wikipedia
+  - current: `2015-12-12-poes-law---wikipedia.md`
+  - expected: `2015-12-12-poe-s-law-wikipedia.md`
+- `sources/consumed/articles/2015-12-13-study-finds-widespread-discrimination-on-airbnb.md` — mismatch
+  - detail: Study Finds 'Widespread Discrimination' On Airbnb: SFist
+  - current: `2015-12-13-study-finds-widespread-discrimination-on-airbnb.md`
+  - expected: `2015-12-13-study-finds-widespread-discrimination-on-airbnb-sfist.md`
+- `sources/consumed/articles/2015-12-14-why-todays-gop-crackup-is-the.md` — mismatch
+  - detail: Why Today’s GOP Crackup Is the Final Unraveling of Nixon’s ‘Southern Strategy’
+  - current: `2015-12-14-why-todays-gop-crackup-is-the.md`
+  - expected: `2015-12-14-why-todays-gop-crackup-is-the-final-unraveling-of-nixons-southern-strategy.md`
+- `sources/consumed/articles/2015-12-15-are-you-annoyed-by-the-sound.md` — mismatch
+  - detail: Are You Annoyed By The Sound Of Chewing? Apparently THIS Is The Reason Why! - David Avocado Wolfe
+  - current: `2015-12-15-are-you-annoyed-by-the-sound.md`
+  - expected: `2015-12-15-are-you-annoyed-by-the-sound-of-chewing-apparently-this-is-the-reason-why-david-avocado-wolfe.md`
+- `sources/consumed/articles/2015-12-17-update-brazilian-judge-shuts-down-whatsapp.md` — mismatch
+  - detail: UPDATE: Brazilian Judge Shuts Down WhatsApp And Brazil's Congress Wants To Shut Down The Social Web Next | TechCrunch
+  - current: `2015-12-17-update-brazilian-judge-shuts-down-whatsapp.md`
+  - expected: `2015-12-17-update-brazilian-judge-shuts-down-whatsapp-and-brazil-s-congress-wants-to-shut-down-the-social-web-next-techcrunch.md`
+- `sources/consumed/articles/2015-12-19-2015-the-best-year-in-history.md` — mismatch
+  - detail: 2015: The Best Year in History for the Average Human Being
+  - current: `2015-12-19-2015-the-best-year-in-history.md`
+  - expected: `2015-12-19-2015-the-best-year-in-history-for-the-average-human-being.md`
+- `sources/consumed/articles/2015-12-23-i-sverige-ar-vi-radda-for.md` — mismatch
+  - detail: I Sverige är vi rädda för sanningssägare
+  - current: `2015-12-23-i-sverige-ar-vi-radda-for.md`
+  - expected: `2015-12-23-i-sverige-ar-vi-radda-for-sanningssagare.md`
+- `sources/consumed/articles/2015-12-24-gemenskap-som-spelar-roll.md` — ok
+  - detail: Gemenskap som spelar roll
+  - current: `2015-12-24-gemenskap-som-spelar-roll.md`
+  - expected: `2015-12-24-gemenskap-som-spelar-roll.md`
+- `sources/consumed/articles/2015-12-27-losing-my-religion-for-equality.md` — ok
+  - detail: Losing my religion for equality
+  - current: `2015-12-27-losing-my-religion-for-equality.md`
+  - expected: `2015-12-27-losing-my-religion-for-equality.md`
+- `sources/consumed/articles/2015-12-28-missbruket-av-juridik-forstor-debatten.md` — ok
+  - detail: Missbruket av juridik förstör debatten
+  - current: `2015-12-28-missbruket-av-juridik-forstor-debatten.md`
+  - expected: `2015-12-28-missbruket-av-juridik-forstor-debatten.md`
+- `sources/consumed/articles/2015-12-29-mina-pengar-vara-pengar-andras-pengar.md` — ok
+  - detail: Mina pengar, våra pengar, andras pengar
+  - current: `2015-12-29-mina-pengar-vara-pengar-andras-pengar.md`
+  - expected: `2015-12-29-mina-pengar-vara-pengar-andras-pengar.md`
+- `sources/consumed/articles/2015-12-30-water-fluoridation---wikipedia.md` — mismatch
+  - detail: Water fluoridation - Wikipedia
+  - current: `2015-12-30-water-fluoridation---wikipedia.md`
+  - expected: `2015-12-30-water-fluoridation-wikipedia.md`
+- `sources/consumed/articles/2015-12-30-why-preventing-cancer-is-not-the.md` — mismatch
+  - detail: Why Preventing Cancer Is Not the Priority in Drug Development (Published 2015)
+  - current: `2015-12-30-why-preventing-cancer-is-not-the.md`
+  - expected: `2015-12-30-why-preventing-cancer-is-not-the-priority-in-drug-development-published-2015.md`
+- `sources/consumed/articles/2016-01-02-in-silicon-valley-now-its-almost.md` — mismatch
+  - detail: In Silicon Valley Now, It’s Almost Always Winner Takes All
+  - current: `2016-01-02-in-silicon-valley-now-its-almost.md`
+  - expected: `2016-01-02-in-silicon-valley-now-its-almost-always-winner-takes-all.md`
+- `sources/consumed/articles/2016-01-03-is-lsd-about-to-return-to.md` — mismatch
+  - detail: Is LSD about to return to polite society?
+  - current: `2016-01-03-is-lsd-about-to-return-to.md`
+  - expected: `2016-01-03-is-lsd-about-to-return-to-polite-society.md`
+- `sources/consumed/articles/2016-01-07-15-comments-polyamorous-people-are-tired.md` — mismatch
+  - detail: 15 Comments Polyamorous People Are Tired of Getting - Everyday Feminism
+  - current: `2016-01-07-15-comments-polyamorous-people-are-tired.md`
+  - expected: `2016-01-07-15-comments-polyamorous-people-are-tired-of-getting-everyday-feminism.md`
+- `sources/consumed/articles/2016-01-25-vita-krankta-man-reaktionens-massbas.md` — ok
+  - detail: Vita kränkta män – reaktionens massbas
+  - current: `2016-01-25-vita-krankta-man-reaktionens-massbas.md`
+  - expected: `2016-01-25-vita-krankta-man-reaktionens-massbas.md`
+- `sources/consumed/articles/2016-01-26-dags-att-tala-allvar-om-husfridssexet.md` — ok
+  - detail: Dags att tala allvar om husfridssexet
+  - current: `2016-01-26-dags-att-tala-allvar-om-husfridssexet.md`
+  - expected: `2016-01-26-dags-att-tala-allvar-om-husfridssexet.md`
+- `sources/consumed/articles/2016-01-27-the-neurologist-who-hacked-his-brainand.md` — mismatch
+  - detail: The Neurologist Who Hacked His Brain—And Almost Lost His Mind
+  - current: `2016-01-27-the-neurologist-who-hacked-his-brainand.md`
+  - expected: `2016-01-27-the-neurologist-who-hacked-his-brainand-almost-lost-his-mind.md`
+- `sources/consumed/articles/2016-02-04-postironi-nar-den-ar-som-bast.md` — mismatch
+  - detail: Postironi när den är som bäst | Livets ord Nöjesguiden
+  - current: `2016-02-04-postironi-nar-den-ar-som-bast.md`
+  - expected: `2016-02-04-postironi-nar-den-ar-som-bast-livets-ord-nojesguiden.md`
+- `sources/consumed/articles/2016-02-12-you-need-to-hear-what-the.md` — mismatch
+  - detail: You need to hear what the EU official in charge of TTIP has told me
+  - current: `2016-02-12-you-need-to-hear-what-the.md`
+  - expected: `2016-02-12-you-need-to-hear-what-the-eu-official-in-charge-of-ttip-has-told-me.md`
+- `sources/consumed/articles/2016-02-16-cartoon-all-lives-matter-some-exclusions.md` — mismatch
+  - detail: Cartoon: All Lives Matter (Some Exclusions Apply)
+  - current: `2016-02-16-cartoon-all-lives-matter-some-exclusions.md`
+  - expected: `2016-02-16-cartoon-all-lives-matter-some-exclusions-apply.md`
+- `sources/consumed/articles/2016-02-17-slavar-piskas-blodiga-for-maten-i.md` — mismatch
+  - detail: Slavar piskas blodiga för maten i din butik
+  - current: `2016-02-17-slavar-piskas-blodiga-for-maten-i.md`
+  - expected: `2016-02-17-slavar-piskas-blodiga-for-maten-i-din-butik.md`
+- `sources/consumed/articles/2016-02-19-ad-free-art-on-the-underground-dusseldorfs.md` — mismatch
+  - detail: Ad-free art on the underground: Düsseldorf's 'pure' new metro line
+  - current: `2016-02-19-ad-free-art-on-the-underground-dusseldorfs.md`
+  - expected: `2016-02-19-ad-free-art-on-the-underground-dusseldorf-s-pure-new-metro-line.md`
+- `sources/consumed/articles/2016-02-21-dags-att-forbjuda-pennan-i-klassrummet.md` — ok
+  - detail: Dags att förbjuda pennan i klassrummet
+  - current: `2016-02-21-dags-att-forbjuda-pennan-i-klassrummet.md`
+  - expected: `2016-02-21-dags-att-forbjuda-pennan-i-klassrummet.md`
+- `sources/consumed/articles/2016-02-25-are-goal-setting-activities-counter-productive-the.md` — mismatch
+  - detail: Are Goal-Setting Activities Counter Productive? | The Dreamler Blog
+  - current: `2016-02-25-are-goal-setting-activities-counter-productive-the.md`
+  - expected: `2016-02-25-are-goal-setting-activities-counter-productive-the-dreamler-blog.md`
+- `sources/consumed/articles/2016-03-10-nobody-knows-the-identities-of-the.md` — mismatch
+  - detail: Nobody Knows the Identities of the 150 Killed by U.S. in Somalia but Most are Certain They Deserved it
+  - current: `2016-03-10-nobody-knows-the-identities-of-the.md`
+  - expected: `2016-03-10-nobody-knows-the-identities-of-the-150-killed-by-u-s-in-somalia-but-most-are-certain-they-deserved-it.md`
+- `sources/consumed/articles/2016-03-22-mmr-vaccine-and-autism---wikipedia.md` — mismatch
+  - detail: MMR vaccine and autism - Wikipedia
+  - current: `2016-03-22-mmr-vaccine-and-autism---wikipedia.md`
+  - expected: `2016-03-22-mmr-vaccine-and-autism-wikipedia.md`
+- `sources/consumed/articles/2016-04-09-elin-grelsson-almestad-darfor-lamnar-jag.md` — mismatch
+  - detail: Elin Grelsson Almestad: Därför lämnar jag G-P
+  - current: `2016-04-09-elin-grelsson-almestad-darfor-lamnar-jag.md`
+  - expected: `2016-04-09-elin-grelsson-almestad-darfor-lamnar-jag-g-p.md`
+- `sources/consumed/articles/2016-04-10-package-tour---wikipedia.md` — mismatch
+  - detail: Package tour - Wikipedia
+  - current: `2016-04-10-package-tour---wikipedia.md`
+  - expected: `2016-04-10-package-tour-wikipedia.md`
+- `sources/consumed/articles/2016-04-12-another-jesus-and-mary-magdalene-hoax.md` — ok
+  - detail: Another Jesus and Mary Magdalene Hoax
+  - current: `2016-04-12-another-jesus-and-mary-magdalene-hoax.md`
+  - expected: `2016-04-12-another-jesus-and-mary-magdalene-hoax.md`
+- `sources/consumed/articles/2016-04-13-i-am-on-the-kill-list.md` — mismatch
+  - detail: I am on the Kill List. This is what it feels like to be hunted
+  - current: `2016-04-13-i-am-on-the-kill-list.md`
+  - expected: `2016-04-13-i-am-on-the-kill-list-this-is-what-it-feels-like-to-be-hunted.md`
+- `sources/consumed/articles/2016-04-13-the-coming-of-age-of-lsd.md` — ok
+  - detail: The Coming of Age of LSD
+  - current: `2016-04-13-the-coming-of-age-of-lsd.md`
+  - expected: `2016-04-13-the-coming-of-age-of-lsd.md`
+- `sources/consumed/articles/2016-04-18-what-china-has-been-building-in.md` — mismatch
+  - detail: What China Has Been Building in the South China Sea
+  - current: `2016-04-18-what-china-has-been-building-in.md`
+  - expected: `2016-04-18-what-china-has-been-building-in-the-south-china-sea.md`
+- `sources/consumed/articles/2016-04-19-telias-nya-graddfil-dodar-drommen-om.md` — mismatch
+  - detail: Telias nya gräddfil dödar drömmen om ett fritt internet
+  - current: `2016-04-19-telias-nya-graddfil-dodar-drommen-om.md`
+  - expected: `2016-04-19-telias-nya-graddfil-dodar-drommen-om-ett-fritt-internet.md`
+- `sources/consumed/articles/2016-04-20-kofi-annan-darfor-maste-droger-legaliseras.md` — ok
+  - detail: Kofi Annan: Därför måste droger legaliseras
+  - current: `2016-04-20-kofi-annan-darfor-maste-droger-legaliseras.md`
+  - expected: `2016-04-20-kofi-annan-darfor-maste-droger-legaliseras.md`
+- `sources/consumed/articles/2016-04-22-nej-ta-i-hand-ger-dig.md` — mismatch
+  - detail: Nej, ta i hand ger dig inte bättre kvinnosyn
+  - current: `2016-04-22-nej-ta-i-hand-ger-dig.md`
+  - expected: `2016-04-22-nej-ta-i-hand-ger-dig-inte-battre-kvinnosyn.md`
+- `sources/consumed/articles/2016-04-25-trump-and-clinton-share-delaware-tax.md` — mismatch
+  - detail: Trump and Clinton share Delaware tax 'loophole' address with 285,000 firms
+  - current: `2016-04-25-trump-and-clinton-share-delaware-tax.md`
+  - expected: `2016-04-25-trump-and-clinton-share-delaware-tax-loophole-address-with-285-000-firms.md`
+- `sources/consumed/articles/2016-04-30-debattartikel-prata-klartext-om-menskoppen.md` — ok
+  - detail: Debattartikel: ”Prata klartext om menskoppen”
+  - current: `2016-04-30-debattartikel-prata-klartext-om-menskoppen.md`
+  - expected: `2016-04-30-debattartikel-prata-klartext-om-menskoppen.md`
+- `sources/consumed/articles/2016-04-30-follow-the-money-apple-vs-the.md` — mismatch
+  - detail: Follow the money: Apple vs. the FBI By Charlie Stross
+  - current: `2016-04-30-follow-the-money-apple-vs-the.md`
+  - expected: `2016-04-30-follow-the-money-apple-vs-the-fbi-by-charlie-stross.md`
+- `sources/consumed/articles/2016-05-01-chemtrail-conspiracy-theory---wikipedia.md` — mismatch
+  - detail: Chemtrail conspiracy theory - Wikipedia
+  - current: `2016-05-01-chemtrail-conspiracy-theory---wikipedia.md`
+  - expected: `2016-05-01-chemtrail-conspiracy-theory-wikipedia.md`
+- `sources/consumed/articles/2016-05-01-environmental-impacts-of-animal-agriculture--.md` — mismatch
+  - detail: Environmental impacts of animal agriculture - Wikipedia
+  - current: `2016-05-01-environmental-impacts-of-animal-agriculture--.md`
+  - expected: `2016-05-01-environmental-impacts-of-animal-agriculture-wikipedia.md`
+- `sources/consumed/articles/2016-05-03-2016-ars-upprop-hotar-svensk-pressfrihet.md` — ok
+  - detail: 2016 års upprop: ”Hotar svensk pressfrihet”
+  - current: `2016-05-03-2016-ars-upprop-hotar-svensk-pressfrihet.md`
+  - expected: `2016-05-03-2016-ars-upprop-hotar-svensk-pressfrihet.md`
+- `sources/consumed/articles/2016-05-08-polisen-tar-rekordmanga-narkotikaprov-men-allt.md` — mismatch
+  - detail: Polisen tar rekordmånga narkotikaprov – men allt större del är negativa
+  - current: `2016-05-08-polisen-tar-rekordmanga-narkotikaprov-men-allt.md`
+  - expected: `2016-05-08-polisen-tar-rekordmanga-narkotikaprov-men-allt-storre-del-ar-negativa.md`
+- `sources/consumed/articles/2016-05-09-building-ai-is-hardso-facebook-is.md` — mismatch
+  - detail: Building AI Is Hard—So Facebook Is Building AI That Builds AI
+  - current: `2016-05-09-building-ai-is-hardso-facebook-is.md`
+  - expected: `2016-05-09-building-ai-is-hardso-facebook-is-building-ai-that-builds-ai.md`
+- `sources/consumed/articles/2016-05-10-forlat-syed-latif-for-att-vi.md` — mismatch
+  - detail: Förlåt, Syed Latif, för att vi utvisar dig
+  - current: `2016-05-10-forlat-syed-latif-for-att-vi.md`
+  - expected: `2016-05-10-forlat-syed-latif-for-att-vi-utvisar-dig.md`
+- `sources/consumed/articles/2016-05-17-forget-elon-musks-batterieslets-fix-the.md` — mismatch
+  - detail: Forget Elon Musk's Batteries—Let's Fix the Grid With a Rock-Filled Train on a Hill
+  - current: `2016-05-17-forget-elon-musks-batterieslets-fix-the.md`
+  - expected: `2016-05-17-forget-elon-musk-s-batterieslet-s-fix-the-grid-with-a-rock-filled-train-on-a-hill.md`
+- `sources/consumed/articles/2016-05-18-bridges-mark-zuckerberg-destroyed.md` — ok
+  - detail: Bridges Mark Zuckerberg Destroyed
+  - current: `2016-05-18-bridges-mark-zuckerberg-destroyed.md`
+  - expected: `2016-05-18-bridges-mark-zuckerberg-destroyed.md`
+- `sources/consumed/articles/2016-05-21-40-percent-of-the-buildings-in.md` — mismatch
+  - detail: 40 Percent of the Buildings in Manhattan Could Not Be Built Today (Published 2016)
+  - current: `2016-05-21-40-percent-of-the-buildings-in.md`
+  - expected: `2016-05-21-40-percent-of-the-buildings-in-manhattan-could-not-be-built-today-published-2016.md`
+- `sources/consumed/articles/2016-05-22-dear-skeptics-bash-homeopathy-and-bigfoot.md` — mismatch
+  - detail: Dear 'Skeptics,' Bash Homeopathy and Bigfoot Less, Mammograms and War More
+  - current: `2016-05-22-dear-skeptics-bash-homeopathy-and-bigfoot.md`
+  - expected: `2016-05-22-dear-skeptics-bash-homeopathy-and-bigfoot-less-mammograms-and-war-more.md`
+- `sources/consumed/articles/2016-05-25-swarms-of-octopus-are-taking-over.md` — mismatch
+  - detail: Swarms of Octopus Are Taking Over the Oceans
+  - current: `2016-05-25-swarms-of-octopus-are-taking-over.md`
+  - expected: `2016-05-25-swarms-of-octopus-are-taking-over-the-oceans.md`
+- `sources/consumed/articles/2016-06-01-stoppa-vapenexporten-inte-flyktingarna.md` — ok
+  - detail: Stoppa vapenexporten, inte flyktingarna
+  - current: `2016-06-01-stoppa-vapenexporten-inte-flyktingarna.md`
+  - expected: `2016-06-01-stoppa-vapenexporten-inte-flyktingarna.md`
+- `sources/consumed/articles/2016-06-02-lisa-magnusson-sverige-har-inte-flest.md` — mismatch
+  - detail: Lisa Magnusson: Sverige har inte flest våldtäkter i världen, det är bara rasistisk propaganda
+  - current: `2016-06-02-lisa-magnusson-sverige-har-inte-flest.md`
+  - expected: `2016-06-02-lisa-magnusson-sverige-har-inte-flest-valdtakter-i-varlden-det-ar-bara-rasistisk-propaganda.md`
+- `sources/consumed/articles/2016-06-26-britains-democratic-failure.md` — ok
+  - detail: Britain’s Democratic Failure
+  - current: `2016-06-26-britains-democratic-failure.md`
+  - expected: `2016-06-26-britains-democratic-failure.md`
+- `sources/consumed/articles/2016-07-05-sjung-for-oss-lena.md` — ok
+  - detail: Sjung för oss, Lena
+  - current: `2016-07-05-sjung-for-oss-lena.md`
+  - expected: `2016-07-05-sjung-for-oss-lena.md`
+- `sources/consumed/articles/2016-07-13-pokemon-go-is-everything-that-is.md` — mismatch
+  - detail: Pokémon Go is everything that is wrong with late capitalism
+  - current: `2016-07-13-pokemon-go-is-everything-that-is.md`
+  - expected: `2016-07-13-pokemon-go-is-everything-that-is-wrong-with-late-capitalism.md`
+- `sources/consumed/articles/2016-08-01-ola-larsmo-eus-tystnad-ett-fribrev.md` — mismatch
+  - detail: Ola Larsmo: EU:s tystnad ett fribrev för Erdogan
+  - current: `2016-08-01-ola-larsmo-eus-tystnad-ett-fribrev.md`
+  - expected: `2016-08-01-ola-larsmo-eu-s-tystnad-ett-fribrev-for-erdogan.md`
+- `sources/consumed/articles/2016-08-07-arbetsformedlingen-39-000-farre-ungdomar--.md` — mismatch
+  - detail: Arbetsförmedlingen: 39 000 färre ungdomar - 9 000 färre utan jobb
+  - current: `2016-08-07-arbetsformedlingen-39-000-farre-ungdomar--.md`
+  - expected: `2016-08-07-arbetsformedlingen-39-000-farre-ungdomar-9-000-farre-utan-jobb.md`
+- `sources/consumed/articles/2016-08-08-why-the-world-is-better-than.md` — mismatch
+  - detail: Why the World Is Better Than You Think in 10 Powerful Charts
+  - current: `2016-08-08-why-the-world-is-better-than.md`
+  - expected: `2016-08-08-why-the-world-is-better-than-you-think-in-10-powerful-charts.md`
+- `sources/consumed/articles/2016-08-09-samhallet-vilar-inte-bara-pa-egon.md` — mismatch
+  - detail: Samhället vilar inte bara på egon - DN.SE
+  - current: `2016-08-09-samhallet-vilar-inte-bara-pa-egon.md`
+  - expected: `2016-08-09-samhallet-vilar-inte-bara-pa-egon-dn-se.md`
+- `sources/consumed/articles/2016-08-10-against-edenism---first-things.md` — mismatch
+  - detail: Against Edenism - First Things
+  - current: `2016-08-10-against-edenism---first-things.md`
+  - expected: `2016-08-10-against-edenism-first-things.md`
+- `sources/consumed/articles/2016-09-05-how-appleand-the-rest-of-silicon.md` — mismatch
+  - detail: How Apple—and the Rest of Silicon Valley—Avoids the Tax Man
+  - current: `2016-09-05-how-appleand-the-rest-of-silicon.md`
+  - expected: `2016-09-05-how-appleand-the-rest-of-silicon-valleyavoids-the-tax-man.md`
+- `sources/consumed/articles/2016-09-09-the-end-of-headphone-jacks-the.md` — mismatch
+  - detail: The End of Headphone Jacks, the Rise of DRM
+  - current: `2016-09-09-the-end-of-headphone-jacks-the.md`
+  - expected: `2016-09-09-the-end-of-headphone-jacks-the-rise-of-drm.md`
+- `sources/consumed/articles/2016-09-10-dn-debatt-vara-folkvalda-maste-kunna.md` — mismatch
+  - detail: DN Debatt. ”Våra folkvalda måste kunna mer om teknikutvecklingen”
+  - current: `2016-09-10-dn-debatt-vara-folkvalda-maste-kunna.md`
+  - expected: `2016-09-10-dn-debatt-vara-folkvalda-maste-kunna-mer-om-teknikutvecklingen.md`
+- `sources/consumed/articles/2016-09-19-vi-ville-bara-dansa-polisen-behandlade.md` — mismatch
+  - detail: Vi ville bara dansa – polisen behandlade oss som terrorister
+  - current: `2016-09-19-vi-ville-bara-dansa-polisen-behandlade.md`
+  - expected: `2016-09-19-vi-ville-bara-dansa-polisen-behandlade-oss-som-terrorister.md`
+- `sources/consumed/articles/2016-09-22-liten-utgift-doljer-stor-forolampning.md` — ok
+  - detail: Liten utgift döljer stor förolämpning
+  - current: `2016-09-22-liten-utgift-doljer-stor-forolampning.md`
+  - expected: `2016-09-22-liten-utgift-doljer-stor-forolampning.md`
+- `sources/consumed/articles/2016-09-26-psykedeliska-droger-provas-mot-beroende.md` — ok
+  - detail: Psykedeliska droger provas mot beroende
+  - current: `2016-09-26-psykedeliska-droger-provas-mot-beroende.md`
+  - expected: `2016-09-26-psykedeliska-droger-provas-mot-beroende.md`
+- `sources/consumed/articles/2016-09-27-automation.md` — ok
+  - detail: Automation
+  - current: `2016-09-27-automation.md`
+  - expected: `2016-09-27-automation.md`
+- `sources/consumed/articles/2016-09-27-opinion-artificial-intelligences-white-guy-problem.md` — mismatch
+  - detail: Opinion | Artificial Intelligence’s White Guy Problem (Published 2016)
+  - current: `2016-09-27-opinion-artificial-intelligences-white-guy-problem.md`
+  - expected: `2016-09-27-opinion-artificial-intelligences-white-guy-problem-published-2016.md`
+- `sources/consumed/articles/2016-09-27-terence-mckenna---wikipedia.md` — mismatch
+  - detail: Terence McKenna - Wikipedia
+  - current: `2016-09-27-terence-mckenna---wikipedia.md`
+  - expected: `2016-09-27-terence-mckenna-wikipedia.md`
+- `sources/consumed/articles/2016-10-05-burning-man-is-an-efficiency-third.md` — mismatch
+  - detail: Burning Man Is an “Efficiency Third” Culture, and That’s Why You Love It
+  - current: `2016-10-05-burning-man-is-an-efficiency-third.md`
+  - expected: `2016-10-05-burning-man-is-an-efficiency-third-culture-and-thats-why-you-love-it.md`
+- `sources/consumed/articles/2016-10-13-neoliberalism-is-creating-loneliness-thats-whats.md` — mismatch
+  - detail: Neoliberalism is creating loneliness. That’s what’s wrenching society apart | George Monbiot
+  - current: `2016-10-13-neoliberalism-is-creating-loneliness-thats-whats.md`
+  - expected: `2016-10-13-neoliberalism-is-creating-loneliness-thats-whats-wrenching-society-apart-george-monbiot.md`
+- `sources/consumed/articles/2016-10-13-the-10-principles.md` — ok
+  - detail: The 10 Principles
+  - current: `2016-10-13-the-10-principles.md`
+  - expected: `2016-10-13-the-10-principles.md`
+- `sources/consumed/articles/2016-10-14-mmr-vaccine-and-autism---wikipedia.md` — mismatch
+  - detail: MMR vaccine and autism - Wikipedia
+  - current: `2016-10-14-mmr-vaccine-and-autism---wikipedia.md`
+  - expected: `2016-10-14-mmr-vaccine-and-autism-wikipedia.md`
+- `sources/consumed/articles/2016-10-14-religious-ecstasy---wikipedia.md` — mismatch
+  - detail: Religious ecstasy - Wikipedia
+  - current: `2016-10-14-religious-ecstasy---wikipedia.md`
+  - expected: `2016-10-14-religious-ecstasy-wikipedia.md`
+- `sources/consumed/articles/2016-10-15-want-to-know-julian-assanges-endgame.md` — mismatch
+  - detail: Want to know Julian Assange's endgame? He told you a decade ago
+  - current: `2016-10-15-want-to-know-julian-assanges-endgame.md`
+  - expected: `2016-10-15-want-to-know-julian-assange-s-endgame-he-told-you-a-decade-ago.md`
+- `sources/consumed/articles/2016-10-25-drama-game-status-exercise---beat.md` — mismatch
+  - detail: Drama Game: Status Exercise - Beat by Beat Press
+  - current: `2016-10-25-drama-game-status-exercise---beat.md`
+  - expected: `2016-10-25-drama-game-status-exercise-beat-by-beat-press.md`
+- `sources/consumed/articles/2016-11-05-darfor-vill-amerikanerna-legalisera-cannabis.md` — ok
+  - detail: Därför vill amerikanerna legalisera cannabis
+  - current: `2016-11-05-darfor-vill-amerikanerna-legalisera-cannabis.md`
+  - expected: `2016-11-05-darfor-vill-amerikanerna-legalisera-cannabis.md`
+- `sources/consumed/articles/2016-11-07-the-myth-of-self-control.md` — ok
+  - detail: The myth of self-control
+  - current: `2016-11-07-the-myth-of-self-control.md`
+  - expected: `2016-11-07-the-myth-of-self-control.md`
+- `sources/consumed/articles/2016-11-12-viktor-barth-kron-identitetspolitiskt-snomos-pa-hal.md` — mismatch
+  - detail: Viktor Barth-Kron: Identitetspolitiskt snömos på hal is - DN.SE
+  - current: `2016-11-12-viktor-barth-kron-identitetspolitiskt-snomos-pa-hal.md`
+  - expected: `2016-11-12-viktor-barth-kron-identitetspolitiskt-snomos-pa-hal-is-dn-se.md`
+- `sources/consumed/articles/2016-11-13-finlands-school-reforms-wont-scrap-subjects.md` — mismatch
+  - detail: Finland’s school reforms won’t scrap subjects altogether
+  - current: `2016-11-13-finlands-school-reforms-wont-scrap-subjects.md`
+  - expected: `2016-11-13-finlands-school-reforms-wont-scrap-subjects-altogether.md`
+- `sources/consumed/articles/2016-11-14-adolf-hitler-and-vegetarianism---wikipedia.md` — mismatch
+  - detail: Adolf Hitler and vegetarianism - Wikipedia
+  - current: `2016-11-14-adolf-hitler-and-vegetarianism---wikipedia.md`
+  - expected: `2016-11-14-adolf-hitler-and-vegetarianism-wikipedia.md`
+- `sources/consumed/articles/2016-11-14-finlands-school-reforms-wont-scrap-subjects.md` — mismatch
+  - detail: Finland’s school reforms won’t scrap subjects altogether
+  - current: `2016-11-14-finlands-school-reforms-wont-scrap-subjects.md`
+  - expected: `2016-11-14-finlands-school-reforms-wont-scrap-subjects-altogether.md`
+- `sources/consumed/articles/2016-11-26-what-if-jobs-are-not-the.md` — mismatch
+  - detail: What if jobs are not the solution but the problem? | Aeon Essays
+  - current: `2016-11-26-what-if-jobs-are-not-the.md`
+  - expected: `2016-11-26-what-if-jobs-are-not-the-solution-but-the-problem-aeon-essays.md`
+- `sources/consumed/articles/2016-12-02-chinas-new-tool-for-social-control.md` — mismatch
+  - detail: China’s New Tool for Social Control: A Credit Rating for Everything
+  - current: `2016-12-02-chinas-new-tool-for-social-control.md`
+  - expected: `2016-12-02-chinas-new-tool-for-social-control-a-credit-rating-for-everything.md`
+- `sources/consumed/articles/2016-12-24-why-time-management-is-ruining-our.md` — mismatch
+  - detail: Why time management is ruining our lives | Oliver Burkeman
+  - current: `2016-12-24-why-time-management-is-ruining-our.md`
+  - expected: `2016-12-24-why-time-management-is-ruining-our-lives-oliver-burkeman.md`
+- `sources/consumed/articles/2017-01-24-36-questions-designed-to-help-you.md` — mismatch
+  - detail: 36 questions designed to help you fall in love with anyone
+  - current: `2017-01-24-36-questions-designed-to-help-you.md`
+  - expected: `2017-01-24-36-questions-designed-to-help-you-fall-in-love-with-anyone.md`
+- `sources/consumed/articles/2017-01-31-the-data-that-turned-the-world.md` — mismatch
+  - detail: The Data That Turned the World Upside Down
+  - current: `2017-01-31-the-data-that-turned-the-world.md`
+  - expected: `2017-01-31-the-data-that-turned-the-world-upside-down.md`
+- `sources/consumed/articles/2017-02-25-analysis-no-sweden-isnt-hiding-an.md` — mismatch
+  - detail: Analysis | No, Sweden isn’t hiding an immigrant crime problem. This is the real story.
+  - current: `2017-02-25-analysis-no-sweden-isnt-hiding-an.md`
+  - expected: `2017-02-25-analysis-no-sweden-isnt-hiding-an-immigrant-crime-problem-this-is-the-real-story.md`
+- `sources/consumed/articles/2017-03-02-what-google-found-at-burning-man.md` — mismatch
+  - detail: What Google found at Burning Man: A CEO who could flow
+  - current: `2017-03-02-what-google-found-at-burning-man.md`
+  - expected: `2017-03-02-what-google-found-at-burning-man-a-ceo-who-could-flow.md`
+- `sources/consumed/articles/2017-03-04-basic-income-isnt-just-a-nice.md` — mismatch
+  - detail: Basic income isn’t just a nice idea. It's a birthright | Jason Hickel
+  - current: `2017-03-04-basic-income-isnt-just-a-nice.md`
+  - expected: `2017-03-04-basic-income-isnt-just-a-nice-idea-it-s-a-birthright-jason-hickel.md`
+- `sources/consumed/articles/2017-03-04-debattartikel-att-hoja-sig-genom-att.md` — mismatch
+  - detail: Debattartikel: ”Att höja sig genom att sänka andra – tricket för de intellektuellt lata”
+  - current: `2017-03-04-debattartikel-att-hoja-sig-genom-att.md`
+  - expected: `2017-03-04-debattartikel-att-hoja-sig-genom-att-sanka-andra-tricket-for-de-intellektuellt-lata.md`
+- `sources/consumed/articles/2017-03-06-why-do-so-many-incompetent-men.md` — mismatch
+  - detail: Why Do So Many Incompetent Men Become Leaders?
+  - current: `2017-03-06-why-do-so-many-incompetent-men.md`
+  - expected: `2017-03-06-why-do-so-many-incompetent-men-become-leaders.md`
+- `sources/consumed/articles/2017-03-12-watch-full-episodes-online-of-pbs.md` — mismatch
+  - detail: Watch Full Episodes Online of PBS NewsHour on PBS | Jacques Pépin says following a recipe can lead to disaster
+  - current: `2017-03-12-watch-full-episodes-online-of-pbs.md`
+  - expected: `2017-03-12-watch-full-episodes-online-of-pbs-newshour-on-pbs-jacques-pepin-says-following-a-recipe-can-lead-to-disaster.md`
+- `sources/consumed/articles/2017-03-20-photographer-proves-end-of-privacy-is.md` — mismatch
+  - detail: Photographer Proves End of Privacy Is Here Through Photos That Will Blow Your Mind
+  - current: `2017-03-20-photographer-proves-end-of-privacy-is.md`
+  - expected: `2017-03-20-photographer-proves-end-of-privacy-is-here-through-photos-that-will-blow-your-mind.md`
+- `sources/consumed/articles/2017-03-27-silicon-valley-would-rather-cure-death.md` — mismatch
+  - detail: Silicon Valley Would Rather Cure Death Than Make Life Worth Living
+  - current: `2017-03-27-silicon-valley-would-rather-cure-death.md`
+  - expected: `2017-03-27-silicon-valley-would-rather-cure-death-than-make-life-worth-living.md`
+- `sources/consumed/articles/2017-03-30-with-67-billion-in-public-money.md` — mismatch
+  - detail: With $6.7 billion in public money, NFL closes stadium era
+  - current: `2017-03-30-with-67-billion-in-public-money.md`
+  - expected: `2017-03-30-with-6-7-billion-in-public-money-nfl-closes-stadium-era.md`
+- `sources/consumed/articles/2017-04-06-the-robot-debate-is-over-the.md` — mismatch
+  - detail: The robot debate is over: the jobs are gone and they aren't coming back
+  - current: `2017-04-06-the-robot-debate-is-over-the.md`
+  - expected: `2017-04-06-the-robot-debate-is-over-the-jobs-are-gone-and-they-aren-t-coming-back.md`
+- `sources/consumed/articles/2017-04-08-yuval-noah-harari-the-theatre-of.md` — mismatch
+  - detail: Yuval Noah Harari: the theatre of terror
+  - current: `2017-04-08-yuval-noah-harari-the-theatre-of.md`
+  - expected: `2017-04-08-yuval-noah-harari-the-theatre-of-terror.md`
+- `sources/consumed/articles/2017-04-15-why-kickstarter-decided-to-radically-transform.md` — mismatch
+  - detail: Why Kickstarter Decided To Radically Transform Its Business Model
+  - current: `2017-04-15-why-kickstarter-decided-to-radically-transform.md`
+  - expected: `2017-04-15-why-kickstarter-decided-to-radically-transform-its-business-model.md`
+- `sources/consumed/articles/2017-04-16-seriously-the-guy-has-a-point.md` — ok
+  - detail: seriously, the guy has a point
+  - current: `2017-04-16-seriously-the-guy-has-a-point.md`
+  - expected: `2017-04-16-seriously-the-guy-has-a-point.md`
+- `sources/consumed/articles/2017-05-29-kronikor-johan-norberg-varlden-ar-proppfull.md` — mismatch
+  - detail: Krönikör Johan Norberg: 'Världen är proppfull med ytterst trevliga människor' | Sveriges Radio
+  - current: `2017-05-29-kronikor-johan-norberg-varlden-ar-proppfull.md`
+  - expected: `2017-05-29-kronikor-johan-norberg-varlden-ar-proppfull-med-ytterst-trevliga-manniskor-sveriges-radio.md`
+- `sources/consumed/articles/2017-06-06-democracy-theres-an-app-for-that.md` — mismatch
+  - detail: Democracy? There’s an app for that – the tech upstarts trying to ‘hack’ British politics
+  - current: `2017-06-06-democracy-theres-an-app-for-that.md`
+  - expected: `2017-06-06-democracy-theres-an-app-for-that-the-tech-upstarts-trying-to-hack-british-politics.md`
+- `sources/consumed/articles/2017-06-07-at-75560-housing-a-prisoner-in.md` — mismatch
+  - detail: At $75,560, housing a prisoner in California now costs more than a year at Harvard
+  - current: `2017-06-07-at-75560-housing-a-prisoner-in.md`
+  - expected: `2017-06-07-at-75-560-housing-a-prisoner-in-california-now-costs-more-than-a-year-at-harvard.md`
+- `sources/consumed/articles/2017-06-12-de-ar-valfardens-oligarker.md` — ok
+  - detail: De är välfärdens oligarker
+  - current: `2017-06-12-de-ar-valfardens-oligarker.md`
+  - expected: `2017-06-12-de-ar-valfardens-oligarker.md`
+- `sources/consumed/articles/2017-06-14-debattinlagg-fler-dor-i-badkaret-an.md` — mismatch
+  - detail: Debattinlägg: ”Fler dör i badkaret än av terror”
+  - current: `2017-06-14-debattinlagg-fler-dor-i-badkaret-an.md`
+  - expected: `2017-06-14-debattinlagg-fler-dor-i-badkaret-an-av-terror.md`
+- `sources/consumed/articles/2017-06-18-ny-studie-glutenoverkansliga-madde-bast-nar.md` — mismatch
+  - detail: Ny studie: ”Glutenöverkänsliga” mådde bäst när de åt – gluten
+  - current: `2017-06-18-ny-studie-glutenoverkansliga-madde-bast-nar.md`
+  - expected: `2017-06-18-ny-studie-glutenoverkansliga-madde-bast-nar-de-at-gluten.md`
+- `sources/consumed/articles/2017-06-20-105-how-being-in-an-open.md` — mismatch
+  - detail: 105. How being in an open relationship has taught me a lot about understanding privilege
+  - current: `2017-06-20-105-how-being-in-an-open.md`
+  - expected: `2017-06-20-105-how-being-in-an-open-relationship-has-taught-me-a-lot-about-understanding-privilege.md`
+- `sources/consumed/articles/2017-06-22-finnish-citizens-given-universal-basic-income.md` — mismatch
+  - detail: Finnish citizens given universal basic income report lower stress levels and greater incentive to work | The Independent
+  - current: `2017-06-22-finnish-citizens-given-universal-basic-income.md`
+  - expected: `2017-06-22-finnish-citizens-given-universal-basic-income-report-lower-stress-levels-and-greater-incentive-to-work-the-independent.md`
+- `sources/consumed/articles/2017-06-25-that-tesla-battery-emissions-study-making.md` — mismatch
+  - detail: That Tesla Battery Emissions Study Making the Rounds? It's Bunk.
+  - current: `2017-06-25-that-tesla-battery-emissions-study-making.md`
+  - expected: `2017-06-25-that-tesla-battery-emissions-study-making-the-rounds-it-s-bunk.md`
+- `sources/consumed/articles/2017-07-10-the-world-may-be-headed-for.md` — mismatch
+  - detail: The World May Be Headed for a Fragmented ‘Splinternet’
+  - current: `2017-07-10-the-world-may-be-headed-for.md`
+  - expected: `2017-07-10-the-world-may-be-headed-for-a-fragmented-splinternet.md`
+- `sources/consumed/articles/2017-07-15-are-you-ready-to-consider-that.md` — mismatch
+  - detail: Are You Ready To Consider That Capitalism Is The Real Problem?
+  - current: `2017-07-15-are-you-ready-to-consider-that.md`
+  - expected: `2017-07-15-are-you-ready-to-consider-that-capitalism-is-the-real-problem.md`
+- `sources/consumed/articles/2017-07-19-its-a-really-bad-idea-to.md` — mismatch
+  - detail: It's a Really Bad Idea to Tell Students Words Are Violence
+  - current: `2017-07-19-its-a-really-bad-idea-to.md`
+  - expected: `2017-07-19-it-s-a-really-bad-idea-to-tell-students-words-are-violence.md`
+- `sources/consumed/articles/2017-07-20-rclocal.md` — mismatch
+  - detail: rc.local
+  - current: `2017-07-20-rclocal.md`
+  - expected: `2017-07-20-rc-local.md`
+- `sources/consumed/articles/2017-07-26-ingen-kommer-hoppa-fran-tak-polisen.md` — ok
+  - detail: Ingen kommer hoppa från tak, polisen
+  - current: `2017-07-26-ingen-kommer-hoppa-fran-tak-polisen.md`
+  - expected: `2017-07-26-ingen-kommer-hoppa-fran-tak-polisen.md`
+- `sources/consumed/articles/2017-08-02-how-we-respond-to-automation-will.md` — mismatch
+  - detail: How we respond to automation will depend on what we decide it means to be a man.
+  - current: `2017-08-02-how-we-respond-to-automation-will.md`
+  - expected: `2017-08-02-how-we-respond-to-automation-will-depend-on-what-we-decide-it-means-to-be-a-man.md`
+- `sources/consumed/articles/2017-08-08-neuralink-and-the-brains-magical-future.md` — mismatch
+  - detail: Neuralink and the Brain's Magical Future — Wait But Why
+  - current: `2017-08-08-neuralink-and-the-brains-magical-future.md`
+  - expected: `2017-08-08-neuralink-and-the-brain-s-magical-future-wait-but-why.md`
+- `sources/consumed/articles/2017-08-08-opinion-our-broken-economy-in-one.md` — mismatch
+  - detail: Opinion | Our Broken Economy, in One Simple Chart (Published 2017)
+  - current: `2017-08-08-opinion-our-broken-economy-in-one.md`
+  - expected: `2017-08-08-opinion-our-broken-economy-in-one-simple-chart-published-2017.md`
+- `sources/consumed/articles/2017-08-09-how-we-get-to-next--.md` — mismatch
+  - detail: How We Get To Next - How We Get To Next
+  - current: `2017-08-09-how-we-get-to-next--.md`
+  - expected: `2017-08-09-how-we-get-to-next-how-we-get-to-next.md`
+- `sources/consumed/articles/2017-08-11-nyhetsbyran-tt-i-mediesamarbete-med-scientologer.md` — ok
+  - detail: Nyhetsbyrån TT i mediesamarbete med scientologer
+  - current: `2017-08-11-nyhetsbyran-tt-i-mediesamarbete-med-scientologer.md`
+  - expected: `2017-08-11-nyhetsbyran-tt-i-mediesamarbete-med-scientologer.md`
+- `sources/consumed/articles/2017-08-11-why-facebook-should-pay-us-a.md` — mismatch
+  - detail: Why Facebook should pay us a basic income
+  - current: `2017-08-11-why-facebook-should-pay-us-a.md`
+  - expected: `2017-08-11-why-facebook-should-pay-us-a-basic-income.md`
+- `sources/consumed/articles/2017-08-14-compensation-and-incentives.md` — ok
+  - detail: Compensation and incentives
+  - current: `2017-08-14-compensation-and-incentives.md`
+  - expected: `2017-08-14-compensation-and-incentives.md`
+- `sources/consumed/articles/2017-08-14-cryptocurrencys-netscape-moment.md` — mismatch
+  - detail: Cryptocurrency's Netscape Moment
+  - current: `2017-08-14-cryptocurrencys-netscape-moment.md`
+  - expected: `2017-08-14-cryptocurrency-s-netscape-moment.md`
+- `sources/consumed/articles/2017-08-15-the-birth-and-death-of-privacy.md` — mismatch
+  - detail: The Birth And Death Of Privacy: 3,000 Years of History Told Through 46 Images
+  - current: `2017-08-15-the-birth-and-death-of-privacy.md`
+  - expected: `2017-08-15-the-birth-and-death-of-privacy-3-000-years-of-history-told-through-46-images.md`
+- `sources/consumed/articles/2017-08-17-roland-paulsen-forgaves-soker-jag-efter.md` — mismatch
+  - detail: Roland Paulsen: Förgäves söker jag efter konsekvens i fallet Gårdsten
+  - current: `2017-08-17-roland-paulsen-forgaves-soker-jag-efter.md`
+  - expected: `2017-08-17-roland-paulsen-forgaves-soker-jag-efter-konsekvens-i-fallet-gardsten.md`
+- `sources/consumed/articles/2017-08-21-calle-wersall-jag-vagrar-acceptera-att.md` — mismatch
+  - detail: Calle Wersäll: Jag vägrar acceptera att behandlas som en grov brottsling bara för att jag lyssnar på elektronisk musik
+  - current: `2017-08-21-calle-wersall-jag-vagrar-acceptera-att.md`
+  - expected: `2017-08-21-calle-wersall-jag-vagrar-acceptera-att-behandlas-som-en-grov-brottsling-bara-for-att-jag-lyssnar-pa-elektronisk-musik.md`
+- `sources/consumed/articles/2017-09-07-opinion-when-a-red-state-gets.md` — mismatch
+  - detail: Opinion | When a red state gets the blues
+  - current: `2017-09-07-opinion-when-a-red-state-gets.md`
+  - expected: `2017-09-07-opinion-when-a-red-state-gets-the-blues.md`
+- `sources/consumed/articles/2017-09-07-the-first-white-president.md` — ok
+  - detail: The First White President
+  - current: `2017-09-07-the-first-white-president.md`
+  - expected: `2017-09-07-the-first-white-president.md`
+- `sources/consumed/articles/2017-09-08-persecution-of-homosexuals-in-nazi-germany.md` — mismatch
+  - detail: Persecution of homosexuals in Nazi Germany - Wikipedia
+  - current: `2017-09-08-persecution-of-homosexuals-in-nazi-germany.md`
+  - expected: `2017-09-08-persecution-of-homosexuals-in-nazi-germany-wikipedia.md`
+- `sources/consumed/articles/2017-09-15-we-asked-jim-carrey-about-his.md` — mismatch
+  - detail: We Asked Jim Carrey About His Bizarre, Existential Fashion Week Interview
+  - current: `2017-09-15-we-asked-jim-carrey-about-his.md`
+  - expected: `2017-09-15-we-asked-jim-carrey-about-his-bizarre-existential-fashion-week-interview.md`
+- `sources/consumed/articles/2017-09-20-prognosen-for-elbilar-ar-ett-skamt.md` — ok
+  - detail: ”Prognosen för elbilar är ett skämt”
+  - current: `2017-09-20-prognosen-for-elbilar-ar-ett-skamt.md`
+  - expected: `2017-09-20-prognosen-for-elbilar-ar-ett-skamt.md`
+- `sources/consumed/articles/2017-09-27-if-your-pay-is-not-yours.md` — mismatch
+  - detail: If your pay is not yours to keep, then neither is the tax | Aeon Essays
+  - current: `2017-09-27-if-your-pay-is-not-yours.md`
+  - expected: `2017-09-27-if-your-pay-is-not-yours-to-keep-then-neither-is-the-tax-aeon-essays.md`
+- `sources/consumed/articles/2017-10-04-false-equivalence---wikipedia.md` — mismatch
+  - detail: False equivalence - Wikipedia
+  - current: `2017-10-04-false-equivalence---wikipedia.md`
+  - expected: `2017-10-04-false-equivalence-wikipedia.md`
+- `sources/consumed/articles/2017-10-08-darfor-sa-jag-n-ordet-linderborg.md` — ok
+  - detail: Därför sa jag n-ordet, Linderborg
+  - current: `2017-10-08-darfor-sa-jag-n-ordet-linderborg.md`
+  - expected: `2017-10-08-darfor-sa-jag-n-ordet-linderborg.md`
+- `sources/consumed/articles/2017-10-08-our-minds-can-be-hijacked-the.md` — mismatch
+  - detail: Our minds can be hijacked': the tech insiders who fear a smartphone dystopia
+  - current: `2017-10-08-our-minds-can-be-hijacked-the.md`
+  - expected: `2017-10-08-our-minds-can-be-hijacked-the-tech-insiders-who-fear-a-smartphone-dystopia.md`
+- `sources/consumed/articles/2017-10-10-i-am-the-woman-in-the.md` — mismatch
+  - detail: I am the woman in the 'racist Dove ad'. I am not a victim | Lola Ogunyemi
+  - current: `2017-10-10-i-am-the-woman-in-the.md`
+  - expected: `2017-10-10-i-am-the-woman-in-the-racist-dove-ad-i-am-not-a-victim-lola-ogunyemi.md`
+- `sources/consumed/articles/2017-10-23-big-data-meets-big-brother-as.md` — mismatch
+  - detail: Big data meets Big Brother as China moves to rate its citizens
+  - current: `2017-10-23-big-data-meets-big-brother-as.md`
+  - expected: `2017-10-23-big-data-meets-big-brother-as-china-moves-to-rate-its-citizens.md`
+- `sources/consumed/articles/2017-10-24-after-the-end-of-the-startup.md` — mismatch
+  - detail: After the end of the startup era | TechCrunch
+  - current: `2017-10-24-after-the-end-of-the-startup.md`
+  - expected: `2017-10-24-after-the-end-of-the-startup-era-techcrunch.md`
+- `sources/consumed/articles/2017-10-25-will-facebook-kill-all-future-facebooks.md` — ok
+  - detail: Will Facebook Kill All Future Facebooks?
+  - current: `2017-10-25-will-facebook-kill-all-future-facebooks.md`
+  - expected: `2017-10-25-will-facebook-kill-all-future-facebooks.md`
+- `sources/consumed/articles/2017-11-02-playing-apart.md` — ok
+  - detail: Playing apart
+  - current: `2017-11-02-playing-apart.md`
+  - expected: `2017-11-02-playing-apart.md`
+- `sources/consumed/articles/2017-11-03-thomas-mattsson-forspiller-mediernas-gyllene-tillfalle.md` — ok
+  - detail: Thomas Mattsson förspiller mediernas gyllene tillfälle
+  - current: `2017-11-03-thomas-mattsson-forspiller-mediernas-gyllene-tillfalle.md`
+  - expected: `2017-11-03-thomas-mattsson-forspiller-mediernas-gyllene-tillfalle.md`
+- `sources/consumed/articles/2017-11-13-lisa-magnusson-det-finns-nagot-som.md` — mismatch
+  - detail: Lisa Magnusson: Det finns något som är ännu svårare än att säga förlåt
+  - current: `2017-11-13-lisa-magnusson-det-finns-nagot-som.md`
+  - expected: `2017-11-13-lisa-magnusson-det-finns-nagot-som-ar-annu-svarare-an-att-saga-forlat.md`
+- `sources/consumed/articles/2017-11-14-americas-retail-apocalypse-is-really-just.md` — mismatch
+  - detail: America’s ‘Retail Apocalypse’ Is Really Just Beginning
+  - current: `2017-11-14-americas-retail-apocalypse-is-really-just.md`
+  - expected: `2017-11-14-americas-retail-apocalypse-is-really-just-beginning.md`
+- `sources/consumed/articles/2017-11-30-populists-and-autocrats-the-dual-threat.md` — mismatch
+  - detail: Populists and Autocrats: The Dual Threat to Global Democracy
+  - current: `2017-11-30-populists-and-autocrats-the-dual-threat.md`
+  - expected: `2017-11-30-populists-and-autocrats-the-dual-threat-to-global-democracy.md`
+- `sources/consumed/articles/2017-12-01-239-hur-rik-ar-svensken-egentligen.md` — mismatch
+  - detail: 239. Hur rik är svensken egentligen? (2022)
+  - current: `2017-12-01-239-hur-rik-ar-svensken-egentligen.md`
+  - expected: `2017-12-01-239-hur-rik-ar-svensken-egentligen-2022.md`
+- `sources/consumed/articles/2017-12-02-the-invention-of-a-new-kind.md` — mismatch
+  - detail: The Invention of a New Kind of Political Party in Sweden
+  - current: `2017-12-02-the-invention-of-a-new-kind.md`
+  - expected: `2017-12-02-the-invention-of-a-new-kind-of-political-party-in-sweden.md`
+- `sources/consumed/articles/2017-12-08-vi-behover-fler-genier-inte-farre.md` — ok
+  - detail: Vi behöver fler genier, inte färre
+  - current: `2017-12-08-vi-behover-fler-genier-inte-farre.md`
+  - expected: `2017-12-08-vi-behover-fler-genier-inte-farre.md`
+- `sources/consumed/articles/2017-12-08-your-elusive-creative-genius.md` — ok
+  - detail: Your elusive creative genius
+  - current: `2017-12-08-your-elusive-creative-genius.md`
+  - expected: `2017-12-08-your-elusive-creative-genius.md`
+- `sources/consumed/articles/2017-12-16-en-tystnad-som-later-galenskapen-fortga.md` — ok
+  - detail: En tystnad som låter galenskapen fortgå
+  - current: `2017-12-16-en-tystnad-som-later-galenskapen-fortga.md`
+  - expected: `2017-12-16-en-tystnad-som-later-galenskapen-fortga.md`
+- `sources/consumed/articles/2017-12-17-the-great-ico-freeze-is-beginning.md` — mismatch
+  - detail: The great ICO freeze is beginning. What does it mean for crypto in 2018?
+  - current: `2017-12-17-the-great-ico-freeze-is-beginning.md`
+  - expected: `2017-12-17-the-great-ico-freeze-is-beginning-what-does-it-mean-for-crypto-in-2018.md`
+- `sources/consumed/articles/2017-12-19-generation-screwed.md` — ok
+  - detail: Generation Screwed
+  - current: `2017-12-19-generation-screwed.md`
+  - expected: `2017-12-19-generation-screwed.md`
+- `sources/consumed/articles/2017-12-27-if-you-want-to-understand-the.md` — mismatch
+  - detail: If you want to understand the age of Trump, read the Frankfurt School
+  - current: `2017-12-27-if-you-want-to-understand-the.md`
+  - expected: `2017-12-27-if-you-want-to-understand-the-age-of-trump-read-the-frankfurt-school.md`
+- `sources/consumed/articles/2018-01-01-psychopathy---wikipedia.md` — mismatch
+  - detail: Psychopathy - Wikipedia
+  - current: `2018-01-01-psychopathy---wikipedia.md`
+  - expected: `2018-01-01-psychopathy-wikipedia.md`
+- `sources/consumed/articles/2018-01-17-dn-debatt-sverige-behover-infora-ny.md` — mismatch
+  - detail: DN Debatt. ”Sverige behöver införa ny arvs- och fastighetsskatt”
+  - current: `2018-01-17-dn-debatt-sverige-behover-infora-ny.md`
+  - expected: `2018-01-17-dn-debatt-sverige-behover-infora-ny-arvs-och-fastighetsskatt.md`
+- `sources/consumed/articles/2018-01-20-the-problem-with-calling-bitcoin-a.md` — mismatch
+  - detail: The Problem with Calling Bitcoin a “Ponzi Scheme”
+  - current: `2018-01-20-the-problem-with-calling-bitcoin-a.md`
+  - expected: `2018-01-20-the-problem-with-calling-bitcoin-a-ponzi-scheme.md`
+- `sources/consumed/articles/2018-01-22-post-work-the-radical-idea-of-a.md` — mismatch
+  - detail: Post-work: the radical idea of a world without jobs
+  - current: `2018-01-22-post-work-the-radical-idea-of-a.md`
+  - expected: `2018-01-22-post-work-the-radical-idea-of-a-world-without-jobs.md`
+- `sources/consumed/articles/2018-01-22-sa-hogt-ar-priset-for-framtidens.md` — mismatch
+  - detail: Så högt är priset – för framtidens teknik
+  - current: `2018-01-22-sa-hogt-ar-priset-for-framtidens.md`
+  - expected: `2018-01-22-sa-hogt-ar-priset-for-framtidens-teknik.md`
+- `sources/consumed/articles/2018-01-29-dont-make-artificial-intelligence-artificially-stupid.md` — mismatch
+  - detail: Don’t Make Artificial Intelligence Artificially Stupid in the Name of Transparency
+  - current: `2018-01-29-dont-make-artificial-intelligence-artificially-stupid.md`
+  - expected: `2018-01-29-dont-make-artificial-intelligence-artificially-stupid-in-the-name-of-transparency.md`
+- `sources/consumed/articles/2018-02-01-fact-check-crime-in-sweden-part.md` — mismatch
+  - detail: FACT CHECK: Crime in Sweden, Part III: Does Sweden Have 'No-Go Zones' Where the Police Can't Enter?
+  - current: `2018-02-01-fact-check-crime-in-sweden-part.md`
+  - expected: `2018-02-01-fact-check-crime-in-sweden-part-iii-does-sweden-have-no-go-zones-where-the-police-can-t-enter.md`
+- `sources/consumed/articles/2018-02-01-lisa-magnusson-alternativhogern-agnar-sig-framfor.md` — mismatch
+  - detail: Lisa Magnusson: Alternativhögern ägnar sig framför allt åt nihilism
+  - current: `2018-02-01-lisa-magnusson-alternativhogern-agnar-sig-framfor.md`
+  - expected: `2018-02-01-lisa-magnusson-alternativhogern-agnar-sig-framfor-allt-at-nihilism.md`
+- `sources/consumed/articles/2018-02-05-malet-infor-valet-skapa-kaos-i.md` — mismatch
+  - detail: Målet inför valet: Skapa kaos i Sverige
+  - current: `2018-02-05-malet-infor-valet-skapa-kaos-i.md`
+  - expected: `2018-02-05-malet-infor-valet-skapa-kaos-i-sverige.md`
+- `sources/consumed/articles/2018-02-05-sa-radikaliserades-hanif-bali-och-joakim.md` — mismatch
+  - detail: Så radikaliserades Hanif Bali och Joakim Lamotte
+  - current: `2018-02-05-sa-radikaliserades-hanif-bali-och-joakim.md`
+  - expected: `2018-02-05-sa-radikaliserades-hanif-bali-och-joakim-lamotte.md`
+- `sources/consumed/articles/2018-02-09-sex-desire-and-social-media-mob.md` — mismatch
+  - detail: Sex, desire, and social media mob rule
+  - current: `2018-02-09-sex-desire-and-social-media-mob.md`
+  - expected: `2018-02-09-sex-desire-and-social-media-mob-rule.md`
+- `sources/consumed/articles/2018-02-10-its-time-for-a-serious-talk.md` — mismatch
+  - detail: It's Time For a Serious Talk About the Science of Tech 'Addiction
+  - current: `2018-02-10-its-time-for-a-serious-talk.md`
+  - expected: `2018-02-10-it-s-time-for-a-serious-talk-about-the-science-of-tech-addiction.md`
+- `sources/consumed/articles/2018-02-11-our-best-hope-for-civil-discourse.md` — mismatch
+  - detail: Our Best Hope for Civil Discourse on the Internet Is on ... Reddit
+  - current: `2018-02-11-our-best-hope-for-civil-discourse.md`
+  - expected: `2018-02-11-our-best-hope-for-civil-discourse-on-the-internet-is-on-reddit.md`
+- `sources/consumed/articles/2018-02-18-a-modest-proposal---wikipedia.md` — mismatch
+  - detail: A Modest Proposal - Wikipedia
+  - current: `2018-02-18-a-modest-proposal---wikipedia.md`
+  - expected: `2018-02-18-a-modest-proposal-wikipedia.md`
+- `sources/consumed/articles/2018-02-19-study-finds-people-given-basic-income.md` — mismatch
+  - detail: Study finds people given basic income are likely to keep working
+  - current: `2018-02-19-study-finds-people-given-basic-income.md`
+  - expected: `2018-02-19-study-finds-people-given-basic-income-are-likely-to-keep-working.md`
+- `sources/consumed/articles/2018-02-23-why-do-people-find-jordan-peterson.md` — mismatch
+  - detail: Why do people find Jordan Peterson so convincing? Because the left doesn't have its own house in order
+  - current: `2018-02-23-why-do-people-find-jordan-peterson.md`
+  - expected: `2018-02-23-why-do-people-find-jordan-peterson-so-convincing-because-the-left-doesn-t-have-its-own-house-in-order.md`
+- `sources/consumed/articles/2018-02-27-opinion-the-boys-are-not-all.md` — mismatch
+  - detail: Opinion | The Boys Are Not All Right (Published 2018)
+  - current: `2018-02-27-opinion-the-boys-are-not-all.md`
+  - expected: `2018-02-27-opinion-the-boys-are-not-all-right-published-2018.md`
+- `sources/consumed/articles/2018-03-01-globalization-has-created-a-chinese-wall.md` — ok
+  - detail: Globalization Has Created a Chinese Wall
+  - current: `2018-03-01-globalization-has-created-a-chinese-wall.md`
+  - expected: `2018-03-01-globalization-has-created-a-chinese-wall.md`
+- `sources/consumed/articles/2018-03-04-the-role-of-luck-in-life.md` — mismatch
+  - detail: The Role of Luck in Life Success Is Far Greater Than We Realized
+  - current: `2018-03-04-the-role-of-luck-in-life.md`
+  - expected: `2018-03-04-the-role-of-luck-in-life-success-is-far-greater-than-we-realized.md`
+- `sources/consumed/articles/2018-03-08-dn-debatt-genusvetenskap-har-gjorts-till.md` — mismatch
+  - detail: DN Debatt. ”Genusvetenskap har gjorts till en politisk halmdocka”
+  - current: `2018-03-08-dn-debatt-genusvetenskap-har-gjorts-till.md`
+  - expected: `2018-03-08-dn-debatt-genusvetenskap-har-gjorts-till-en-politisk-halmdocka.md`
+- `sources/consumed/articles/2018-03-09-busting-the-myth-of-welfare-makes.md` — mismatch
+  - detail: Busting the Myth of ‘Welfare Makes People Lazy’
+  - current: `2018-03-09-busting-the-myth-of-welfare-makes.md`
+  - expected: `2018-03-09-busting-the-myth-of-welfare-makes-people-lazy.md`
+- `sources/consumed/articles/2018-03-09-the-good-war-the-nib.md` — ok
+  - detail: The Good War | The Nib
+  - current: `2018-03-09-the-good-war-the-nib.md`
+  - expected: `2018-03-09-the-good-war-the-nib.md`
+- `sources/consumed/articles/2018-03-12-mythopoetic-mens-movement---wikipedia.md` — mismatch
+  - detail: Mythopoetic men's movement - Wikipedia
+  - current: `2018-03-12-mythopoetic-mens-movement---wikipedia.md`
+  - expected: `2018-03-12-mythopoetic-men-s-movement-wikipedia.md`
+- `sources/consumed/articles/2018-03-18-revealed-50-million-facebook-profiles-harvested.md` — mismatch
+  - detail: Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach
+  - current: `2018-03-18-revealed-50-million-facebook-profiles-harvested.md`
+  - expected: `2018-03-18-revealed-50-million-facebook-profiles-harvested-for-cambridge-analytica-in-major-data-breach.md`
+- `sources/consumed/articles/2018-03-18-the-data-that-turned-the-world.md` — mismatch
+  - detail: The Data That Turned the World Upside Down
+  - current: `2018-03-18-the-data-that-turned-the-world.md`
+  - expected: `2018-03-18-the-data-that-turned-the-world-upside-down.md`
+- `sources/consumed/articles/2018-03-20-in-praise-of-tender-masculinity-the.md` — mismatch
+  - detail: In Praise of Tender Masculinity, the New Non-Toxic Way to Be a Man - Electric Literature
+  - current: `2018-03-20-in-praise-of-tender-masculinity-the.md`
+  - expected: `2018-03-20-in-praise-of-tender-masculinity-the-new-non-toxic-way-to-be-a-man-electric-literature.md`
+- `sources/consumed/articles/2018-03-31-academic-research-is-publicly-funded---.md` — mismatch
+  - detail: Academic research is publicly funded -- why isn't it publicly available?
+  - current: `2018-03-31-academic-research-is-publicly-funded---.md`
+  - expected: `2018-03-31-academic-research-is-publicly-funded-why-isn-t-it-publicly-available.md`
+- `sources/consumed/articles/2018-04-01-when-will-britain-face-up-to.md` — mismatch
+  - detail: When will Britain face up to its crimes against humanity?
+  - current: `2018-04-01-when-will-britain-face-up-to.md`
+  - expected: `2018-04-01-when-will-britain-face-up-to-its-crimes-against-humanity.md`
+- `sources/consumed/articles/2018-04-02-the-gig-economy-celebrates-working-yourself.md` — mismatch
+  - detail: The Gig Economy Celebrates Working Yourself to Death
+  - current: `2018-04-02-the-gig-economy-celebrates-working-yourself.md`
+  - expected: `2018-04-02-the-gig-economy-celebrates-working-yourself-to-death.md`
+- `sources/consumed/articles/2018-04-06-five-years-in-the-effects-of.md` — mismatch
+  - detail: Five years in: The effects of legalization in Colorado and Washington state - Lift News
+  - current: `2018-04-06-five-years-in-the-effects-of.md`
+  - expected: `2018-04-06-five-years-in-the-effects-of-legalization-in-colorado-and-washington-state-lift-news.md`
+- `sources/consumed/articles/2018-04-06-opioid-use-lower-in-states-that.md` — mismatch
+  - detail: Opioid Use Lower In States That Eased Marijuana Laws
+  - current: `2018-04-06-opioid-use-lower-in-states-that.md`
+  - expected: `2018-04-06-opioid-use-lower-in-states-that-eased-marijuana-laws.md`
+- `sources/consumed/articles/2018-04-15-lena-andersson-eventuella-hot-mot-demokratin.md` — mismatch
+  - detail: Lena Andersson: Eventuella hot mot demokratin kommer inifrån dess avarter
+  - current: `2018-04-15-lena-andersson-eventuella-hot-mot-demokratin.md`
+  - expected: `2018-04-15-lena-andersson-eventuella-hot-mot-demokratin-kommer-inifran-dess-avarter.md`
+- `sources/consumed/articles/2018-04-16-how-one-man-convinced-200-ku.md` — mismatch
+  - detail: How One Man Convinced 200 Ku Klux Klan Members To Give Up Their Robes
+  - current: `2018-04-16-how-one-man-convinced-200-ku.md`
+  - expected: `2018-04-16-how-one-man-convinced-200-ku-klux-klan-members-to-give-up-their-robes.md`
+- `sources/consumed/articles/2018-04-19-amazoncom.md` — mismatch
+  - detail: Amazon.com
+  - current: `2018-04-19-amazoncom.md`
+  - expected: `2018-04-19-amazon-com.md`
+- `sources/consumed/articles/2018-04-21-whataboutism---wikipedia.md` — mismatch
+  - detail: Whataboutism - Wikipedia
+  - current: `2018-04-21-whataboutism---wikipedia.md`
+  - expected: `2018-04-21-whataboutism-wikipedia.md`
+- `sources/consumed/articles/2018-04-25-desert-island-economics.md` — ok
+  - detail: Desert Island Economics
+  - current: `2018-04-25-desert-island-economics.md`
+  - expected: `2018-04-25-desert-island-economics.md`
+- `sources/consumed/articles/2018-04-26-en-kort-introduktion-till-ett-absolut.md` — mismatch
+  - detail: En kort introduktion till ett absolut mörker
+  - current: `2018-04-26-en-kort-introduktion-till-ett-absolut.md`
+  - expected: `2018-04-26-en-kort-introduktion-till-ett-absolut-morker.md`
+- `sources/consumed/articles/2018-04-28-scientific-method---wikipedia.md` — mismatch
+  - detail: Scientific method - Wikipedia
+  - current: `2018-04-28-scientific-method---wikipedia.md`
+  - expected: `2018-04-28-scientific-method-wikipedia.md`
+- `sources/consumed/articles/2018-05-01-electronics-recycling-innovator-is-going-to-prison.md` — mismatch
+  - detail: Electronics-recycling innovator is going to prison for trying to extend computers' lives
+  - current: `2018-05-01-electronics-recycling-innovator-is-going-to-prison.md`
+  - expected: `2018-05-01-electronics-recycling-innovator-is-going-to-prison-for-trying-to-extend-computers-lives.md`
+- `sources/consumed/articles/2018-05-07-how-larry-harvey-the-founder-of.md` — mismatch
+  - detail: How Larry Harvey, the Founder of Burning Man, Taught America to Experiment
+  - current: `2018-05-07-how-larry-harvey-the-founder-of.md`
+  - expected: `2018-05-07-how-larry-harvey-the-founder-of-burning-man-taught-america-to-experiment.md`
+- `sources/consumed/articles/2018-05-15-lisa-magnusson-alldeles-for-manga-tjanar.md` — mismatch
+  - detail: Lisa Magnusson: Alldeles för många tjänar på en hungrig bostadsmarknad - DN.SE
+  - current: `2018-05-15-lisa-magnusson-alldeles-for-manga-tjanar.md`
+  - expected: `2018-05-15-lisa-magnusson-alldeles-for-manga-tjanar-pa-en-hungrig-bostadsmarknad-dn-se.md`
+- `sources/consumed/articles/2018-05-23-study-gas-taxes-are-six-times.md` — mismatch
+  - detail: Study: Gas taxes are six times as effective as stricter fuel-economy standards
+  - current: `2018-05-23-study-gas-taxes-are-six-times.md`
+  - expected: `2018-05-23-study-gas-taxes-are-six-times-as-effective-as-stricter-fuel-economy-standards.md`
+- `sources/consumed/articles/2018-05-29-ayurveda---wikipedia.md` — mismatch
+  - detail: Ayurveda - Wikipedia
+  - current: `2018-05-29-ayurveda---wikipedia.md`
+  - expected: `2018-05-29-ayurveda-wikipedia.md`
+- `sources/consumed/articles/2018-05-29-on-the-new-york-times-and.md` — mismatch
+  - detail: On the New York Times and “Enforced Monogamy”
+  - current: `2018-05-29-on-the-new-york-times-and.md`
+  - expected: `2018-05-29-on-the-new-york-times-and-enforced-monogamy.md`
+- `sources/consumed/articles/2018-05-29-this-map-shows-the-us-really.md` — mismatch
+  - detail: This map shows the US really has 11 separate 'nations' with entirely different cultures
+  - current: `2018-05-29-this-map-shows-the-us-really.md`
+  - expected: `2018-05-29-this-map-shows-the-us-really-has-11-separate-nations-with-entirely-different-cultures.md`
+- `sources/consumed/articles/2018-05-30-i-was-jordan-petersons-strongest-supporter.md` — mismatch
+  - detail: I was Jordan Peterson’s strongest supporter. Now I think he’s dangerous
+  - current: `2018-05-30-i-was-jordan-petersons-strongest-supporter.md`
+  - expected: `2018-05-30-i-was-jordan-petersons-strongest-supporter-now-i-think-hes-dangerous.md`
+- `sources/consumed/articles/2018-06-01-seniors-are-more-conservative-because-the.md` — mismatch
+  - detail: Seniors Are More Conservative Because the Poor Die Off
+  - current: `2018-06-01-seniors-are-more-conservative-because-the.md`
+  - expected: `2018-06-01-seniors-are-more-conservative-because-the-poor-die-off.md`
+- `sources/consumed/articles/2018-06-06-joel-halldorf-vem-vill-do-och.md` — mismatch
+  - detail: JOEL HALLDORF: Vem vill dö och döda för Sverige?
+  - current: `2018-06-06-joel-halldorf-vem-vill-do-och.md`
+  - expected: `2018-06-06-joel-halldorf-vem-vill-do-och-doda-for-sverige.md`
+- `sources/consumed/articles/2018-06-18-peoples-egos-get-bigger-after-meditation.md` — mismatch
+  - detail: People’s egos get bigger after meditation and yoga, says a new study
+  - current: `2018-06-18-peoples-egos-get-bigger-after-meditation.md`
+  - expected: `2018-06-18-peoples-egos-get-bigger-after-meditation-and-yoga-says-a-new-study.md`
+- `sources/consumed/articles/2018-07-01-fintan-otoole-trial-runs-for-fascism.md` — mismatch
+  - detail: Fintan O’Toole: Trial runs for fascism are in full flow
+  - current: `2018-07-01-fintan-otoole-trial-runs-for-fascism.md`
+  - expected: `2018-07-01-fintan-otoole-trial-runs-for-fascism-are-in-full-flow.md`
+- `sources/consumed/articles/2018-07-02-meat-and-dairy-production.md` — ok
+  - detail: Meat and Dairy Production
+  - current: `2018-07-02-meat-and-dairy-production.md`
+  - expected: `2018-07-02-meat-and-dairy-production.md`
+- `sources/consumed/articles/2018-07-08-survival-of-the-richest.md` — ok
+  - detail: Survival of the Richest
+  - current: `2018-07-08-survival-of-the-richest.md`
+  - expected: `2018-07-08-survival-of-the-richest.md`
+- `sources/consumed/articles/2018-07-11-roland-paulsen-vad-far-det-egentligen.md` — mismatch
+  - detail: Roland Paulsen: Vad får det egentligen kosta att rädda ett människoliv?
+  - current: `2018-07-11-roland-paulsen-vad-far-det-egentligen.md`
+  - expected: `2018-07-11-roland-paulsen-vad-far-det-egentligen-kosta-att-radda-ett-manniskoliv.md`
+- `sources/consumed/articles/2018-07-11-shanzhai---wikipedia.md` — mismatch
+  - detail: Shanzhai - Wikipedia
+  - current: `2018-07-11-shanzhai---wikipedia.md`
+  - expected: `2018-07-11-shanzhai-wikipedia.md`
+- `sources/consumed/articles/2018-07-30-the-guardian-view-on-the-fight.md` — mismatch
+  - detail: The Guardian view on the fight against fake news: neutrality is not an option | Editorial
+  - current: `2018-07-30-the-guardian-view-on-the-fight.md`
+  - expected: `2018-07-30-the-guardian-view-on-the-fight-against-fake-news-neutrality-is-not-an-option-editorial.md`
+- `sources/consumed/articles/2018-07-31-can-artificial-intelligence-predict-religious-violence.md` — ok
+  - detail: Can Artificial Intelligence Predict Religious Violence?
+  - current: `2018-07-31-can-artificial-intelligence-predict-religious-violence.md`
+  - expected: `2018-07-31-can-artificial-intelligence-predict-religious-violence.md`
+- `sources/consumed/articles/2018-07-31-fargtyper-inte-battre-an-horoskop-hrbloggense.md` — mismatch
+  - detail: Färgtyper inte bättre än horoskop | HRbloggen.se |
+  - current: `2018-07-31-fargtyper-inte-battre-an-horoskop-hrbloggense.md`
+  - expected: `2018-07-31-fargtyper-inte-battre-an-horoskop-hrbloggen-se.md`
+- `sources/consumed/articles/2018-08-06-the-explosive-carrying-drones-in-venezuela-wont.md` — mismatch
+  - detail: The Explosive-Carrying Drones in Venezuela Won't Be the Last
+  - current: `2018-08-06-the-explosive-carrying-drones-in-venezuela-wont.md`
+  - expected: `2018-08-06-the-explosive-carrying-drones-in-venezuela-won-t-be-the-last.md`
+- `sources/consumed/articles/2018-08-08-when-bots-teach-themselves-to-cheat.md` — ok
+  - detail: When Bots Teach Themselves to Cheat
+  - current: `2018-08-08-when-bots-teach-themselves-to-cheat.md`
+  - expected: `2018-08-08-when-bots-teach-themselves-to-cheat.md`
+- `sources/consumed/articles/2018-08-08-why-we-need-to-challenge-the.md` — mismatch
+  - detail: Why We Need to Challenge the Culture of Monogamy
+  - current: `2018-08-08-why-we-need-to-challenge-the.md`
+  - expected: `2018-08-08-why-we-need-to-challenge-the-culture-of-monogamy.md`
+- `sources/consumed/articles/2018-08-10-the-economist-democracy-index---wikipedia.md` — mismatch
+  - detail: The Economist Democracy Index - Wikipedia
+  - current: `2018-08-10-the-economist-democracy-index---wikipedia.md`
+  - expected: `2018-08-10-the-economist-democracy-index-wikipedia.md`
+- `sources/consumed/articles/2018-08-14-varfor-later-vi-oss-skrammas-av.md` — mismatch
+  - detail: Varför låter vi oss skrämmas av påhittad brottsstatistik?
+  - current: `2018-08-14-varfor-later-vi-oss-skrammas-av.md`
+  - expected: `2018-08-14-varfor-later-vi-oss-skrammas-av-pahittad-brottsstatistik.md`
+- `sources/consumed/articles/2018-08-18-ida-olmedal-ett-barn-skulle-nog.md` — mismatch
+  - detail: IDA ÖLMEDAL: Ett barn skulle nog göra det här bättre, SVT
+  - current: `2018-08-18-ida-olmedal-ett-barn-skulle-nog.md`
+  - expected: `2018-08-18-ida-olmedal-ett-barn-skulle-nog-gora-det-har-battre-svt.md`
+- `sources/consumed/articles/2018-08-21-is-the-staggeringly-profitable-business-of.md` — mismatch
+  - detail: Is the staggeringly profitable business of scientific publishing bad for science?
+  - current: `2018-08-21-is-the-staggeringly-profitable-business-of.md`
+  - expected: `2018-08-21-is-the-staggeringly-profitable-business-of-scientific-publishing-bad-for-science.md`
+- `sources/consumed/articles/2018-08-24-cctv-increases-peoples-sense-of-anxiety.md` — mismatch
+  - detail: CCTV increases people's sense of anxiety
+  - current: `2018-08-24-cctv-increases-peoples-sense-of-anxiety.md`
+  - expected: `2018-08-24-cctv-increases-people-s-sense-of-anxiety.md`
+- `sources/consumed/articles/2018-08-31-when-respect-for-diversity-is-taken.md` — mismatch
+  - detail: When respect for diversity is taken to crazy extremes
+  - current: `2018-08-31-when-respect-for-diversity-is-taken.md`
+  - expected: `2018-08-31-when-respect-for-diversity-is-taken-to-crazy-extremes.md`
+- `sources/consumed/articles/2018-09-05-debattinlagg-dags-for-en-etisk-atgard.md` — mismatch
+  - detail: Debattinlägg: ”Dags för en etisk åtgärd – avkriminalisera alla droger”
+  - current: `2018-09-05-debattinlagg-dags-for-en-etisk-atgard.md`
+  - expected: `2018-09-05-debattinlagg-dags-for-en-etisk-atgard-avkriminalisera-alla-droger.md`
+- `sources/consumed/articles/2018-09-06-how-to-outcompete-capitalism---metamoderna.md` — mismatch
+  - detail: How to Outcompete Capitalism? - Metamoderna
+  - current: `2018-09-06-how-to-outcompete-capitalism---metamoderna.md`
+  - expected: `2018-09-06-how-to-outcompete-capitalism-metamoderna.md`
+- `sources/consumed/articles/2018-09-10-people-might-be-getting-the-swedish.md` — mismatch
+  - detail: People Might Be Getting the Swedish Elections All Wrong
+  - current: `2018-09-10-people-might-be-getting-the-swedish.md`
+  - expected: `2018-09-10-people-might-be-getting-the-swedish-elections-all-wrong.md`
+- `sources/consumed/articles/2018-09-12-emanuel-karlsten-varre-an-man-kunnat.md` — mismatch
+  - detail: Emanuel Karlsten: 'Värre än man kunnat föreställa sig – jag är chockad
+  - current: `2018-09-12-emanuel-karlsten-varre-an-man-kunnat.md`
+  - expected: `2018-09-12-emanuel-karlsten-varre-an-man-kunnat-forestalla-sig-jag-ar-chockad.md`
+- `sources/consumed/articles/2018-09-14-forskare-alliansen-och-finanskrisen-orsak-till.md` — mismatch
+  - detail: Forskare: Alliansen och finanskrisen orsak till SD:s framgång
+  - current: `2018-09-14-forskare-alliansen-och-finanskrisen-orsak-till.md`
+  - expected: `2018-09-14-forskare-alliansen-och-finanskrisen-orsak-till-sd-s-framgang.md`
+- `sources/consumed/articles/2018-09-14-lisa-magnusson-nu-ar-det-slut.md` — mismatch
+  - detail: Lisa Magnusson: Nu är det slut med internets kreativa kultur - DN.SE
+  - current: `2018-09-14-lisa-magnusson-nu-ar-det-slut.md`
+  - expected: `2018-09-14-lisa-magnusson-nu-ar-det-slut-med-internets-kreativa-kultur-dn-se.md`
+- `sources/consumed/articles/2018-09-30-burning-man-mitt-i-oknen-brinner.md` — mismatch
+  - detail: Burning Man – mitt i öknen brinner kreativiteten
+  - current: `2018-09-30-burning-man-mitt-i-oknen-brinner.md`
+  - expected: `2018-09-30-burning-man-mitt-i-oknen-brinner-kreativiteten.md`
+- `sources/consumed/articles/2018-10-02-cidade-limpa---wikipedia.md` — mismatch
+  - detail: Cidade Limpa - Wikipedia
+  - current: `2018-10-02-cidade-limpa---wikipedia.md`
+  - expected: `2018-10-02-cidade-limpa-wikipedia.md`
+- `sources/consumed/articles/2018-10-02-clean-city-law-secrets-of-sao.md` — mismatch
+  - detail: Clean City Law: Secrets of São Paulo Uncovered by Outdoor Advertising Ban - 99% Invisible
+  - current: `2018-10-02-clean-city-law-secrets-of-sao.md`
+  - expected: `2018-10-02-clean-city-law-secrets-of-sao-paulo-uncovered-by-outdoor-advertising-ban-99-invisible.md`
+- `sources/consumed/articles/2018-10-10-red-brain-blue-brain.md` — ok
+  - detail: Red Brain, Blue Brain
+  - current: `2018-10-10-red-brain-blue-brain.md`
+  - expected: `2018-10-10-red-brain-blue-brain.md`
+- `sources/consumed/articles/2018-10-14-dissonans.md` — ok
+  - detail: Dissonans
+  - current: `2018-10-14-dissonans.md`
+  - expected: `2018-10-14-dissonans.md`
+- `sources/consumed/articles/2018-10-23-elbilsexporten-i-siffror.md` — ok
+  - detail: Elbilsexporten i siffror
+  - current: `2018-10-23-elbilsexporten-i-siffror.md`
+  - expected: `2018-10-23-elbilsexporten-i-siffror.md`
+- `sources/consumed/articles/2018-10-24-wtc-911---femton-ar-efter.md` — mismatch
+  - detail: WTC 911 - Femton år efter 11 september 2001 - Var står vi idag? - NewsVoice
+  - current: `2018-10-24-wtc-911---femton-ar-efter.md`
+  - expected: `2018-10-24-wtc-911-femton-ar-efter-11-september-2001-var-star-vi-idag-newsvoice.md`
+- `sources/consumed/articles/2018-10-25-older-people-are-worse-than-young.md` — mismatch
+  - detail: Older People Are Worse Than Young People at Telling Fact From Opinion
+  - current: `2018-10-25-older-people-are-worse-than-young.md`
+  - expected: `2018-10-25-older-people-are-worse-than-young-people-at-telling-fact-from-opinion.md`
+- `sources/consumed/articles/2018-10-29-perspective-brazils-version-of-trump-makes.md` — mismatch
+  - detail: Perspective | Brazil’s version of Trump makes Trump look like Mr. Rogers
+  - current: `2018-10-29-perspective-brazils-version-of-trump-makes.md`
+  - expected: `2018-10-29-perspective-brazils-version-of-trump-makes-trump-look-like-mr-rogers.md`
+- `sources/consumed/articles/2018-11-04-the-eus-link-tax-will-kill.md` — mismatch
+  - detail: The EU's Link Tax Will Kill Open Access and Creative Commons News
+  - current: `2018-11-04-the-eus-link-tax-will-kill.md`
+  - expected: `2018-11-04-the-eu-s-link-tax-will-kill-open-access-and-creative-commons-news.md`
+- `sources/consumed/articles/2018-11-05-why-whatsapp-became-a-hotbed-for.md` — mismatch
+  - detail: Why WhatsApp Became a Hotbed for Rumors and Lies in Brazil
+  - current: `2018-11-05-why-whatsapp-became-a-hotbed-for.md`
+  - expected: `2018-11-05-why-whatsapp-became-a-hotbed-for-rumors-and-lies-in-brazil.md`
+- `sources/consumed/articles/2018-11-08-gratis-knark-en-succe-men-otankbart.md` — mismatch
+  - detail: Gratis knark en succé – men otänkbart i Sverige
+  - current: `2018-11-08-gratis-knark-en-succe-men-otankbart.md`
+  - expected: `2018-11-08-gratis-knark-en-succe-men-otankbart-i-sverige.md`
+- `sources/consumed/articles/2018-11-12-what-if-the-placebo-effect-isnt.md` — mismatch
+  - detail: What if the Placebo Effect Isn’t a Trick? (Published 2018)
+  - current: `2018-11-12-what-if-the-placebo-effect-isnt.md`
+  - expected: `2018-11-12-what-if-the-placebo-effect-isnt-a-trick-published-2018.md`
+- `sources/consumed/articles/2018-11-14-children-arent-worth-very-muchthats-why.md` — mismatch
+  - detail: Children aren’t worth very much—that’s why we no longer make many
+  - current: `2018-11-14-children-arent-worth-very-muchthats-why.md`
+  - expected: `2018-11-14-children-arent-worth-very-muchthats-why-we-no-longer-make-many.md`
+- `sources/consumed/articles/2018-11-25-fact-check-did-einstein-say-he.md` — mismatch
+  - detail: FACT CHECK: Did Einstein Say He Feared Technology Would Create a 'Generation of Idiots'?
+  - current: `2018-11-25-fact-check-did-einstein-say-he.md`
+  - expected: `2018-11-25-fact-check-did-einstein-say-he-feared-technology-would-create-a-generation-of-idiots.md`
+- `sources/consumed/articles/2018-11-27-lat-foretagen-valja-vilka-som-ska.md` — mismatch
+  - detail: ”Låt företagen välja vilka som ska sägas upp” | SvD Debatt
+  - current: `2018-11-27-lat-foretagen-valja-vilka-som-ska.md`
+  - expected: `2018-11-27-lat-foretagen-valja-vilka-som-ska-sagas-upp-svd-debatt.md`
+- `sources/consumed/articles/2018-12-06-leaderless-leadership-at-the-nordic-burn.md` — mismatch
+  - detail: Leaderless Leadership at the Nordic Burn — Eamon Armstrong
+  - current: `2018-12-06-leaderless-leadership-at-the-nordic-burn.md`
+  - expected: `2018-12-06-leaderless-leadership-at-the-nordic-burn-eamon-armstrong.md`
+- `sources/consumed/articles/2018-12-13-inside-alex-vartmans-the-new-tantra.md` — mismatch
+  - detail: Inside Alex Vartman's 'The New Tantra
+  - current: `2018-12-13-inside-alex-vartmans-the-new-tantra.md`
+  - expected: `2018-12-13-inside-alex-vartman-s-the-new-tantra.md`
+- `sources/consumed/articles/2018-12-29-resources-for-decentralised-organising---hackmd.md` — mismatch
+  - detail: Resources for decentralised organising - HackMD
+  - current: `2018-12-29-resources-for-decentralised-organising---hackmd.md`
+  - expected: `2018-12-29-resources-for-decentralised-organising-hackmd.md`
+- `sources/consumed/articles/2019-01-02-arets-forvillare-2018.md` — ok
+  - detail: Årets förvillare 2018
+  - current: `2019-01-02-arets-forvillare-2018.md`
+  - expected: `2019-01-02-arets-forvillare-2018.md`
+- `sources/consumed/articles/2019-01-04-what-psychology-experiments-tell-you-about.md` — mismatch
+  - detail: What psychology experiments tell you about why people deny facts
+  - current: `2019-01-04-what-psychology-experiments-tell-you-about.md`
+  - expected: `2019-01-04-what-psychology-experiments-tell-you-about-why-people-deny-facts.md`
+- `sources/consumed/articles/2019-01-20-a-neomasculist-defence-of-gillette--.md` — mismatch
+  - detail: A Neomasculist Defence of Gillette - Metamoderna
+  - current: `2019-01-20-a-neomasculist-defence-of-gillette--.md`
+  - expected: `2019-01-20-a-neomasculist-defence-of-gillette-metamoderna.md`
+- `sources/consumed/articles/2019-01-25-johan-norberg-kritiken-mot-hans-rosling.md` — mismatch
+  - detail: Johan Norberg: Kritiken mot Hans Rosling bygger på en karikatyr
+  - current: `2019-01-25-johan-norberg-kritiken-mot-hans-rosling.md`
+  - expected: `2019-01-25-johan-norberg-kritiken-mot-hans-rosling-bygger-pa-en-karikatyr.md`
+- `sources/consumed/articles/2019-02-16-karlsten-de-som-fattat-beslutet-vet.md` — mismatch
+  - detail: Karlsten: De som fattat beslutet vet knappt vad de har röstat på
+  - current: `2019-02-16-karlsten-de-som-fattat-beslutet-vet.md`
+  - expected: `2019-02-16-karlsten-de-som-fattat-beslutet-vet-knappt-vad-de-har-rostat-pa.md`
+- `sources/consumed/articles/2019-02-23-electromagnetic-hypersensitivity---wikipedia.md` — mismatch
+  - detail: Electromagnetic hypersensitivity - Wikipedia
+  - current: `2019-02-23-electromagnetic-hypersensitivity---wikipedia.md`
+  - expected: `2019-02-23-electromagnetic-hypersensitivity-wikipedia.md`
+- `sources/consumed/articles/2019-02-23-fake-views-kontrasten-mellan-visionsbilder-och.md` — mismatch
+  - detail: Fake views – Kontrasten mellan visionsbilder och verklighet
+  - current: `2019-02-23-fake-views-kontrasten-mellan-visionsbilder-och.md`
+  - expected: `2019-02-23-fake-views-kontrasten-mellan-visionsbilder-och-verklighet.md`
+- `sources/consumed/articles/2019-03-02-exxonmobil-gambles-on-growth.md` — ok
+  - detail: ExxonMobil gambles on growth
+  - current: `2019-03-02-exxonmobil-gambles-on-growth.md`
+  - expected: `2019-03-02-exxonmobil-gambles-on-growth.md`
+- `sources/consumed/articles/2019-03-02-we-the-people-and-the-republic.md` — mismatch
+  - detail: We the People, and the Republic we must reclaim
+  - current: `2019-03-02-we-the-people-and-the-republic.md`
+  - expected: `2019-03-02-we-the-people-and-the-republic-we-must-reclaim.md`
+- `sources/consumed/articles/2019-03-02-yuval-noah-harari-the-myth-of.md` — mismatch
+  - detail: Yuval Noah Harari: the myth of freedom
+  - current: `2019-03-02-yuval-noah-harari-the-myth-of.md`
+  - expected: `2019-03-02-yuval-noah-harari-the-myth-of-freedom.md`
+- `sources/consumed/articles/2019-03-09-indy-johar---democratizing-cities.md` — mismatch
+  - detail: Indy Johar - Democratizing cities
+  - current: `2019-03-09-indy-johar---democratizing-cities.md`
+  - expected: `2019-03-09-indy-johar-democratizing-cities.md`
+- `sources/consumed/articles/2019-03-22-erik-helmerson-den-forappade-generationen.md` — ok
+  - detail: Erik Helmerson: Den förappade generationen
+  - current: `2019-03-22-erik-helmerson-den-forappade-generationen.md`
+  - expected: `2019-03-22-erik-helmerson-den-forappade-generationen.md`
+- `sources/consumed/articles/2019-04-02-debattinlagg-ordningsomdomen-ar-fel-vag-for.md` — mismatch
+  - detail: Debattinlägg: ”Ordningsomdömen är fel väg för skolan”
+  - current: `2019-04-02-debattinlagg-ordningsomdomen-ar-fel-vag-for.md`
+  - expected: `2019-04-02-debattinlagg-ordningsomdomen-ar-fel-vag-for-skolan.md`
+- `sources/consumed/articles/2019-04-15-medier-och-politiker-vaknade-for-sent.md` — mismatch
+  - detail: Medier och politiker vaknade för sent – därför har vi Upphovsrättsdirektivet
+  - current: `2019-04-15-medier-och-politiker-vaknade-for-sent.md`
+  - expected: `2019-04-15-medier-och-politiker-vaknade-for-sent-darfor-har-vi-upphovsrattsdirektivet.md`
+- `sources/consumed/articles/2019-04-17-damberg-s-saknar-respekt-for-rattsstaten.md` — ok
+  - detail: Damberg (S) saknar respekt för rättsstaten
+  - current: `2019-04-17-damberg-s-saknar-respekt-for-rattsstaten.md`
+  - expected: `2019-04-17-damberg-s-saknar-respekt-for-rattsstaten.md`
+- `sources/consumed/articles/2019-04-17-historical-jesus---wikipedia.md` — mismatch
+  - detail: Historical Jesus - Wikipedia
+  - current: `2019-04-17-historical-jesus---wikipedia.md`
+  - expected: `2019-04-17-historical-jesus-wikipedia.md`
+- `sources/consumed/articles/2019-04-20-the-pigs-were-dead-but-four.md` — mismatch
+  - detail: The pigs were dead. But four hours later, scientists restored cellular functions in their brains
+  - current: `2019-04-20-the-pigs-were-dead-but-four.md`
+  - expected: `2019-04-20-the-pigs-were-dead-but-four-hours-later-scientists-restored-cellular-functions-in-their-brains.md`
+- `sources/consumed/articles/2019-04-21-the-debate-of-the-century-what.md` — mismatch
+  - detail: The 'debate of the century': what happened when Jordan Peterson debated Slavoj Žižek
+  - current: `2019-04-21-the-debate-of-the-century-what.md`
+  - expected: `2019-04-21-the-debate-of-the-century-what-happened-when-jordan-peterson-debated-slavoj-zizek.md`
+- `sources/consumed/articles/2019-05-01-facken-satter-kappar-i-hjulet-for.md` — mismatch
+  - detail: Facken sätter käppar i hjulet för arbetskraftsinvandring | SvD
+  - current: `2019-05-01-facken-satter-kappar-i-hjulet-for.md`
+  - expected: `2019-05-01-facken-satter-kappar-i-hjulet-for-arbetskraftsinvandring-svd.md`
+- `sources/consumed/articles/2019-05-13-valdtaktsmyten.md` — ok
+  - detail: Våldtäktsmyten
+  - current: `2019-05-13-valdtaktsmyten.md`
+  - expected: `2019-05-13-valdtaktsmyten.md`
+- `sources/consumed/articles/2019-05-26-land-value-tax---wikipedia.md` — mismatch
+  - detail: Land value tax - Wikipedia
+  - current: `2019-05-26-land-value-tax---wikipedia.md`
+  - expected: `2019-05-26-land-value-tax-wikipedia.md`
+- `sources/consumed/articles/2019-05-31-the-north-face-used-wikipedia-to.md` — mismatch
+  - detail: The North Face used Wikipedia to climb to the top of Google search results
+  - current: `2019-05-31-the-north-face-used-wikipedia-to.md`
+  - expected: `2019-05-31-the-north-face-used-wikipedia-to-climb-to-the-top-of-google-search-results.md`
+- `sources/consumed/articles/2019-06-13-heres-what-happened-in-the-21.md` — mismatch
+  - detail: Here's What Happened in The 21 Years Since GM Crops Were First Planted in Spain
+  - current: `2019-06-13-heres-what-happened-in-the-21.md`
+  - expected: `2019-06-13-here-s-what-happened-in-the-21-years-since-gm-crops-were-first-planted-in-spain.md`
+- `sources/consumed/articles/2019-06-20-we-dont-say-how-we-really.md` — mismatch
+  - detail: We don't say how we really feel, and how this makes social change frequent, abrupt & unpredictable
+  - current: `2019-06-20-we-dont-say-how-we-really.md`
+  - expected: `2019-06-20-we-don-t-say-how-we-really-feel-and-how-this-makes-social-change-frequent-abrupt-and-unpredictable.md`
+- `sources/consumed/articles/2019-06-25-vi-forsorjer-fyllon-och-filosofer-socialpolitikcom.md` — mismatch
+  - detail: ”Vi försörjer fyllon och filosofer” – socialpolitik.com
+  - current: `2019-06-25-vi-forsorjer-fyllon-och-filosofer-socialpolitikcom.md`
+  - expected: `2019-06-25-vi-forsorjer-fyllon-och-filosofer-socialpolitik-com.md`
+- `sources/consumed/articles/2019-07-04-haveriet-om-greta-thunberg-och-talararvoden.md` — ok
+  - detail: Haveriet om Greta Thunberg och talararvoden
+  - current: `2019-07-04-haveriet-om-greta-thunberg-och-talararvoden.md`
+  - expected: `2019-07-04-haveriet-om-greta-thunberg-och-talararvoden.md`
+- `sources/consumed/articles/2019-07-06-the-exceptional-cruelty-of-a-no-hugging.md` — mismatch
+  - detail: The Exceptional Cruelty of a No-Hugging Policy
+  - current: `2019-07-06-the-exceptional-cruelty-of-a-no-hugging.md`
+  - expected: `2019-07-06-the-exceptional-cruelty-of-a-no-hugging-policy.md`
+- `sources/consumed/articles/2019-07-10-debatt-forsakringskassan-saboterar-for-lakare-svd.md` — ok
+  - detail: DEBATT: ”Försäkringskassan saboterar för läkare” | SvD
+  - current: `2019-07-10-debatt-forsakringskassan-saboterar-for-lakare-svd.md`
+  - expected: `2019-07-10-debatt-forsakringskassan-saboterar-for-lakare-svd.md`
+- `sources/consumed/articles/2019-07-10-spiders-can-fly-hundreds-of-miles.md` — mismatch
+  - detail: Spiders Can Fly Hundreds of Miles Using Electricity
+  - current: `2019-07-10-spiders-can-fly-hundreds-of-miles.md`
+  - expected: `2019-07-10-spiders-can-fly-hundreds-of-miles-using-electricity.md`
+- `sources/consumed/articles/2019-07-15-ringhals-nedstangning-kan-oka-utslappen-med.md` — mismatch
+  - detail: Ringhals nedstängning kan öka utsläppen med flera miljoner ton
+  - current: `2019-07-15-ringhals-nedstangning-kan-oka-utslappen-med.md`
+  - expected: `2019-07-15-ringhals-nedstangning-kan-oka-utslappen-med-flera-miljoner-ton.md`
+- `sources/consumed/articles/2019-07-21-the-lesson-from-the-ruins-of.md` — mismatch
+  - detail: The lesson from the ruins of Notre Dame: don’t rely on billionaires | Aditya Chakrabortty
+  - current: `2019-07-21-the-lesson-from-the-ruins-of.md`
+  - expected: `2019-07-21-the-lesson-from-the-ruins-of-notre-dame-dont-rely-on-billionaires-aditya-chakrabortty.md`
+- `sources/consumed/articles/2019-07-24-the-mindfulness-conspiracy-podcast.md` — ok
+  - detail: The mindfulness conspiracy – podcast
+  - current: `2019-07-24-the-mindfulness-conspiracy-podcast.md`
+  - expected: `2019-07-24-the-mindfulness-conspiracy-podcast.md`
+- `sources/consumed/articles/2019-08-15-socioeconomic-status-and-substance-use-among.md` — mismatch
+  - detail: Socioeconomic Status and Substance Use Among Young Adults: A Comparison Across Constructs and Drugs
+  - current: `2019-08-15-socioeconomic-status-and-substance-use-among.md`
+  - expected: `2019-08-15-socioeconomic-status-and-substance-use-among-young-adults-a-comparison-across-constructs-and-drugs.md`
+- `sources/consumed/articles/2019-08-25-jbs-the-brazilian-butchers-who-took.md` — mismatch
+  - detail: JBS: The Brazilian butchers who took over the world
+  - current: `2019-08-25-jbs-the-brazilian-butchers-who-took.md`
+  - expected: `2019-08-25-jbs-the-brazilian-butchers-who-took-over-the-world.md`
+- `sources/consumed/articles/2019-09-02-carl-johan-von-seth-skenande-skuldproblem.md` — mismatch
+  - detail: Carl Johan von Seth: Skenande skuldproblem i låglånelandet Sverige - DN.SE
+  - current: `2019-09-02-carl-johan-von-seth-skenande-skuldproblem.md`
+  - expected: `2019-09-02-carl-johan-von-seth-skenande-skuldproblem-i-laglanelandet-sverige-dn-se.md`
+- `sources/consumed/articles/2019-09-05-elin-i-horsnas-wikipedia.md` — ok
+  - detail: Elin i Horsnäs – Wikipedia
+  - current: `2019-09-05-elin-i-horsnas-wikipedia.md`
+  - expected: `2019-09-05-elin-i-horsnas-wikipedia.md`
+- `sources/consumed/articles/2019-09-05-witch-word---wikipedia.md` — mismatch
+  - detail: Witch (word) - Wikipedia
+  - current: `2019-09-05-witch-word---wikipedia.md`
+  - expected: `2019-09-05-witch-word-wikipedia.md`
+- `sources/consumed/articles/2019-09-11-nyfikenhetsleken---gustaf-tadaa.md` — mismatch
+  - detail: Nyfikenhetsleken - Gustaf Tadaa
+  - current: `2019-09-11-nyfikenhetsleken---gustaf-tadaa.md`
+  - expected: `2019-09-11-nyfikenhetsleken-gustaf-tadaa.md`
+- `sources/consumed/articles/2019-09-12-brexit-disaster-capitalism-8-billion-bet.md` — mismatch
+  - detail: Brexit Disaster Capitalism: £8 Billion Bet on No Deal Crash-Out by Boris Johnson's Leave Backers
+  - current: `2019-09-12-brexit-disaster-capitalism-8-billion-bet.md`
+  - expected: `2019-09-12-brexit-disaster-capitalism-8-billion-bet-on-no-deal-crash-out-by-boris-johnson-s-leave-backers.md`
+- `sources/consumed/articles/2019-11-03-amazoncom.md` — mismatch
+  - detail: Amazon.com
+  - current: `2019-11-03-amazoncom.md`
+  - expected: `2019-11-03-amazon-com.md`
+- `sources/consumed/articles/2019-11-18-absolutely-no-mercy-leaked-files-expose.md` — mismatch
+  - detail: ‘Absolutely No Mercy’: Leaked Files Expose How China Organized Mass Detentions of Muslims (Published 2019)
+  - current: `2019-11-18-absolutely-no-mercy-leaked-files-expose.md`
+  - expected: `2019-11-18-absolutely-no-mercy-leaked-files-expose-how-china-organized-mass-detentions-of-muslims-published-2019.md`
+- `sources/consumed/articles/2019-12-19-lisa-magnusson-friskolorna-maste-kunna-granskas.md` — ok
+  - detail: Lisa Magnusson: Friskolorna måste kunna granskas
+  - current: `2019-12-19-lisa-magnusson-friskolorna-maste-kunna-granskas.md`
+  - expected: `2019-12-19-lisa-magnusson-friskolorna-maste-kunna-granskas.md`
+- `sources/consumed/articles/2020-03-11-poes-law---wikipedia.md` — mismatch
+  - detail: Poe's law - Wikipedia
+  - current: `2020-03-11-poes-law---wikipedia.md`
+  - expected: `2020-03-11-poe-s-law-wikipedia.md`
+- `sources/consumed/articles/2020-03-26-calling-bullshit-misleading-axes.md` — ok
+  - detail: Calling Bullshit: Misleading Axes
+  - current: `2020-03-26-calling-bullshit-misleading-axes.md`
+  - expected: `2020-03-26-calling-bullshit-misleading-axes.md`
+- `sources/consumed/articles/2020-04-09-no-lockdown-please-were-swedish.md` — ok
+  - detail: No lockdown, please, we’re Swedish
+  - current: `2020-04-09-no-lockdown-please-were-swedish.md`
+  - expected: `2020-04-09-no-lockdown-please-were-swedish.md`
+- `sources/consumed/articles/2020-04-29-economics-of-money-and-banking.md` — ok
+  - detail: Economics of Money and Banking
+  - current: `2020-04-29-economics-of-money-and-banking.md`
+  - expected: `2020-04-29-economics-of-money-and-banking.md`
+- `sources/consumed/articles/2020-05-01-the-swedish-exception.md` — ok
+  - detail: The Swedish Exception?
+  - current: `2020-05-01-the-swedish-exception.md`
+  - expected: `2020-05-01-the-swedish-exception.md`
+- `sources/consumed/articles/2020-05-04-fejkdokumentaren-som-rakade-bli-en-riktig.md` — mismatch
+  - detail: Fejkdokumentären som råkade bli en riktig konspirationsteori
+  - current: `2020-05-04-fejkdokumentaren-som-rakade-bli-en-riktig.md`
+  - expected: `2020-05-04-fejkdokumentaren-som-rakade-bli-en-riktig-konspirationsteori.md`
+- `sources/consumed/articles/2020-05-09-why-its-important-to-push-back.md` — mismatch
+  - detail: Why It’s Important To Push Back On ‘Plandemic’—And How To Do It
+  - current: `2020-05-09-why-its-important-to-push-back.md`
+  - expected: `2020-05-09-why-its-important-to-push-back-on-plandemicand-how-to-do-it.md`
+- `sources/consumed/articles/2020-05-24-how-the-world-butchered-benjamin-franklins.md` — mismatch
+  - detail: How The World Butchered Benjamin Franklin's Quote On Liberty Vs. Security | TechCrunch
+  - current: `2020-05-24-how-the-world-butchered-benjamin-franklins.md`
+  - expected: `2020-05-24-how-the-world-butchered-benjamin-franklin-s-quote-on-liberty-vs-security-techcrunch.md`
+- `sources/consumed/articles/2020-05-26-overcast.md` — ok
+  - detail: Overcast
+  - current: `2020-05-26-overcast.md`
+  - expected: `2020-05-26-overcast.md`
+- `sources/consumed/articles/2020-07-01-episode-136-hannah-arendt---the.md` — mismatch
+  - detail: Episode #136 … Hannah Arendt - The Banality of Evil — Philosophize This!
+  - current: `2020-07-01-episode-136-hannah-arendt---the.md`
+  - expected: `2020-07-01-episode-136-hannah-arendt-the-banality-of-evil-philosophize-this.md`
+- `sources/consumed/articles/2020-07-15-fertility-rate-jaw-dropping-global-crash-in.md` — mismatch
+  - detail: Fertility rate: 'Jaw-dropping' global crash in children being born
+  - current: `2020-07-15-fertility-rate-jaw-dropping-global-crash-in.md`
+  - expected: `2020-07-15-fertility-rate-jaw-dropping-global-crash-in-children-being-born.md`
+- `sources/consumed/articles/2020-08-24-universal-basic-income-gains-momentum-in.md` — mismatch
+  - detail: Universal basic income gains momentum in America
+  - current: `2020-08-24-universal-basic-income-gains-momentum-in.md`
+  - expected: `2020-08-24-universal-basic-income-gains-momentum-in-america.md`
+- `sources/consumed/articles/2020-08-27-revisionist-history-podcast---malcolm-gladwell.md` — mismatch
+  - detail: Revisionist History Podcast - Malcolm Gladwell Podcast - Pushkin Industries
+  - current: `2020-08-27-revisionist-history-podcast---malcolm-gladwell.md`
+  - expected: `2020-08-27-revisionist-history-podcast-malcolm-gladwell-podcast-pushkin-industries.md`
+- `sources/consumed/articles/2020-09-11-twenty-four-years-later-911-conspiracies-persist.md` — mismatch
+  - detail: Twenty-Four Years Later, 9/11 Conspiracies Persist. The Real Science Ends the Debate.
+  - current: `2020-09-11-twenty-four-years-later-911-conspiracies-persist.md`
+  - expected: `2020-09-11-twenty-four-years-later-9-11-conspiracies-persist-the-real-science-ends-the-debate.md`
+- `sources/consumed/articles/2020-11-28-hur-gar-det-i-skolan-ingen.md` — mismatch
+  - detail: Hur går det i skolan? Ingen vet, för det är hemligstämplat
+  - current: `2020-11-28-hur-gar-det-i-skolan-ingen.md`
+  - expected: `2020-11-28-hur-gar-det-i-skolan-ingen-vet-for-det-ar-hemligstamplat.md`
+- `sources/consumed/articles/2021-04-08-sustainable-business-canvas.md` — ok
+  - detail: Sustainable Business Canvas
+  - current: `2021-04-08-sustainable-business-canvas.md`
+  - expected: `2021-04-08-sustainable-business-canvas.md`
+- `sources/consumed/articles/2021-04-12-har-huggs-skog-ner-for-att.md` — mismatch
+  - detail: Här huggs skog ner för att värma svenska hem
+  - current: `2021-04-12-har-huggs-skog-ner-for-att.md`
+  - expected: `2021-04-12-har-huggs-skog-ner-for-att-varma-svenska-hem.md`
+- `sources/consumed/articles/2021-04-12-poes-law---wikipedia.md` — mismatch
+  - detail: Poe's law - Wikipedia
+  - current: `2021-04-12-poes-law---wikipedia.md`
+  - expected: `2021-04-12-poe-s-law-wikipedia.md`
+- `sources/consumed/articles/2021-04-13-ryktet-om-tafsardagen-dumforklarar-bade-dig.md` — mismatch
+  - detail: Ryktet om 'tafsardagen' dumförklarar både dig och ditt barn - Källkritikbyrån
+  - current: `2021-04-13-ryktet-om-tafsardagen-dumforklarar-bade-dig.md`
+  - expected: `2021-04-13-ryktet-om-tafsardagen-dumforklarar-bade-dig-och-ditt-barn-kallkritikbyran.md`
+- `sources/consumed/articles/2021-05-01-excess-mortality-during-the-coronavirus-pandemic.md` — mismatch
+  - detail: Excess mortality during the Coronavirus pandemic (COVID-19)
+  - current: `2021-05-01-excess-mortality-during-the-coronavirus-pandemic.md`
+  - expected: `2021-05-01-excess-mortality-during-the-coronavirus-pandemic-covid-19.md`
+- `sources/consumed/articles/2021-05-04-general-chapmans-last-stand-revisionist-history.md` — ok
+  - detail: General Chapman’s Last Stand | Revisionist History
+  - current: `2021-05-04-general-chapmans-last-stand-revisionist-history.md`
+  - expected: `2021-05-04-general-chapmans-last-stand-revisionist-history.md`
+- `sources/consumed/articles/2021-06-28-where-arguments-come-from---the.md` — mismatch
+  - detail: Where Arguments Come From - The Consilience Project
+  - current: `2021-06-28-where-arguments-come-from---the.md`
+  - expected: `2021-06-28-where-arguments-come-from-the-consilience-project.md`
+- `sources/consumed/articles/2021-07-06-poes-law---wikipedia.md` — mismatch
+  - detail: Poe's law - Wikipedia
+  - current: `2021-07-06-poes-law---wikipedia.md`
+  - expected: `2021-07-06-poe-s-law-wikipedia.md`
+- `sources/consumed/articles/2021-07-06-wikipediareliable-sourcesnoticeboardarchive-220---wikipedia.md` — mismatch
+  - detail: Wikipedia:Reliable sources/Noticeboard/Archive 220 - Wikipedia
+  - current: `2021-07-06-wikipediareliable-sourcesnoticeboardarchive-220---wikipedia.md`
+  - expected: `2021-07-06-wikipedia-reliable-sources-noticeboard-archive-220-wikipedia.md`
+- `sources/consumed/articles/2021-07-11-eu-withheld-a-study-that-shows.md` — mismatch
+  - detail: EU withheld a study that shows piracy doesn't hurt sales - Engadget
+  - current: `2021-07-11-eu-withheld-a-study-that-shows.md`
+  - expected: `2021-07-11-eu-withheld-a-study-that-shows-piracy-doesn-t-hurt-sales-engadget.md`
+- `sources/consumed/articles/2021-08-18-afghans-are-racing-to-erase-their.md` — mismatch
+  - detail: Afghans are racing to erase their online lives
+  - current: `2021-08-18-afghans-are-racing-to-erase-their.md`
+  - expected: `2021-08-18-afghans-are-racing-to-erase-their-online-lives.md`
+- `sources/consumed/articles/2021-09-30-the-perils-of-an-xyz-domain.md` — ok
+  - detail: The Perils of an .xyz Domain
+  - current: `2021-09-30-the-perils-of-an-xyz-domain.md`
+  - expected: `2021-09-30-the-perils-of-an-xyz-domain.md`
+- `sources/consumed/articles/2021-12-31-living-wages-rarity-for-us-fast-food.md` — mismatch
+  - detail: Living Wages, Rarity for U.S. Fast-Food Workers, Served Up in Denmark (Published 2014)
+  - current: `2021-12-31-living-wages-rarity-for-us-fast-food.md`
+  - expected: `2021-12-31-living-wages-rarity-for-u-s-fast-food-workers-served-up-in-denmark-published-2014.md`
+- `sources/consumed/articles/2022-01-11-excess-mortality-deaths-from-all-causes.md` — mismatch
+  - detail: Excess mortality: Deaths from all causes compared to projection
+  - current: `2022-01-11-excess-mortality-deaths-from-all-causes.md`
+  - expected: `2022-01-11-excess-mortality-deaths-from-all-causes-compared-to-projection.md`
+- `sources/consumed/articles/2022-02-26-peter-englund-putins-overfall-pa-ukraina.md` — mismatch
+  - detail: Peter Englund: Putins överfall på Ukraina är inte uttryck för ett obegripligt vanvett – där finns en logik
+  - current: `2022-02-26-peter-englund-putins-overfall-pa-ukraina.md`
+  - expected: `2022-02-26-peter-englund-putins-overfall-pa-ukraina-ar-inte-uttryck-for-ett-obegripligt-vanvett-dar-finns-en-logik.md`
+- `sources/consumed/articles/2022-03-08-peter-englund-putins-overfall-pa-ukraina.md` — mismatch
+  - detail: Peter Englund: Putins överfall på Ukraina är inte uttryck för ett obegripligt vanvett – där finns en logik
+  - current: `2022-03-08-peter-englund-putins-overfall-pa-ukraina.md`
+  - expected: `2022-03-08-peter-englund-putins-overfall-pa-ukraina-ar-inte-uttryck-for-ett-obegripligt-vanvett-dar-finns-en-logik.md`
+- `sources/consumed/articles/2022-03-19-children-of-men-is-really-happening.md` — ok
+  - detail: Children of Men' is really happening
+  - current: `2022-03-19-children-of-men-is-really-happening.md`
+  - expected: `2022-03-19-children-of-men-is-really-happening.md`
+- `sources/consumed/articles/2022-08-03-five-reasons-why-absurdly-improbable-things.md` — mismatch
+  - detail: Five Reasons Why Absurdly Improbable Things Happen All the Time
+  - current: `2022-08-03-five-reasons-why-absurdly-improbable-things.md`
+  - expected: `2022-08-03-five-reasons-why-absurdly-improbable-things-happen-all-the-time.md`
+- `sources/consumed/articles/2022-09-26-a-metaverse-without-customers.md` — ok
+  - detail: A Metaverse Without Customers
+  - current: `2022-09-26-a-metaverse-without-customers.md`
+  - expected: `2022-09-26-a-metaverse-without-customers.md`
+- `sources/consumed/articles/2022-12-06-how-mckinsey-helps-companies-avoid-responsibility.md` — ok
+  - detail: How McKinsey Helps Companies Avoid Responsibility
+  - current: `2022-12-06-how-mckinsey-helps-companies-avoid-responsibility.md`
+  - expected: `2022-12-06-how-mckinsey-helps-companies-avoid-responsibility.md`
+- `sources/consumed/articles/2022-12-06-laleh-khalili-in-clover-what-does.md` — mismatch
+  - detail: Laleh Khalili · In Clover: What does McKinsey do?
+  - current: `2022-12-06-laleh-khalili-in-clover-what-does.md`
+  - expected: `2022-12-06-laleh-khalili-in-clover-what-does-mckinsey-do.md`
+- `sources/consumed/articles/2023-01-24-r1-reaktor-wikipedia.md` — ok
+  - detail: R1 (reaktor) – Wikipedia
+  - current: `2023-01-24-r1-reaktor-wikipedia.md`
+  - expected: `2023-01-24-r1-reaktor-wikipedia.md`
+- `sources/consumed/articles/2023-02-04-solving-the-cube-root-of-19683.md` — mismatch
+  - detail: Solving the cube root of 19,683 mentally
+  - current: `2023-02-04-solving-the-cube-root-of-19683.md`
+  - expected: `2023-02-04-solving-the-cube-root-of-19-683-mentally.md`
+- `sources/consumed/articles/2023-02-13-economics-of-the-roman-army--.md` — mismatch
+  - detail: Economics of the Roman army - Wikipedia
+  - current: `2023-02-13-economics-of-the-roman-army--.md`
+  - expected: `2023-02-13-economics-of-the-roman-army-wikipedia.md`
+- `sources/consumed/articles/2023-02-27-the-covid-lab-leak-theory-is.md` — mismatch
+  - detail: The COVID lab leak theory is dead. Here’s how we know the virus came from a Wuhan market
+  - current: `2023-02-27-the-covid-lab-leak-theory-is.md`
+  - expected: `2023-02-27-the-covid-lab-leak-theory-is-dead-heres-how-we-know-the-virus-came-from-a-wuhan-market.md`
+- `sources/consumed/articles/2023-02-27-the-evidence-remains-clear-sars-cov-2-emerged.md` — mismatch
+  - detail: The evidence remains clear: SARS-CoV-2 emerged via the wildlife trade | PNAS
+  - current: `2023-02-27-the-evidence-remains-clear-sars-cov-2-emerged.md`
+  - expected: `2023-02-27-the-evidence-remains-clear-sars-cov-2-emerged-via-the-wildlife-trade-pnas.md`
+- `sources/consumed/articles/2023-06-12-finanskrisen-i-sverige-19901994-wikipedia.md` — ok
+  - detail: Finanskrisen i Sverige 1990–1994 – Wikipedia
+  - current: `2023-06-12-finanskrisen-i-sverige-19901994-wikipedia.md`
+  - expected: `2023-06-12-finanskrisen-i-sverige-19901994-wikipedia.md`
+- `sources/consumed/articles/2023-06-12-martin-hagglund-sommar-vinter-i-p1.md` — mismatch
+  - detail: Martin Hägglund | Sommar & Vinter i P1 | Sveriges Radio
+  - current: `2023-06-12-martin-hagglund-sommar-vinter-i-p1.md`
+  - expected: `2023-06-12-martin-hagglund-sommar-and-vinter-i-p1-sveriges-radio.md`
+- `sources/consumed/articles/2023-06-18-the-work-from-home-future-is-destroying-bosses.md` — mismatch
+  - detail: The Work-From-Home Future Is Destroying Bosses' Brains
+  - current: `2023-06-18-the-work-from-home-future-is-destroying-bosses.md`
+  - expected: `2023-06-18-the-work-from-home-future-is-destroying-bosses-brains.md`
+- `sources/consumed/articles/2023-10-28-bankernas-overvinster-symtom-pa-att-nagot.md` — mismatch
+  - detail: Bankernas övervinster symtom på att något är sjukt
+  - current: `2023-10-28-bankernas-overvinster-symtom-pa-att-nagot.md`
+  - expected: `2023-10-28-bankernas-overvinster-symtom-pa-att-nagot-ar-sjukt.md`
+- `sources/consumed/articles/2023-11-16-finite-and-infinite-games---wikipedia.md` — mismatch
+  - detail: Finite and Infinite Games - Wikipedia
+  - current: `2023-11-16-finite-and-infinite-games---wikipedia.md`
+  - expected: `2023-11-16-finite-and-infinite-games-wikipedia.md`
+- `sources/consumed/articles/2024-01-15-influence-of-seasonal-birth-in-humans.md` — mismatch
+  - detail: Influence of seasonal birth in humans - Wikipedia
+  - current: `2024-01-15-influence-of-seasonal-birth-in-humans.md`
+  - expected: `2024-01-15-influence-of-seasonal-birth-in-humans-wikipedia.md`
+- `sources/consumed/articles/2024-01-15-relative-age-effect---wikipedia.md` — mismatch
+  - detail: Relative age effect - Wikipedia
+  - current: `2024-01-15-relative-age-effect---wikipedia.md`
+  - expected: `2024-01-15-relative-age-effect-wikipedia.md`
+- `sources/consumed/articles/2024-06-18-at-29-he-miraculously-survived-both.md` — mismatch
+  - detail: At 29, He Miraculously Survived Both Atomic Bombings. He Didn’t Talk About It for Decades
+  - current: `2024-06-18-at-29-he-miraculously-survived-both.md`
+  - expected: `2024-06-18-at-29-he-miraculously-survived-both-atomic-bombings-he-didnt-talk-about-it-for-decades.md`
+- `sources/consumed/articles/2024-12-21-the-ghosts-in-the-machine-by.md` — mismatch
+  - detail: The Ghosts in the Machine, by Liz Pelly
+  - current: `2024-12-21-the-ghosts-in-the-machine-by.md`
+  - expected: `2024-12-21-the-ghosts-in-the-machine-by-liz-pelly.md`
+- `sources/consumed/articles/2024-12-23-the-ghosts-in-the-machine-by.md` — mismatch
+  - detail: The Ghosts in the Machine, by Liz Pelly
+  - current: `2024-12-23-the-ghosts-in-the-machine-by.md`
+  - expected: `2024-12-23-the-ghosts-in-the-machine-by-liz-pelly.md`
+- `sources/consumed/articles/2025-04-05-what-if-we-made-advertising-illegal.md` — ok
+  - detail: What If We Made Advertising Illegal?
+  - current: `2025-04-05-what-if-we-made-advertising-illegal.md`
+  - expected: `2025-04-05-what-if-we-made-advertising-illegal.md`
+- `sources/consumed/articles/2025-07-16-vilka-har-egentligen-osvenska-varderingar-mohamsson.md` — ok
+  - detail: Vilka har egentligen osvenska värderingar, Mohamsson?
+  - current: `2025-07-16-vilka-har-egentligen-osvenska-varderingar-mohamsson.md`
+  - expected: `2025-07-16-vilka-har-egentligen-osvenska-varderingar-mohamsson.md`
+- `sources/consumed/articles/2026-01-06-kristofer-ahlstrom-julen-fick-mig-att.md` — mismatch
+  - detail: Kristofer Ahlström: Julen fick mig att inse hur skärmberoende boomers är
+  - current: `2026-01-06-kristofer-ahlstrom-julen-fick-mig-att.md`
+  - expected: `2026-01-06-kristofer-ahlstrom-julen-fick-mig-att-inse-hur-skarmberoende-boomers-ar.md`
+- `sources/consumed/articles/2026-03-02-tystnadens-arkitektur---nedmoneteringen-av-pressfrihet.md` — mismatch
+  - detail: Tystnadens arkitektur - nedmoneteringen av pressfrihet i USA under Trump
+  - current: `2026-03-02-tystnadens-arkitektur---nedmoneteringen-av-pressfrihet.md`
+  - expected: `2026-03-02-tystnadens-arkitektur-nedmoneteringen-av-pressfrihet-i-usa-under-trump.md`
+- `sources/consumed/articles/2026-03-16-researchers-asked-llms-for-strategic-advice-they-got-trendslop-in-return.md` — mismatch
+  - detail: Researchers Asked LLMs for Strategic Advice. They Got “Trendslop” in Return.
+  - current: `2026-03-16-researchers-asked-llms-for-strategic-advice-they-got-trendslop-in-return.md`
+  - expected: `2026-06-16-researchers-asked-llms-for-strategic-advice-they-got-trendslop-in-return.md`
+- `sources/consumed/articles/2026-04-02-linkedin-is-illegally-searching-your-computer.md` — ok
+  - detail: LinkedIn Is Illegally Searching Your Computer
+  - current: `2026-04-02-linkedin-is-illegally-searching-your-computer.md`
+  - expected: `2026-04-02-linkedin-is-illegally-searching-your-computer.md`
+- `sources/consumed/articles/2026-04-16-streaming-platforms-give-us-access-to.md` — mismatch
+  - detail: Streaming platforms give us access to new music, so why are fewer people listening to it?
+  - current: `2026-04-16-streaming-platforms-give-us-access-to.md`
+  - expected: `2026-04-16-streaming-platforms-give-us-access-to-new-music-so-why-are-fewer-people-listening-to-it.md`
+- `sources/consumed/articles/2026-05-21-eric-church-instagram-reel-belonging-roots.md` — mismatch
+  - detail: Eric Church Instagram reel on belonging and roots
+  - current: `2026-05-21-eric-church-instagram-reel-belonging-roots.md`
+  - expected: `2026-05-21-eric-church-instagram-reel-on-belonging-and-roots.md`
+- `sources/consumed/articles/2026-06-15-kan-en-ai-gora-dig-sjuk-om-ai-psykos-och-hur-ny-teknik-vacker-gamla-vanforestallningar.md` — ok
+  - detail: Kan en AI göra dig sjuk? Om AI-psykos och hur ny teknik väcker gamla vanföreställningar
+  - current: `2026-06-15-kan-en-ai-gora-dig-sjuk-om-ai-psykos-och-hur-ny-teknik-vacker-gamla-vanforestallningar.md`
+  - expected: `2026-06-15-kan-en-ai-gora-dig-sjuk-om-ai-psykos-och-hur-ny-teknik-vacker-gamla-vanforestallningar.md`
+- `sources/consumed/articles/50 Rhetorical Devices for Rational Writing.md` — mismatch
+  - detail: 50 Rhetorical Devices for Rational Writing
+  - current: `50 Rhetorical Devices for Rational Writing.md`
+  - expected: `2013-04-24-50-rhetorical-devices-for-rational-writing.md`
+- `sources/consumed/articles/ExxonMobil gambles on growth.md` — mismatch
+  - detail: ExxonMobil gambles on growth
+  - current: `ExxonMobil gambles on growth.md`
+  - expected: `2019-03-02-exxonmobil-gambles-on-growth.md`
+- `sources/consumed/articles/Glastak med allt större sprickor.md` — mismatch
+  - detail: Glastak med allt större sprickor
+  - current: `Glastak med allt större sprickor.md`
+  - expected: `2017-11-23-glastak-med-allt-storre-sprickor.md`
+- `sources/consumed/articles/Oh, the places you'll go!.md` — mismatch
+  - detail: Oh, the Places You'll Go!
+  - current: `Oh, the places you'll go!.md`
+  - expected: `2017-09-09-oh-the-places-you-ll-go.md`
+- `sources/consumed/articles/Peter Englund Klart att detta är en ödesstund för oss alla - DN.SE.md` — mismatch
+  - detail: Peter Englund Klart att detta är en ödesstund för oss alla - DN.SE
+  - current: `Peter Englund Klart att detta är en ödesstund för oss alla - DN.SE.md`
+  - expected: `2026-05-13-peter-englund-klart-att-detta-ar-en-odesstund-for-oss-alla-dn-se.md`
+- `sources/consumed/articles/Robert M. Goldman future predictions.md` — mismatch
+  - detail: Robert M. Goldman future predictions
+  - current: `Robert M. Goldman future predictions.md`
+  - expected: `2016-06-04-robert-m-goldman-future-predictions.md`
+- `sources/consumed/articles/There are cemeteries that are lonely,.md` — mismatch
+  - detail: There are cemeteries that are lonely,
+  - current: `There are cemeteries that are lonely,.md`
+  - expected: `2020-06-06-there-are-cemeteries-that-are-lonely.md`
+- `sources/consumed/articles/Tim Minchin.md` — mismatch
+  - detail: Tim Minchin
+  - current: `Tim Minchin.md`
+  - expected: `2013-10-01-tim-minchin.md`
+- `sources/consumed/articles/Untitled Note (40).md` — mismatch
+  - detail: Untitled Note
+  - current: `Untitled Note (40).md`
+  - expected: `2010-05-11-untitled-note.md`
+- `sources/consumed/articles/agent-psychosis-are-we-going-insane.md` — mismatch
+  - detail: Agent Psychosis: Are We Going Insane?
+  - current: `agent-psychosis-are-we-going-insane.md`
+  - expected: `2026-01-18-agent-psychosis-are-we-going-insane.md`
+- `sources/consumed/articles/ai-is-slowing-down.md` — mismatch
+  - detail: AI Is Slowing Down
+  - current: `ai-is-slowing-down.md`
+  - expected: `2026-06-08-ai-is-slowing-down.md`
+- `sources/consumed/articles/ai-washing-firms-are-scrambling-to-rebrand-themselves-as-tech-focused.md` — mismatch
+  - detail: ‘AI washing’: firms are scrambling to rebrand themselves as tech-focused
+  - current: `ai-washing-firms-are-scrambling-to-rebrand-themselves-as-tech-focused.md`
+  - expected: `2026-05-24-ai-washing-firms-are-scrambling-to-rebrand-themselves-as-tech-focused.md`
+- `sources/consumed/articles/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos.md` — mismatch
+  - detail: CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs
+  - current: `ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos.md`
+  - expected: `2026-06-09-ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos.md`
+- `sources/consumed/articles/gammal federley blogg html.md` — mismatch
+  - detail: gammal federley blogg html
+  - current: `gammal federley blogg html.md`
+  - expected: `2014-03-16-gammal-federley-blogg-html.md`
+- `sources/consumed/articles/jensen-huang-engineers-250k-tokens.md` — error
+  - detail: missing canonical date
+  - current: `jensen-huang-engineers-250k-tokens.md`
+- `sources/consumed/articles/minds-in-crisis-ai-impact-on-mental-health.md` — mismatch
+  - detail: Minds in Crisis: How the AI Revolution is Impacting Mental Health
+  - current: `minds-in-crisis-ai-impact-on-mental-health.md`
+  - expected: `2025-09-05-minds-in-crisis-how-the-ai-revolution-is-impacting-mental-health.md`
+- `sources/consumed/articles/no-artificial-intelligence-is-not-conscious.md` — mismatch
+  - detail: No, Artificial Intelligence Is Not Conscious
+  - current: `no-artificial-intelligence-is-not-conscious.md`
+  - expected: `2026-06-07-no-artificial-intelligence-is-not-conscious.md`
+- `sources/consumed/articles/sycophancy-artificial-intelligence.md` — mismatch
+  - detail: Sycophancy (artificial intelligence)
+  - current: `sycophancy-artificial-intelligence.md`
+  - expected: `2026-05-26-sycophancy-artificial-intelligence.md`
+- `sources/consumed/articles/the-dead-economy-theory.md` — mismatch
+  - detail: The Dead Economy Theory
+  - current: `the-dead-economy-theory.md`
+  - expected: `2026-05-29-the-dead-economy-theory.md`
+- `sources/consumed/articles/the-last-technical-interview 2.md` — mismatch
+  - detail: The Last Technical Interview
+  - current: `the-last-technical-interview 2.md`
+  - expected: `2026-05-30-the-last-technical-interview.md`
+- `sources/consumed/articles/the-last-technical-interview.md` — mismatch
+  - detail: The Last Technical Interview
+  - current: `the-last-technical-interview.md`
+  - expected: `2026-05-30-the-last-technical-interview.md`
+- `sources/consumed/articles/the-onlyfans-economy-of-american-ai.md` — mismatch
+  - detail: The OnlyFans Economy of American AI
+  - current: `the-onlyfans-economy-of-american-ai.md`
+  - expected: `2026-06-06-the-onlyfans-economy-of-american-ai.md`
+- `sources/consumed/articles/uber-burned-through-its-2026-ai-budget.md` — mismatch
+  - detail: Uber burned through its entire 2026 AI budget in four months. Now its COO is questioning whether it's worth it
+  - current: `uber-burned-through-its-2026-ai-budget.md`
+  - expected: `2026-05-26-uber-burned-through-its-entire-2026-ai-budget-in-four-months-now-its-coo-is-questioning-whether-it-s-worth-it.md`
+- `sources/consumed/articles/when-ai-builds-itself.md` — mismatch
+  - detail: When AI builds itself
+  - current: `when-ai-builds-itself.md`
+  - expected: `2026-06-07-when-ai-builds-itself.md`
+- `sources/consumed/articles/your-ceo-is-suffering-from-ai-psychosis.md` — mismatch
+  - detail: Your CEO is suffering from AI psychosis
+  - current: `your-ceo-is-suffering-from-ai-psychosis.md`
+  - expected: `2026-04-15-your-ceo-is-suffering-from-ai-psychosis.md`
+- `sources/consumed/articles/”Feminiserade storstäder dominerar snart världen” - DN.SE.md` — mismatch
+  - detail: ”Feminiserade storstäder dominerar snart världen” - DN.SE
+  - current: `”Feminiserade storstäder dominerar snart världen” - DN.SE.md`
+  - expected: `2017-11-23-feminiserade-storstader-dominerar-snart-varlden-dn-se.md`
