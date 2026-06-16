@@ -1,0 +1,113 @@
+{
+  "skip": {
+    "2020-01-hello-world.md": "WordPress default placeholder post — no real content"
+  },
+  "duplicates": {
+    "2010-06-today-i-did-this-to-save-the-world.md": "Today I did this to save the world..md",
+    "2010-04-be-different.md": "Be different.md",
+    "2010-02-superzappare-och-gigonomics.md": "Superzappare och Gigonomics.md",
+    "2010-02-socialt-entreprenorskap.md": "Socialt Entreprenörskap.md"
+  },
+  "new": {
+    "2012-03-framtiden-ar-enkel-att-prata-om.md": {
+      "lang": "sv",
+      "summary": "Bloggstafett-inlägg om framtiden: Gustaf gör två antaganden (genmanipulerade människor och datorer kraftfullare än hjärnan inom 10–30 år) och argumenterar att tekniken gör människan ekonomiskt överflödig, vilket tvingar oss att fråga vad meningen med livet är.",
+      "tags": ["future", "philosophy", "meaning", "transhumanism", "automation", "singularity", "blog"]
+    },
+    "2011-10-min-uppvaxt-som-sarbegavad.md": {
+      "lang": "sv",
+      "summary": "Självbiografiskt inlägg där Gustaf för första gången beskriver sig som särbegåvad och berättar om sin konfliktfyllda skolgång — bråk, skolk, hackade nätverk och en lärare (Micke) som lät honom utvecklas på egen hand.",
+      "tags": ["biography", "education", "psychology", "blog"]
+    },
+    "2010-07-arbetsgivarna-saknar-kompetens.md": {
+      "lang": "sv",
+      "summary": "Andra delen i serien om ungdomsarbetslöshet: arbetsgivarna saknar inte unga med kompetens — de saknar själva kompetensen att anställa och leda unga. Föreslår arbetsgivarutbildningar.",
+      "tags": ["youth-unemployment", "labor-market", "leadership", "blog"]
+    },
+    "2010-07-arbetsgivarna-ar-for-gamla.md": {
+      "lang": "sv",
+      "summary": "Första delen i serien om ungdomsarbetslöshet: Sverige har näst minst unga chefer i Europa och 'lika anställer lika' stänger ute unga. Efterlyser fler unga i beslutsfattande positioner.",
+      "tags": ["youth-unemployment", "labor-market", "leadership", "diversity", "blog"]
+    },
+    "2010-07-arbetslosa-entreprenorer.md": {
+      "lang": "sv",
+      "summary": "Kritik mot att starta-eget-bidrag villkoras av arbetslöshet: bidraget är en tillväxtåtgärd, inte en arbetsmarknadsåtgärd, och borde ligga under Tillväxtverket som såddfinansiering. Entreprenörskap löser arbetslöshet, men de arbetslösa bör inte vara entreprenörerna.",
+      "tags": ["entrepreneurship", "swedish-politics", "labor-market", "blog"]
+    },
+    "2010-07-entreprenorspolitik.md": {
+      "lang": "sv",
+      "summary": "Kort inlägg från Almedalen: näringslivsfrågor handlar egentligen om attitydförändring och skolpolitik, inte om arbetsgivaravgifter.",
+      "tags": ["entrepreneurship", "swedish-politics", "almedalen", "blog"]
+    },
+    "2010-06-emax-denna-oas-av-drivkraft.md": {
+      "lang": "sv",
+      "summary": "Inspirationsinlägg till deltagarna på entreprenörsveckan Emax: fyra budskap — alla människor är vanliga människor, gör det du älskar, stå på dig, var ödmjuk.",
+      "tags": ["entrepreneurship", "youth", "blog"]
+    },
+    "2010-06-sverige-kan-bli-bast-i-varlden-pa-ungt-entreprenorskap.md": {
+      "lang": "sv",
+      "summary": "Debattartikel (Newsmill) signerad av Gustaf och 50 unga entreprenörer: Sverige rankas lågt i ungt entreprenörskap trots att det aldrig varit enklare att starta företag; lösningen är fokus, långsiktighet och att faktiskt köpa unga företagares tjänster.",
+      "tags": ["entrepreneurship", "yeos", "youth", "swedish-politics", "blog"]
+    },
+    "2010-05-vad-kul-det-ar-med-ungas-ideer.md": {
+      "lang": "sv",
+      "summary": "Gästinlägg för MyMission om ungas idéer: Sverige är bland de sämsta i Europa på ungt entreprenörskap; tre tips till äldre — bli (och låt dig bli) mentor, blanda inte ihop 'olik' med 'sämre', våga anställa någon för att hon är ung.",
+      "tags": ["entrepreneurship", "youth", "blog"]
+    },
+    "2010-04-30-kanda-profiler-ger-stod-till-entreprenorskapstavling.md": {
+      "lang": "sv",
+      "summary": "Pressrelease från Entreprenörsjakten: över 30 svenska profiler (bl.a. Anders Borg, Jens Spendrup, Sven Hagströmer) ger sitt stöd till de tävlande. Tävlingen sätter människan, inte idén, i fokus.",
+      "tags": ["entreprenorsjakten", "pressrelease", "entrepreneurship", "pr", "blog"]
+    },
+    "2010-03-folk-maste-fa-gora-fel.md": {
+      "lang": "sv",
+      "summary": "Replik kring SvD:s artikelserie om unga och jobben: det är illusionen av krångliga regler och pengabrist — spridd av politiker, lobbyorganisationer och tidningar — som hindrar unga från att starta, inte verkligheten. Sverige behöver färre förstudier och fler 'görstudier'.",
+      "tags": ["entrepreneurship", "risk-perception", "swedish-politics", "blog"]
+    },
+    "2009-12-att-jaga-fjarilar.md": {
+      "lang": "sv",
+      "summary": "Julkalenderinlägg om varför Gustaf lever entreprenöriellt: han beskriver sig som lättdistraherad 'fjärilsjagare' med entreprenörskapsdamp och menar att den kreativa koncentrationssvåra generationen behöver lära sig släppa idéer och lita på andra.",
+      "tags": ["entrepreneurship", "creativity", "psychology", "blog"]
+    },
+    "2009-11-affarsideer-saknar-varde.md": {
+      "lang": "sv",
+      "summary": "Inlägg om att affärsidéer är värdelösa — bara genomförande räknas. Dela med dig av idéer, utgå från vad du själv är bra på, och 'find out what you love doing, then find someone to pay for you to do it'.",
+      "tags": ["entrepreneurship", "ideas", "blog"]
+    },
+    "2009-11-entreprenoriella-sexsymboler.md": {
+      "lang": "sv",
+      "summary": "Rapport från SSES-jubileet Goodmorning 2019: citat från Kjell A Nordström m.fl. och en diskussion om att entreprenörskap måste bli sexigt — som fotboll — för att unga ska vilja bli entreprenörer.",
+      "tags": ["entrepreneurship", "culture", "blog"]
+    },
+    "2009-11-idepedia-och-varldsrekordforsok.md": {
+      "lang": "sv",
+      "summary": "Inlägg inför ett försök att slå världsrekord i idégenerering (365 idéer på 3,65 timmar) för att lansera den fria affärsidé-wikin Idépedia. Entreprenörskap handlar om människor, inte om att skydda idéer.",
+      "tags": ["entrepreneurship", "ideas", "blog"]
+    },
+    "2009-09-entreprenoriellt-snobollskrig.md": {
+      "lang": "sv",
+      "summary": "Vidareutveckling av teorin om entreprenörskapsdamp: simultant företagande i spridda branscher är typiskt för det unga entreprenörskapet. Hyllar Navid Modiris '365 Saker' som ett entreprenöriellt snöbollskrig.",
+      "tags": ["entrepreneurship", "creativity", "blog"]
+    },
+    "2009-04-coolt-med-entreprenorskap.md": {
+      "lang": "sv",
+      "summary": "Inlägg om att entreprenörskap har blivit 'coolt' (The Economist) och att en ny modell vuxit fram bland unga: trial-and-error, prototyp före affärsplan, bootstrapping före riskkapital, människor före resurser.",
+      "tags": ["entrepreneurship", "trends", "blog"]
+    },
+    "2009-01-ar-entreprenorskap-ett-mal-i-sig.md": {
+      "lang": "sv",
+      "summary": "Filosofiskt inlägg: är entreprenörskap ett mål i sig? Gustaf skiljer på pengar som mål och pengar som drivkraft — pengar är en förutsättning, entreprenörskap är äventyrslustan som driver en. 'Målet är ingenting, vägen är allt.'",
+      "tags": ["entrepreneurship", "meaning", "philosophy", "blog"]
+    },
+    "2009-01-entreprenorskapsdamp.md": {
+      "lang": "sv",
+      "summary": "Inlägg där Gustaf myntar uttrycket 'entreprenörskapsdamp' — oförmågan att koncentrera sig på en idé när nya hela tiden poppar upp — och frågar om skolsystemet bara premierar genomförare, inte idégivare.",
+      "tags": ["entrepreneurship", "creativity", "psychology", "blog"]
+    },
+    "2008-12-entreprenorskap-handlar-om-manniskor-inte-ideer.md": {
+      "lang": "sv",
+      "summary": "Grundtanken bakom Entreprenörsjakten: entreprenörskap handlar om människor, inte idéer. VC:er satsar hellre på en fantastisk person med en halvtaskig idé än tvärtom; affärsplanstävlingar tappar bort människan bakom.",
+      "tags": ["entrepreneurship", "ideas", "entreprenorsjakten", "blog"]
+    }
+  }
+}

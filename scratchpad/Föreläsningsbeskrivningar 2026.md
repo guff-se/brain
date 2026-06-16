@@ -6,6 +6,7 @@
 *Psykos är inte att "vara galen".  
 Psykos är det som händer när verkligheten slutar göra motstånd.*
 
+En berättelse om AI, algoritmer och konsten att tänka själv när maskinen aldrig säger nej. En lektion i att prioritera och skapa riktning i en värld där varje dröm lätt kan uppfattas som verklighet.
 ### Lång
 
 *Psykos är inte att "vara galen".  
@@ -15,21 +16,23 @@ Psykos är det som händer när verkligheten slutar göra motstånd.*
 "Ja — vilken fantastisk idé!"
 "Du har helt rätt!"
 
-Den nya generationen digitala verktyg ger oss nya möjligheter att göra drömmar verkliga. Det känns som produktivitet, det känns som framtiden. Vad händer med vanliga människor, företagsledare, politiker eller världsledare som ersätter obekväma kollegor med AI-agenter som älskar allt de gör? Hotet från AI kanske inte ligger i att den ljuger, utan att den håller med?
+Den nya generationen digitala verktyg ger oss nya möjligheter att göra drömmar verkliga. Det känns som produktivitet, det känns som framtiden. Vad händer med vanliga människor, företagsledare, politiker eller världsledare som ersätter obekväma kollegor med AI-agenter som älskar allt de gör? Idag finns hela företag försatta i AI-psykos, oförmögna att se förbi den skönsminkade reflektion av verkligheten som deras algoritmer visar i spegeln.
 
-Denna föreläsning analyserar dagens AI-psykos med en historisk och psykologisk lins. Hur skapar vi "bubblor" för oss själva och hur tar vi oss ur dem?
+Denna föreläsning analyserar dagens AI-psykos med en historisk och psykologisk lins. Hur skapar vi "bubblor" för oss själva och hur tar vi oss ur dem? När blir teknik nyttig för affären? För människan? Eller kanske båda på en gång?
 
-Det är en en berättelse om AI, sykofanti och konsten att tänka själv, när maskinen aldrig säger nej. En lektion i att prioritera och skapa riktning när varje dröm lätt kan uppfattas som verklighet.
+Det är en en berättelse om AI, algoritmer och konsten att tänka själv, när maskinen aldrig säger nej. En lektion i att prioritera och skapa riktning i en värld där varje dröm lätt kan uppfattas som verklighet.
 
 
 ## Organisationer som tänker själva
 
 ### Kort
 
+Hur distribuerar vi beslutsfattande när alla medarbetare har AI-vingar? Hur påverkas makt, beslutsfattande och relationer av digitalisering?
+ 
 Med 20 års erfarenhet av att leda medskapande organisationer, från konstprojekt och Burning Man till open source och start-ups, har Gustaf ett ovanligt perspektiv på vad det betyder att "leda" där alla är "ledare".
 ### Lång
 
-_"Hur förändras arbetsplatsen när maskinerna har egen vilja?"_
+_Hur förändras arbetsplatsen när maskinerna har egen vilja?_
 
 Digitaliseringen var en välsignelse och en förbannelse. AI är båda, fast snabbare. Samma verktyg som ger oss nya sätt att samarbeta bidrar också till informationsöverflöd och förvirring kring roller och beslut. En brandslang som sprutar information och möjligheter i ansiktet på varje medarbetare, varje vaken sekund.
 
@@ -39,7 +42,6 @@ Med 20 års erfarenhet av att leda medskapande organisationer, från konstprojek
 
 En föreläsning om beslut och ansvar när AI gör varje medarbetare snabbare än chefen, och organisationen ändå måste hålla ihop.
 
-
 ## Konsten att äga sin uppmärksamhet
 
 ### Kort
@@ -48,7 +50,7 @@ Mellan inandning och utandning finns ett ögonblick där du faktiskt tänker sj�
 En föreläsning som lugnar pulsen, som sätter fingret på varför långsamhet är en kognitiv tillgång, inte en lyx. 
 ### Lång
 
-*"En föreläsning om mobilberoende, förändringsjakt och känslan av att alltid ligga efter."*
+*En föreläsning om mobilberoende, förändringsjakt och känslan av att alltid ligga efter.*
 
 Mellan inandning och utandning finns ett ögonblick där du faktiskt tänker själv. Det ögonblicket krymper. Varje notis, varje prompt, varje rekommendation tar lite av det. Till slut finns det inget andetag kvar att tänka i.
 

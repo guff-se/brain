@@ -1,5 +1,6 @@
 ---
 title: "Today I did this to save the world."
+url: https://guff.se/en/2010/06/today-i-did-this-to-save-the-world/
 source: evernote
 source_id: "Privat:787"
 evernote_notebook: "Privat"

@@ -1,5 +1,6 @@
 ---
 title: "Socialt Entreprenörskap"
+url: https://guff.se/en/2010/02/socialt-entreprenorskap/
 source: evernote
 source_id: "Entreprenörsjakten:94"
 evernote_notebook: "Entreprenörsjakten"

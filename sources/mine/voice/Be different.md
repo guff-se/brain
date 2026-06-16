@@ -1,5 +1,6 @@
 ---
 title: "Be different"
+url: https://guff.se/en/2010/04/be-different/
 source: evernote
 source_id: "Privat:791"
 evernote_notebook: "Privat"

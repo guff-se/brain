@@ -1,5 +1,6 @@
 ---
 title: "Superzappare och Gigonomics"
+url: https://guff.se/en/2010/02/superzappare-och-gigonomics/
 source: evernote
 source_id: "Entreprenörsjakten:91"
 evernote_notebook: "Entreprenörsjakten"

@@ -1,5 +1,8 @@
 
-##
+## intro
+
+
+## Full bio
 
 Tekniken är inte bara är runt oss. Den är i oss. Den tänker åt oss, väljer åt oss, formulerar åt oss. Vi märker det inte ens.
 
