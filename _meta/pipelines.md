@@ -4,8 +4,9 @@ Each content kind has a defined path from raw capture to compiled concept. This 
 
 ## article (read on web)
 1. Drop URL into `inbox/articles/<slug>.url` (single-line `.url` file containing the URL), OR paste HTML/Markdown into `inbox/articles/<slug>.md`.
-2. Agent skill `ingest`: fetches body (Wayback fallback), writes `sources/consumed/articles/<slug>.md` with frontmatter (`kind: article`, `party: third`, `provenance: extracted`, `url`, `author`, `publication`). Long bodies optionally split to `_longform/`.
-3. `compile`: ideas crystallized from this article + ≥1 other → `wiki/concepts/`.
+2. Agent skill `ingest`: fetches body (Wayback fallback), writes `sources/consumed/articles/YYYY-MM-DD-slug.md` with frontmatter (`kind: article`, `party: third`, `provenance: extracted`, `url`, `author`, `publication`). Date precedence for the filename: `published` → `created` → `captured` → `ingested`. Long bodies optionally split to `_longform/`.
+3. Post-ingest guard: run `_ai/scripts/check_article_filenames.py` against touched article files before commit. If a newly added article does not match `YYYY-MM-DD-slug.md`, rename it before finishing the session. Legacy mismatches elsewhere in the vault are backlog, not a reason to leave a new file inconsistent.
+4. `compile`: ideas crystallized from this article + ≥1 other → `wiki/concepts/`.
 
 ## podcast-episode (third-party, listened)
 1. Drop transcript (`.md` or `.txt`) into `inbox/podcasts/<slug>.md`. Filename does **not** start with `own-`.

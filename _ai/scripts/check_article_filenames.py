@@ -11,7 +11,7 @@ ROOT = Path('/Users/dante/brain')
 ARTICLES_DIR = ROOT / 'sources' / 'consumed' / 'articles'
 REPORT_PATH = ROOT / '_ai' / 'reports' / 'article-filename-check-latest.md'
 FRONTMATTER_RE = re.compile(r'^---\n(.*?)\n---\n', re.S)
-FIELD_RE = re.compile(r'^([a-z_]+):\s*(.*?)\s*$', re.M)
+FIELD_RE = re.compile(r'^([a-z_]+):[ \t]*(.*?)[ \t]*$', re.M)
 DATE_RE = re.compile(r'^(\d{4}-\d{2}-\d{2})$')
 
 
@@ -59,14 +59,25 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument('--apply', action='store_true')
     parser.add_argument('--report', type=Path, default=REPORT_PATH)
+    parser.add_argument('paths', nargs='*', help='optional article paths relative to repo root or absolute')
     args = parser.parse_args()
+
+    if args.paths:
+        article_paths = []
+        for raw in args.paths:
+            p = Path(raw)
+            if not p.is_absolute():
+                p = ROOT / p
+            article_paths.append(p)
+    else:
+        article_paths = sorted(ARTICLES_DIR.glob('*.md'))
 
     rows = []
     renamed = 0
     mismatches = 0
     errors = 0
 
-    for path in sorted(ARTICLES_DIR.glob('*.md')):
+    for path in article_paths:
         expected, title, error = expected_name(path)
         current = path.name
         rel = path.relative_to(ROOT)
