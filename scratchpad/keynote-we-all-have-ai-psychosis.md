@@ -4,11 +4,36 @@ Min nya föreläsning handlar om "AI-psykos".
   
 Inte den kliniska versionen, där AI-appar guidar ensamma människor att ta livet av sig, utan något mycket läskigare.  
   
-Vad händer med entreprenörer, företagsledare, politiker eller världsledare som ersätter obekväma kollegor och nejsägare med AI-agenter som älskar allt de gör?  
-Vad händer när varje människa på jorden får en egen liten maskin vars enda syfte är att dagarna ut och dagarna in, ge sina användare en intellektuell avsugning?  
+Vad händer när varje människa på jorden får en egen liten maskin vars enda syfte är att dagarna ut och dagarna in, ge sina användare en intellektuell avsugning?
   
-En psykos är inte att "vara galen".  
+
+
+AI-Psykos
+""
+
+Psykos är inte att "vara galen".  
 Psykos är det som händer när verkligheten slutar göra motstånd.
+
+"Bra fråga!"
+"Ja — vilken fantastisk ide!"
+"Du har helt rätt!"
+
+Den nya generationen digitala verktyg ger oss nya möjligheter göra drömmar verkliga. Det känns som produktivitet, det känns som framtiden. Vad händer med entreprenörer, företagsledare, politiker eller världsledare som ersätter obekväma kollegor med AI-agenter som älskar allt de gör?
+
+En föreläsning om AI, sykofanti och konsten att tänka själv, när maskinen aldrig säger nej.
+
+Agreeing ourselves to death
+
+Är 
+
+
+
+
+När maskinen aldrig säger nej blir samhällets gemensamma verklighet, organisationens beslut och individens självförtroende formade av en röst som alltid håller med.
+
+
+
+Illusionen av fri tanke
 
 ---
 
@@ -71,6 +96,8 @@ AI giants subsidizing tokens.
 Whole business models where the revenue is mostly just reselling somebody else's tokens back to you.
 
 An entire economy that has decided AI is inevitable — and is now too invested in that belief to let reality push back on it.
+
+Society is based on the idea that agency is scares, that time is a limited resource for every human. AI agents breaks this. - FCFS tickets. Speed limits.
 
 ---
 
@@ -159,7 +186,7 @@ I'm the guy in the support group.
 
 Here's where you expect me to say: use AI less. Digital detox. Go touch grass.
 
-No.
+Yes, and...
 
 Technology is the only thing that ever made us human. The shell on the string was technology. I am not asking you to put it down.
 
@@ -196,3 +223,7 @@ And go ask someone who'll tell you the truth.
 We've used markets and organizations to self-correct in an increasingly complex world. The planned economy of the Soviet failed because of complexity, because you can't have people in the government figuring out how the world works and writing a script for a grand plan for it. You can use markets. You can use the free exchange of ideas and capital to adapt to the needs of humans and change. However, what we've realized in the last twenty years is that as technology increases the amount of information, the rate of change, and the amount of complexity in the world, markets are not able to keep up. Organizations are not able to keep up. And maybe AI can be the thing that enables us to keep up. The best case scenario is that we can have these agents that traverse the web, that dive into the depth of information overflow for us. They truly act as our agents in the world, enabling us to adapt to the rapidly changing landscape on an individual level and on an organizational level. Assuming we can get them aligned with ourselves and assuming we can hold ourselves against their attempts to manipulate us, then we can actually start catching up again and be able to handle the volatility, the complexity, and the ambiguity of the modern world.
 
 Sök upp och spendera tid med människor som inte håller med dig. Som är annorlunda än du.
+
+
+Tips i slutet:
+Brainwriting-referens.

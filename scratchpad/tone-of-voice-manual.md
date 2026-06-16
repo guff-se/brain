@@ -204,8 +204,6 @@ These are the idiosyncratic patterns a general style description would miss. If 
 
 12. **Knowing when to switch it all OFF.** Under real grief or gravity, every device drops away — short, plain, factual, quiet. The restraint is itself a signature, and it's what makes the loud pieces credible.
 
-13. **Signoffs as voice.** "Med Entreprenöriella Hälsningar / Entrepreneurially Yours", "Puss å kram. Hörs snart ❤️", "burner friends". The closing line carries persona, never a flat "Best regards."
-
 ---
 
 ## 7. Quick-reference checklist for a draft
