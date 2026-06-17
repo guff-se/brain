@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-06-16",
+  "last_ingest": "2026-06-17",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -951,6 +951,26 @@
         "sources/consumed/articles/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos.md"
       ],
       "notes": "Fetched via web and summarized into canonical article note. Linked from the AI psychosis keynote scratchpad as an executive / organizational source."
+    },
+    {
+      "ingest_date": "2026-06-17",
+      "kind": "article",
+      "party": "third",
+      "source": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "produced": [
+        "sources/consumed/articles/2026-06-17-only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society.md"
+      ],
+      "notes": "Saved from link sent in chat. Fetched via web, summarized into canonical article note. TechCrunch on Pew Research finding only 16% of Americans expect AI's societal impact to be positive."
+    },
+    {
+      "ingest_date": "2026-06-17",
+      "kind": "article",
+      "party": "third",
+      "source": "https://wpvip.com/future-of-the-web-2026/",
+      "produced": [
+        "sources/consumed/articles/2026-06-17-future-of-the-web-2026-ai-brand-visibility.md"
+      ],
+      "notes": "Saved from link sent in chat. Fetched via web, summarized into canonical article note. WP VIP 'Future of the Web 2026' Chapter 1 on AI brand visibility and 'bot fatigue'."
     }
   ]
 }

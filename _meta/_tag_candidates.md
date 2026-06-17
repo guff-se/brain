@@ -4,6 +4,9 @@ Tags proposed by classification that need ≥3 uses to graduate to `taxonomy.md`
 
 
 
+<!-- 2026-06-17: link ingest -->
+- `branding` × 1 — used in: `sources/consumed/articles/2026-06-17-future-of-the-web-2026-ai-brand-visibility.md`
+
 <!-- from llm-classification 2026-05-18 -->
 - `assessment` × 2 — used in: `_ai/excluded/uncategorized/Hyper Assessment Notes.md`, `sources/mine/voice/Hyper Assessment oct 2019.md`
 - `kovik` × 2 — used in: `_ai/excluded/uncategorized/Besiktning fartygsvägen.md`, `_ai/excluded/uncategorized/Manual kovik.md`
