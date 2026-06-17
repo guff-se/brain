@@ -14,5 +14,7 @@
 # Smart Connections — local embedding index (rebuilt by plugin)
 .smart-env/
 
+.claude
+
 # Dropbox conflict copies
 * (conflicted copy)*
