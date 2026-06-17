@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-06-09",
+  "last_ingest": "2026-06-16",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -96,6 +96,46 @@
         "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/"
       ],
       "produced_count": 1
+    },
+    {
+      "ingest_date": "2026-06-16",
+      "scope": "guff.se blog import (first-party voice)",
+      "sources": [
+        "https://guff.se/en/blog/ (25 posts crawled)"
+      ],
+      "produced": [
+        "sources/mine/voice/2012-03-16-framtiden-ar-enkel-att-prata-om.md",
+        "sources/mine/voice/2011-10-24-min-uppvaxt-som-sarbegavad.md",
+        "sources/mine/voice/2010-07-11-arbetsgivarna-saknar-kompetens.md",
+        "sources/mine/voice/2010-07-10-arbetsgivarna-ar-for-gamla.md",
+        "sources/mine/voice/2010-07-06-arbetslosa-entreprenorer.md",
+        "sources/mine/voice/2010-07-06-entreprenorspolitik.md",
+        "sources/mine/voice/2010-06-24-emax-denna-oas-av-drivkraft.md",
+        "sources/mine/voice/2010-06-18-sverige-kan-bli-bast-i-varlden-pa-ungt-entreprenorskap.md",
+        "sources/mine/voice/2010-05-19-vad-kul-det-ar-med-ungas-ideer.md",
+        "sources/mine/voice/2010-04-15-30-kanda-profiler-ger-stod-till-entreprenorskapstavling.md",
+        "sources/mine/voice/2010-03-11-folk-maste-fa-gora-fel.md",
+        "sources/mine/voice/2009-12-14-att-jaga-fjarilar.md",
+        "sources/mine/voice/2009-11-23-affarsideer-saknar-varde.md",
+        "sources/mine/voice/2009-11-13-entreprenoriella-sexsymboler.md",
+        "sources/mine/voice/2009-11-04-idepedia-och-varldsrekordforsok.md",
+        "sources/mine/voice/2009-09-30-entreprenoriellt-snobollskrig.md",
+        "sources/mine/voice/2009-04-19-coolt-med-entreprenorskap.md",
+        "sources/mine/voice/2009-01-23-ar-entreprenorskap-ett-mal-i-sig.md",
+        "sources/mine/voice/2009-01-05-entreprenorskapsdamp.md",
+        "sources/mine/voice/2008-12-23-entreprenorskap-handlar-om-manniskor-inte-ideer.md"
+      ],
+      "produced_count": 20,
+      "enriched_existing": [
+        "Today I did this to save the world..md",
+        "Be different.md",
+        "Superzappare och Gigonomics.md",
+        "Socialt Entreprenörskap.md"
+      ],
+      "skipped": [
+        "2020-01-hello-world.md"
+      ],
+      "tool": "_ai/scripts/scrape_blog.py + ingest_blog.py"
     }
   ],
   "entries": [

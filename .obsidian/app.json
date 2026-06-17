@@ -1,4 +1,8 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "scratchpad"
+  "newFileFolderPath": "scratchpad",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "_ai/"
+  ]
 }

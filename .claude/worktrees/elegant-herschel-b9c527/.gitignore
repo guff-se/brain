@@ -1,0 +1,15 @@
+# OS / editor
+.DS_Store
+*.swp
+*~
+
+# Obsidian — machine-local UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Smart Connections — local embedding index (rebuilt by plugin)
+.smart-env/
+
+# Dropbox conflict copies
+* (conflicted copy)*
