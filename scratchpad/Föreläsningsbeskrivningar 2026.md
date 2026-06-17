@@ -20,7 +20,7 @@ Den nya generationen digitala verktyg ger oss nya möjligheter att göra drömma
 
 Denna föreläsning analyserar dagens AI-psykos med en historisk och psykologisk lins. Hur skapar vi "bubblor" för oss själva och hur tar vi oss ur dem? När blir teknik nyttig för affären? För människan? Eller kanske båda på en gång?
 
-Det är en en berättelse om AI, algoritmer och konsten att tänka själv, när maskinen aldrig säger nej. En lektion i att prioritera och skapa riktning i en värld där varje dröm lätt kan uppfattas som verklighet.
+Det är en berättelse om AI, algoritmer och konsten att tänka själv, när maskinen aldrig säger nej. En lektion i att prioritera och skapa riktning i en värld där varje dröm lätt kan uppfattas som verklighet.
 
 
 ## Organisationer som tänker själva
