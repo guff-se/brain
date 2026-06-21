@@ -971,6 +971,16 @@
         "sources/consumed/articles/2026-06-17-future-of-the-web-2026-ai-brand-visibility.md"
       ],
       "notes": "Saved from link sent in chat. Fetched via web, summarized into canonical article note. WP VIP 'Future of the Web 2026' Chapter 1 on AI brand visibility and 'bot fatigue'."
+    },
+    {
+      "ingest_date": "2026-06-21",
+      "kind": "article",
+      "party": "third",
+      "source": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+      "produced": [
+        "sources/consumed/articles/2026-06-08-ai-has-broken-hiring-heres-how-to-fix-it.md"
+      ],
+      "notes": "Saved from link sent in chat. Fetched via web, summarized into canonical article note. HBR (Shraddha Sunil, Mudit Saraf) on how generative AI undermines traditional hiring signals."
     }
   ]
 }
