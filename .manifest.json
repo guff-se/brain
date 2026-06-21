@@ -981,6 +981,16 @@
         "sources/consumed/articles/2026-06-08-ai-has-broken-hiring-heres-how-to-fix-it.md"
       ],
       "notes": "Saved from link sent in chat. Fetched via web, summarized into canonical article note. HBR (Shraddha Sunil, Mudit Saraf) on how generative AI undermines traditional hiring signals."
+    },
+    {
+      "ingest_date": "2026-06-21",
+      "kind": "article",
+      "party": "third",
+      "source": "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org",
+      "produced": [
+        "sources/consumed/articles/2026-05-12-the-anatomy-of-an-ai-native-org.md"
+      ],
+      "notes": "Saved from link sent in chat. Fetched via web, summarized into canonical article note. Ajey Gore argues AI eats the product/coordination 'translation' layer, reshaping the org into thin leadership + expanded decision layer + smaller, more technical engineering."
     }
   ]
 }
