@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-06-17",
+  "last_ingest": "2026-06-21",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -961,6 +961,46 @@
         "sources/consumed/articles/2026-06-16-leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year.md"
       ],
       "notes": "Ars Technica blocked direct fetch; figures cross-verified against Fortune's reporting of the same leak. Added to AI psychosis facts doc as bottom-up confirmation of the capex/return gap."
+    },
+    {
+      "ingest_date": "2026-06-17",
+      "kind": "article",
+      "party": "third",
+      "source": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "produced": [
+        "sources/consumed/articles/2026-06-17-only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society.md"
+      ],
+      "notes": "Saved from link sent in chat. Fetched via web, summarized into canonical article note. TechCrunch on Pew Research finding only 16% of Americans expect AI's societal impact to be positive."
+    },
+    {
+      "ingest_date": "2026-06-17",
+      "kind": "article",
+      "party": "third",
+      "source": "https://wpvip.com/future-of-the-web-2026/",
+      "produced": [
+        "sources/consumed/articles/2026-06-17-future-of-the-web-2026-ai-brand-visibility.md"
+      ],
+      "notes": "Saved from link sent in chat. Fetched via web, summarized into canonical article note. WP VIP 'Future of the Web 2026' Chapter 1 on AI brand visibility and 'bot fatigue'."
+    },
+    {
+      "ingest_date": "2026-06-21",
+      "kind": "article",
+      "party": "third",
+      "source": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+      "produced": [
+        "sources/consumed/articles/2026-06-08-ai-has-broken-hiring-heres-how-to-fix-it.md"
+      ],
+      "notes": "Saved from link sent in chat. Fetched via web, summarized into canonical article note. HBR (Shraddha Sunil, Mudit Saraf) on how generative AI undermines traditional hiring signals."
+    },
+    {
+      "ingest_date": "2026-06-21",
+      "kind": "article",
+      "party": "third",
+      "source": "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org",
+      "produced": [
+        "sources/consumed/articles/2026-05-12-the-anatomy-of-an-ai-native-org.md"
+      ],
+      "notes": "Saved from link sent in chat. Fetched via web, summarized into canonical article note. Ajey Gore argues AI eats the product/coordination 'translation' layer, reshaping the org into thin leadership + expanded decision layer + smaller, more technical engineering."
     }
   ]
 }
