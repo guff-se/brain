@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-06-16",
+  "last_ingest": "2026-06-17",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -951,6 +951,16 @@
         "sources/consumed/articles/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos.md"
       ],
       "notes": "Fetched via web and summarized into canonical article note. Linked from the AI psychosis keynote scratchpad as an executive / organizational source."
+    },
+    {
+      "ingest_date": "2026-06-17",
+      "kind": "article",
+      "party": "third",
+      "source": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "produced": [
+        "sources/consumed/articles/2026-06-16-leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year.md"
+      ],
+      "notes": "Ars Technica blocked direct fetch; figures cross-verified against Fortune's reporting of the same leak. Added to AI psychosis facts doc as bottom-up confirmation of the capex/return gap."
     }
   ]
 }
