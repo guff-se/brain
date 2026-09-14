@@ -109,7 +109,11 @@ Every concept must contain all four of the following, in order:
 - New tag → write into `_meta/_tag_candidates.md` first. Promote to `taxonomy.md` only after ≥3 notes justify it.
 
 ### Wikilinks
-- Use `[[Title]]` for internal links. Always link to the canonical source page, not a wiki concept (concepts link to sources, not vice versa).
+- **Obsidian resolves `[[…]]` against the file's basename (kebab-case), NOT the `title:` frontmatter.** Almost no notes have `aliases:`, so a bare `[[Title]]` link is a DEAD link. This is a recurring bug — never write `[[Some Human Title]]`.
+- **Always link by filename, with a readable display alias: `[[kebab-filename|Readable Title]]`.** Example: `[[ai-is-slowing-down|AI Is Slowing Down]]`, not `[[AI Is Slowing Down]]`.
+- **Verify the target file exists before writing the link** (the basename must match an actual `.md` file). After writing/editing any file with wikilinks, confirm each `[[…]]` target resolves to exactly one file — treat an unresolved link as a defect to fix before finishing.
+- Always link to the canonical source page, not a wiki concept (concepts link to sources, not vice versa).
+- Legacy note: older `wiki/concepts/` files still use bare `[[Title]]` links and have the same dead-link defect — fix them to the piped-filename form when you touch them.
 
 ## 4. What to do each session
 
