@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_ingest": "2026-06-21",
+  "last_ingest": "2026-07-14",
   "ingestions": [
     {
       "ingest_date": "2026-05-13",
@@ -136,9 +136,57 @@
         "2020-01-hello-world.md"
       ],
       "tool": "_ai/scripts/scrape_blog.py + ingest_blog.py"
+    },
+    {
+      "ingest_date": "2026-07-07",
+      "scope": "manual web ingest",
+      "sources": [
+        "https://www.anthropic.com/research/global-workspace"
+      ],
+      "produced_count": 1
+    },
+    {
+      "ingest_date": "2026-07-14",
+      "scope": "manual web ingest",
+      "sources": [
+        "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era"
+      ],
+      "produced_count": 1
+    },
+    {
+      "ingest_date": "2026-07-14",
+      "scope": "manual web ingest",
+      "sources": [
+        "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full"
+      ],
+      "produced_count": 1
     }
   ],
   "entries": [
+    {
+      "ingest_date": "2026-07-14",
+      "kind": "article",
+      "source": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+      "produced": [
+        "sources/consumed/articles/2026-06-18-mommy-do-you-love-your-phone-more-than-me-parental-device-use-and-the-adolescent-caregiver-attachment-bond.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-07-14",
+      "kind": "article",
+      "source": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+      "produced": [
+        "sources/consumed/articles/2026-07-09-the-zero-cost-fallacy-open-source-software-in-the-agentic-era.md"
+      ]
+    },
+    {
+      "ingest_date": "2026-07-07",
+      "kind": "article",
+      "source": "https://www.anthropic.com/research/global-workspace",
+      "produced": [
+        "sources/consumed/articles/2026-07-06-global-workspace.md"
+      ]
+    },
     {
       "ingest_date": "2026-05-19",
       "kind": "keynote",
@@ -1001,6 +1049,16 @@
         "sources/consumed/articles/2026-05-12-the-anatomy-of-an-ai-native-org.md"
       ],
       "notes": "Saved from link sent in chat. Fetched via web, summarized into canonical article note. Ajey Gore argues AI eats the product/coordination 'translation' layer, reshaping the org into thin leadership + expanded decision layer + smaller, more technical engineering."
+    },
+    {
+      "ingest_date": "2026-07-03",
+      "kind": "article",
+      "party": "third",
+      "source": "https://www.nber.org/system/files/working_papers/w35310/w35310.pdf",
+      "produced": [
+        "sources/consumed/articles/2026-06-08-is-the-iphone-birth-control-causal-evidence-from-atts-2007-2011-carrier-monopoly.md"
+      ],
+      "notes": "Saved from link sent in chat. Metadata and abstract were captured from the NBER paper page. The paper argues that the iPhone rollout, identified through AT&T's pre-2011 exclusivity, explains a substantial share of the post-2007 U.S. fertility decline."
     }
   ]
 }
